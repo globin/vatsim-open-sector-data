@@ -19,56 +19,56 @@
 
 ## Motivation
 
-The VATSIM community provides different tools to users of the network that display maps of current air traffic and ATC staffing (VAT-Spy[1], VATprism, SimAware[2], VATSIM Radar, vatglasses[3] and third party tools like Volanta, etc.), aids for controllers to easily and graphically look up transfer agreements (ATCISS by the German VACC[4]), flow management/sector load tools (prototypes in Austrian VACC). These all require data of **Sector**s and **Position**s to compute the information they provide accurately.
+The VATSIM community provides different tools to users of the network that display maps of current air traffic and ATC staffing ([VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project), VATprism, [SimAware](https://github.com/vatsimnetwork/simaware-tracon-project), VATSIM Radar, [vatglasses](https://github.com/lennycolton/vatglasses-data) and third party tools like Volanta, etc.), aids for controllers to easily and graphically look up transfer agreements (i.e. (ATCISS by the German VACC)[https://github.com/vatger/atciss]), flow management/sector load tools (prototypes in Austrian VACC). These all require data of **Sector**s and **Position**s to compute the information they provide accurately.
 
 This document tries to combine the strengths of existing formats while providing a migration path of already collected data. To not increase the burden of teams maintaining the data, tools for (lossy) backward-compatible generation to existing formats shall be provided.
 
-The aim is the data to be collected under an **Open** licence, in a central, public repository.
+The data is being collected under an **open & permissive** licence in a central, public repository.
 
 ### Use Cases
 
-TODO flesh out
+These following are examples of uses of the data provided by this specification. Note that these only use the provided data but some data they might additionally need is not in the scope of this document.
 
 - Map display
   - staffed sectors
   - split visualisation (lateral and vertical)
-  - top-down resposibility
-- Structured definition of Letters of Agreements
+  - top-down responsibility
+- Structured definition of Letters of Agreements (LoA)
 - Flow management/sector occupation tooling
   - needs exact sector dimensions
   - position priorities for sectors
 - Staffing templates/schedules for events/bookings
-  - TODO
+  - discovery of available position
   - "map timeline of bookings"
-- Generation of data used by ATC clients
-- AFV stations definitions
-- check staffing restrictions for Tier 1/2, TVCP airspace groups
+- Generation of sector data used by ATC clients
+- AfV stations definitions
+- Check staffing restrictions for Tier 1/2, TVCP airspace groups
 - NAV/OPS VACC staff tooling (UI to edit this data)
 - "single source of truth" for most of this data
   - enables VACCs to easily update data like CTAF frequency
 
 ### Shortcomings of current data formats
 
-TODO flesh out, wording
+**TODO** flesh out, wording
 
-- no vertical borders, sectors can overlap
+- No vertical borders, sectors can overlap
   - impossible to accurately identify a sector an aircraft is/will be inside
-- missing unique IDs for sectors & elemental volumes
-  - cannot be refered to from other data uniquely
+- Missing unique IDs for sectors & elemental volumes
+  - cannot be referred to from other data uniquely
     (e.g.: agreement ades: EDDF, cop: DEBHI, level: 240, from: **EDMMALB1** to: **EDGGDKB2**)
-- missing FIR/UIR relation
-  - vatglassses for example only divides data into countries, which is enough for mapping purposes, but not further data processing
-- unclear definition of sector being active if multiple runways are necessary to be active (and vs or)
+- Missing FIR/UIR relation
+  - Vatglassses for example only divides data into countries, which is enough for mapping purposes, but not further data processing
+- Unclear definition of sector being active if multiple runways are necessary to be active (and vs or)
   - vatglasses provides this data but does not allow the type of logical combinations of runways (_and_ vs _or_)
-- priority of Positions for Sectors only definable in vatglasses
+- Priority of Positions for Sectors only definable in vatglasses
   - more complex splits cannot be displayed on map
   - determination of responsible controller for load computation or LoA application impossible
-- position matching on callsign instead of the actually unique (callsign prefix + callsign suffix + primary frequency)
+- Position matching on callsign instead of the actually unique (callsign prefix + callsign suffix + primary frequency)
   - shows EDMM_AXB_CTR as whole FIR being staffed in various existing tools, when mentoring EDMM_ALB_CTR or as callsign used when relieving
 
 ## Detailed Design
 
-TODO primary goals
+**TODO** primary goals
 
 - globally contiguous
 - non-ambiguity guarantees
@@ -79,18 +79,16 @@ TODO primary goals
 
 The code and data in the VATSIM open data repositories shall be licenced as:
 
-- Code: MIT, Apache v2 dual licence
-  see [4] for reasoning
-- Data: CC-BY-SA-4.0 license
-  (same as VAT-Spy data)
+- Code: MIT, Apache v2 dual licence ([for reasoning see the Rust discussion](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952))
+- Data: CC-BY-SA-4.0 license (same as VAT-Spy data)
 
 ### File Formats
 
-All source data files shall be either of the formats `.toml`[5] or `.geojson`[6].
+All source data files shall be either of the formats [TOML](https://toml.io/en/v1.0.0) or [GeoJSON](https://datatracker.ietf.org/doc/html/rfc7946).
 
-`.toml` files shall be used for the general definition of data, since in comparison with `.json` it can contain comments and in comparison with `.yaml` it has less ambiguity in data definition. (in YAML for example the "norway problem": `de` vs `"de"` => both strings `de`, `no` vs `"no"` => the former boolean `false`, the latter the string `"no"`). [7]
+TOML files shall be used for the general definition of data, since in comparison with JSON it can contain comments and in comparison with YAML it has less ambiguity in data definition. YAML for example the "norway problem": `de` vs `"de"` => both strings `de`, `no` vs `"no"` => the former boolean `false`, the latter the string `"no"`, [see this post](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell).
 
-For solely geographic data `.geojson` may be used, to facilitate modifying the data with external tools. For each item of geographic data two fields shall be provided, one specifying the data inline, the other referencing a `.geojson` file. These are mutually exclusive options.
+For solely geographic data GeoJSON may be used, to facilitate modifying the data with external tools. For each item of geographic data two fields shall be provided, one specifying the data inline, the other referencing a `.geojson` file. These are mutually exclusive options.
 
 The files shall be encoded as `UTF-8` and use Unix line endings `\n`.
 
@@ -147,11 +145,12 @@ Shall contain geographic data for Airports as a GeoJSON _FeatureCollection_. Eac
 
 Tuple of WGS84 decimal coordinates ordered longitude (E positive, W negative), latitude (N positive, S negative), following the GeoJSON standard of defining *Position*s.
 _Note: this is the reversed order of most data currently used in VATSIM contexts._
-Example: location near Munich, Germany: `[11.5, 48.5]`, in ICAO waypoint format this would be `N4830E01130`!
+
+Example: location near Munich, Germany: `[11.5, 48.5]`, in ICAO waypoint format this would be `N4830E01130`.
 
 #### Elemental Volume
 
-**Constraints**
+##### Constraints
 
 ```
 lower_level < upper_level
@@ -163,140 +162,141 @@ The lateral border shall be defined by either `lateral_border` or `lateral_borde
 
 ##### `key`
 
-identifier unique (within FIR)
-unit _string_
-example: identifier from AIP `"EDMMNDG1"`
+- unique identifier within FIR
+- type: _string_
+- example: identifier from AIP `"EDMMNDG1"`
 
 ##### `lower_level`
 
-describing the flight level of the lower vertical border (inclusive)
-unit _int_
-example: `195`
+- the flight level of the lower vertical border (inclusive)
+- type: _int_
+- example: `195`
 
 ##### `upper_level`
 
-describing the flight level of the upper vertical border (exclusive)
-unit _int_
-example: `315`
+- the flight level of the upper vertical border (exclusive)
+- type: _int_
+- example: `315`
 
 #### Sector
 
-**Constraints**
+##### Constraints
+
 Sectors "existing" at the same point in time shall be contiguous and not overlap. This means that with the current filtering possibilities in place, only *runway_filter*ed sectors may overlap and these only if they are mutually exclusive.
 
 ##### `key`
 
-identifier, unique (within FIR)
-unit _string_
-example: `"EDMMNDG"`
+- identifier, unique (within FIR)
+- type: _string_
+- example: `"EDMMNDG"`
 
 ##### `description`
 
-human readable name
-unit _string_
-example: `"Nördlingen"`
+- human readable name
+- type: _string_
+- example: `"Nördlingen"`
 
 ##### `volumes`
 
-**Sector** consists of these **Elemental Volumes**
-unit _list of elemental_volume.id_
-example: `"EDMMNDG1", "EDMMNDG2"`
+- **Sector** consists of these **Elemental Volumes**
+- type: _list of elemental_volume.id_
+- example: `"EDMMNDG1", "EDMMNDG2"`
 
 ##### `position_priority`
 
-List of positions specifying the descending priority for sector staffing.
-In case the Position belongs to another FIR, it shall be specfied, otherwise it may be omitted.
-unit _list of strings of Position identifiers or `"${FIR}/${position_id}"`_
-example: `["DON", "EDMM/ALB"]`
+- List of positions specifying the descending priority for sector staffing.
+- In case the Position belongs to another FIR, it shall be specfied, otherwise it may be omitted.
+- unit _list of strings of Position identifiers or `"${FIR}/${position_id}"`_
+- example: `["DON", "EDMM/ALB"]`
 
 ##### `runway_filter`
 
-Optional filter to only activate sector on specific runway configurations
-unit _null or list of list of runway_ where _runway_: _`"${ICAO}/${rwy_designator}"`_. The inner list is a logical **and** aggregation, the outer logical **or**.
-Example: `[["ZZZZ/24L", "ZZZZ/24R"], ["ZZZZ/21"]]`
-=> Will be active if either (24L and 24R) or 21 of airport `ZZZZ` are active
+- Optional filter to only activate sector on specific runway configurations
+- type: _null or list of list of runway_ where _runway_: _`"${ICAO}/${rwy_designator}"`_. The inner list is a logical **and** aggregation, the outer logical **or**.
+- Example: `[["ZZZZ/24L", "ZZZZ/24R"], ["ZZZZ/21"]]` will be active if either (24L and 24R) or 21 of airport `ZZZZ` are active
 
 #### Position
 
 ##### `key`
 
-example: "RDG"
-identifier, unique (within FIR)
-unit: _string_
+- identifier, unique (within FIR)
+- type: _string_
+- example: "RDG"
 
 ##### `frequency`
 
-TODO: logic for non-available frequency
-unit: _null or string_
-example: `"132.555"`
+- **TODO**: logic for non-available frequency
+- type: _null or string_
+- example: `"132.555"`
 
 ##### `prefix`
 
-Prefix
-unit: _string_
-example: `"EDMM"`
+- Prefix
+- type: _string_
+- example: `"EDMM"`
 
 ##### `station_type`
 
-Facility of the position, the suffix in the VATSIM controller callsign.
-unit: _one of "FSS", "CTR", "APP", "DEP", "TWR"_
-example: `"CTR"` for EDMM_RDG_CTR
+- Facility of the position, the suffix in the VATSIM controller callsign.
+- type: _one of "FSS", "CTR", "APP", "DEP", "TWR"_
+- example: `"CTR"` for EDMM_RDG_CTR
 
 ##### `radio_callsign`
 
-Radio callsign of position
-unit: _string_
-example: `"München Radar"`
+- Radio callsign of position
+- type: _string_
+- example: `"München Radar"`
 
 ##### `gcap_tier`
 
-TODO tier 1/2 (TODO specify tier 2 further?)
-unit: _null or 1 or 2_
+- **TODO** tier 1/2 (specify tier 2 further?)
+- unit: _null or 1 or 2_
 
 ##### `cpdlc_logon`
 
-Logon code used for CPDLC, globally unique
-unit: _null or string_
+- Logon code used for CPDLC, globally unique
+- type: _null or string_
+- example: `"EDMZ"`
 
 ##### `airspace_group`
 
-Airspace groups according to TVCP section 7.1(c) the position is part of
-unit: _null or list of string_
+- Airspace groups according to TVCP section 7.1(c) the position is part of
+- type: _null or list of string_
 
 #### Airport
 
 ##### `key`
 
-ICAO code
-unit: _string_
-example: `"LIPB"`
+- ICAO code
+- type: _string_
+- example: `"LIPB"`
 
 ##### `name`
 
-Name of airport
-unit: _string_
+- Name of airport
+- type: _string_
 
 ##### `callsign`
 
-Radio Callsign of airport, if different from `name`
-unit: _null string_
+- Radio Callsign of airport, if different from `name`
+- unit: _null string_
 
 ##### `fallback_prefixes`
 
-Other prefixes used for matching staffing of TWR or below, should generally not be necessary. They shall be globally unique.
-unit: _null or list of string_
-example: `["TOR", "YYZ"]`
+- Other prefixes used for matching staffing of TWR or below, should generally not be necessary. They shall be globally unique.
+- type: _null or list of string_
+- example: `["TOR", "YYZ"]`
 
 ##### `topdown_priority`
 
-TODO only necessary for topdown coverage computation
-unit: _list of strings of format `position.id` or `"${FIR}/${position.id}"`_
-example: `["LSAS/ARFA", "FUE"]`
+- **TODO** only necessary for topdown coverage computation
+- type: _list of strings of format `position.id` or `"${FIR}/${position.id}"`_
+- example: `["LSAS/ARFA", "FUE"]`
 
 ##### `runway_configuration`
 
-Possible runway configurations. This data shall be provided if a Sector has a `runway_filter` depending on this airport, it may be still provided otherwise.
-unit: _null or list of list of runways_
+- Possible runway configurations. This data shall be provided if a Sector has a `runway_filter` depending on this airport, it may be still provided otherwise.
+- type: _null or list of list of runways_
 
 ### Generation of derived data
 
@@ -304,11 +304,7 @@ unit: _null or list of list of runways_
 
 #### simaware
 
-!!LICENCE!! not compatible with CC share-alike
-
 #### vatglasses
-
-!!LICENCE!! not compatible with CC share-alike
 
 #### FIR boundaries
 
@@ -320,7 +316,7 @@ leave out for now?
 
 #### JSON data
 
-TODO
+**TODO**
 global
 per fir
 
@@ -337,11 +333,11 @@ Due to licensing automatic migration of data from `vatspy-data-project` is possi
   - a CTR **Position** with frequency `null` and prefix `CALLSIGN PREFIX` is created for each entry
   - **Sector**s are created from the relevant combinations of **Element Volume**s and `position_priority` generated (smaller original polygon -> higher priority)
 
-TODO: better wording of the above, check for edge cases
+**TODO**: better wording of the above, check for edge cases
 
 #### simaware-tracon-project
 
-No licence exists so all data is copyrighted by the respective author, approval to relicense is requred!
+No licence exists so all data is copyrighted by the respective author, approval to relicense is required!
 
 Essentially the same process as vatspy-data-project
 
@@ -349,18 +345,17 @@ Essentially the same process as vatspy-data-project
 - create APP **Position**s without frequency and airport prefix
 - create **Sector**s with the new "tracon" elemental volumes and priority with the new **Position** and the priority of the outerlying sector
 
-TODO: better wording of the above, check for edge cases
+**TODO**: better wording of the above, check for edge cases
 
 #### vatglasses-data
 
-!!LICENCE!! (ask lenny colton for relicensing into this project?)
+Licence incompatible. Ask lenny colton for relicensing into this project.
 
-TODO: mainly "valid" subset of this data definition, so easier to migrate
+**TODO**: mainly "valid" subset of this data definition, so easier to migrate
 
 #### AIXM data
 
-TODO
-Some open data available, maybe provide tooling to convert functional volume and sector data conversions?
+**TODO** Some open data available, maybe provide tooling to convert functional volume and sector data conversions?
 
 ### Tooling
 
@@ -386,11 +381,11 @@ adherence to the specification. This may be achieved by running tools in a GitHu
   - Position `frequency` shall be a string consisting of 3 digits, a decimal point, 3 digits. The valid range is 118.000 to 137.000 exclusive
   - Airport `fallback_prefixes` shall be globally unique
 
-TODO: most probably incomplete
+**TODO** most probably incomplete
 
 ### Reference implementations
 
-TODO planning on implementing "blessed" reference libraries with the following technologies (TODO only initial idea)
+**TODO** planning on implementing "blessed" reference libraries with the following technologies
 
 #### Python + pydantic
 
@@ -400,73 +395,42 @@ TODO planning on implementing "blessed" reference libraries with the following t
 
 ## Open Questions
 
-TODO mainly braindump right now, of things still to check:
+**TODO** mainly braindump right now, of things still to check:
 
-airport.coordinate: Should be ARP?
-
-replace elemental_volume.toml by just elemental_volumes.geojson?
-
-allow inline coordinate/polygon definitions?
-
-combine geojsons into one file per fir?
-
-elemental_volume.lateral_border, DME arc support or quantised to polygon? the former would require geojson extension (topojson?). check support in gis tooling
-
-FIS definition/display (this obviously overlaps but is only relevant to VFR in controlled airspace)
-
-Same issue with executive vs planner positions (not possible yet on VATSIM but plans exist and should be future-proof) covering the same airspace. (Also keep multi-sector planners in mind - 1 planner for multiple executive controllers)
-
-shared airspace ownership (in EDDM Approach up to 6 executive controllers technically own the same airspace, aircraft profile dictates the controller sequence)
-
-CTAF frequency added to airport (initially optional, US only, if rolled out generally, mandatory)
-
-FIR vs UIR
-
-allow *null*able keys to be omitted?
-
-allow other keys?
-
-allow polygon holes?
-
-positions only >=TWR?
-
-globally unique `fallback_prefixes` vs TWR/GND/DEL as **Position**s
-
-runway_filter to airports in other filter?
-
-Position prefix in vatglasses is list of string, is that useful?
+- airport.coordinate: Should be ARP?
+- replace elemental_volume.toml by just elemental_volumes.geojson?
+- allow inline coordinate/polygon definitions?
+- combine geojsons into one file per fir?
+- elemental_volume.lateral_border, DME arc support or quantised to polygon? the former would require geojson extension (topojson?). check support in gis tooling
+- FIS definition/display (this obviously overlaps but is only relevant to VFR in controlled airspace)
+- Same issue with executive vs planner positions (not possible yet on VATSIM but plans exist and should be future-proof) covering the same airspace. (Also keep multi-sector planners in mind - 1 planner for multiple executive controllers)
+- shared airspace ownership (in EDDM Approach up to 6 executive controllers technically own the same airspace, aircraft profile dictates the controller sequence)
+- CTAF frequency added to airport (initially optional, US only, if rolled out generally, mandatory)
+- FIR vs UIR
+- allow *null*able keys to be omitted?
+- allow other keys?
+- allow polygon holes?
+- positions only >=TWR?
+- globally unique `fallback_prefixes` vs TWR/GND/DEL as **Position**s
+- runway_filter to airports in other filter?
+- Position prefix in vatglasses is list of string, is that useful?
 
 ## Drawbacks
 
 - Computing sector staffing from a priority as a list of **Position**s on a **Sector** is not able to reflect procedures in the real world, where **Sector**s can be assigned to **Position**s dynamically. For VATSIM this would require a dynamic service aggregating information provided by radar clients and is therefore out of scope of this document defining a static definition format. This can still be added at a later date, with e.g. consumers of this data prefering the dynamic data and falling back to this in case it is not available.
 
-TODO
+**TODO**
 
 ## Alternatives
 
-TODO
+**TODO**
 
 ## Future Work
 
-TODO flesh out/clean up
+**TODO** flesh out/clean up
 
 LoA
 flow management/sector load
 airspace volumes (CTRs/airspace A/B/C/D/E/F/G)
 navaids/fixes/airways
 event schedules/"wanted" positions?
-
-## Changelog
-
-intentionally left blank
-
-## References
-
-[1] [https://github.com/vatsimnetwork/vatspy-data-project]
-[2] [https://github.com/vatsimnetwork/simaware-tracon-project]
-[3] [https://github.com/lennycolton/vatglasses-data]
-[4] [https://github.com/vatger/atciss]
-[5] [https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952]
-[6] [https://toml.io/en/v1.0.0]
-[7] [https://datatracker.ietf.org/doc/html/rfc7946]
-[8] [https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell]
