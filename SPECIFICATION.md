@@ -19,7 +19,7 @@
 
 ## Motivation
 
-The VATSIM community provides different tools to users of the network that display maps of current air traffic and ATC staffing ([VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project), VATprism, [SimAware](https://github.com/vatsimnetwork/simaware-tracon-project), VATSIM Radar, [vatglasses](https://github.com/lennycolton/vatglasses-data) and third party tools like Volanta, etc.), aids for controllers to easily and graphically look up transfer agreements (i.e. (ATCISS by the German VACC)[https://github.com/vatger/atciss]), flow management/sector load tools (prototypes in Austrian VACC). These all require data of **Sector**s and **Position**s to compute the information they provide accurately.
+The VATSIM community provides different tools to users of the network that display maps of current air traffic and ATC staffing ([VAT-Spy](https://github.com/vatsimnetwork/vatspy-data-project), VATprism, [SimAware](https://github.com/vatsimnetwork/simaware-tracon-project), VATSIM Radar, [vatglasses](https://github.com/lennycolton/vatglasses-data) and third party tools like Volanta, etc.), aids for controllers to easily and graphically look up transfer agreements (i.e. [ATCISS by the German VACC](https://github.com/vatger/atciss)), flow management/sector load tools (prototypes in Austrian VACC). These all require data of **Sector**s and **Position**s to compute the information they provide accurately.
 
 This document tries to combine the strengths of existing formats while providing a migration path of already collected data. To not increase the burden of teams maintaining the data, tools for (lossy) backward-compatible generation to existing formats shall be provided.
 
