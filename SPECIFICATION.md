@@ -84,9 +84,9 @@ The code and data in the VATSIM open data repositories shall be licenced as:
 
 ### File Formats
 
-All source data files shall be either of the formats [TOML](https://toml.io/en/v1.0.0) or [GeoJSON](https://datatracker.ietf.org/doc/html/rfc7946).
+All source data files shall be either of the formats [JSON5](https://spec.json5.org/) or [GeoJSON](https://datatracker.ietf.org/doc/html/rfc7946).
 
-TOML files shall be used for the general definition of data, since in comparison with JSON it can contain comments and in comparison with YAML it has less ambiguity in data definition. YAML for example the "norway problem": `de` vs `"de"` => both strings `de`, `no` vs `"no"` => the former boolean `false`, the latter the string `"no"`, [see this post](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell).
+JSON5 files shall be used for the general definition of data, since in comparison with JSON it can contain comments and in comparison with YAML it has less ambiguity in data definition. YAML for example the "norway problem": `de` vs `"de"` => both strings `de`, `no` vs `"no"` => the former boolean `false`, the latter the string `"no"`, [see this post](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell).
 
 For solely geographic data GeoJSON may be used, to facilitate modifying the data with external tools. For each item of geographic data two fields shall be provided, one specifying the data inline, the other referencing a `.geojson` file. These are mutually exclusive options.
 
@@ -99,45 +99,47 @@ Generated files (pipeline artifacts) may use other file formats.
 ```
 ├──data/
 │  ├──EDMM
-│  │  ├── elemental_volumes.toml
-│  │  ├── sectors.toml
-│  │  ├── positions.toml
-│  │  └── airports.toml
-│  ├──LOVV
-│  │  ├── elemental_volumes.toml
+│  │  ├── elemental_volumes.json5
 │  │  ├── elemental_volumes.geojson
-│  │  ├── sectors.toml
-│  │  ├── positions.toml
-│  │  ├── airports.toml
+│  │  ├── sectors.json5
+│  │  ├── positions.json5
+│  │  └── airports.json5
+│  │  └── airports.geojson
+│  ├──LOVV
+│  │  ├── elemental_volumes.json5
+│  │  ├── elemental_volumes.geojson
+│  │  ├── sectors.json5
+│  │  ├── positions.json5
+│  │  ├── airports.json5
 │  │  └── airports.geojson
 │  └──...*all FIRs*
 ├──README.md
 └──SPECIFICATION.md (this document)
 ```
 
-#### `elemental_volumes.toml`
+#### `elemental_volumes.json5`
 
-Shall contain all Elemental Volumes in the format defined below as a TOML object defined by `key` as key and the other attributes as value.
+Shall contain all Elemental Volumes in the format defined below as a JSON5 object defined by `key` as key and the other attributes as value.
 
 #### `elemental_volumes.geojson`
 
-Shall contain geographic data for Elemental Volumes as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Polygon_ geometry and contain at least a property `id` that allows mapping to the `key` in `elemental_volumes.toml`.
+Shall contain geographic data for Elemental Volumes as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Polygon_ geometry and contain at least a property `id` that allows mapping to the `key` in `elemental_volumes.json5`.
 
-#### `sectors.toml`
+#### `sectors.json5`
 
-Shall contain all Sectors in the format defined below as a TOML object defined by `key` as key and the other attributes as value.
+Shall contain all Sectors in the format defined below as a JSON5 object defined by `key` as key and the other attributes as value.
 
-#### `positions.toml`
+#### `positions.json5`
 
-Shall contain all Positions in the format defined below as a TOML object defined by `key` as key and the other attributes as value.
+Shall contain all Positions in the format defined below as a JSON5 object defined by `key` as key and the other attributes as value.
 
-#### `airports.toml`
+#### `airports.json5`
 
-Shall contain all Airports in the format defined below as a TOML object defined by `key` as key and the other attributes as value.
+Shall contain all Airports in the format defined below as a JSON5 object defined by `key` as key and the other attributes as value.
 
 #### `airports.geojson`
 
-Shall contain geographic data for Airports as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Point_ geometry and contain at least a property `id` that allows mapping to the `key` in `airports.toml`.
+Shall contain geographic data for Airports as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Point_ geometry and contain at least a property `id` that allows mapping to the `key` in `airports.json5`.
 
 ### Data Types
 
@@ -398,7 +400,7 @@ adherence to the specification. This may be achieved by running tools in a GitHu
 **TODO** mainly braindump right now, of things still to check:
 
 - airport.coordinate: Should be ARP?
-- replace elemental_volume.toml by just elemental_volumes.geojson?
+- replace elemental_volume.json5 by just elemental_volumes.geojson?
 - allow inline coordinate/polygon definitions?
 - combine geojsons into one file per fir?
 - elemental_volume.lateral_border, DME arc support or quantised to polygon? the former would require geojson extension (topojson?). check support in gis tooling
@@ -422,6 +424,12 @@ adherence to the specification. This may be achieved by running tools in a GitHu
 **TODO**
 
 ## Alternatives
+
+### TOML instead of JSON5
+
+TOML and JSON5 are very similar regarding their features, where TOML being more verbose defining deeply nested data.
+
+Tooling for TOML seems to be a bit more mature, in case issues arise, the data that can be defined in both formats is equivalent and can easily be moved to TOML
 
 **TODO**
 
