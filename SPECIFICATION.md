@@ -160,8 +160,6 @@ lower_level >= 0
 upper_level <= 999
 ```
 
-The lateral border shall be defined by either `lateral_border` or `lateral_border_geojson`.
-
 ##### `key`
 
 - unique identifier within FIR
@@ -208,14 +206,14 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 
 - List of positions specifying the descending priority for sector staffing.
 - In case the Position belongs to another FIR, it shall be specfied, otherwise it may be omitted.
-- unit _list of strings of Position identifiers or `"${FIR}/${position_id}"`_
-- example: `["DON", "EDMM/ALB"]`
+- unit _list of references to Positions of the form `{ fir: null or fir_id, id: position_id }`_
+- example: `[{ fir: null, id: "DON" }, { fir: "EDMM", id: "ALB" }]`
 
 ##### `runway_filter`
 
 - Optional filter to only activate sector on specific runway configurations
-- type: _null or list of list of runway_ where _runway_: _`"${ICAO}/${rwy_designator}"`_. The inner list is a logical **and** aggregation, the outer logical **or**.
-- Example: `[["ZZZZ/24L", "ZZZZ/24R"], ["ZZZZ/21"]]` will be active if either (24L and 24R) or 21 of airport `ZZZZ` are active
+- type: _null or list of list of runway_ where _runway_: _`{ airport: ICAO, runway: rwy_designator }`_. The inner list is a logical **and** aggregation, the outer logical **or**.
+- Example: `[[{ airport: "ZZZZ", runway: "24L" }, { airport: "ZZZZ", runway: "24R" }], [{ airport: "ZZZZ", runway: "21" }]]` will be active if either (24L and 24R) or 21 of airport `ZZZZ` are active
 
 #### Position
 
@@ -228,8 +226,8 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 ##### `frequency`
 
 - **TODO**: logic for non-available frequency
-- type: _null or string_
-- example: `"132.555"`
+- type: _null or integer in Hz_
+- example: `132555000` for 132.555 MHz
 
 ##### `prefix`
 
@@ -240,8 +238,14 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 ##### `station_type`
 
 - Facility of the position, the suffix in the VATSIM controller callsign.
-- type: _one of "FSS", "CTR", "APP", "DEP", "TWR"_
+- type: _one of "FSS", "CTR", "APP", "DEP", "TWR", "RMP", "GND", "DEL", "RDO", "FIS", "TMU"_
 - example: `"CTR"` for EDMM_RDG_CTR
+
+##### `name`
+
+- Name of position
+- type: _string_
+- example: `"Roding"`
 
 ##### `radio_callsign`
 
@@ -380,8 +384,8 @@ adherence to the specification. This may be achieved by running tools in a GitHu
   - Sector `runway_filter` runway combinations shall only consist of valid `runway_configuration`s for each Airport
   - The combination of Position `frequency`, `prefix`, `station_type` shall be unique (TODO: how to handle no-frequency case)
   - Position `station_type` shall be checked
-  - Position `frequency` shall be a string consisting of 3 digits, a decimal point, 3 digits. The valid range is 118.000 to 137.000 exclusive
-  - Airport `fallback_prefixes` shall be globally unique
+  - Position `frequency` shall be an integer in Hz in the HF, VHF or UHF aviation radio communication ranges.
+  - Airport `fallback_prefixes` shall be globally unique.
 
 **TODO** most probably incomplete
 
@@ -405,14 +409,12 @@ adherence to the specification. This may be achieved by running tools in a GitHu
 - combine geojsons into one file per fir?
 - elemental_volume.lateral_border, DME arc support or quantised to polygon? the former would require geojson extension (topojson?). check support in gis tooling
 - FIS definition/display (this obviously overlaps but is only relevant to VFR in controlled airspace)
-- Same issue with executive vs planner positions (not possible yet on VATSIM but plans exist and should be future-proof) covering the same airspace. (Also keep multi-sector planners in mind - 1 planner for multiple executive controllers)
-- shared airspace ownership (in EDDM Approach up to 6 executive controllers technically own the same airspace, aircraft profile dictates the controller sequence)
+  probably extra files, since the sectors are not necessarily the same geographically (at least not the case in germany), and positions serve other purposes than ATCOs
 - CTAF frequency added to airport (initially optional, US only, if rolled out generally, mandatory)
 - FIR vs UIR
 - allow *null*able keys to be omitted?
 - allow other keys?
 - allow polygon holes?
-- positions only >=TWR?
 - globally unique `fallback_prefixes` vs TWR/GND/DEL as **Position**s
 - runway_filter to airports in other filter?
 - Position prefix in vatglasses is list of string, is that useful?
