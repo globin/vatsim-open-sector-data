@@ -1,0 +1,193 @@
+["EDYYJL"]
+description = ""
+volumes = ["EDYYJL_245_355"]
+position_priority = [
+  [
+    { id = "JEV" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDE" },
+  ],
+  [
+    { fir = "EDWW", id = "ALR" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYSO"]
+description = ""
+volumes = ["EDYYSO_245_355", "EDYYSO1_255_355"]
+position_priority = [
+  [
+    { id = "SOL" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { fir = "EDWW", id = "DST" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYCH"]
+description = ""
+volumes = ["EDYYCH_355_660"]
+position_priority = [
+  [
+    { id = "CELH" },
+  ],
+  [
+    { id = "SOLH" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { id = "SOL" },
+  ],
+  [
+    { fir = "EDWW", id = "DST" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYSOH"]
+description = ""
+volumes = ["EDYYSOH1_355_660", "EDYYSOH_355_660"]
+position_priority = [
+  [
+    { id = "SOLH" },
+  ],
+  [
+    { id = "CELH" },
+  ],
+  [
+    { id = "SOL" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { fir = "EDWW", id = "DST" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYJH"]
+description = ""
+volumes = ["EDYYJH_355_660"]
+position_priority = [
+  [
+    { id = "JEVH" },
+  ],
+  [
+    { id = "CELH" },
+  ],
+  [
+    { id = "JEV" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDE" },
+  ],
+  [
+    { fir = "EDWW", id = "ALR" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYHH"]
+description = ""
+volumes = ["EDYYHH_355_660"]
+position_priority = [
+  [
+    { id = "JEVH" },
+  ],
+  [
+    { id = "HOL" },
+  ],
+  [
+    { id = "JEV" },
+  ],
+  [
+    { id = "CELH" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDE" },
+  ],
+  [
+    { fir = "EDWW", id = "ALR" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYHL"]
+description = ""
+volumes = ["EDYYHL1_245_355", "EDYYHL3_315_355", "EDYYHL2_315_355"]
+position_priority = [
+  [
+    { id = "HOL" },
+  ],
+  [
+    { id = "JEV" },
+  ],
+  [
+    { id = "CEL" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDE" },
+  ],
+  [
+    { fir = "EDWW", id = "ALR" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]
+
+["EDYYCL"]
+description = ""
+volumes = ["EDYYCL2_245_315", "EDYYCL1_245_355"]
+position_priority = [
+  [
+    { id = "CEL" },
+  ],
+  [
+    { id = "SOL" },
+  ],
+  [
+    { fir = "EDWW", id = "DST" },
+  ],
+  [
+    { fir = "EDWW", id = "EIDW" },
+  ],
+]
+runway_filter = [[]]

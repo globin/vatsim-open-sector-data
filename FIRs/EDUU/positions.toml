@@ -45,6 +45,32 @@ radio_callsign = "Rhein Radar"
 cpdlc_logon = "EDUR"
 airspace_groups = ["ALB", "HOF", "TRU"]
 
+[HVL]
+frequency = 128235000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Havel"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUH"
+airspace_groups = ["HOF"]
+
+[OSE]
+frequency = 133035000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Ostsee"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUO"
+airspace_groups = []
+
+[OH2]
+frequency = 126785000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Ostsee High"
+radio_callsign = "Rhein Radar"
+airspace_groups = []
+
 [SAL]
 frequency = 133285000
 prefix = "EDDP"

@@ -1,0 +1,509 @@
+[EDWWDBAN]
+description = ""
+volumes = ["EDWWDBAN1_000_105", "EDWWDBAN1_105_135"]
+position_priority = [
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[]]
+
+[EDWWDBAN25]
+description = ""
+volumes = ["EDWWDBAN2_055_105"]
+position_priority = [
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "25R" }, { icao = "EDDB", designator = "25L" }]]
+
+[EDWWDBAN07]
+description = ""
+volumes = ["EDWWDBAN3_055_105"]
+position_priority = [
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "07L" }, { icao = "EDDB", designator = "07R" }]]
+
+[EDWWDBAS]
+description = ""
+volumes = ["EDWWDBAS1_000_105", "EDWWDBAS1_105_135"]
+position_priority = [
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[]]
+
+[EDWWDBAS25]
+description = ""
+volumes = ["EDWWDBAS2_055_105"]
+position_priority = [
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "25R" }, { icao = "EDDB", designator = "25L" }]]
+
+[EDWWDBAS07]
+description = ""
+volumes = ["EDWWDBAS3_055_105", "EDWWDBAS4_000_055", "EDWWDBAS3_000_055"]
+position_priority = [
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "07L" }, { icao = "EDDB", designator = "07R" }]]
+
+[EDWWDBDN]
+description = ""
+volumes = ["EDWWDBDN_105_165"]
+position_priority = [
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[]]
+
+[EDWWDBDN07]
+description = ""
+volumes = ["EDWWDBDNE_000_105"]
+position_priority = [
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "07L" }]]
+
+[EDWWDBDN25]
+description = ""
+volumes = ["EDWWDBDNW_000_105"]
+position_priority = [
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "25R" }]]
+
+[EDWWDBDNA]
+description = ""
+volumes = ["EDWWDBDNA_165_235"]
+position_priority = [
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDAE", designator = "11" }], [{ icao = "EDAE", designator = "29" }]]
+
+[EDWWDBDS]
+description = ""
+volumes = ["EDWWDBDS_105_165"]
+position_priority = [
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[]]
+
+[EDWWDBDS25]
+description = ""
+volumes = ["EDWWDBDSW_000_105"]
+position_priority = [
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "25R" }]]
+
+[EDWWDBDS07]
+description = ""
+volumes = ["EDWWDBDS4_055_105"]
+position_priority = [
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "07L" }, { icao = "EDDB", designator = "07R" }]]
+
+[EDWWDBDS07L]
+description = ""
+volumes = ["EDWWDBDSE_000_105"]
+position_priority = [
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MAR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDDB", designator = "07L" }]]
+
+[EDWWDBDSA]
+description = ""
+volumes = ["EDWWDBDSA_165_235"]
+position_priority = [
+  [
+    { id = "DBDS" },
+  ],
+  [
+    { id = "DBDN" },
+  ],
+  [
+    { id = "DBAS" },
+  ],
+  [
+    { id = "DBAN" },
+  ],
+  [
+    { id = "FLG" },
+  ],
+  [
+    { id = "BOR" },
+  ],
+  [
+    { id = "MRZ" },
+  ],
+]
+runway_filter = [[{ icao = "EDAE", designator = "11" }], [{ icao = "EDAE", designator = "29" }]]
+
+[EDWWBOR]
+description = ""
+volumes = ["EDWWBOR2_000_055", "EDWWBOR3_165_285", "EDWWBOR1_000_285"]
+position_priority = [[{ id = "BOR" }], [{ id = "MAR" }], [{ id = "FLG" }], [{ id = "MRZ" }]]
+runway_filter = [[]]
+
+[EDWWHAN]
+description = ""
+volumes = ["EDWWHAN_000_105"]
+position_priority = [[{ id = "HAN" }], [{ id = "HRZ" }], [{ id = "DST" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWFLG]
+description = ""
+volumes = ["EDWWFLG3_165_285", "EDWWFLG1_165_285", "EDWWFLG2_135_285"]
+position_priority = [[{ id = "FLG" }], [{ id = "BOR" }], [{ id = "MAR" }], [{ id = "MRZ" }]]
+runway_filter = [[]]
+
+[EDWWDST]
+description = ""
+volumes = ["EDWWDST2_105_245", "EDWWDST1_105_155", "EDWWDST3_155_245", "EDWWDST4_205_245"]
+position_priority = [[{ id = "DST" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWHAME]
+description = ""
+volumes = ["EDWWHAME_000_105"]
+position_priority = [[{ id = "HAME" }], [{ id = "HAMW" }], [{ id = "HEI" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWHRZ]
+description = ""
+volumes = [
+  "EDWWHRZ9_000_105",
+  "EDWWHRZ4_000_245",
+  "EDWWHRZ1_105_245",
+  "EDWWHRZ2_105_195",
+  "EDWWHRZ10_000_235",
+  "EDWWHRZ7_075_105",
+  "EDWWHRZ8_075_155",
+  "EDWWHRZ3_055_245",
+  "EDWWHRZ11_065_105",
+  "EDWWHRZ5_000_105",
+  "EDWWHRZ6_000_155",
+]
+position_priority = [[{ id = "HRZ" }], [{ id = "DST" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWEIDW]
+description = ""
+volumes = ["EDWWEIDW_000_245", "EDWWEIDE_000_245"]
+position_priority = [[{ id = "EIDE" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWALR]
+description = ""
+volumes = ["EDWWALR2_195_245", "EDWWALR1_105_245"]
+position_priority = [[{ id = "ALR" }], [{ id = "HEI" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWFRI]
+description = ""
+volumes = ["EDWWFRI2_000_105", "EDWWFRI3_000_065", "EDWWFRI1_000_245"]
+position_priority = [[{ id = "FRI" }], [{ id = "EIDE" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWMAR]
+description = ""
+volumes = ["EDWWMAR4_105_245", "EDWWMAR3_000_245", "EDWWMAR2_135_285", "EDWWMAR5_105_285", "EDWWMAR1_000_285"]
+position_priority = [[{ id = "MAR" }], [{ id = "MRZ" }], [{ id = "BOR" }]]
+runway_filter = [[]]
+
+[EDWWHEI]
+description = ""
+volumes = ["EDWWHEI1_105_245", "EDWWHEI2_195_245"]
+position_priority = [[{ id = "HEI" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
+
+[EDWWMRZ]
+description = ""
+volumes = ["EDWWMRZ6_000_105", "EDWWMRZ2_000_245", "EDWWMRZ1_000_285", "EDWWMRZ5_000_105", "EDWWMRZ4_000_105"]
+position_priority = [[{ id = "MRZ" }], [{ id = "MAR" }], [{ id = "BOR" }]]
+runway_filter = [[]]
+
+[EDWWHAMW]
+description = ""
+volumes = ["EDWWHAMW2_065_105", "EDWWHAMW1_000_105"]
+position_priority = [[{ id = "HAMW" }], [{ id = "HAME" }], [{ id = "HEI" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
+runway_filter = [[]]
