@@ -264,7 +264,7 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 - type: _null or string_
 - example: `"EDMZ"`
 
-##### `airspace_group`
+##### `airspace_groups`
 
 - Airspace groups according to TVCP section 7.1(c) the position is part of
 - type: _null or list of string_
@@ -376,7 +376,6 @@ adherence to the specification. This may be achieved by running tools in a GitHu
 - all polygons defining Elemental Volumes shall not include holes
 - Elemental Volume `lower_level` and `upper_level` shall be in the range 0 and 999 inclusive and `lower_level < upper_level`
 - Sector `volumes` shall not overlap with `volumes` of other **Sector**s and be continuous (no holes).
-  -
 - all data references to other data specified herein, shall unambiguously point to valid data:
   - Sector `volumes` shall point to valid Elemental Volumes defined in the same FIR
   - Sector `position_priority` shall point to either a valid Position in the same FIR if none is explicitly specified, otherwise to a valid Position in the specified FIR
