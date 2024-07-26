@@ -1,0 +1,243 @@
+# EBG Ost
+[GER]
+frequency = 133230000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Gera"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMG"
+airspace_groups = ["HOF"]
+
+[HAL]
+frequency = 118235000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Halle"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMH"
+airspace_groups = ["HOF"]
+
+[MEI]
+frequency = 124960000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Meißen"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMS"
+airspace_groups = ["HOF"]
+
+[BBG]
+frequency = 133615000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Bamberg"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMB"
+airspace_groups = ["HOF"]
+
+[HOF]
+frequency = 133565000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Hof"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMO"
+airspace_groups = ["HOF"]
+
+# EBG Ost Low
+[TRN]
+frequency = 126065000
+prefix = "EDDP"
+station_type = "APP"
+name = "Thüringen Low Nord"
+radio_callsign = "München Radar"
+
+[TRS]
+frequency = 126175000
+prefix = "EDDP"
+station_type = "APP"
+name = "Thüringen Low Süd"
+radio_callsign = "München Radar"
+
+[DPND]
+frequency = 126065000
+prefix = "EDDP"
+station_type = "APP"
+name = "Leipzig Director Nord"
+radio_callsign = "Leipzig Director"
+
+[DPSD]
+frequency = 126175000
+prefix = "EDDP"
+station_type = "APP"
+name = "Leipzig Director Süd"
+radio_callsign = "Leipzig Director"
+
+[SAS]
+frequency = 125875000
+prefix = "EDDC"
+station_type = "APP"
+name = "Sachsen Süd"
+radio_callsign = "München Radar"
+
+[FRK]
+frequency = 129525000
+prefix = "EDDN"
+station_type = "APP"
+name = "Franken Low"
+radio_callsign = "München Radar"
+
+[DND]
+frequency = 119475000
+prefix = "EDDN"
+station_type = "APP"
+name = "Nürnberg Director"
+radio_callsign = "Nürnberg Director"
+
+# EBG West-Nord
+[ALB]
+frequency = 129100000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Hof"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDML"
+airspace_groups = ["ALB"]
+
+[RDG]
+frequency = 132555000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Roding"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMR"
+gcap_tier = 1
+airspace_groups = []
+
+[EGG]
+frequency = 129555000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Eggenfelden"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDME"
+airspace_groups = ["ALB"]
+
+[NDG]
+frequency = 129140000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Nördlingen"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMN"
+airspace_groups = ["TRU"]
+
+[WLD]
+frequency = 136230000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Walda"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMW"
+airspace_groups = ["TRU"]
+
+# EBG West-Süd
+[FUE]
+frequency = 133550000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Füssen"
+radio_callsign = "München Radar"
+airspace_groups = ["TRU"]
+
+[ZUG]
+frequency = 134150000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Zugspitze"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMZ"
+airspace_groups = ["TRU"]
+
+[STA]
+frequency = 132455000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Starnberg"
+radio_callsign = "München Radar"
+airspace_groups = ["TRU"]
+
+[TEG]
+frequency = 133680000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Tegernsee"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMT"
+airspace_groups = ["TRU"]
+
+[TRU]
+frequency = 132635000
+prefix = "EDMM"
+station_type = "CTR"
+name = "Traun"
+radio_callsign = "München Radar"
+cpdlc_logon = "EDMU"
+airspace_groups = ["TRU"]
+
+# EBG Approach
+[DMNH]
+frequency = 128030000
+prefix = "EDDM"
+station_type = "APP"
+name = "Freising High"
+radio_callsign = "München Arrival"
+
+[DMNL]
+frequency = 123905000
+prefix = "EDDM"
+station_type = "APP"
+name = "Freising Low"
+radio_callsign = "München Radar"
+
+[DMSH]
+frequency = 120780000
+prefix = "EDDM"
+station_type = "APP"
+name = "Erding High"
+radio_callsign = "München Arrival"
+
+[DMSL]
+frequency = 127955000
+prefix = "EDDM"
+station_type = "APP"
+name = "Erding Low"
+radio_callsign = "München Radar"
+
+[DMND]
+frequency = 118830000
+prefix = "EDDM"
+station_type = "APP"
+name = "München Director Nord"
+radio_callsign = "München Director"
+
+[DMSD]
+frequency = 132305000
+prefix = "EDDM"
+station_type = "APP"
+name = "München Director South"
+radio_callsign = "München Director"
+
+[SWA]
+frequency = 136525000
+prefix = "EDMM"
+station_type = "APP"
+name = "Schwaben"
+radio_callsign = "München Radar"
+
+[ILR]
+frequency = 129440000
+prefix = "EDJA"
+station_type = "APP"
+name = "Iller"
+radio_callsign = "München Radar"

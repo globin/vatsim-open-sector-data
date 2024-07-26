@@ -1,0 +1,64 @@
+# EBG South
+[ALP]
+frequency = 133230000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Alpen"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUL"
+airspace_groups = ["ALB", "TRU"]
+
+[CHI]
+frequency = 123390000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Chiem"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUC"
+airspace_groups = ["TRU"]
+
+[DON]
+frequency = 127290000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Donau"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUD"
+airspace_groups = ["ALB", "HOF", "TRU"]
+
+[ISA]
+frequency = 136335000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Isar"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUI"
+airspace_groups = ["TRU"]
+
+# EBG Ost
+[ERL]
+frequency = 136405000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Erlangen"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUR"
+airspace_groups = ["ALB", "HOF", "TRU"]
+
+[SAL]
+frequency = 133285000
+prefix = "EDDP"
+station_type = "APP"
+name = "Saale"
+cpdlc_logon = "EDUA"
+radio_callsign = "Rhein Radar"
+airspace_groups = ["HOF"]
+
+[SPE]
+frequency = 126175000
+prefix = "EDDP"
+station_type = "APP"
+name = "Spree"
+cpdlc_logon = "EDUP"
+radio_callsign = "Rhein Radar"
+airspace_groups = ["HOF"]
