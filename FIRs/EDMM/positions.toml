@@ -192,6 +192,7 @@ prefix = "EDDM"
 station_type = "APP"
 name = "Freising High"
 radio_callsign = "München Arrival"
+gcap_tier = 1
 
 [DMNL]
 frequency = 123905000
@@ -199,6 +200,7 @@ prefix = "EDDM"
 station_type = "APP"
 name = "Freising Low"
 radio_callsign = "München Radar"
+gcap_tier = 1
 
 [DMSH]
 frequency = 120780000
@@ -206,6 +208,7 @@ prefix = "EDDM"
 station_type = "APP"
 name = "Erding High"
 radio_callsign = "München Arrival"
+gcap_tier = 1
 
 [DMSL]
 frequency = 127955000
@@ -213,6 +216,7 @@ prefix = "EDDM"
 station_type = "APP"
 name = "Erding Low"
 radio_callsign = "München Radar"
+gcap_tier = 1
 
 [DMND]
 frequency = 118830000
@@ -220,6 +224,7 @@ prefix = "EDDM"
 station_type = "APP"
 name = "München Director Nord"
 radio_callsign = "München Director"
+gcap_tier = 1
 
 [DMSD]
 frequency = 132305000
@@ -227,6 +232,7 @@ prefix = "EDDM"
 station_type = "APP"
 name = "München Director South"
 radio_callsign = "München Director"
+gcap_tier = 1
 
 [SWA]
 frequency = 136525000
