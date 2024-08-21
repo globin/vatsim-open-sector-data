@@ -1,0 +1,30 @@
+[LUBM_TWR]
+frequency=122050000
+prefix="LUBM"
+radio_callsign="Marculesti Tower"
+station_type="TWR"
+
+[LUKK_APP]
+frequency=133300000
+prefix="LUKK"
+radio_callsign="Chisinau Approach"
+station_type="APP"
+
+[LUKK_GND]
+frequency=121800000
+prefix="LUKK"
+radio_callsign="Chisinau Ground"
+station_type="GND"
+
+[LUKK_TWR]
+frequency=118100000
+prefix="LUKK"
+radio_callsign="Chisinau Tower"
+station_type="TWR"
+
+[LUUU_CTR]
+frequency=128975000
+prefix="LUUU"
+radio_callsign="Chisinau Control"
+station_type="CTR"
+

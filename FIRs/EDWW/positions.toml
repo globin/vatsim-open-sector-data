@@ -1,0 +1,888 @@
+# EBG BER
+[DBAS]
+frequency = 126425000
+prefix = "EDDB"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[DBAN]
+frequency = 119630000
+prefix = "EDDB"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[DBSD]
+frequency = 120630000
+prefix = "EDDB"
+radio_callsign = "Bremen Radar (Berlin departure)"
+station_type = "DEP"
+
+[DBAD]
+frequency = 120340000
+prefix = "EDDB"
+radio_callsign = "Bremen Radar"
+station_type = "DEP"
+
+[DBAST]
+frequency = 121130000
+prefix = "EDDB"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[DBANT]
+frequency = 136105000
+prefix = "EDDB"
+radio_callsign = "Berlin Director"
+station_type = "APP"
+
+
+# EBG Nord-A
+[HAME]
+frequency = 119510000
+prefix = "EDDH"
+name = "Hamburg East"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[HAMW]
+frequency = 134255000
+prefix = "EDDH"
+name = "Hamburg West"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[DHAT]
+frequency = 118205000
+prefix = "EDDH"
+radio_callsign = "Hamburg Director"
+station_type = "APP"
+
+[ALR]
+frequency = 126325000
+prefix = "EDWW"
+name = "ALR"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[HEI]
+frequency = 125855000
+prefix = "EDWW"
+name = "HEI"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+
+# EBG Nord-B
+[EIDE]
+frequency = 124075000
+prefix = "EDWW"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[EIDW]
+frequency = 120225000
+prefix = "EDWW"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[FRI]
+frequency = 124800000
+prefix = "EDDW"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[EDDW_F_APP]
+frequency = 120350000
+prefix = "EDDW"
+radio_callsign = "Bremen Director"
+station_type = "APP"
+
+
+# EBG Süd
+[DST]
+frequency = 128760000
+prefix = "EDWW"
+name = "Deister"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[EMS]
+frequency = 125025000
+prefix = "EDWW"
+name = "Ems"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[HAN]
+frequency = 119490000
+prefix = "EDDV"
+name = "Hannover"
+radio_callsign = "Bremen Radar"
+station_type = "APP"
+
+[EDDV_F_APP]
+frequency = 119605000
+prefix = "EDDV"
+radio_callsign = "Hannover Director"
+station_type = "APP"
+
+[HRZ]
+frequency = 126655000
+prefix = "EDWW"
+name = "Harz"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+
+# EBG Ost
+[BOR]
+frequency = 123225000
+prefix = "EDWW"
+name = "Börde"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[FLG]
+frequency = 136450000
+prefix = "EDWW"
+name = "Fläming"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[MAR]
+frequency = 136050000
+prefix = "EDWW"
+name = "Mark"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+[MRZ]
+frequency = 124175000
+prefix = "EDWW"
+name = "Müritz"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+
+# FIS
+[EDXX_IDH_CTR]
+frequency = 125100000
+prefix = "EDXX"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_IDV_CTR]
+frequency = 119825000
+prefix = "EDXX_I"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_ISW_CTR]
+frequency = 128525000
+prefix = "EDXX"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_WW_CTR]
+frequency = 119825000
+prefix = "EDXX_W"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+
+# Other
+[EDWW_V_CTR]
+frequency = 121425000
+prefix = "EDWW"
+radio_callsign = "FIR Bremen General AFIS frequency"
+station_type = "CTR"
+
+[EDWW_CTR]
+frequency = 133725000
+prefix = "EDWW"
+radio_callsign = "Bremen Radar"
+station_type = "CTR"
+
+
+[EDDB_DEL]
+frequency = 121605000
+prefix = "EDDB"
+radio_callsign = "Berlin Delivery"
+station_type = "DEL"
+
+[EDDB_A_GND]
+frequency = 121855000
+prefix = "EDDB"
+radio_callsign = "Berlin Apron"
+station_type = "GND"
+
+[EDDB_E_GND]
+frequency = 129605000
+prefix = "EDDB"
+radio_callsign = "Berlin Apron"
+station_type = "GND"
+
+[EDDB_ICE_GND]
+frequency = 121665000
+prefix = "EDDB"
+radio_callsign = "Berlin De-Icing"
+station_type = "GND"
+
+[EDDB_N_GND]
+frequency = 129505000
+prefix = "EDDB"
+radio_callsign = "Berlin Ground"
+station_type = "GND"
+
+[EDDB_S_GND]
+frequency = 121705000
+prefix = "EDDB"
+radio_callsign = "Berlin Ground"
+station_type = "GND"
+
+[EDDB_N_TWR]
+frequency = 120030000
+prefix = "EDDB"
+radio_callsign = "Berlin Tower"
+station_type = "TWR"
+
+[EDDB_S_TWR]
+frequency = 118805000
+prefix = "EDDB"
+radio_callsign = "Berlin Tower"
+station_type = "TWR"
+
+
+[EDDH_DEL]
+frequency = 121805000
+prefix = "EDDH"
+radio_callsign = "Hamburg Ground"
+station_type = "DEL"
+
+[EDDH_E_GND]
+frequency = 121705000
+prefix = "EDDH"
+radio_callsign = "Hamburg Apron"
+station_type = "GND"
+
+[EDDH_W_GND]
+frequency = 121980000
+prefix = "EDDH"
+radio_callsign = "Hamburg Apron"
+station_type = "GND"
+
+[EDDH_TWR]
+frequency = 126855000
+prefix = "EDDH"
+radio_callsign = "Hamburg Tower"
+station_type = "TWR"
+
+
+[EDDV_DEL]
+frequency = 120405000
+prefix = "EDDV"
+radio_callsign = "Hannover Delivery"
+station_type = "DEL"
+
+[EDDV_GND]
+frequency = 121955000
+prefix = "EDDV"
+radio_callsign = "Hannover Ground"
+station_type = "GND"
+
+[EDDV_TWR]
+frequency = 120180000
+prefix = "EDDV"
+radio_callsign = "Hannover Tower"
+station_type = "TWR"
+
+
+[EDDW_DEL]
+frequency = 134830000
+prefix = "EDDW"
+radio_callsign = "Bremen Delivery"
+station_type = "DEL"
+
+[EDDW_GND]
+frequency = 121755000
+prefix = "EDDW"
+radio_callsign = "Bremen Ground"
+station_type = "GND"
+
+[EDDW_TWR]
+frequency = 120330000
+prefix = "EDDW"
+radio_callsign = "Bremen Tower"
+station_type = "TWR"
+
+
+[EDAH_TWR]
+frequency = 132830000
+prefix = "EDAH"
+radio_callsign = "Heringsdorf Tower"
+station_type = "TWR"
+
+
+[EDHI_GND]
+frequency = 121655000
+prefix = "EDHI"
+radio_callsign = "Finkenwerder Apron"
+station_type = "GND"
+
+[EDHI_TWR]
+frequency = 123255000
+prefix = "EDHI"
+radio_callsign = "Finkenwerder Tower"
+station_type = "TWR"
+
+
+[EDHL_GND]
+frequency = 121750000
+prefix = "EDHL"
+radio_callsign = "Luebeck Ground"
+station_type = "GND"
+
+[EDHL_TWR]
+frequency = 128705000
+prefix = "EDHL"
+radio_callsign = "Lübeck Tower"
+station_type = "TWR"
+
+
+[EDVE_TWR]
+frequency = 120055000
+prefix = "EDVE"
+radio_callsign = "Braunschweig Tower"
+station_type = "TWR"
+
+
+[EDVK_GND]
+frequency = 121905000
+prefix = "EDVK"
+radio_callsign = "Kassel Ground"
+station_type = "GND"
+
+[EDVK_TWR]
+frequency = 118105000
+prefix = "EDVK"
+radio_callsign = "Kassel Tower"
+station_type = "TWR"
+
+
+[EDXW_TWR]
+frequency = 119750000
+prefix = "EDXW"
+radio_callsign = "Sylt Tower"
+station_type = "TWR"
+
+
+[EDAV_I_TWR]
+frequency = 119055000
+prefix = "EDAV"
+radio_callsign = "Finow Info"
+station_type = "TWR"
+
+[EDAY_I_TWR]
+frequency = 118735000
+prefix = "EDAY"
+radio_callsign = "Strausberg Info"
+station_type = "TWR"
+
+[EDAZ_I_TWR]
+frequency = 131155000
+prefix = "EDAZ"
+radio_callsign = "Schönhagen Info"
+station_type = "TWR"
+
+[EDBC_I_TWR]
+frequency = 131130000
+prefix = "EDBC"
+radio_callsign = "Cochstedt Info"
+station_type = "TWR"
+
+[EDBH_I_TWR]
+frequency = 118080000
+prefix = "EDBH"
+radio_callsign = "Barth Info"
+station_type = "TWR"
+
+[EDBK_I_TWR]
+frequency = 122730000
+prefix = "EDBK"
+radio_callsign = "Kyritz Info"
+station_type = "TWR"
+
+[EDBM_I_TWR]
+frequency = 119305000
+prefix = "EDBM"
+radio_callsign = "Magdeburg Info"
+station_type = "TWR"
+
+[EDBN_I_TWR]
+frequency = 119180000
+prefix = "EDBN"
+radio_callsign = "Neubrandenburg Info"
+station_type = "TWR"
+
+[EDBO_I_TWR]
+frequency = 123260000
+prefix = "EDBO"
+radio_callsign = "Oehna Radio"
+station_type = "TWR"
+
+[EDBW_I_TWR]
+frequency = 128740000
+prefix = "EDBW"
+radio_callsign = "Werneuchen Info"
+station_type = "TWR"
+
+[EDCA_I_TWR]
+frequency = 122655000
+prefix = "EDCA"
+radio_callsign = "Anklam Info"
+station_type = "TWR"
+
+[EDCG_I_TWR]
+frequency = 123005000
+prefix = "EDCG"
+radio_callsign = "Rügen Info"
+station_type = "TWR"
+
+[EDCP_I_TWR]
+frequency = 122480000
+prefix = "EDCP"
+radio_callsign = "Peenemünde Info"
+station_type = "TWR"
+
+[EDHE_I_TWR]
+frequency = 122705000
+prefix = "EDHE"
+radio_callsign = "Uetersen Info"
+station_type = "TWR"
+
+[EDHF_I_TWR]
+frequency = 127110000
+prefix = "EDHF"
+radio_callsign = "Itzehoe Info"
+station_type = "TWR"
+
+[EDHG_I_TWR]
+frequency = 122180000
+prefix = "EDHG"
+radio_callsign = "Lüneburg Info"
+station_type = "TWR"
+
+[EDHK_I_TWR]
+frequency = 119980000
+prefix = "EDHK"
+radio_callsign = "Kiel Info"
+station_type = "TWR"
+
+[EDHN_I_TWR]
+frequency = 136410000
+prefix = "EDHN"
+radio_callsign = "Neumünster Info"
+station_type = "TWR"
+
+[EDHP_I_TWR]
+frequency = 123910000
+prefix = "EDHP"
+radio_callsign = "Pellworm Info"
+station_type = "TWR"
+
+[EDHS_I_TWR]
+frequency = 132740000
+prefix = "EDHS"
+radio_callsign = "Stade Info"
+station_type = "TWR"
+
+[EDOI_I_TWR]
+frequency = 134990000
+prefix = "EDOI"
+radio_callsign = "Bienenfarm Info"
+station_type = "TWR"
+
+[EDVC_I_TWR]
+frequency = 123655000
+prefix = "EDVC"
+radio_callsign = "Arloh Info (Celle)"
+station_type = "TWR"
+
+[EDVH_I_TWR]
+frequency = 119005000
+prefix = "EDVH"
+radio_callsign = "Hodenhagen Info"
+station_type = "TWR"
+
+[EDVI_I_TWR]
+frequency = 130280000
+prefix = "EDVI"
+radio_callsign = "Höxter Info"
+station_type = "TWR"
+
+[EDVM_I_TWR]
+frequency = 118310000
+prefix = "EDVM"
+radio_callsign = "Hildesheim Info"
+station_type = "TWR"
+
+[EDVN_I_TWR]
+frequency = 118705000
+prefix = "EDVM"
+radio_callsign = "Northeim Info"
+station_type = "TWR"
+
+[EDVR_I_TWR]
+frequency = 129415000
+prefix = "EDVR"
+radio_callsign = "Rinteln Info"
+station_type = "TWR"
+
+[EDVS_I_TWR]
+frequency = 122855000
+prefix = "EDVS"
+radio_callsign = "Salzgitter info"
+station_type = "TWR"
+
+[EDVU_I_TWR]
+frequency = 130905000
+prefix = "EDVU"
+radio_callsign = "Uelzen Info"
+station_type = "TWR"
+
+[EDVW_I_TWR]
+frequency = 121180000
+prefix = "EDVW"
+radio_callsign = "Pyrmont Info"
+station_type = "TWR"
+
+[EDVY_I_TWR]
+frequency = 130640000
+prefix = "EDVY"
+radio_callsign = "Porta Westfalica Info"
+station_type = "TWR"
+
+[EDWE_I_TWR]
+frequency = 118605000
+prefix = "EDWE"
+radio_callsign = "Emden Info"
+station_type = "TWR"
+
+[EDWF_I_TWR]
+frequency = 130780000
+prefix = "EDWF"
+radio_callsign = "Leer Info"
+station_type = "TWR"
+
+[EDWG_I_TWR]
+frequency = 122405000
+prefix = "EDWG"
+radio_callsign = "Wooge Info"
+station_type = "TWR"
+
+[EDWI_I_TWR]
+frequency = 129255000
+prefix = "EDWI"
+radio_callsign = "Wilhelmshaven Info"
+station_type = "TWR"
+
+[EDWJ_I_TWR]
+frequency = 120505000
+prefix = "EDWJ"
+radio_callsign = "Juist Info"
+station_type = "TWR"
+
+[EDWL_I_TWR]
+frequency = 122030000
+prefix = "EDWL"
+radio_callsign = "Langeoog Info"
+station_type = "TWR"
+
+[EDWN_I_TWR]
+frequency = 122655000
+prefix = "EDWN"
+radio_callsign = "Nordhorn Info"
+station_type = "TWR"
+
+[EDWO_I_TWR]
+frequency = 118680000
+prefix = "EDWO"
+radio_callsign = "Osnabr?ck Info"
+station_type = "TWR"
+
+[EDWQ_I_TWR]
+frequency = 118630000
+prefix = "EDWQ"
+radio_callsign = "Ganderkesee Info"
+station_type = "TWR"
+
+[EDWR_I_TWR]
+frequency = 121210000
+prefix = "EDWR"
+radio_callsign = "Borkum Info"
+station_type = "TWR"
+
+[EDWS_I_TWR]
+frequency = 123030000
+prefix = "EDWS"
+radio_callsign = "Norddeich Info"
+station_type = "TWR"
+
+[EDWT_I_TWR]
+frequency = 120605000
+prefix = "EDWT"
+radio_callsign = "Blexen Info"
+station_type = "TWR"
+
+[EDWY_I_TWR]
+frequency = 122605000
+prefix = "EDWY"
+radio_callsign = "Norderney Info"
+station_type = "TWR"
+
+[EDWZ_I_TWR]
+frequency = 132015000
+prefix = "EDWZ"
+radio_callsign = "Baltrum Info"
+station_type = "TWR"
+
+[EDXB_I_TWR]
+frequency = 125860000
+prefix = "EDXB"
+radio_callsign = "B?sum Info"
+station_type = "TWR"
+
+[EDXF_I_TWR]
+frequency = 122855000
+prefix = "EDXF"
+radio_callsign = "Flensburg Info"
+station_type = "TWR"
+
+[EDXH_I_TWR]
+frequency = 122455000
+prefix = "EDXH"
+radio_callsign = "Helgoland Info"
+station_type = "TWR"
+
+[EDXI_I_TWR]
+frequency = 133165000
+prefix = "EDXI"
+radio_callsign = "Nienburg Info"
+station_type = "TWR"
+
+[EDXJ_I_TWR]
+frequency = 125850000
+prefix = "EDXJ"
+radio_callsign = "Husum Info"
+station_type = "TWR"
+
+[EDXM_I_TWR]
+frequency = 132990000
+prefix = "EDXM"
+radio_callsign = "St. Michael Info"
+station_type = "TWR"
+
+[EDXN_I_TWR]
+frequency = 121030000
+prefix = "EDXN"
+radio_callsign = "Spieka Info"
+station_type = "TWR"
+
+[EDXO_I_TWR]
+frequency = 129780000
+prefix = "EDXO"
+radio_callsign = "St. Peter Info"
+station_type = "TWR"
+
+[EDXP_I_TWR]
+frequency = 122405000
+prefix = "EDXP"
+radio_callsign = "Harle Info"
+station_type = "TWR"
+
+[EDXQ_I_TWR]
+frequency = 136015000
+prefix = "EDXQ"
+radio_callsign = "W?mme Info"
+station_type = "TWR"
+
+[EDXR_I_TWR]
+frequency = 123655000
+prefix = "EDXR"
+radio_callsign = "Rendsburg Info"
+station_type = "TWR"
+
+[EDXT_I_TWR]
+frequency = 125385000
+prefix = "EDXT"
+radio_callsign = "Sierksdorf Info"
+station_type = "TWR"
+
+[EDXY_I_TWR]
+frequency = 118255000
+prefix = "EDXY"
+radio_callsign = "Wyk Info"
+station_type = "TWR"
+
+
+[ETHB_APP]
+frequency = 124505000
+prefix = "ETHB"
+radio_callsign = "Bückeburg Radar"
+station_type = "APP"
+
+[ETHB_TWR]
+frequency = 122100000
+prefix = "ETHB"
+radio_callsign = "Bükeburg Tower"
+station_type = "TWR"
+
+[ETHC_APP]
+frequency = 123305000
+prefix = "ETHC"
+radio_callsign = "Celle Radar"
+station_type = "APP"
+
+[ETHC_TWR]
+frequency = 118255000
+prefix = "ETHC"
+radio_callsign = "Celle Tower"
+station_type = "TWR"
+
+[ETHS_APP]
+frequency = 119355000
+prefix = "ETHS"
+radio_callsign = "Fassberg Radar"
+station_type = "APP"
+
+[ETHS_TWR]
+frequency = 118525000
+prefix = "ETHS"
+radio_callsign = "Fassberg Tower"
+station_type = "TWR"
+
+[ETIK_GND]
+frequency = 133835000
+prefix = "ETIK"
+radio_callsign = "Illesheim Ground"
+station_type = "GND"
+
+[ETIK_TWR]
+frequency = 129850000
+prefix = "ETIK"
+radio_callsign = "Illesheim Tower"
+station_type = "TWR"
+
+[ETMN_APP]
+frequency = 129855000
+prefix = "ETMN"
+radio_callsign = "Nordholz Radar"
+station_type = "APP"
+
+[ETMN_TWR]
+frequency = 131255000
+prefix = "ETMN"
+radio_callsign = "Nordholz Tower"
+station_type = "TWR"
+
+[ETND_I_TWR]
+frequency = 122530000
+prefix = "ETND"
+radio_callsign = "Diepholz Info"
+station_type = "TWR"
+
+[ETND_TWR]
+frequency = 135130000
+prefix = "ETND"
+radio_callsign = "Diepholz Tower"
+station_type = "TWR"
+
+[ETNH_APP]
+frequency = 122700000
+prefix = "ETNH"
+radio_callsign = "Hohn Radar"
+station_type = "APP"
+
+[ETNH_F_APP]
+frequency = 125600000
+prefix = "ETNH"
+radio_callsign = "Hohn Precision"
+station_type = "APP"
+
+[ETNH_TWR]
+frequency = 122100000
+prefix = "ETNH"
+radio_callsign = "Hohn Tower"
+station_type = "TWR"
+
+[ETNL_A_GND]
+frequency = 121955000
+prefix = "ETNL"
+radio_callsign = "Laage Apron"
+station_type = "GND"
+
+[ETNL_APP]
+frequency = 123300000
+prefix = "ETNL"
+radio_callsign = "Laage Radar"
+station_type = "APP"
+
+[ETNL_P_APP]
+frequency = 133105000
+prefix = "ETNL"
+radio_callsign = "Laage Presicion"
+station_type = "APP"
+
+[ETNL_TWR]
+frequency = 118430000
+prefix = "ETNL"
+radio_callsign = "Laage Tower"
+station_type = "TWR"
+
+[ETNS_APP]
+frequency = 123300000
+prefix = "ETNS"
+radio_callsign = "Schleswig Radar"
+station_type = "APP"
+
+[ETNS_P_APP]
+frequency = 118555000
+prefix = "ETNS"
+radio_callsign = "Schleswig Precision"
+station_type = "APP"
+
+[ETNS_TWR]
+frequency = 135155000
+prefix = "ETNS"
+radio_callsign = "Schleswig Tower"
+station_type = "TWR"
+
+[ETNT_APP]
+frequency = 123600000
+prefix = "ETNT"
+radio_callsign = "Wittmund Radar"
+station_type = "APP"
+
+[ETNT_TWR]
+frequency = 118730000
+prefix = "ETNT"
+radio_callsign = "Wittmund Tower"
+station_type = "TWR"
+
+[ETNW_APP]
+frequency = 124655000
+prefix = "ETNW"
+radio_callsign = "Wunstorf Radar"
+station_type = "APP"
+
+[ETNW_TWR]
+frequency = 132055000
+prefix = "ETNW"
+radio_callsign = "Wunstorf Tower"
+station_type = "TWR"
+
+[ETWM_I_TWR]
+frequency = 122100000
+prefix = "ETWM"
+radio_callsign = "Meppen Info"
+station_type = "TWR"

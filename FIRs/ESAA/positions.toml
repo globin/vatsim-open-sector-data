@@ -1,0 +1,774 @@
+[ESAA_PLN_CTR]
+frequency=126825000
+prefix="ESAA"
+radio_callsign="Sweden Planner"
+station_type="CTR"
+
+[ESCF_APP]
+frequency=135850000
+prefix="ESCF"
+radio_callsign="Östgöta Approach (sector Linköping)"
+station_type="APP"
+
+[ESCF_GND]
+frequency=121850000
+prefix="ESCF"
+radio_callsign="Malmen Ground"
+station_type="GND"
+
+[ESCF_P_APP]
+frequency=125200000
+prefix="ESCF"
+radio_callsign="Malmen Precision"
+station_type="APP"
+
+[ESCF_TWR]
+frequency=129800000
+prefix="ESCF"
+radio_callsign="Malmen Tower"
+station_type="TWR"
+
+[ESCM_APP]
+frequency=130400000
+prefix="ESCM"
+radio_callsign="Uppsala Approach"
+station_type="APP"
+
+[ESCM_TWR]
+frequency=119200000
+prefix="ESCM"
+radio_callsign="Uppsala Tower"
+station_type="TWR"
+
+[ESCR_CTR]
+frequency=135200000
+prefix="ESCR"
+radio_callsign="Fighter Control (StriC M)"
+station_type="CTR"
+
+[ESDF_APP]
+frequency=128450000
+prefix="ESDF"
+radio_callsign="Ronneby Approach"
+station_type="APP"
+
+[ESDF_GND]
+frequency=121850000
+prefix="ESDF"
+radio_callsign="Ronneby Ground"
+station_type="GND"
+
+[ESDF_P_APP]
+frequency=134100000
+prefix="ESDF"
+radio_callsign="Ronneby Precision"
+station_type="APP"
+
+[ESDF_TWR]
+frequency=119200000
+prefix="ESDF"
+radio_callsign="Ronneby Tower"
+station_type="TWR"
+
+[ESDK_CTR]
+frequency=132100000
+prefix="ESDK"
+radio_callsign="Fighter Control (StriC S)"
+station_type="CTR"
+
+[ESFR_APP]
+frequency=133500000
+prefix="ESFR"
+radio_callsign="Råda Approach"
+station_type="APP"
+
+[ESFR_TWR]
+frequency=136025000
+prefix="ESFR"
+radio_callsign="Råda Tower"
+station_type="TWR"
+
+[ESGG_A_APP]
+frequency=120130000
+prefix="ESGG"
+radio_callsign="Göteborg Arrival"
+station_type="APP"
+
+[ESGG_DEL]
+frequency=121680000
+prefix="ESGG"
+radio_callsign="Landvetter Clearance Delivery"
+station_type="DEL"
+
+[ESGG_E_APP]
+frequency=124680000
+prefix="ESGG"
+radio_callsign="Göteborg Approach"
+station_type="APP"
+
+[ESGG_GND]
+frequency=121905000
+prefix="ESGG"
+radio_callsign="Landvetter Ground"
+station_type="GND"
+
+[ESGG_TWR]
+frequency=118605000
+prefix="ESGG"
+radio_callsign="Landvetter Tower"
+station_type="TWR"
+
+[ESGG_W_APP]
+frequency=124205000
+prefix="ESGG"
+radio_callsign="Göteborg Approach (Sector W)"
+station_type="APP"
+
+[ESGJ_TWR]
+frequency=118255000
+prefix="ESGJ"
+radio_callsign="Jönköping Tower"
+station_type="TWR"
+
+[ESGP_TWR]
+frequency=119055000
+prefix="ESGP"
+radio_callsign="Säve Tower"
+station_type="TWR"
+
+[ESGT_TWR]
+frequency=122730000
+prefix="ESGT"
+radio_callsign="Trollhättan Tower"
+station_type="TWR"
+
+[ESIA_APP]
+frequency=132050000
+prefix="ESIA"
+radio_callsign="Karlsborg Approach"
+station_type="APP"
+
+[ESIA_TWR]
+frequency=133000000
+prefix="ESIA"
+radio_callsign="Karlsborg Tower"
+station_type="TWR"
+
+[ESIB_APP]
+frequency=134550000
+prefix="ESIB"
+radio_callsign="Såtenäs Approach"
+station_type="APP"
+
+[ESIB_GND]
+frequency=121850000
+prefix="ESIB"
+radio_callsign="Såtenäs Ground"
+station_type="GND"
+
+[ESIB_P_APP]
+frequency=119300000
+prefix="ESIB"
+radio_callsign="Såtenäs Precision"
+station_type="APP"
+
+[ESIB_TWR]
+frequency=128200000
+prefix="ESIB"
+radio_callsign="Såtenäs Tower"
+station_type="TWR"
+
+[ESKM_I_TWR]
+frequency=119055000
+prefix="ESKM"
+radio_callsign="Mora Information"
+station_type="TWR"
+
+[ESKN_TWR]
+frequency=127705000
+prefix="ESKN"
+radio_callsign="Skavsta Tower"
+station_type="TWR"
+
+[ESKS_TWR]
+frequency=124460000
+prefix="ESKS"
+radio_callsign="Sälen Tower"
+station_type="TWR"
+
+[ESMK_TWR]
+frequency=129355000
+prefix="ESMK"
+radio_callsign="Kristianstad Tower"
+station_type="TWR"
+
+[ESMM_2_CTR]
+frequency=127755000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 2)"
+station_type="CTR"
+
+[ESMM_3_CTR]
+frequency=128055000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 3)"
+station_type="CTR"
+
+[ESMM_4_CTR]
+frequency=124405000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 4)"
+station_type="CTR"
+
+[ESMM_5_CTR]
+frequency=132765000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 5)"
+station_type="CTR"
+
+[ESMM_6_CTR]
+frequency=135805000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 6)"
+station_type="CTR"
+
+[ESMM_7_CTR]
+frequency=124155000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 7)"
+station_type="CTR"
+
+[ESMM_8_CTR]
+frequency=128180000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 8)"
+station_type="CTR"
+
+[ESMM_9_CTR]
+frequency=135985000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector 9)"
+station_type="CTR"
+
+[ESMM_IN_CTR]
+frequency=128630000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM Info Nord)"
+station_type="CTR"
+
+[ESMM_K_CTR]
+frequency=131280000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector K)"
+station_type="CTR"
+
+[ESMM_W_CTR]
+frequency=133260000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector W)"
+station_type="CTR"
+
+[ESMM_XK_CTR]
+frequency=124855000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM K extra)"
+station_type="CTR"
+
+[ESMM_Y_CTR]
+frequency=134455000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESMM sector Y)"
+station_type="CTR"
+
+[ESMQ_TWR]
+frequency=130805000
+prefix="ESMQ"
+radio_callsign="Kalmar Tower"
+station_type="TWR"
+
+[ESMS_APP]
+frequency=134980000
+prefix="ESMS"
+radio_callsign="Sweden Control (ESMM sector L)"
+station_type="APP"
+
+[ESMS_GND]
+frequency=121705000
+prefix="ESMS"
+radio_callsign="Sturup Ground"
+station_type="GND"
+
+[ESMS_IS_APP]
+frequency=133805000
+prefix="ESMS"
+radio_callsign="Sweden Control (ESMM Info Syd)"
+station_type="APP"
+
+[ESMS_TWR]
+frequency=118805000
+prefix="ESMS"
+radio_callsign="Sturup Tower"
+station_type="TWR"
+
+[ESMS_XL_APP]
+frequency=134155000
+prefix="ESMS"
+radio_callsign="Sweden Control (ESMM L extra)"
+station_type="APP"
+
+[ESMT_TWR]
+frequency=130105000
+prefix="ESMT"
+radio_callsign="Halmstad Tower"
+station_type="TWR"
+
+[ESMV_APP]
+frequency=121150000
+prefix="ESMV"
+radio_callsign="Hagshult Approach"
+station_type="APP"
+
+[ESMV_TWR]
+frequency=136250000
+prefix="ESMV"
+radio_callsign="Hagshult Tower"
+station_type="TWR"
+
+[ESMX_TWR]
+frequency=118155000
+prefix="ESMX"
+radio_callsign="Kronoberg Tower"
+station_type="TWR"
+
+[ESND_I_TWR]
+frequency=122205000
+prefix="ESND"
+radio_callsign="Sveg Information"
+station_type="TWR"
+
+[ESNG_I_TWR]
+frequency=122330000
+prefix="ESNG"
+radio_callsign="Gällivare Information"
+station_type="TWR"
+
+[ESNJ_APP]
+frequency=124850000
+prefix="ESNJ"
+radio_callsign="Jokkmokk Approach"
+station_type="APP"
+
+[ESNJ_TWR]
+frequency=133000000
+prefix="ESNJ"
+radio_callsign="Jokkmokk Tower"
+station_type="TWR"
+
+[ESNK_I_TWR]
+frequency=122155000
+prefix="ESNK"
+radio_callsign="Kramfors Information"
+station_type="TWR"
+
+[ESNL_I_TWR]
+frequency=122230000
+prefix="ESNL"
+radio_callsign="Lycksele Information"
+station_type="TWR"
+
+[ESNN_TWR]
+frequency=129555000
+prefix="ESNN"
+radio_callsign="Sundsvall Tower"
+station_type="TWR"
+
+[ESNO_TWR]
+frequency=122255000
+prefix="ESNO"
+radio_callsign="Övik Tower"
+station_type="TWR"
+
+[ESNQ_TWR]
+frequency=130155000
+prefix="ESNQ"
+radio_callsign="Kiruna Tower"
+station_type="TWR"
+
+[ESNS_TWR]
+frequency=122055000
+prefix="ESNS"
+radio_callsign="Skellefteå Tower"
+station_type="TWR"
+
+[ESNU_TWR]
+frequency=119805000
+prefix="ESNU"
+radio_callsign="Umeå Tower"
+station_type="TWR"
+
+[ESNV_I_TWR]
+frequency=122555000
+prefix="ESNV"
+radio_callsign="Vilhelmina Information"
+station_type="TWR"
+
+[ESNX_TWR]
+frequency=122730000
+prefix="ESNX"
+radio_callsign="Arvidsjaur Tower"
+station_type="TWR"
+
+[ESNZ_TWR]
+frequency=135655000
+prefix="ESPC"
+radio_callsign="Östersund Tower"
+station_type="TWR"
+
+[ESOE_TWR]
+frequency=120280000
+prefix="ESOE"
+radio_callsign="Örebro Tower"
+station_type="TWR"
+
+[ESOH_I_TWR]
+frequency=122230000
+prefix="ESOH"
+radio_callsign="Hagfors Information"
+station_type="TWR"
+
+[ESOK_TWR]
+frequency=119455000
+prefix="ESOK"
+radio_callsign="Karlstad Tower"
+station_type="TWR"
+
+[ESOS_1_CTR]
+frequency=118405000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 1, main frequency)"
+station_type="CTR"
+
+[ESOS_2_CTR]
+frequency=133705000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 2)"
+station_type="CTR"
+
+[ESOS_3_CTR]
+frequency=131130000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 3)"
+station_type="CTR"
+
+[ESOS_4_CTR]
+frequency=118205000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 4)"
+station_type="CTR"
+
+[ESOS_6_CTR]
+frequency=132480000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 6)"
+station_type="CTR"
+
+[ESOS_7_CTR]
+frequency=118280000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 7)"
+station_type="CTR"
+
+[ESOS_8_CTR]
+frequency=129180000
+prefix="ESMM"
+radio_callsign="Sweden Control (ESOS sector 8)"
+station_type="CTR"
+
+[ESOS_9_CTR]
+frequency=127530000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector 9)"
+station_type="CTR"
+
+[ESOS_F_CTR]
+frequency=124430000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS Sector F)"
+station_type="CTR"
+
+[ESOS_K_CTR]
+frequency=131055000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector K)"
+station_type="CTR"
+
+[ESOS_N_CTR]
+frequency=132155000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS sector N)"
+station_type="CTR"
+
+[ESOS_XK_CTR]
+frequency=125600000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS K extra)"
+station_type="CTR"
+
+[ESOS_YK_CTR]
+frequency=133455000
+prefix="ESOS"
+radio_callsign="Sweden Control (ESOS K extra)"
+station_type="CTR"
+
+[ESOW_APP]
+frequency=125955000
+prefix="ESOW"
+radio_callsign="Västerås Approach"
+station_type="APP"
+
+[ESOW_TWR]
+frequency=130605000
+prefix="ESOW"
+radio_callsign="Västerås Tower"
+station_type="TWR"
+
+[ESPA_APP]
+frequency=125450000
+prefix="ESPA"
+radio_callsign="Kallax Approach"
+station_type="APP"
+
+[ESPA_F_APP]
+frequency=130800000
+prefix="ESPA"
+radio_callsign="Kallax Approach"
+station_type="APP"
+
+[ESPA_P_APP]
+frequency=119000000
+prefix="ESPA"
+radio_callsign="Kallax Precision"
+station_type="APP"
+
+[ESPA_TWR]
+frequency=128200000
+prefix="ESPA"
+radio_callsign="Kallax Tower"
+station_type="TWR"
+
+[ESPE_APP]
+frequency=124150000
+prefix="ESPE"
+radio_callsign="Vidsel Approach"
+station_type="APP"
+
+[ESPE_P_APP]
+frequency=135400000
+prefix="ESPE"
+radio_callsign="Vidsel Precision"
+station_type="APP"
+
+[ESPE_TWR]
+frequency=130400000
+prefix="ESPE"
+radio_callsign="Vidsel Tower"
+station_type="TWR"
+
+[ESPF_CTR]
+frequency=129450000
+prefix="ESPF"
+radio_callsign="Fighter Control (StriC N)"
+station_type="CTR"
+
+[ESSA_A_APP]
+frequency=120505000
+prefix="ESSA"
+radio_callsign="Stockholm Arrival (West)"
+station_type="APP"
+
+[ESSA_DEL]
+frequency=121830000
+prefix="ESSA"
+radio_callsign="Arlanda Delivery (high traffic loads)"
+station_type="DEL"
+
+[ESSA_E_APP]
+frequency=126655000
+prefix="ESSA"
+radio_callsign="Stockholm Approach (Sector E)"
+station_type="APP"
+
+[ESSA_E_DEP]
+frequency=130330000
+prefix="ESSA"
+radio_callsign="Stockholm Departure (East)"
+station_type="DEP"
+
+[ESSA_E_GND]
+frequency=121980000
+prefix="ESSA"
+radio_callsign="Arlanda Ground East (high traffic loads)"
+station_type="GND"
+
+[ESSA_E_TWR]
+frequency=128730000
+prefix="ESSA"
+radio_callsign="Arlanda Tower (RWY 08/26)"
+station_type="TWR"
+
+[ESSA_F_APP]
+frequency=119630000
+prefix="ESSA"
+radio_callsign="Stockholm Arrival (East)"
+station_type="APP"
+
+[ESSA_N_GND]
+frequency=121930000
+prefix="ESSA"
+radio_callsign="Arlanda Ground North (high traffic loads)"
+station_type="GND"
+
+[ESSA_S_TWR]
+frequency=125130000
+prefix="ESSA"
+radio_callsign="Arlanda Tower (RWY 01R/19L)"
+station_type="TWR"
+
+[ESSA_W_APP]
+frequency=123755000
+prefix="ESSA"
+radio_callsign="Stockholm Approach (Sector W)"
+station_type="APP"
+
+[ESSA_W_DEP]
+frequency=124105000
+prefix="ESSA"
+radio_callsign="Stockholm Departure (West)"
+station_type="DEP"
+
+[ESSA_W_GND]
+frequency=121705000
+prefix="ESSA"
+radio_callsign="Arlanda Ground West"
+station_type="GND"
+
+[ESSA_W_TWR]
+frequency=118505000
+prefix="ESSA"
+radio_callsign="Arlanda Tower"
+station_type="TWR"
+
+[ESSB_APP]
+frequency=120155000
+prefix="ESSB"
+radio_callsign="Stockholm Approach (Sector S)"
+station_type="APP"
+
+[ESSB_GND]
+frequency=121605000
+prefix="ESSB"
+radio_callsign="Bromma Ground"
+station_type="GND"
+
+[ESSB_TWR]
+frequency=118105000
+prefix="ESSB"
+radio_callsign="Bromma Tower"
+station_type="TWR"
+
+[ESSD_TWR]
+frequency=127305000
+prefix="ESSD"
+radio_callsign="Borlänge Tower"
+station_type="TWR"
+
+[ESSL_TWR]
+frequency=118805000
+prefix="ESSL"
+radio_callsign="Saab Tower"
+station_type="TWR"
+
+[ESSP_APP]
+frequency=132955000
+prefix="ESSP"
+radio_callsign="Östgöta Approach"
+station_type="APP"
+
+[ESSP_TWR]
+frequency=120355000
+prefix="ESSP"
+radio_callsign="Kungsängen Tower"
+station_type="TWR"
+
+[ESSR_CTR]
+frequency=130900000
+prefix="ESSR"
+radio_callsign="RTC Stockholm"
+station_type="CTR"
+
+[ESST_I_TWR]
+frequency=122055000
+prefix="ESST"
+radio_callsign="Torsby Information"
+station_type="TWR"
+
+[ESSU_I_TWR]
+frequency=126855000
+prefix="ESSU"
+radio_callsign="Eskilstuna Information"
+station_type="TWR"
+
+[ESSV_APP]
+frequency=126155000
+prefix="ESSV"
+radio_callsign="Visby Approach"
+station_type="APP"
+
+[ESSV_TWR]
+frequency=120305000
+prefix="ESSV"
+radio_callsign="Visby Tower"
+station_type="TWR"
+
+[ESTA_APP]
+frequency=132455000
+prefix="ESTA"
+radio_callsign="Ängelholm Approach"
+station_type="APP"
+
+[ESTA_TWR]
+frequency=127105000
+prefix="ESTA"
+radio_callsign="Ängelholm Tower"
+station_type="TWR"
+
+[ESTL_APP]
+frequency=129555000
+prefix="ESTL"
+radio_callsign="Ljungbyhed Approach"
+station_type="APP"
+
+[ESTL_GND]
+frequency=121655000
+prefix="ESTL"
+radio_callsign="Ljungbyhed Ground"
+station_type="GND"
+
+[ESTL_TWR]
+frequency=130705000
+prefix="ESTL"
+radio_callsign="Ljungbyhed Tower"
+station_type="TWR"
+
+[ESUP_I_TWR]
+frequency=118380000
+prefix="ESUP"
+radio_callsign="Pajala Information"
+station_type="TWR"
+
+[ESUT_I_TWR]
+frequency=122980000
+prefix="ESUT"
+radio_callsign="Hemavan Information"
+station_type="TWR"
+

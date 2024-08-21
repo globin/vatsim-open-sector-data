@@ -1,0 +1,395 @@
+[LSGC]
+frequency = 134850000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSGE]
+frequency = 128905000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSGN]
+frequency = 134030000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSGS]
+frequency = 124225000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSC]
+frequency = 135015000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSAS_I_CTR]
+frequency = 124700000
+prefix = "LSAS"
+radio_callsign = "Swiss Information"
+station_type = "CTR"
+
+[LSZC]
+frequency = 133050000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar (Zurich)"
+station_type = "CTR"
+
+[LSZE]
+frequency = 133905000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSZN]
+frequency = 136155000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[LSZS]
+frequency = 128050000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar (Zurich South)"
+station_type = "CTR"
+
+[LSZW]
+frequency = 135680000
+prefix = "LSAS"
+radio_callsign = "Swiss Radar"
+station_type = "CTR"
+
+[ARFA]
+frequency = 119920000
+prefix = "LSZR"
+radio_callsign = "Alps Radar"
+station_type = "APP"
+
+[LSGB_I_TWR]
+frequency = 122155000
+prefix = "LSGB"
+radio_callsign = "Bex Info"
+station_type = "TWR"
+
+[LSGC_TWR]
+frequency = 118125000
+prefix = "LSGC"
+radio_callsign = "Les Eplatures Tower"
+station_type = "TWR"
+
+[LSGE_I_TWR]
+frequency = 120630000
+prefix = "LSGE"
+radio_callsign = "Ecuvillens Info"
+station_type = "TWR"
+
+[LSGG_A_GND]
+frequency = 121855000
+prefix = "LSGG"
+radio_callsign = "Geneva Apron"
+station_type = "GND"
+
+[LSGG_APP]
+frequency = 136255000
+prefix = "LSGG"
+radio_callsign = "Geneva Arrival"
+station_type = "APP"
+
+[LSGG_DEP]
+frequency = 119530000
+prefix = "LSGG"
+radio_callsign = "Geneva Departure"
+station_type = "DEP"
+
+[LSGG_F_APP]
+frequency = 120305000
+prefix = "LSGG"
+radio_callsign = "Geneva Final"
+station_type = "APP"
+
+[LSGG_GND]
+frequency = 121680000
+prefix = "LSGG"
+radio_callsign = "Geneva Ground"
+station_type = "GND"
+
+[LSGG_TWR]
+frequency = 118700000
+prefix = "LSGG"
+radio_callsign = "Geneva Tower"
+station_type = "TWR"
+
+[LSGK_I_TWR]
+frequency = 119430000
+prefix = "LSZS"
+radio_callsign = "Saanen Info"
+station_type = "TWR"
+
+[LSGL_I_TWR]
+frequency = 123205000
+prefix = "LSGL"
+radio_callsign = "Lausanne Info"
+station_type = "TWR"
+
+[LSGN_I_TWR]
+frequency = 123605000
+prefix = "LSGN"
+radio_callsign = "Neuchatel Info"
+station_type = "TWR"
+
+[LSGS_APP]
+frequency = 126825000
+prefix = "LSGS"
+radio_callsign = "Sion Radar"
+station_type = "APP"
+
+[LSGS_GND]
+frequency = 121705000
+prefix = "LSGS"
+radio_callsign = "Sion Ground"
+station_type = "GND"
+
+[LSGS_TWR]
+frequency = 118275000
+prefix = "LSGS"
+radio_callsign = "Sion Tower"
+station_type = "TWR"
+
+[LSMD_APP]
+frequency = 134950000
+prefix = "LSMD"
+radio_callsign = "Dübendorf Arrival"
+station_type = "APP"
+
+[LSMD_TWR]
+frequency = 118975000
+prefix = "LSMD"
+radio_callsign = "Dübendorf Tower"
+station_type = "TWR"
+
+[LSME_APP]
+frequency = 119500000
+prefix = "LSME"
+radio_callsign = "Emmen Radar"
+station_type = "APP"
+
+[LSME_TWR]
+frequency = 118000000
+prefix = "LSME"
+radio_callsign = "Emmen Tower"
+station_type = "TWR"
+
+[LSMM_TWR]
+frequency = 130150000
+prefix = "LSMM"
+radio_callsign = "Meiringen Tower"
+station_type = "TWR"
+
+[LSPM_I_TWR]
+frequency = 118530000
+prefix = "LSPM"
+radio_callsign = "Ambri Info"
+station_type = "TWR"
+
+[LSPV_I_TWR]
+frequency = 123205000
+prefix = "LSPV"
+radio_callsign = "Wangen-Lachen Info"
+station_type = "TWR"
+
+[LSTA_I_TWR]
+frequency = 129880000
+prefix = "LSTA"
+radio_callsign = "Raron Info"
+station_type = "TWR"
+
+[LSTZ_I_TWR]
+frequency = 121230000
+prefix = "LSTZ"
+radio_callsign = "Zweisimmen Info"
+station_type = "TWR"
+
+[LSZA_DEL]
+frequency = 121780000
+prefix = "LSZA"
+radio_callsign = "Lugano Delivery"
+station_type = "DEL"
+
+[LSZA_TWR]
+frequency = 120250000
+prefix = "LSZA"
+radio_callsign = "Lugano Tower"
+station_type = "TWR"
+
+[LSZB_APP]
+frequency = 127325000
+prefix = "LSZB"
+radio_callsign = "Bern Arrival"
+station_type = "APP"
+
+[LSZB_DEL]
+frequency = 121690000
+prefix = "LSZB"
+radio_callsign = "Bern Delivery"
+station_type = "DEL"
+
+[LSZB_TWR]
+frequency = 121025000
+prefix = "LSZB"
+radio_callsign = "Bern Tower"
+station_type = "TWR"
+
+[LSZC_TWR]
+frequency = 119625000
+prefix = "LSZC"
+radio_callsign = "Buochs Tower"
+station_type = "TWR"
+
+[LSZE_I_TWR]
+frequency = 123505000
+prefix = "LSZE"
+radio_callsign = "Bad Ragaz Info"
+station_type = "TWR"
+
+[LSZF_I_TWR]
+frequency = 123555000
+prefix = "LSZF"
+radio_callsign = "Birrfeld Info"
+station_type = "TWR"
+
+[LSZG_TWR]
+frequency = 120105000
+prefix = "LSZG"
+radio_callsign = "Grenchen Tower"
+station_type = "TWR"
+
+[LSZH_2_TWR]
+frequency = 120230000
+prefix = "LSZH"
+radio_callsign = "Zurich Tower"
+station_type = "TWR"
+
+[ZHA]
+frequency = 135230000
+prefix = "LSZH"
+radio_callsign = "Zurich Arrival"
+station_type = "APP"
+
+[LSZH_DEL]
+frequency = 121930000
+prefix = "LSZH"
+radio_callsign = "Zurich Delivery"
+station_type = "DEL"
+
+[LSZH_DEP]
+frequency = 125955000
+prefix = "LSZH"
+radio_callsign = "Zurich Departure"
+station_type = "DEP"
+
+[LSZH_F_APP]
+frequency = 125330000
+prefix = "LZSH"
+radio_callsign = "Zurich Final"
+station_type = "APP"
+
+[LSZH_GND]
+frequency = 121905000
+prefix = "LSZH"
+radio_callsign = "Zurich Ground"
+station_type = "GND"
+
+[LSZH_N_GND]
+frequency = 121855000
+prefix = "LSZH"
+radio_callsign = "Zurich Apron"
+station_type = "GND"
+
+[LSZH_S_GND]
+frequency = 121755000
+prefix = "LSZH"
+radio_callsign = "Zurich Apron"
+station_type = "GND"
+
+[LSZH_TWR]
+frequency = 118100000
+prefix = "LSZH"
+radio_callsign = "Zurich Tower"
+station_type = "TWR"
+
+[LSZH_W_APP]
+frequency = 130560000
+prefix = "LSZH"
+radio_callsign = "Zurich Arrival"
+station_type = "APP"
+
+[LSZI_I_TWR]
+frequency = 119555000
+prefix = "LSZI"
+radio_callsign = "Fricktal-Schupfart Info"
+station_type = "TWR"
+
+[LSZL_GND]
+frequency = 121700000
+prefix = "LSZL"
+radio_callsign = "Locarno Ground"
+station_type = "GND"
+
+[LSZL_TWR]
+frequency = 134825000
+prefix = "LSZL"
+radio_callsign = "Locarno Tower"
+station_type = "TWR"
+
+[LSZM_I_TWR]
+frequency = 134830000
+prefix = "LSZM"
+radio_callsign = "Mollis Info"
+station_type = "TWR"
+
+[LSZO_I_TWR]
+frequency = 122455000
+prefix = "LSZO"
+radio_callsign = "Luzern-Beromunster Info"
+station_type = "TWR"
+
+[LSZP_I_TWR]
+frequency = 123155000
+prefix = "LSZP"
+radio_callsign = "Biel-Kappelen Info"
+station_type = "TWR"
+
+[LSZR_TWR]
+frequency = 135430000
+prefix = "LSZR"
+radio_callsign = "St. Gallen Tower"
+station_type = "TWR"
+
+[LSZS_I_TWR]
+frequency = 135325000
+prefix = "LSZS"
+radio_callsign = "Samedan Info"
+station_type = "TWR"
+
+[LSZT_I_TWR]
+frequency = 119305000
+prefix = "LSZT"
+radio_callsign = "Lommis Info"
+station_type = "TWR"
+
+[LSZV_I_TWR]
+frequency = 118355000
+prefix = "LSZV"
+radio_callsign = "Sitterdorf Info"
+station_type = "TWR"
+
+[LSZW_I_TWR]
+frequency = 123255000
+prefix = "LSZW"
+radio_callsign = "Thun Info"
+station_type = "TWR"

@@ -1,0 +1,541 @@
+[LIRR_M_CTR]
+frequency = 123225000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "CTR"
+
+[LIRR_N_CTR]
+frequency = 124200000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "CTR"
+
+[LIRR_S_CTR]
+frequency = 128800000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "CTR"
+
+[LIRR_U_CTR]
+frequency = 132525000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "CTR"
+
+
+[LIUP_CTR]
+frequency = 132900000
+prefix = "LIUP"
+radio_callsign = "Italy Radar (LIMM Lirr LIBB above FL195)"
+station_type = "CTR"
+
+[LIRR_I_CTR]
+frequency = 134125000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "CTR"
+
+
+[LIAP_I_TWR]
+frequency = 122500000
+prefix = "LIAP"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICA_APP]
+frequency = 118800000
+prefix = "LICA"
+radio_callsign = ""
+station_type = "APP"
+
+[LICA_TWR]
+frequency = 125900000
+prefix = "LICA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICB_TWR]
+frequency = 125275000
+prefix = "LICB"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICC_APP]
+frequency = 119250000
+prefix = "LICC"
+radio_callsign = ""
+station_type = "APP"
+
+[LICC_F_APP]
+frequency = 120805000
+prefix = "LICC"
+radio_callsign = ""
+station_type = "APP"
+
+[LICC_GND]
+frequency = 129725000
+prefix = "LICC"
+radio_callsign = ""
+station_type = "GND"
+
+[LICC_TWR]
+frequency = 118700000
+prefix = "LICC"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICD_APP]
+frequency = 118030000
+prefix = "LICD"
+radio_callsign = ""
+station_type = "APP"
+
+[LICD_TWR]
+frequency = 123500000
+prefix = "LICD"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICG_APP]
+frequency = 119350000
+prefix = "LICG"
+radio_callsign = ""
+station_type = "APP"
+
+[LICG_TWR]
+frequency = 118450000
+prefix = "LICG"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICJ_APP]
+frequency = 120200000
+prefix = "LICJ"
+radio_callsign = ""
+station_type = "APP"
+
+[LICJ_GND]
+frequency = 121625000
+prefix = "LICJ"
+radio_callsign = ""
+station_type = "GND"
+
+[LICJ_TWR]
+frequency = 119050000
+prefix = "LICJ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICP_I_TWR]
+frequency = 122600000
+prefix = "LICP"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICR_APP]
+frequency = 120275000
+prefix = "LICR"
+radio_callsign = ""
+station_type = "APP"
+
+[LICR_TWR]
+frequency = 118250000
+prefix = "LICR"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICT_APP]
+frequency = 119950000
+prefix = "LICT"
+radio_callsign = ""
+station_type = "APP"
+
+[LICT_TWR]
+frequency = 119730000
+prefix = "LICT"
+radio_callsign = ""
+station_type = "TWR"
+
+[LICZ_GND]
+frequency = 121955000
+prefix = "LICZ"
+radio_callsign = ""
+station_type = "GND"
+
+[LICZ_TWR]
+frequency = 118055000
+prefix = "LICZ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIEA_APP]
+frequency = 128550000
+prefix = "LIEA"
+radio_callsign = "Alghero Approach"
+station_type = "APP"
+
+[LIEA_TWR]
+frequency = 118850000
+prefix = "LIEA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIED_TWR]
+frequency = 122100000
+prefix = "LIED"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIEE_APP]
+frequency = 119275000
+prefix = "LIEE"
+radio_callsign = "Cagliari Radar"
+station_type = "APP"
+
+[LIEE_GND]
+frequency = 125430000
+prefix = "LIEE"
+radio_callsign = ""
+station_type = "GND"
+
+[LIEE_TWR]
+frequency = 120605000
+prefix = "LIEE"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIEO_APP]
+frequency = 125950000
+prefix = "LIEO"
+radio_callsign = ""
+station_type = "APP"
+
+[LIEO_GND]
+frequency = 121950000
+prefix = "LIEO"
+radio_callsign = ""
+station_type = "GND"
+
+[LIEO_TWR]
+frequency = 118975000
+prefix = "LIEO"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIER_I_TWR]
+frequency = 122600000
+prefix = "LIER"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIET_I_TWR]
+frequency = 119650000
+prefix = "LIET"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIQN_I_TWR]
+frequency = 123050000
+prefix = "LIQN"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIQS_I_TWR]
+frequency = 122600000
+prefix = "LIQS"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRA_DEL]
+frequency = 131505000
+prefix = "LIRA"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIRA_GND]
+frequency = 121750000
+prefix = "LIRA"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRA_TWR]
+frequency = 120500000
+prefix = "LIRA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRE_GND]
+frequency = 121600000
+prefix = "LIRE"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRE_TWR]
+frequency = 118050000
+prefix = "LIRE"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRF_A_GND]
+frequency = 122125000
+prefix = "LIRF"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRF_DEL]
+frequency = 121800000
+prefix = "LIRF"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIRF_E_TWR]
+frequency = 127625000
+prefix = "LIRF"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRF_F_APP]
+frequency = 119200000
+prefix = "LIRF"
+radio_callsign = "Roma Fiumicino Director"
+station_type = "APP"
+
+[LIRF_GND]
+frequency = 121900000
+prefix = "LIRF"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRF_P_DEL]
+frequency = 129075000
+prefix = "LIRF"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIRF_TWR]
+frequency = 118700000
+prefix = "LIRF"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRG_TWR]
+frequency = 122200000
+prefix = "LIRG"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRH_APP]
+frequency = 122600000
+prefix = "LIRH"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRH_TWR]
+frequency = 119350000
+prefix = "LIRH"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRI_I_TWR]
+frequency = 119175000
+prefix = "LIRI"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRJ_I_TWR]
+frequency = 123700000
+prefix = "LIRJ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRL_APP]
+frequency = 126550000
+prefix = "LIRL"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRL_TWR]
+frequency = 119150000
+prefix = "LIRL"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRM_TWR]
+frequency = 118025000
+prefix = "LIRM"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRN_1_APP]
+frequency = 134200000
+prefix = "LIRN"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRN_APP]
+frequency = 124350000
+prefix = "LIRN"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRN_DEL]
+frequency = 120950000
+prefix = "LIRN"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIRN_F_APP]
+frequency = 120950000
+prefix = "LIRN"
+radio_callsign = "Napoli Director"
+station_type = "APP"
+
+[LIRN_GND]
+frequency = 121900000
+prefix = "LIRN"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRN_P_DEL]
+frequency = 131675000
+prefix = "LIRN"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIRN_TWR]
+frequency = 118500000
+prefix = "LIRN"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRP_APP]
+frequency = 126080000
+prefix = "LIRP"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRP_E_APP]
+frequency = 124280000
+prefix = "LIRP"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRP_GND]
+frequency = 120080000
+prefix = "LIRP"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRP_TWR]
+frequency = 118755000
+prefix = "LIRP"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRQ_APP]
+frequency = 125825000
+prefix = "LIRQ"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRQ_GND]
+frequency = 122100000
+prefix = "LIRQ"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRQ_TWR]
+frequency = 118300000
+prefix = "LIRQ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRR_D_APP]
+frequency = 131250000
+prefix = "LIRR"
+radio_callsign = "Roma Director"
+station_type = "APP"
+
+[LIRR_DE_APP]
+frequency = 131250000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRR_DW_APP]
+frequency = 119200000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRR_E_APP]
+frequency = 127950000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRR_L_APP]
+frequency = 119200000
+prefix = "LIRR"
+radio_callsign = "Roma Radar"
+station_type = "APP"
+
+[LIRR_N_APP]
+frequency = 125500000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRR_R_APP]
+frequency = 131100000
+prefix = "LIRR"
+radio_callsign = "Roma Radar"
+station_type = "APP"
+
+[LIRR_S_APP]
+frequency = 130900000
+prefix = "LIRR"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRS_APP]
+frequency = 124525000
+prefix = "LIRS"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRS_TWR]
+frequency = 128105000
+prefix = "LIRS"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRU_GND]
+frequency = 122700000
+prefix = "LIRU"
+radio_callsign = ""
+station_type = "GND"
+
+[LIRU_TWR]
+frequency = 123800000
+prefix = "LIRU"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRV_TWR]
+frequency = 127150000
+prefix = "LIRV"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIRZ_APP]
+frequency = 125600000
+prefix = "LIRZ"
+radio_callsign = ""
+station_type = "APP"
+
+[LIRZ_TWR]
+frequency = 118100000
+prefix = "LIRZ"
+radio_callsign = ""
+station_type = "TWR"

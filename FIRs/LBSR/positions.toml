@@ -1,0 +1,90 @@
+[LBBG_APP]
+frequency=119650000
+prefix="LBBG"
+radio_callsign="Burgas Approach"
+station_type="APP"
+
+[LBBG_TWR]
+frequency=118000000
+prefix="LBBG"
+radio_callsign="Burgas Tower"
+station_type="TWR"
+
+[LBGO_TWR]
+frequency=133500000
+prefix="LBGO"
+radio_callsign="Gorna Tower"
+station_type="TWR"
+
+[LBPD_TWR]
+frequency=133600000
+prefix="LBPD"
+radio_callsign="Plovdiv Tower"
+station_type="TWR"
+
+[LBSF_APP]
+frequency=123700000
+prefix="LBSF"
+radio_callsign="Sofia Radar"
+station_type="APP"
+
+[LBSF_TWR]
+frequency=118100000
+prefix="LBSF"
+radio_callsign="Sofia Tower"
+station_type="TWR"
+
+[LBSR_B_CTR]
+frequency=132950000
+prefix="LBSR"
+radio_callsign="Sofia Control Sector Varna East (high traffic)"
+station_type="CTR"
+
+[LBSR_CTR]
+frequency=131225000
+prefix="LBSR"
+radio_callsign="Sofia Control (main or north sector)"
+station_type="CTR"
+
+[LBSR_E_CTR]
+frequency=129100000
+prefix="LBSR"
+radio_callsign="Sofia Control East Sector (high traffic loads)"
+station_type="CTR"
+
+[LBSR_I_CTR]
+frequency=130600000
+prefix="LBSR"
+radio_callsign="Sofia Information"
+station_type="CTR"
+
+[LBSR_L_CTR]
+frequency=132250000
+prefix="LBSR"
+radio_callsign="Sofia Varna Control (main or west sector)"
+station_type="CTR"
+
+[LBSR_S_CTR]
+frequency=130150000
+prefix="LBSR"
+radio_callsign="Sofia Sector South Control (high traffic loads)"
+station_type="CTR"
+
+[LBSR_V_CTR]
+frequency=134700000
+prefix="LBSR"
+radio_callsign="Sofia Control Sector"
+station_type="CTR"
+
+[LBWN_APP]
+frequency=130450000
+prefix="LBWN"
+radio_callsign="Varna Approach"
+station_type="APP"
+
+[LBWN_TWR]
+frequency=119500000
+prefix="LBWN"
+radio_callsign="Varna Tower"
+station_type="TWR"
+

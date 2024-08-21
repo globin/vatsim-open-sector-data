@@ -1,0 +1,75 @@
+[EEEI_TWR]
+frequency = 122100000
+prefix = "EEEI"
+radio_callsign = "Ämari Tower"
+station_type = "TWR"
+
+[EEKA_I_TWR]
+frequency = 133405000
+prefix = "EEKA"
+radio_callsign = "Kärdla Information"
+station_type = "TWR"
+
+[EEKE_I_TWR]
+frequency = 118055000
+prefix = "EEKE"
+radio_callsign = "Kuressaare Information"
+station_type = "TWR"
+
+[EEPU_I_TWR]
+frequency = 135305000
+prefix = "EEPU"
+radio_callsign = "Pärnu Information"
+station_type = "TWR"
+
+[EETN_APP]
+frequency = 127905000
+prefix = "EETN"
+radio_callsign = "Tallinn Radar"
+station_type = "APP"
+
+[EETN_D_APP]
+frequency = 125400000
+prefix = "EETN"
+name = "Director"
+radio_callsign = "Tallinn Radar"
+station_type = "APP"
+
+[EETN_F_APP]
+frequency = 126700000
+prefix = "EETN"
+name = "INTOR Feeder"
+radio_callsign = "Tallinn Radar"
+station_type = "APP"
+
+[EETN_TWR]
+frequency = 135905000
+prefix = "EETN"
+radio_callsign = "Tallinn Tower"
+station_type = "TWR"
+
+[EETT_CTR]
+frequency = 134320000
+prefix = "EETT"
+radio_callsign = "Tallinn Control"
+station_type = "CTR"
+
+[EETT_E_CTR]
+frequency = 119380000
+prefix = "EETT"
+name = "East"
+radio_callsign = "Tallinn Control"
+station_type = "CTR"
+
+[EETT_W_CTR]
+frequency = 134325000
+prefix = "EETT"
+name = "West"
+radio_callsign = "Tallinn Control"
+station_type = "CTR"
+
+[EETU_TWR]
+frequency = 133900000
+prefix = "EETU"
+radio_callsign = "Tartu Tower"
+station_type = "TWR"

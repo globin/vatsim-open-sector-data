@@ -1,0 +1,72 @@
+[EVAD_RDO]
+frequency=127130000
+prefix="EVAD"
+radio_callsign="Adazi Radio"
+station_type="RDO"
+
+[EVGA_TWR]
+frequency=118155000
+prefix="EVGA"
+radio_callsign="Lielvarde Tower"
+station_type="TWR"
+
+[EVLA_TWR]
+frequency=129400000
+prefix="EVLA"
+radio_callsign="Liepaja Tower"
+station_type="TWR"
+
+[EVRA_APP]
+frequency=129925000
+prefix="EVRA"
+radio_callsign="Riga Approach"
+station_type="APP"
+
+[EVRA_B_APP]
+frequency=134850000
+prefix="EVRA"
+radio_callsign="Riga Approach"
+station_type="APP"
+
+[EVRA_GND]
+frequency=118805000
+prefix="EVRA"
+radio_callsign="Riga Ground"
+station_type="GND"
+
+[EVRA_TWR]
+frequency=118105000
+prefix="EVRA"
+radio_callsign="Riga Tower"
+station_type="TWR"
+
+[EVRR_CTR]
+frequency=135100000
+prefix="EVRR"
+radio_callsign="Riga Control"
+station_type="CTR"
+
+[EVRR_E_CTR]
+frequency=133200000
+prefix="EVRR"
+radio_callsign="Riga Control"
+station_type="CTR"
+
+[EVRR_N_CTR]
+frequency=135100000
+prefix="EVRR"
+radio_callsign="Riga Control"
+station_type="CTR"
+
+[EVRR_S_CTR]
+frequency=134750000
+prefix="EVRR"
+radio_callsign="Riga Control"
+station_type="CTR"
+
+[EVRR_W_CTR]
+frequency=134125000
+prefix="EVRR"
+radio_callsign="Riga Control West"
+station_type="CTR"
+

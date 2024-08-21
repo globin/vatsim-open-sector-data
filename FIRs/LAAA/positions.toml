@@ -1,0 +1,42 @@
+[LAAA_CTR]
+frequency=127500000
+prefix="LATI"
+radio_callsign="Tirana Control"
+station_type="CTR"
+
+[LAGJ_TWR]
+frequency=129500000
+prefix="LAGJ"
+radio_callsign="Gjadar Tower"
+station_type="TWR"
+
+[LAKU_I_TWR]
+frequency=118370000
+prefix="LAKU"
+radio_callsign="Kukes AFIS"
+station_type="TWR"
+
+[LAKV_TWR]
+frequency=124520000
+prefix="LAKV"
+radio_callsign="Kucova Tower"
+station_type="TWR"
+
+[LATI_APP]
+frequency=133150000
+prefix="LATI"
+radio_callsign="Tirana Approach"
+station_type="APP"
+
+[LATI_GND]
+frequency=136250000
+prefix="LATI"
+radio_callsign="Tirana Ground"
+station_type="GND"
+
+[LATI_TWR]
+frequency=122500000
+prefix="LATI"
+radio_callsign="Tirana Tower"
+station_type="TWR"
+

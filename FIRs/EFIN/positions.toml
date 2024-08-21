@@ -1,0 +1,425 @@
+[EFET_I_TWR]
+frequency = 122450000
+prefix = "EFET"
+radio_callsign = "Enontekiö AFIS"
+station_type = "TWR"
+
+[EFHA_APP]
+frequency = 124550000
+prefix = "EFHA"
+radio_callsign = "Halli Radar"
+station_type = "APP"
+
+[EFHA_TWR]
+frequency = 128900000
+prefix = "EFHA"
+radio_callsign = "Halli Tower"
+station_type = "TWR"
+
+[EFHK_A_APP]
+frequency = 124320000
+prefix = "EFHK"
+radio_callsign = "Helsinki Arrival"
+station_type = "APP"
+
+[EFHK_C_GND]
+frequency = 133850000
+prefix = "EFHK"
+radio_callsign = "Helsinki Coordinator"
+station_type = "GND"
+
+[EFHK_D_GND]
+frequency = 121675000
+prefix = "EFHK"
+radio_callsign = "Helsinki De-ice"
+station_type = "GND"
+
+[EFHK_DEL]
+frequency = 118120000
+prefix = "EFHK"
+radio_callsign = "Helsinki Ground"
+station_type = "DEL"
+
+[EFHK_E_APP]
+frequency = 119100000
+prefix = "EFHK"
+radio_callsign = "Helsinki Radar"
+station_type = "APP"
+
+[EFHK_E_TWR]
+frequency = 118600000
+prefix = "EFHK"
+radio_callsign = "Helsinki Tower"
+station_type = "TWR"
+
+[EFHK_GND]
+frequency = 121800000
+prefix = "EFHK"
+radio_callsign = "Helsinki Ground"
+station_type = "GND"
+
+[EFHK_R_APP]
+frequency = 119900000
+prefix = "EFHK"
+radio_callsign = "Helsinki Arrival"
+station_type = "APP"
+
+[EFHK_W_APP]
+frequency = 129850000
+prefix = "EFHK"
+radio_callsign = "Helsinki Radar"
+station_type = "APP"
+
+[EFHK_W_TWR]
+frequency = 118850000
+prefix = "EFHK"
+radio_callsign = "Helsinki Tower"
+station_type = "TWR"
+
+[EFIN_A_CTR]
+frequency = 127420000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_B_CTR]
+frequency = 125220000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_C_CTR]
+frequency = 132670000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_D_CTR]
+frequency = 121300000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_E_CTR]
+frequency = 134570000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_F_CTR]
+frequency = 132720000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_G_CTR]
+frequency = 127100000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_H_CTR]
+frequency = 124200000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_J_CTR]
+frequency = 126100000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_K_CTR]
+frequency = 123770000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_L_CTR]
+frequency = 136650000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_M_CTR]
+frequency = 132320000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_N_CTR]
+frequency = 135520000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_V_CTR]
+frequency = 126300000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_Y_CTR]
+frequency = 131600000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIN_Z_CTR]
+frequency = 131650000
+prefix = "EFIN"
+radio_callsign = "Helsinki Control"
+station_type = "CTR"
+
+[EFIV_I_TWR]
+frequency = 118000000
+prefix = "EFIV"
+radio_callsign = "Ivalo AFIS"
+station_type = "TWR"
+
+[EFIV_TWR]
+frequency = 118000000
+prefix = "EFIV"
+radio_callsign = "Ivalo Tower"
+station_type = "TWR"
+
+[EFJO_TWR]
+frequency = 120900000
+prefix = "EFJO"
+radio_callsign = "Joensuu Tower"
+station_type = "TWR"
+
+[EFJY_APP]
+frequency = 127000000
+prefix = "EFJY"
+radio_callsign = "Jyväskylä Radar"
+station_type = "APP"
+
+[EFJY_GND]
+frequency = 121850000
+prefix = "EFJY"
+radio_callsign = "Jyväskylä Ground"
+station_type = "GND"
+
+[EFJY_R_APP]
+frequency = 128800000
+prefix = "EFJY"
+radio_callsign = "Jyväskylä Arrival"
+station_type = "APP"
+
+[EFJY_TWR]
+frequency = 118000000
+prefix = "EFJY"
+radio_callsign = "Jyväskylä Tower"
+station_type = "TWR"
+
+[EFKE_TWR]
+frequency = 119400000
+prefix = "EFKE"
+radio_callsign = "Kemi Tower"
+station_type = "TWR"
+
+[EFKI_I_TWR]
+frequency = 118100000
+prefix = "EFKI"
+radio_callsign = "Kajaani AFIS"
+station_type = "TWR"
+
+[EFKK_APP]
+frequency = 120100000
+prefix = "EFIN"
+radio_callsign = "Kruunu Radar"
+station_type = "APP"
+
+[EFKK_TWR]
+frequency = 120100000
+prefix = "EFKK"
+radio_callsign = "Kruunu Tower"
+station_type = "TWR"
+
+[EFKS_I_TWR]
+frequency = 118650000
+prefix = "EFKS"
+radio_callsign = "Kuusamo AFIS"
+station_type = "TWR"
+
+[EFKS_TWR]
+frequency = 118650000
+prefix = "EFKS"
+radio_callsign = "Kuusamo Tower"
+station_type = "TWR"
+
+[EFKT_APP]
+frequency = 118950000
+prefix = "EFIN"
+radio_callsign = "Kittilä Radar"
+station_type = "APP"
+
+[EFKT_I_TWR]
+frequency = 118950000
+prefix = "EFKT"
+radio_callsign = "Kittilä AFIS"
+station_type = "TWR"
+
+[EFKT_TWR]
+frequency = 118950000
+prefix = "EFKT"
+radio_callsign = "Kittilä Tower"
+station_type = "TWR"
+
+[EFKU_APP]
+frequency = 130600000
+prefix = "EFKU"
+radio_callsign = "Kuopio Radar"
+station_type = "APP"
+
+[EFKU_R_APP]
+frequency = 122850000
+prefix = "EFKU"
+radio_callsign = "Kuopio Arrival"
+station_type = "APP"
+
+[EFKU_TWR]
+frequency = 120150000
+prefix = "EFKU"
+radio_callsign = "Kuopio Tower"
+station_type = "TWR"
+
+[EFLP_TWR]
+frequency = 120200000
+prefix = "EFLP"
+radio_callsign = "Lappeenranta Tower"
+station_type = "TWR"
+
+[EFMA_APP]
+frequency = 119600000
+prefix = "EFMA"
+radio_callsign = "Mariehamn Radar"
+station_type = "APP"
+
+[EFMA_TWR]
+frequency = 119600000
+prefix = "EFMA"
+radio_callsign = "Mariehamn Tower"
+station_type = "TWR"
+
+[EFMI_I_TWR]
+frequency = 123000000
+prefix = "EFMI"
+radio_callsign = "Mikkeli AFIS"
+station_type = "TWR"
+
+[EFOU_APP]
+frequency = 118150000
+prefix = "EFOU"
+radio_callsign = "Oulu Radar"
+station_type = "APP"
+
+[EFOU_TWR]
+frequency = 124400000
+prefix = "EFOU"
+radio_callsign = "Oulu Tower"
+station_type = "TWR"
+
+[EFPO_APP]
+frequency = 128650000
+prefix = "EFPO"
+radio_callsign = "Pori Radar"
+station_type = "APP"
+
+[EFPO_TWR]
+frequency = 119250000
+prefix = "EFPO"
+radio_callsign = "Pori Tower"
+station_type = "TWR"
+
+[EFRO_APP]
+frequency = 129900000
+prefix = "EFRO"
+radio_callsign = "Rovaniemi Radar"
+station_type = "APP"
+
+[EFRO_DEL]
+frequency = 118520000
+prefix = "EFRO"
+radio_callsign = "Rovaniemi Delivery"
+station_type = "DEL"
+
+[EFRO_R_APP]
+frequency = 118600000
+prefix = "EFRO"
+radio_callsign = "Rovaniemi Arrival"
+station_type = "APP"
+
+[EFRO_TWR]
+frequency = 118700000
+prefix = "EFRO"
+radio_callsign = "Rovaniemi Tower"
+station_type = "TWR"
+
+[EFSA_I_TWR]
+frequency = 118800000
+prefix = "EFSA"
+radio_callsign = "Savonlinna AFIS"
+station_type = "TWR"
+
+[EFSI_I_TWR]
+frequency = 123600000
+prefix = "EFSI"
+radio_callsign = "Seinäjoki AFIS"
+station_type = "TWR"
+
+[EFTP_APP]
+frequency = 126200000
+prefix = "EFTP"
+radio_callsign = "Pirkkala Radar"
+station_type = "APP"
+
+[EFTP_GND]
+frequency = 124270000
+prefix = "EFTP"
+radio_callsign = "Pirkkala Ground"
+station_type = "GND"
+
+[EFTP_R_APP]
+frequency = 120250000
+prefix = "EFTP"
+radio_callsign = "Pirkkala Arrival"
+station_type = "APP"
+
+[EFTP_TWR]
+frequency = 118700000
+prefix = "EFTP"
+radio_callsign = "Pirkkala Tower"
+station_type = "TWR"
+
+[EFTU_APP]
+frequency = 120470000
+prefix = "EFTU"
+radio_callsign = "Turku Radar"
+station_type = "APP"
+
+[EFTU_TWR]
+frequency = 118300000
+prefix = "EFTU"
+radio_callsign = "Turku Tower"
+station_type = "TWR"
+
+[EFUT_TWR]
+frequency = 130800000
+prefix = "EFUT"
+radio_callsign = "Utti Tower"
+station_type = "TWR"
+
+[EFVA_APP]
+frequency = 125850000
+prefix = "EFVA"
+radio_callsign = "Vaasa Radar"
+station_type = "APP"
+
+[EFVA_TWR]
+frequency = 120950000
+prefix = "EFVA"
+radio_callsign = "Vaasa Tower"
+station_type = "TWR"

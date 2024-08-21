@@ -1,0 +1,228 @@
+[BIAR_TWR]
+frequency=118200000
+prefix="BIAR"
+radio_callsign="Akureyri Tower"
+station_type="TWR"
+
+[BIBD_I_TWR]
+frequency=119100000
+prefix="BIBD"
+radio_callsign="Bildudalur Radio"
+station_type="TWR"
+
+[BIBL_I_TWR]
+frequency=118600000
+prefix="BIBL"
+radio_callsign="Blonduos Information"
+station_type="TWR"
+
+[BICC_1_FSS]
+frequency=127850000
+prefix="BIRD"
+radio_callsign="Iceland Radio"
+station_type="FSS"
+
+[BICC_2_FSS]
+frequency=126550000
+prefix="BICC"
+radio_callsign="Iceland Radio"
+station_type="FSS"
+
+[BICC_3_FSS]
+frequency=129625000
+prefix="BICC"
+radio_callsign="Iceland Radio"
+station_type="FSS"
+
+[BIEG_I_TWR]
+frequency=119400000
+prefix="BIEG"
+radio_callsign="Egilsstaðir Radio"
+station_type="TWR"
+
+[BIGJ_I_TWR]
+frequency=118600000
+prefix="BIGJ"
+radio_callsign="Gjogur Information"
+station_type="TWR"
+
+[BIGR_I_TWR]
+frequency=118100000
+prefix="BIGR"
+radio_callsign="Grimsey Information"
+station_type="TWR"
+
+[BIHK_I_TWR]
+frequency=118200000
+prefix="BIHK"
+radio_callsign="Holmavik Information"
+station_type="TWR"
+
+[BIHN_I_TWR]
+frequency=119100000
+prefix="BIHN"
+radio_callsign="Hornafjordur Radio"
+station_type="TWR"
+
+[BIHU_I_TWR]
+frequency=119200000
+prefix="BIHU"
+radio_callsign="Husavik Radio"
+station_type="TWR"
+
+[BIIS_I_TWR]
+frequency=118800000
+prefix="BIIS"
+radio_callsign="Ísafjörður Radio"
+station_type="TWR"
+
+[BIKF_APP]
+frequency=119300000
+prefix="BIKF"
+radio_callsign="Keflavik Approach"
+station_type="APP"
+
+[BIKF_DEL]
+frequency=121000000
+prefix="BIKF"
+radio_callsign="Keflavik Delivery"
+station_type="DEL"
+
+[BIKF_F_APP]
+frequency=119150000
+prefix="BIKF"
+radio_callsign="Keflavik Approach"
+station_type="APP"
+
+[BIKF_GND]
+frequency=121900000
+prefix="BIKF"
+radio_callsign="Keflavik Ground"
+station_type="GND"
+
+[BIKF_TWR]
+frequency=118300000
+prefix="BIKF"
+radio_callsign="Keflavik Tower"
+station_type="TWR"
+
+[BIKR_I_TWR]
+frequency=119100000
+prefix="BIKR"
+radio_callsign="Saudarkrokur Radio"
+station_type="TWR"
+
+[BINF_I_TWR]
+frequency=118100000
+prefix="BINF"
+radio_callsign="Nordfjordur Information"
+station_type="TWR"
+
+[BIRD_E1_CTR]
+frequency=126750000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_E2_CTR]
+frequency=132200000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_E3_CTR]
+frequency=128800000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_N1_CTR]
+frequency=133100000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_S1_CTR]
+frequency=119700000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_S2_CTR]
+frequency=125700000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_S3_CTR]
+frequency=128600000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_W1_CTR]
+frequency=124400000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_W2_CTR]
+frequency=127500000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRD_W3_CTR]
+frequency=128200000
+prefix="BIRD"
+radio_callsign="Reykjavik Control"
+station_type="CTR"
+
+[BIRF_I_TWR]
+frequency=118100000
+prefix="BIRF"
+radio_callsign="Rif Information"
+station_type="TWR"
+
+[BIRK_APP]
+frequency=119000000
+prefix="BIRK"
+radio_callsign="Reykjavik Approach"
+station_type="APP"
+
+[BIRK_GND]
+frequency=121700000
+prefix="BIRK"
+radio_callsign="Reykjavik Ground"
+station_type="GND"
+
+[BIRK_TWR]
+frequency=118000000
+prefix="BIRK"
+radio_callsign="Reykjavik Tower"
+station_type="TWR"
+
+[BITE_I_TWR]
+frequency=119100000
+prefix="BITE"
+radio_callsign="Thingeyri Information"
+station_type="TWR"
+
+[BITN_I_TWR]
+frequency=118100000
+prefix="BITN"
+radio_callsign="Thorshofn Radio"
+station_type="TWR"
+
+[BIVM_I_TWR]
+frequency=118500000
+prefix="BIVM"
+radio_callsign="Vestmannæyjar Information"
+station_type="TWR"
+
+[BIVO_I_TWR]
+frequency=118100000
+prefix="BIVO"
+radio_callsign="Vopnafjordur Information"
+station_type="TWR"
+

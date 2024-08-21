@@ -1,0 +1,72 @@
+[BGBW_I_TWR]
+frequency=119100000
+prefix="BGBW"
+radio_callsign="Narsarsuaq Information"
+station_type="TWR"
+
+[BGCO_I_TWR]
+frequency=118100000
+prefix="BGCO"
+radio_callsign="Constable Pynt Information"
+station_type="TWR"
+
+[BGGH_I_TWR]
+frequency=119100000
+prefix="BGGH"
+radio_callsign="Nuuk Information"
+station_type="TWR"
+
+[BGGL_CTR]
+frequency=121300000
+prefix="BGGL"
+radio_callsign="Sondrestrom Control"
+station_type="CTR"
+
+[BGGL_FSS]
+frequency=120300000
+prefix="BGGL"
+radio_callsign="Søndrestrøm Information"
+station_type="FSS"
+
+[BGKK_I_TWR]
+frequency=118100000
+prefix="BGKK"
+radio_callsign="Kulusuk Information"
+station_type="TWR"
+
+[BGQQ_I_TWR]
+frequency=118100000
+prefix="BGQQ"
+radio_callsign="Qaanaaq Information"
+station_type="TWR"
+
+[BGSF_APP]
+frequency=126200000
+prefix="BGSF"
+radio_callsign="Søndrestrøm Approach"
+station_type="APP"
+
+[BGSF_TWR]
+frequency=118300000
+prefix="BGSF"
+radio_callsign="Søndrestrøm Tower"
+station_type="TWR"
+
+[BGTL_APP]
+frequency=134100000
+prefix="BGTL"
+radio_callsign="Thule Approach"
+station_type="APP"
+
+[BGTL_GND]
+frequency=119900000
+prefix="BGTL"
+radio_callsign="Thule Ground"
+station_type="GND"
+
+[BGTL_TWR]
+frequency=126100000
+prefix="BGTL"
+radio_callsign="Thule Tower"
+station_type="TWR"
+

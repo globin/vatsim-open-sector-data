@@ -1,0 +1,204 @@
+[LRAR_APP]
+frequency=123530000
+prefix="LRAR"
+radio_callsign="Arad Approach"
+station_type="APP"
+
+[LRAR_TWR]
+frequency=118230000
+prefix="LRAR"
+radio_callsign="Arad Tower"
+station_type="TWR"
+
+[LRBB_A_CTR]
+frequency=121180000
+prefix="LRBB"
+radio_callsign="Bucharest Radar (DINAR sector)"
+station_type="CTR"
+
+[LRBB_H_CTR]
+frequency=134380000
+prefix="LRBB"
+radio_callsign="Bucharest Radar (high sector)"
+station_type="CTR"
+
+[LRBB_I_CTR]
+frequency=129400000
+prefix="LRBB"
+radio_callsign="Bucharest Information (FIC)"
+station_type="CTR"
+
+[LRBB_L_CTR]
+frequency=122030000
+prefix="LRBB"
+radio_callsign="Bucharest Radar (KONBU sector)"
+station_type="CTR"
+
+[LRBB_N_CTR]
+frequency=127075000
+prefix="LRBB"
+radio_callsign="Bucharest Radar (BANAP sector)"
+station_type="CTR"
+
+[LRBB_U_CTR]
+frequency=132865000
+prefix="LRBB"
+radio_callsign="Bucharest Radar (upper-high sector)"
+station_type="CTR"
+
+[LRBC_TWR]
+frequency=120980000
+prefix="LRBC"
+radio_callsign="Bacau Tower"
+station_type="TWR"
+
+[LRBM_TWR]
+frequency=118855000
+prefix="LRBM"
+radio_callsign="Baia Mare Tower"
+station_type="TWR"
+
+[LRBS_GND]
+frequency=129950000
+prefix="LRBS"
+radio_callsign="Baneasa Ground"
+station_type="GND"
+
+[LRBS_TWR]
+frequency=125205000
+prefix="LRBS"
+radio_callsign="Baneasa Tower"
+station_type="TWR"
+
+[LRBV_TWR]
+frequency=118630000
+prefix="LRBV"
+radio_callsign="Brasov Tower"
+station_type="TWR"
+
+[LRCK_APP]
+frequency=122905000
+prefix="LRCK"
+radio_callsign="Constanta Approach"
+station_type="APP"
+
+[LRCK_TWR]
+frequency=124030000
+prefix="LRCK"
+radio_callsign="Constanta Tower"
+station_type="TWR"
+
+[LRCL_APP]
+frequency=126430000
+prefix="LRCL"
+radio_callsign="NAPOC Approach"
+station_type="APP"
+
+[LRCL_TWR]
+frequency=118705000
+prefix="LRCL"
+radio_callsign="Cluj Tower"
+station_type="TWR"
+
+[LRCV_TWR]
+frequency=129530000
+prefix="LRCV"
+radio_callsign="Craiova Tower"
+station_type="TWR"
+
+[LRFT_TWR]
+frequency=122100000
+prefix="LRFT"
+radio_callsign="Rubin Tower (MIL)"
+station_type="TWR"
+
+[LRIA_TWR]
+frequency=119955000
+prefix="LRIA"
+radio_callsign="Iasi Tower"
+station_type="TWR"
+
+[LROD_TWR]
+frequency=118455000
+prefix="LROD"
+radio_callsign="Oradea Tower"
+station_type="TWR"
+
+[LROP_APP]
+frequency=119415000
+prefix="LROP"
+radio_callsign="Bucharest Approach"
+station_type="APP"
+
+[LROP_DEL]
+frequency=121955000
+prefix="LROP"
+radio_callsign="Otopeni Clearance Delivery"
+station_type="DEL"
+
+[LROP_F_APP]
+frequency=127155000
+prefix="LROP"
+radio_callsign="Bucharest Director"
+station_type="APP"
+
+[LROP_GND]
+frequency=121855000
+prefix="LROP"
+radio_callsign="Otopeni Ground"
+station_type="GND"
+
+[LROP_N_TWR]
+frequency=120900000
+prefix="LROP"
+radio_callsign="Otopeni Tower (ALTN/INOP)"
+station_type="TWR"
+
+[LROP_TWR]
+frequency=118805000
+prefix="LROP"
+radio_callsign="Otopeni Tower"
+station_type="TWR"
+
+[LRSB_TWR]
+frequency=121305000
+prefix="LRSB"
+radio_callsign="Sibiu Tower"
+station_type="TWR"
+
+[LRSM_TWR]
+frequency=119655000
+prefix="LRSM"
+radio_callsign="Satu Mare Tower"
+station_type="TWR"
+
+[LRSV_TWR]
+frequency=129955000
+prefix="LRSV"
+radio_callsign="Suceava Tower"
+station_type="TWR"
+
+[LRTC_TWR]
+frequency=119755000
+prefix="LRTC"
+radio_callsign="Tulcea Tower"
+station_type="TWR"
+
+[LRTM_TWR]
+frequency=119180000
+prefix="LRTM"
+radio_callsign="Targu Mures Tower"
+station_type="TWR"
+
+[LRTR_GND]
+frequency=121600000
+prefix="LRTR"
+radio_callsign="Timisoara Ground"
+station_type="GND"
+
+[LRTR_TWR]
+frequency=120105000
+prefix="LRTR"
+radio_callsign="Timisoara Tower"
+station_type="TWR"
+

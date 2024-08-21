@@ -1,0 +1,301 @@
+[LFFF_CTR]
+frequency = 128105000
+prefix = "LFFF"
+radio_callsign = "Paris Control (main frequency)"
+station_type = "CTR"
+
+[LFFF_N_CTR]
+frequency = 128875000
+prefix = "LFFF"
+radio_callsign = "Paris Control"
+station_type = "CTR"
+
+[LFFF_S_CTR]
+frequency = 132100000
+prefix = "LFFF"
+radio_callsign = "Paris Control"
+station_type = "CTR"
+
+[LFFF_W_CTR]
+frequency = 122575000
+prefix = "LFFF"
+radio_callsign = "Paris Control"
+station_type = "CTR"
+
+
+[LFFM_CTR]
+frequency = 128375000
+prefix = "LFFM"
+radio_callsign = "France Military"
+station_type = "CTR"
+
+[LFUP_CTR]
+frequency = 130950000
+prefix = "LFUP"
+radio_callsign = "France Control"
+station_type = "CTR"
+
+
+[LFAQ_TWR]
+frequency = 119655000
+prefix = "LFAQ"
+radio_callsign = "Albert Tower"
+station_type = "TWR"
+
+[LFAT_TWR]
+frequency = 118450000
+prefix = "LFAT"
+radio_callsign = "Le Touquet Tower"
+station_type = "TWR"
+
+[LFLD_I_TWR]
+frequency = 119600000
+prefix = "LFLD"
+radio_callsign = "Bourges Information"
+station_type = "TWR"
+
+[LFOA_APP]
+frequency = 119700000
+prefix = "LFOA"
+radio_callsign = "Avord Approach"
+station_type = "APP"
+
+[LFOA_TWR]
+frequency = 122100000
+prefix = "LFOA"
+radio_callsign = "Avord Tower"
+station_type = "TWR"
+
+[LFOB_APP]
+frequency = 123985000
+prefix = "LFOB"
+radio_callsign = "Beauvais Approach"
+station_type = "APP"
+
+[LFOB_TWR]
+frequency = 121400000
+prefix = "LFOB"
+radio_callsign = "Beauvais Tower"
+station_type = "TWR"
+
+[LFOC_TWR]
+frequency = 125625000
+prefix = "LFOC"
+radio_callsign = "Chateaudun Tower"
+station_type = "TWR"
+
+[LFOJ_APP]
+frequency = 122700000
+prefix = "LFOJ"
+radio_callsign = "Orléans Approach"
+station_type = "APP"
+
+[LFOJ_TWR]
+frequency = 124800000
+prefix = "LFOJ"
+radio_callsign = "Orleans Tower"
+station_type = "TWR"
+
+[LFOP_APP]
+frequency = 118575000
+prefix = "LFOP"
+radio_callsign = "Rouen Approach"
+station_type = "APP"
+
+[LFOP_TWR]
+frequency = 120200000
+prefix = "LFOP"
+radio_callsign = "Rouen Tower"
+station_type = "TWR"
+
+[LFOT_TWR]
+frequency = 124400000
+prefix = "LFOT"
+radio_callsign = "Tours Tower"
+station_type = "TWR"
+
+[LFPB_DEL]
+frequency = 121950000
+prefix = "LFPB"
+radio_callsign = "Le Bourget Delivery"
+station_type = "DEL"
+
+[LFPB_GND]
+frequency = 121900000
+prefix = "LFPB"
+radio_callsign = "Le Bourget Ground"
+station_type = "GND"
+
+[LFPB_TWR]
+frequency = 118925000
+prefix = "LFPB"
+radio_callsign = "Le Bourget Tower"
+station_type = "TWR"
+
+[LFPG_A_GND]
+frequency = 121680000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Apron"
+station_type = "GND"
+
+[LFPG_APP]
+frequency = 121155000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Approach"
+station_type = "APP"
+
+[LFPG_DEL]
+frequency = 121840000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Delivery"
+station_type = "DEL"
+
+[LFPG_DEP]
+frequency = 124355000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Departure"
+station_type = "DEP"
+
+[LFPG_F_APP]
+frequency = 126430000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Arrival"
+station_type = "APP"
+
+[LFPG_FS_APP]
+frequency = 118150000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Arrival"
+station_type = "APP"
+
+[LFPG_GND]
+frequency = 121610000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Ground (main frequency)"
+station_type = "GND"
+
+[LFPG_S_APP]
+frequency = 125830000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Approach"
+station_type = "APP"
+
+[LFPG_S_DEP]
+frequency = 133380000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Departure (high traffic loads)"
+station_type = "DEP"
+
+[LFPG_S_GND]
+frequency = 121810000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Ground"
+station_type = "GND"
+
+[LFPG_S_TWR]
+frequency = 120900000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Tower"
+station_type = "TWR"
+
+[LFPG_TWR]
+frequency = 119250000
+prefix = "LFPG"
+radio_callsign = "De Gaulle Tower"
+station_type = "TWR"
+
+[LFPL_TWR]
+frequency = 118600000
+prefix = "LFPL"
+radio_callsign = "Lognes Tower"
+station_type = "TWR"
+
+[LFPN_TWR]
+frequency = 120750000
+prefix = "LFPN"
+radio_callsign = "Toussus Tower"
+station_type = "TWR"
+
+[LFPO_APP]
+frequency = 123875000
+prefix = "LFPO"
+radio_callsign = "Orly Approach"
+station_type = "APP"
+
+[LFPO_DEL]
+frequency = 121555000
+prefix = "LFPO"
+radio_callsign = "Orly Delivery"
+station_type = "DEL"
+
+[LFPO_DEP]
+frequency = 127750000
+prefix = "LFPO"
+radio_callsign = "Orly Departure"
+station_type = "DEP"
+
+[LFPO_F_APP]
+frequency = 124450000
+prefix = "LFPO"
+radio_callsign = "Orly Arrival"
+station_type = "APP"
+
+[LFPO_GND]
+frequency = 121705000
+prefix = "LFPO"
+radio_callsign = "Orly Ground"
+station_type = "GND"
+
+[LFPO_TWR]
+frequency = 118700000
+prefix = "LFPO"
+radio_callsign = "Orly Tower"
+station_type = "TWR"
+
+[LFPV_APP]
+frequency = 119425000
+prefix = "LFPV"
+radio_callsign = "Villacoublay Approach"
+station_type = "APP"
+
+[LFPV_TWR]
+frequency = 121750000
+prefix = "LFPV"
+radio_callsign = "Villacoublay Tower"
+station_type = "TWR"
+
+[LFPZ_TWR]
+frequency = 118000000
+prefix = "LFPZ"
+radio_callsign = "Saint Cyr Tower"
+station_type = "TWR"
+
+[LFQQ_APP]
+frequency = 126480000
+prefix = "LFQQ"
+radio_callsign = "Lille Approach"
+station_type = "APP"
+
+[LFQQ_GND]
+frequency = 121855000
+prefix = "LFQQ"
+radio_callsign = "Lille Ground"
+station_type = "GND"
+
+[LFQQ_TWR]
+frequency = 118550000
+prefix = "LFQQ"
+radio_callsign = "Lille Tower"
+station_type = "TWR"
+
+[LFQT_TWR]
+frequency = 119075000
+prefix = "LFQT"
+radio_callsign = "Merville Tower"
+station_type = "TWR"
+
+[LFYR_TWR]
+frequency = 119075000
+prefix = "LFYR"
+radio_callsign = "Romorantin Tower"
+station_type = "TWR"

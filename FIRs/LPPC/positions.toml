@@ -1,0 +1,300 @@
+[LPAM_CTR]
+frequency=123755000
+prefix="LPAM"
+radio_callsign="Lisboa Information"
+station_type="CTR"
+
+[LPAR_TWR]
+frequency=119235000
+prefix="LPAR"
+radio_callsign="Alverca Tower"
+station_type="TWR"
+
+[LPBJ_APP]
+frequency=130090000
+prefix="LPBJ"
+radio_callsign="Beja Approach"
+station_type="APP"
+
+[LPBJ_TWR]
+frequency=130415000
+prefix="LPBJ"
+radio_callsign="Beja Tower"
+station_type="TWR"
+
+[LPCS_GND]
+frequency=121830000
+prefix="LPCS"
+radio_callsign="Cascais Ground"
+station_type="GND"
+
+[LPCS_TWR]
+frequency=120305000
+prefix="LPCS"
+radio_callsign="Cascais Tower"
+station_type="TWR"
+
+[LPFR_APP]
+frequency=119405000
+prefix="LPFR"
+radio_callsign="Faro Approach"
+station_type="APP"
+
+[LPFR_GND]
+frequency=118580000
+prefix="LPFR"
+radio_callsign="Faro Ground"
+station_type="GND"
+
+[LPFR_TWR]
+frequency=120755000
+prefix="LPFR"
+radio_callsign="Faro Tower"
+station_type="TWR"
+
+[LPHR_APP]
+frequency=119700000
+prefix="LPHR"
+radio_callsign="Horta Approach"
+station_type="APP"
+
+[LPHR_TWR]
+frequency=118000000
+prefix="LPHR"
+radio_callsign="Horta Tower"
+station_type="TWR"
+
+[LPLA_APP]
+frequency=135000000
+prefix="LPLA"
+radio_callsign="Lajes Approach"
+station_type="APP"
+
+[LPLA_GND]
+frequency=121900000
+prefix="LPLA"
+radio_callsign="Lajes Ground"
+station_type="GND"
+
+[LPLA_TWR]
+frequency=122100000
+prefix="LPLA"
+radio_callsign="Lajes Tower"
+station_type="TWR"
+
+[LPMA_APP]
+frequency=119605000
+prefix="LPMA"
+radio_callsign="Madeira Approach"
+station_type="APP"
+
+[LPMA_S_APP]
+frequency=120455000
+prefix="LPMA"
+radio_callsign="Madeira Approach"
+station_type="APP"
+
+[LPMA_TWR]
+frequency=124660000
+prefix="LPMA"
+radio_callsign="Madeira Tower"
+station_type="TWR"
+
+[LPMR_APP]
+frequency=122035000
+prefix="LPMR"
+radio_callsign="Monte Real Approach"
+station_type="APP"
+
+[LPMR_TWR]
+frequency=118640000
+prefix="LPMR"
+radio_callsign="Monte Real Tower"
+station_type="TWR"
+
+[LPMT_TWR]
+frequency=134100000
+prefix="LPMT"
+radio_callsign="Montijo Tower"
+station_type="TWR"
+
+[LPOV_APP]
+frequency=118590000
+prefix="LPOV"
+radio_callsign="Ovar Approach"
+station_type="APP"
+
+[LPOV_TWR]
+frequency=134110000
+prefix="LPOV"
+radio_callsign="Ovar Tower"
+station_type="TWR"
+
+[LPPC_C_CTR]
+frequency=136030000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_CTR]
+frequency=125550000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_D_CTR]
+frequency=128900000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_E_CTR]
+frequency=132850000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_I_CTR]
+frequency=132255000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_N_CTR]
+frequency=132305000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_NU_CTR]
+frequency=127255000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_S_CTR]
+frequency=132705000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_W_CTR]
+frequency=131320000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPC_WU_CTR]
+frequency=124350000
+prefix="LPPC"
+radio_callsign="Lisboa Control"
+station_type="CTR"
+
+[LPPD_APP]
+frequency=119400000
+prefix="LPPD"
+radio_callsign="Ponta Delgada Approach"
+station_type="APP"
+
+[LPPD_TWR]
+frequency=118300000
+prefix="LPPD"
+radio_callsign="Ponta Delgada Tower"
+station_type="TWR"
+
+[LPPO_1_FSS]
+frequency=132070000
+prefix="LPPO"
+radio_callsign="Santa Maria Oceanic Center (secondary)"
+station_type="FSS"
+
+[LPPO_CTR]
+frequency=132150000
+prefix="LPPO"
+radio_callsign="Santa Maria Terminal"
+station_type="CTR"
+
+[LPPO_FSS]
+frequency=127900000
+prefix="LPPO"
+radio_callsign="Santa Maria Oceanic Center"
+station_type="FSS"
+
+[LPPO_S_CTR]
+frequency=129400000
+prefix="LPPO"
+radio_callsign="Santa Maria Terminal (secondary)"
+station_type="CTR"
+
+[LPPR_APP]
+frequency=120910000
+prefix="LPPR"
+radio_callsign="Porto Approach"
+station_type="APP"
+
+[LPPR_TWR]
+frequency=118005000
+prefix="LPPR"
+radio_callsign="Porto Tower"
+station_type="TWR"
+
+[LPPR_U_APP]
+frequency=118855000
+prefix="LPPR"
+radio_callsign="Porto Control"
+station_type="APP"
+
+[LPPS_TWR]
+frequency=120055000
+prefix="LPPS"
+radio_callsign="Porto Santo Tower"
+station_type="TWR"
+
+[LPPT_APP]
+frequency=119105000
+prefix="LPPT"
+radio_callsign="Lisbon Approach"
+station_type="APP"
+
+[LPPT_DEL]
+frequency=118955000
+prefix="LPPT"
+radio_callsign="Lisboa Delivery"
+station_type="DEL"
+
+[LPPT_F_APP]
+frequency=125130000
+prefix="LPPT"
+radio_callsign="Lisbon Finals Approach"
+station_type="APP"
+
+[LPPT_GND]
+frequency=121755000
+prefix="LPPT"
+radio_callsign="Lisbon Ground"
+station_type="GND"
+
+[LPPT_TWR]
+frequency=118105000
+prefix="LPPT"
+radio_callsign="Lisbon Tower"
+station_type="TWR"
+
+[LPPT_U_APP]
+frequency=123980000
+prefix="LPPT"
+radio_callsign="Lisbon Control"
+station_type="APP"
+
+[LPST_APP]
+frequency=118610000
+prefix="LPST"
+radio_callsign="Sintra Approach"
+station_type="APP"
+
+[LPST_TWR]
+frequency=119860000
+prefix="LPST"
+radio_callsign="Sintra Tower"
+station_type="TWR"
+

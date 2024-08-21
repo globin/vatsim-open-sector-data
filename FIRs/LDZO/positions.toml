@@ -1,0 +1,186 @@
+[LDDU_APP]
+frequency=123600000
+prefix="LDDU"
+radio_callsign="Dubrovnik Radar"
+station_type="APP"
+
+[LDDU_DEL]
+frequency=125400000
+prefix="LDDU"
+radio_callsign="Dubrovnik Delivery"
+station_type="DEL"
+
+[LDDU_TWR]
+frequency=129500000
+prefix="LDDU"
+radio_callsign="Dubrovnik Tower"
+station_type="TWR"
+
+[LDLO_APP]
+frequency=120300000
+prefix="LDLO"
+radio_callsign="Losinj Approach"
+station_type="APP"
+
+[LDLO_TWR]
+frequency=120300000
+prefix="LDLO"
+radio_callsign="Losinj Tower"
+station_type="TWR"
+
+[LDOS_APP]
+frequency=128350000
+prefix="LDOS"
+radio_callsign="Osijek Approach"
+station_type="APP"
+
+[LDOS_TWR]
+frequency=118800000
+prefix="LDOS"
+radio_callsign="Osijek Tower"
+station_type="TWR"
+
+[LDPL_APP]
+frequency=124600000
+prefix="LDPL"
+radio_callsign="Pula Radar"
+station_type="APP"
+
+[LDPL_TWR]
+frequency=132000000
+prefix="LDPL"
+radio_callsign="Pula Tower"
+station_type="TWR"
+
+[LDRI_APP]
+frequency=119000000
+prefix="LDRI"
+radio_callsign="Rijeka Approach"
+station_type="APP"
+
+[LDRI_TWR]
+frequency=119000000
+prefix="LDRI"
+radio_callsign="Rijeka Tower"
+station_type="TWR"
+
+[LDSB_APP]
+frequency=118020000
+prefix="LDSB"
+radio_callsign="Brac Approach"
+station_type="APP"
+
+[LDSB_TWR]
+frequency=118020000
+prefix="LDSB"
+radio_callsign="Brac Tower"
+station_type="TWR"
+
+[LDSP_APP]
+frequency=120870000
+prefix="LDSP"
+radio_callsign="Split Radar"
+station_type="APP"
+
+[LDSP_TWR]
+frequency=124670000
+prefix="LDSP"
+radio_callsign="Split Tower"
+station_type="TWR"
+
+[LDZA_APP]
+frequency=119540000
+prefix="LDZA"
+radio_callsign="Zagreb Radar"
+station_type="APP"
+
+[LDZA_GND]
+frequency=121850000
+prefix="LDZA"
+radio_callsign="Zagreb Ground"
+station_type="GND"
+
+[LDZA_TWR]
+frequency=118300000
+prefix="LDZA"
+radio_callsign="Zagreb Tower"
+station_type="TWR"
+
+[LDZA_W_GND]
+frequency=119120000
+prefix="LDZA"
+radio_callsign="Zagreb West Ground"
+station_type="GND"
+
+[LDZD_APP]
+frequency=128520000
+prefix="LDZD"
+radio_callsign="Zadar Radar"
+station_type="APP"
+
+[LDZD_DEL]
+frequency=132975000
+prefix="LDZD"
+radio_callsign="Zadar Delivery"
+station_type="DEL"
+
+[LDZD_TWR]
+frequency=123700000
+prefix="LDZD"
+radio_callsign="Zadar Tower"
+station_type="TWR"
+
+[LDZO_CTR]
+frequency=135800000
+prefix="LDZO"
+radio_callsign="Zagreb Center (main frequency)"
+station_type="CTR"
+
+[LDZO_E_CTR]
+frequency=126500000
+prefix="LDZO"
+radio_callsign="Zagreb East Center"
+station_type="CTR"
+
+[LDZO_LN_CTR]
+frequency=132340000
+prefix="LDZO"
+radio_callsign="Zagreb North Lower sector"
+station_type="CTR"
+
+[LDZO_LS_CTR]
+frequency=128275000
+prefix="LDZO"
+radio_callsign="Zagreb South Lower sector"
+station_type="CTR"
+
+[LDZO_LW_CTR]
+frequency=124375000
+prefix="LDZO"
+radio_callsign="Zagreb West Lower sector"
+station_type="CTR"
+
+[LDZO_UC_CTR]
+frequency=136300000
+prefix="LDZO"
+radio_callsign="Zagreb Central Upper sector"
+station_type="CTR"
+
+[LDZO_UN_CTR]
+frequency=133635000
+prefix="LDZO"
+radio_callsign="Zagreb North Upper sector"
+station_type="CTR"
+
+[LDZO_US_CTR]
+frequency=129650000
+prefix="LDZO"
+radio_callsign="Zagreb South Upper sector"
+station_type="CTR"
+
+[LDZO_UW_CTR]
+frequency=125780000
+prefix="LDZO"
+radio_callsign="Zagreb West Upper sector"
+station_type="CTR"
+

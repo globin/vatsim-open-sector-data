@@ -1,0 +1,222 @@
+[LZBB_CTR]
+frequency=134475000
+prefix="LZBB"
+radio_callsign="Bratislava Radar"
+station_type="CTR"
+
+[LZBB_H_CTR]
+frequency=127425000
+prefix="LZBB"
+radio_callsign="Bratislava Radar"
+station_type="CTR"
+
+[LZBB_I_CTR]
+frequency=124300000
+prefix="LZBB"
+radio_callsign="Bratislava Information"
+station_type="CTR"
+
+[LZBB_U_CTR]
+frequency=126475000
+prefix="LZBB"
+radio_callsign="Bratislava Radar"
+station_type="CTR"
+
+[LZDB_I_TWR]
+frequency=122340000
+prefix="LZDB"
+radio_callsign="Dubnica Traffic"
+station_type="TWR"
+
+[LZDN_I_TWR]
+frequency=118140000
+prefix="LZDN"
+radio_callsign="Niva Aerodrome"
+station_type="TWR"
+
+[LZDV_I_TWR]
+frequency=123930000
+prefix="LZDV"
+radio_callsign="Dubova Traffic"
+station_type="TWR"
+
+[LZHL_I_TWR]
+frequency=123680000
+prefix="LZHL"
+radio_callsign="Holic Traffic"
+station_type="TWR"
+
+[LZIB_APP]
+frequency=134925000
+prefix="LZIB"
+radio_callsign="Stefanik Approach"
+station_type="APP"
+
+[LZIB_GND]
+frequency=120905000
+prefix="LZIB"
+radio_callsign="Stefanik Ground"
+station_type="GND"
+
+[LZIB_TWR]
+frequency=118300000
+prefix="LZIB"
+radio_callsign="Stefanik Tower"
+station_type="TWR"
+
+[LZJS_I_TWR]
+frequency=130130000
+prefix="LZJS"
+radio_callsign="Jasna Traffic"
+station_type="TWR"
+
+[LZKC_I_TWR]
+frequency=122605000
+prefix="LZKC"
+radio_callsign="Kamenica Traffic"
+station_type="TWR"
+
+[LZKV_I_TWR]
+frequency=122010000
+prefix="LZKV"
+radio_callsign="Kvetoslavov Aerodrome"
+station_type="TWR"
+
+[LZKZ_APP]
+frequency=129350000
+prefix="LZKZ"
+radio_callsign="Kosice Approach"
+station_type="APP"
+
+[LZKZ_TWR]
+frequency=120400000
+prefix="LZKZ"
+radio_callsign="Kosice Tower"
+station_type="TWR"
+
+[LZLU_I_TWR]
+frequency=123060000
+prefix="LZLU"
+radio_callsign="Lucenec Traffic"
+station_type="TWR"
+
+[LZMA_I_TWR]
+frequency=120040000
+prefix="LZMA"
+radio_callsign="Martin Traffic"
+station_type="TWR"
+
+[LZMC_APP]
+frequency=129575000
+prefix="LZMC"
+radio_callsign="Malacy Approach"
+station_type="APP"
+
+[LZNI_I_TWR]
+frequency=123405000
+prefix="LZNI"
+radio_callsign="Nitra Traffic"
+station_type="TWR"
+
+[LZNZ_I_TWR]
+frequency=120055000
+prefix="LZNZ"
+radio_callsign="Nove Zamky Traffic"
+station_type="TWR"
+
+[LZOC_I_TWR]
+frequency=123605000
+prefix="LZOC"
+radio_callsign="Ociva Traffic"
+station_type="TWR"
+
+[LZPE_I_TWR]
+frequency=123055000
+prefix="LZPE"
+radio_callsign="Prievidza Traffic"
+station_type="TWR"
+
+[LZPP_TWR]
+frequency=118575000
+prefix="LZPP"
+radio_callsign="Piestany Tower"
+station_type="TWR"
+
+[LZPT_I_TWR]
+frequency=123935000
+prefix="LZPT"
+radio_callsign="Partizanske Traffic"
+station_type="TWR"
+
+[LZRU_I_TWR]
+frequency=123030000
+prefix="LZRU"
+radio_callsign="Ruzomberok Traffic"
+station_type="TWR"
+
+[LZRY_I_TWR]
+frequency=122135000
+prefix="LZRY"
+radio_callsign="Raznany Traffic"
+station_type="TWR"
+
+[LZSE_I_TWR]
+frequency=123605000
+prefix="LZSE"
+radio_callsign="Senica Traffic"
+station_type="TWR"
+
+[LZSK_I_TWR]
+frequency=123405000
+prefix="LZSK"
+radio_callsign="Svidnik Traffic"
+station_type="TWR"
+
+[LZSL_APP]
+frequency=119150000
+prefix="LZSL"
+radio_callsign="Sliac Approach/Tower"
+station_type="APP"
+
+[LZSL_TWR]
+frequency=122905000
+prefix="LZSL"
+radio_callsign="Sliac Tower"
+station_type="TWR"
+
+[LZSV_I_TWR]
+frequency=123505000
+prefix="LZSV"
+radio_callsign="Spisska Traffic"
+station_type="TWR"
+
+[LZSY_I_TWR]
+frequency=132785000
+prefix="LZSY"
+radio_callsign="Surany Traffic"
+station_type="TWR"
+
+[LZTN_I_TWR]
+frequency=132015000
+prefix="LZTN"
+radio_callsign="Trencin Traffic"
+station_type="TWR"
+
+[LZTR_I_TWR]
+frequency=132080000
+prefix="LZTR"
+radio_callsign="Boleraz Traffic"
+station_type="TWR"
+
+[LZTT_TWR]
+frequency=121350000
+prefix="LZTT"
+radio_callsign="Tatry Tower"
+station_type="TWR"
+
+[LZZI_TWR]
+frequency=124150000
+prefix="LZZI"
+radio_callsign="Zilina Tower"
+station_type="TWR"
+

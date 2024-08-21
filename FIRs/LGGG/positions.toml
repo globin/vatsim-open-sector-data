@@ -1,0 +1,606 @@
+[LGAD_APP]
+frequency=121125000
+prefix="LGAD"
+radio_callsign="Andravida Approach"
+station_type="APP"
+
+[LGAD_TWR]
+frequency=120650000
+prefix="LGAD"
+radio_callsign="Andravida Tower"
+station_type="TWR"
+
+[LGAL_APP]
+frequency=123800000
+prefix="LGAL"
+radio_callsign="Alexandroupolis Approach"
+station_type="APP"
+
+[LGAV_DEL]
+frequency=118680000
+prefix="LGAV"
+radio_callsign="Venizelos Delivery"
+station_type="DEL"
+
+[LGAV_DEP]
+frequency=128950000
+prefix="LGAV"
+radio_callsign="Athens Departure"
+station_type="DEP"
+
+[LGAV_E_APP]
+frequency=126575000
+prefix="LGAV"
+radio_callsign="Athinai Arrival"
+station_type="APP"
+
+[LGAV_E_TWR]
+frequency=118625000
+prefix="LGAV"
+radio_callsign="Venizelos Tower"
+station_type="TWR"
+
+[LGAV_F_APP]
+frequency=121400000
+prefix="LGAV"
+radio_callsign="Director"
+station_type="APP"
+
+[LGAV_N_GND]
+frequency=121755000
+prefix="LGAV"
+radio_callsign="Venizelos Ground"
+station_type="GND"
+
+[LGAV_P_GND]
+frequency=121805000
+prefix="LGAV"
+radio_callsign="Ground"
+station_type="GND"
+
+[LGAV_S_GND]
+frequency=121955000
+prefix="LGAV"
+radio_callsign="Ground South"
+station_type="GND"
+
+[LGAV_W_APP]
+frequency=132975000
+prefix="LGAV"
+radio_callsign="Athinai Arrival"
+station_type="APP"
+
+[LGAV_W_TWR]
+frequency=136275000
+prefix="LGAV"
+radio_callsign="Venizelos Tower"
+station_type="TWR"
+
+[LGBL_APP]
+frequency=120350000
+prefix="LGBL"
+radio_callsign="Almiros Approach"
+station_type="APP"
+
+[LGEL_TWR]
+frequency=120150000
+prefix="LGEL"
+radio_callsign="Elefsis Tower"
+station_type="TWR"
+
+[LGGG_CTR]
+frequency=129675000
+prefix="LGGG"
+radio_callsign="Athens Radar"
+station_type="CTR"
+
+[LGGG_FSS]
+frequency=119750000
+prefix="LGGG"
+radio_callsign="Athens Information"
+station_type="FSS"
+
+[LGGG_KAV_CTR]
+frequency=123725000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_KFN_CTR]
+frequency=133725000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_KFU_CTR]
+frequency=125985000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_KRK_CTR]
+frequency=134325000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_KRU_CTR]
+frequency=131330000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_MIL_CTR]
+frequency=125200000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_MLU_CTR]
+frequency=123830000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_PLH_CTR]
+frequency=124625000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_RDS_CTR]
+frequency=133325000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_RDU_CTR]
+frequency=126125000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_SIT_CTR]
+frequency=127975000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGGG_U_CTR]
+frequency=135875000
+prefix="LGGG"
+radio_callsign="Athinai Radar"
+station_type="CTR"
+
+[LGHI_APP]
+frequency=124000000
+prefix="LGHI"
+radio_callsign="Chios Approach"
+station_type="APP"
+
+[LGHI_TWR]
+frequency=122700000
+prefix="LGHI"
+radio_callsign="Chios Tower"
+station_type="TWR"
+
+[LGIK_TWR]
+frequency=122300000
+prefix="LGIK"
+radio_callsign="Ikaria Tower"
+station_type="TWR"
+
+[LGIO_APP]
+frequency=118600000
+prefix="LGIO"
+radio_callsign="Ioannina Approach"
+station_type="APP"
+
+[LGIO_TWR]
+frequency=132200000
+prefix="LGIO"
+radio_callsign="Ioannina Tower"
+station_type="TWR"
+
+[LGIR_APP]
+frequency=123975000
+prefix="LGIR"
+radio_callsign="Iraklion Radar"
+station_type="APP"
+
+[LGIR_DEL]
+frequency=129175000
+prefix="LGIR"
+radio_callsign="Kazantzakis Delivery"
+station_type="DEL"
+
+[LGIR_F_APP]
+frequency=118025000
+prefix="LGIR"
+radio_callsign="Aproach"
+station_type="APP"
+
+[LGIR_GND]
+frequency=121700000
+prefix="LGIR"
+radio_callsign="Ground"
+station_type="GND"
+
+[LGIR_TWR]
+frequency=120850000
+prefix="LGIR"
+radio_callsign="Kazantzakis Tower"
+station_type="TWR"
+
+[LGKA_TWR]
+frequency=118400000
+prefix="LGKA"
+radio_callsign="Aristotelis Tower"
+station_type="TWR"
+
+[LGKC_TWR]
+frequency=123250000
+prefix="LGKC"
+radio_callsign="Kithira Tower"
+station_type="TWR"
+
+[LGKF_TWR]
+frequency=122250000
+prefix="LGKF"
+radio_callsign="Kefallinia Tower"
+station_type="TWR"
+
+[LGKJ_TWR]
+frequency=122900000
+prefix="LGKJ"
+radio_callsign="Kastelorizo Tower"
+station_type="TWR"
+
+[LGKL_APP]
+frequency=120750000
+prefix="LGKL"
+radio_callsign="Kalamata Approach"
+station_type="APP"
+
+[LGKM_RDO]
+frequency=135505000
+prefix="LGKM"
+radio_callsign="Lydia Radio"
+station_type="RDO"
+
+[LGKN_TWR]
+frequency=120900000
+prefix="LGKN"
+radio_callsign="Kotroni Tower"
+station_type="TWR"
+
+[LGKO_APP]
+frequency=119950000
+prefix="LGKO"
+radio_callsign="Kos Approach"
+station_type="APP"
+
+[LGKO_TWR]
+frequency=121050000
+prefix="LGKO"
+radio_callsign="Ippokratis Tower"
+station_type="TWR"
+
+[LGKP_TWR]
+frequency=123200000
+prefix="LGKP"
+radio_callsign="Karpathos Tower"
+station_type="TWR"
+
+[LGKR_APP]
+frequency=122355000
+prefix="LGKR"
+radio_callsign="Kerkira Radar"
+station_type="APP"
+
+[LGKR_F_APP]
+frequency=118080000
+prefix="LGKR"
+radio_callsign="Kerkira Director"
+station_type="APP"
+
+[LGKR_GND]
+frequency=121705000
+prefix="LGKR"
+radio_callsign="Kerkira Ground"
+station_type="GND"
+
+[LGKR_TWR]
+frequency=120855000
+prefix="LGKR"
+radio_callsign="Kerkira Tower"
+station_type="TWR"
+
+[LGKV_APP]
+frequency=124650000
+prefix="LGKV"
+radio_callsign="Kavala Approach"
+station_type="APP"
+
+[LGKV_TWR]
+frequency=118400000
+prefix="LGKV"
+radio_callsign="Megas Alexandros Tower"
+station_type="TWR"
+
+[LGKY_TWR]
+frequency=118875000
+prefix="LGKY"
+radio_callsign="Kalymnos Tower"
+station_type="TWR"
+
+[LGKZ_TWR]
+frequency=118200000
+prefix="LGKZ"
+radio_callsign="Filippos Tower"
+station_type="TWR"
+
+[LGLE_TWR]
+frequency=124950000
+prefix="LGLE"
+radio_callsign="Leros Tower"
+station_type="TWR"
+
+[LGLM_APP]
+frequency=128500000
+prefix="LGLM"
+radio_callsign="Limnos Approach"
+station_type="APP"
+
+[LGLR_APP]
+frequency=120550000
+prefix="LGLR"
+radio_callsign="Larissa Approach"
+station_type="APP"
+
+[LGMD_KVL_CTR]
+frequency=133575000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMD_KVU_CTR]
+frequency=133425000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMD_LMO_CTR]
+frequency=133655000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMD_LMU_CTR]
+frequency=127475000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMD_SKU_CTR]
+frequency=125355000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMD_TSU_CTR]
+frequency=133880000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMD_W_CTR]
+frequency=132375000
+prefix="LGMD"
+radio_callsign="Makedonia Radar"
+station_type="CTR"
+
+[LGMG_TWR]
+frequency=130875000
+prefix="LGMG"
+radio_callsign="Megara Tower"
+station_type="TWR"
+
+[LGMK_APP]
+frequency=118750000
+prefix="LGMK"
+radio_callsign="Mikonos Approach"
+station_type="APP"
+
+[LGMK_TWR]
+frequency=119875000
+prefix="LGMK"
+radio_callsign="Mikonos Tower"
+station_type="TWR"
+
+[LGML_TWR]
+frequency=122250000
+prefix="LGML"
+radio_callsign="Milos Tower"
+station_type="TWR"
+
+[LGMT_APP]
+frequency=123850000
+prefix="LGMT"
+radio_callsign="Mitilini Approach"
+station_type="APP"
+
+[LGNX_TWR]
+frequency=124750000
+prefix="LGNX"
+radio_callsign="Naxos Tower"
+station_type="TWR"
+
+[LGPA_TWR]
+frequency=125050000
+prefix="LGPA"
+radio_callsign="Paros Tower"
+station_type="TWR"
+
+[LGPL_TWR]
+frequency=124850000
+prefix="LGPL"
+radio_callsign="Astypalaia Tower"
+station_type="TWR"
+
+[LGPZ_APP]
+frequency=120450000
+prefix="LGPZ"
+radio_callsign="Aktion Approach"
+station_type="APP"
+
+[LGRP_APP]
+frequency=127250000
+prefix="LGRP"
+radio_callsign="Rodos Approach"
+station_type="APP"
+
+[LGRP_F_APP]
+frequency=118250000
+prefix="LGRP"
+radio_callsign="Aproach"
+station_type="APP"
+
+[LGRP_GND]
+frequency=121705000
+prefix="LGRP"
+radio_callsign="Diagoras Ground"
+station_type="GND"
+
+[LGRP_TWR]
+frequency=118200000
+prefix="LGRP"
+radio_callsign="Diagoras Tower"
+station_type="TWR"
+
+[LGRX_TWR]
+frequency=125250000
+prefix="LGRX"
+radio_callsign="Araxos Tower"
+station_type="TWR"
+
+[LGSA_APP]
+frequency=118125000
+prefix="LGSA"
+radio_callsign="Souda Approach"
+station_type="APP"
+
+[LGSA_GND]
+frequency=121700000
+prefix="LGSA"
+radio_callsign="Souda Ground"
+station_type="GND"
+
+[LGSK_APP]
+frequency=126050000
+prefix="LGSK"
+radio_callsign="Skiathos Approach"
+station_type="APP"
+
+[LGSK_TWR]
+frequency=123250000
+prefix="LGSK"
+radio_callsign="Skiathos Tower"
+station_type="TWR"
+
+[LGSM_APP]
+frequency=124100000
+prefix="LGSM"
+radio_callsign="Samos Approach"
+station_type="APP"
+
+[LGSM_TWR]
+frequency=129850000
+prefix="LGSM"
+radio_callsign="Samos Tower"
+station_type="TWR"
+
+[LGSO_TWR]
+frequency=118850000
+prefix="LGSO"
+radio_callsign="Syros Tower"
+station_type="TWR"
+
+[LGSR_APP]
+frequency=118050000
+prefix="LGSR"
+radio_callsign="Santorini Approach"
+station_type="APP"
+
+[LGSR_GND]
+frequency=119825000
+prefix="LGSR"
+radio_callsign="Santorini Ground"
+station_type="GND"
+
+[LGST_TWR]
+frequency=122600000
+prefix="LGST"
+radio_callsign="SITIA Information"
+station_type="TWR"
+
+[LGSV_TWR]
+frequency=132725000
+prefix="LGSV"
+radio_callsign="Stefanovikio Tower"
+station_type="TWR"
+
+[LGSY_APP]
+frequency=123200000
+prefix="LGSY"
+radio_callsign="Skiros Approach"
+station_type="APP"
+
+[LGTG_APP]
+frequency=120250000
+prefix="LGTG"
+radio_callsign="Tanagra Approach"
+station_type="APP"
+
+[LGTS_APP]
+frequency=120800000
+prefix="LGTS"
+radio_callsign="Thessaloniki Radar"
+station_type="APP"
+
+[LGTS_DEL]
+frequency=118055000
+prefix="LGTS"
+radio_callsign="Makedonia Delivery"
+station_type="DEL"
+
+[LGTS_F_APP]
+frequency=118280000
+prefix="LGTS"
+radio_callsign="Aproach"
+station_type="APP"
+
+[LGTS_GND]
+frequency=121705000
+prefix="LGTS"
+radio_callsign="Ground"
+station_type="GND"
+
+[LGTS_TWR]
+frequency=118105000
+prefix="LGTS"
+radio_callsign="Makedonia Tower"
+station_type="TWR"
+
+[LGTT_TWR]
+frequency=122650000
+prefix="LGTT"
+radio_callsign="Tatoi Tower"
+station_type="TWR"
+
+[LGZA_TWR]
+frequency=125425000
+prefix="LGZA"
+radio_callsign="Zakinthos Tower"
+station_type="TWR"
+

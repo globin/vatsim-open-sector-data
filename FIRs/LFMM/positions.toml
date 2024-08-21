@@ -1,0 +1,396 @@
+[LFMM_CTR]
+frequency = 124650000
+prefix = "LFMM"
+radio_callsign = "Marseille Control"
+station_type = "CTR"
+
+[LFMM_E_CTR]
+frequency = 128325000
+prefix = "LFMM"
+radio_callsign = "Marseille Control"
+station_type = "CTR"
+
+[LFMM_N_CTR]
+frequency = 129250000
+prefix = "LFMM"
+radio_callsign = "Marseille Control"
+station_type = "CTR"
+
+[LFMM_S_CTR]
+frequency = 119750000
+prefix = "LFMM"
+radio_callsign = "Marseille Control"
+station_type = "CTR"
+
+
+[LFKB_APP]
+frequency = 123825000
+prefix = "LFKB"
+radio_callsign = "Bastia Approach"
+station_type = "APP"
+
+[LFKB_GND]
+frequency = 121830000
+prefix = "LFKB"
+radio_callsign = "Bastia Ground"
+station_type = "GND"
+
+[LFKB_TWR]
+frequency = 118000000
+prefix = "LFKB"
+radio_callsign = "Bastia Tower"
+station_type = "TWR"
+
+[LFKC_GND]
+frequency = 121705000
+prefix = "LFKC"
+radio_callsign = "Calvi Ground"
+station_type = "GND"
+
+[LFKC_TWR]
+frequency = 123200000
+prefix = "LFKC"
+radio_callsign = "Calvi Tower"
+station_type = "TWR"
+
+[LFKF_GND]
+frequency = 121805000
+prefix = "LFKF"
+radio_callsign = "Figari Ground"
+station_type = "GND"
+
+[LFKF_TWR]
+frequency = 120300000
+prefix = "LFKF"
+radio_callsign = "Figari Tower"
+station_type = "TWR"
+
+[LFKJ_APP]
+frequency = 121050000
+prefix = "LFKJ"
+radio_callsign = "Ajaccio Approach"
+station_type = "APP"
+
+[LFKJ_GND]
+frequency = 121705000
+prefix = "LFKJ"
+radio_callsign = "Ajaccio Ground"
+station_type = "GND"
+
+[LFKJ_TWR]
+frequency = 118075000
+prefix = "LFKJ"
+radio_callsign = "Ajaccio Tower"
+station_type = "TWR"
+
+[LFLB_APP]
+frequency = 121205000
+prefix = "LFLB"
+radio_callsign = "Chambéry Approach"
+station_type = "APP"
+
+[LFLB_TWR]
+frequency = 118300000
+prefix = "LFLB"
+radio_callsign = "Chambéry Tower"
+station_type = "TWR"
+
+[LFLC_APP]
+frequency = 119375000
+prefix = "LFLC"
+radio_callsign = "Clermont Approach"
+station_type = "APP"
+
+[LFLC_GND]
+frequency = 121950000
+prefix = "LFLC"
+radio_callsign = "Clermont Ground"
+station_type = "GND"
+
+[LFLC_S_APP]
+frequency = 122225000
+prefix = "LFLC"
+radio_callsign = "Clermont South Approach"
+station_type = "APP"
+
+[LFLC_TWR]
+frequency = 118625000
+prefix = "LFLC"
+radio_callsign = "Clermont Tower"
+station_type = "TWR"
+
+[LFLG_GND]
+frequency = 121655000
+prefix = "LFLG"
+radio_callsign = "Le Versoux ground"
+station_type = "GND"
+
+[LFLG_TWR]
+frequency = 121000000
+prefix = "LFLG"
+radio_callsign = "Le Versoud Tower"
+station_type = "TWR"
+
+[LFLL_APP]
+frequency = 120230000
+prefix = "LFLL"
+radio_callsign = "Lyon Approach"
+station_type = "APP"
+
+[LFLL_DEL]
+frequency = 121655000
+prefix = "LFLL"
+radio_callsign = "Saint Exupéry Delivery"
+station_type = "DEL"
+
+[LFLL_DEP]
+frequency = 131315000
+prefix = "LFLL"
+radio_callsign = "Lyon Departure"
+station_type = "DEP"
+
+[LFLL_E_APP]
+frequency = 136075000
+prefix = "LFLL"
+radio_callsign = "Lyon East Approach"
+station_type = "APP"
+
+[LFLL_GND]
+frequency = 121830000
+prefix = "LFLL"
+radio_callsign = "Saint Ex Ground"
+station_type = "GND"
+
+[LFLL_TWR]
+frequency = 120450000
+prefix = "LFLL"
+radio_callsign = "Saint Ex Tower"
+station_type = "TWR"
+
+[LFLP_TWR]
+frequency = 118200000
+prefix = "LFLP"
+radio_callsign = "Annecy Tower"
+station_type = "TWR"
+
+[LFLS_GND]
+frequency = 121930000
+prefix = "LFLS"
+radio_callsign = "Grenoble Ground"
+station_type = "GND"
+
+[LFLS_TWR]
+frequency = 119300000
+prefix = "LFLS"
+radio_callsign = "Grenoble Tower"
+station_type = "TWR"
+
+[LFLV_I_TWR]
+frequency = 121405000
+prefix = "LFLV"
+radio_callsign = "Vichy AFIS"
+station_type = "TWR"
+
+[LFLY_GND]
+frequency = 121705000
+prefix = "LFLY"
+radio_callsign = "Bron Ground"
+station_type = "GND"
+
+[LFLY_TWR]
+frequency = 118100000
+prefix = "LFLY"
+radio_callsign = "Bron Tower"
+station_type = "TWR"
+
+[LFMA_TWR]
+frequency = 118750000
+prefix = "LFMA"
+radio_callsign = "Aix Tower"
+station_type = "TWR"
+
+[LFMD_GND]
+frequency = 121805000
+prefix = "LFMD"
+radio_callsign = "Cannes Ground"
+station_type = "GND"
+
+[LFMD_TWR]
+frequency = 118625000
+prefix = "LFMD"
+radio_callsign = "Mandelieu Tower"
+station_type = "TWR"
+
+[LFMH_TWR]
+frequency = 119250000
+prefix = "LFMH"
+radio_callsign = "Saint Etienne Tower"
+station_type = "TWR"
+
+[LFMI_TWR]
+frequency = 123600000
+prefix = "LFMI"
+radio_callsign = "Istres Tower"
+station_type = "TWR"
+
+[LFML_APP]
+frequency = 124350000
+prefix = "LFML"
+radio_callsign = "Provence Approach"
+station_type = "APP"
+
+[LFML_DEL]
+frequency = 121730000
+prefix = "LFML"
+radio_callsign = "Provence Delivery"
+station_type = "DEL"
+
+[LFML_GND]
+frequency = 121905000
+prefix = "LFML"
+radio_callsign = "Provence Ground"
+station_type = "GND"
+
+[LFML_S_APP]
+frequency = 132300000
+prefix = "LFML"
+radio_callsign = "Provence South Approach"
+station_type = "APP"
+
+[LFML_TWR]
+frequency = 133100000
+prefix = "LFML"
+radio_callsign = "Provence Tower"
+station_type = "TWR"
+
+[LFMN_APP]
+frequency = 134475000
+prefix = "LFMN"
+radio_callsign = "Nice Approach"
+station_type = "APP"
+
+[LFMN_DEL]
+frequency = 121780000
+prefix = "LFMN"
+radio_callsign = "Nice Delivery"
+station_type = "DEL"
+
+[LFMN_DEP]
+frequency = 130830000
+prefix = "LFMN"
+radio_callsign = "Nice Departure"
+station_type = "DEP"
+
+[LFMN_E_APP]
+frequency = 124180000
+prefix = "LFMN"
+radio_callsign = "Nice Approach"
+station_type = "APP"
+
+[LFMN_F_APP]
+frequency = 128205000
+prefix = "LFMN"
+radio_callsign = "Nice Approach"
+station_type = "APP"
+
+[LFMN_GND]
+frequency = 121705000
+prefix = "LFMN"
+radio_callsign = "Nice Ground"
+station_type = "GND"
+
+[LFMN_I_APP]
+frequency = 122925000
+prefix = "LFMN"
+radio_callsign = "Nice Information"
+station_type = "APP"
+
+[LFMN_TWR]
+frequency = 118700000
+prefix = "LFMN"
+radio_callsign = "Nice Tower"
+station_type = "TWR"
+
+[LFMO_TWR]
+frequency = 128950000
+prefix = "LFMO"
+radio_callsign = "Orange Tower"
+station_type = "TWR"
+
+[LFMP_TWR]
+frequency = 118300000
+prefix = "LFMP"
+radio_callsign = "Perpignan Tower"
+station_type = "TWR"
+
+[LFMT_APP]
+frequency = 120375000
+prefix = "LFMT"
+radio_callsign = "Montpellier Approach"
+station_type = "APP"
+
+[LFMT_GND]
+frequency = 121955000
+prefix = "LFMT"
+radio_callsign = "Montpellier Ground"
+station_type = "GND"
+
+[LFMT_S_APP]
+frequency = 130855000
+prefix = "LFMP"
+radio_callsign = "Montpellier Sud Approach"
+station_type = "APP"
+
+[LFMT_TWR]
+frequency = 118200000
+prefix = "LFMT"
+radio_callsign = "Montpellier Tower"
+station_type = "TWR"
+
+[LFMU_TWR]
+frequency = 120175000
+prefix = "LFMU"
+radio_callsign = "Beziers Tower"
+station_type = "TWR"
+
+[LFMV_TWR]
+frequency = 122600000
+prefix = "LFMV"
+radio_callsign = "Avignon Tower"
+station_type = "TWR"
+
+[LFTH_APP]
+frequency = 126325000
+prefix = "LFTH"
+radio_callsign = "Toulon Approach"
+station_type = "APP"
+
+[LFTH_GND]
+frequency = 121800000
+prefix = "LFTH"
+radio_callsign = "Palyvestre Ground"
+station_type = "GND"
+
+[LFTH_TWR]
+frequency = 121000000
+prefix = "LFTH"
+radio_callsign = "Palyvestre Tower"
+station_type = "TWR"
+
+[LFTW_GND]
+frequency = 121800000
+prefix = "LFTW"
+radio_callsign = "Garons Ground"
+station_type = "GND"
+
+[LFTW_TWR]
+frequency = 123200000
+prefix = "LFTW"
+radio_callsign = "Garons Tower"
+station_type = "TWR"
+
+[LNMC_TWR]
+frequency = 124000000
+prefix = "LNMC"
+radio_callsign = "Monte Carlo Tower"
+station_type = "TWR"

@@ -1,0 +1,102 @@
+[LCCC_CTR]
+frequency=124200000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCCC_E_CTR]
+frequency=126300000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCCC_EL_CTR]
+frequency=127075000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCCC_S1_CTR]
+frequency=128600000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCCC_S2_CTR]
+frequency=129550000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCCC_W_CTR]
+frequency=125500000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCCC_WL_CTR]
+frequency=128075000
+prefix="LCCC"
+radio_callsign="Nicosia Radar"
+station_type="CTR"
+
+[LCLK_APP]
+frequency=130200000
+prefix="LCLK"
+radio_callsign="Larnaca Approach"
+station_type="APP"
+
+[LCLK_DEL]
+frequency=120580000
+prefix="LCLK"
+radio_callsign="Larnaca Clearance"
+station_type="DEL"
+
+[LCLK_GND]
+frequency=119400000
+prefix="LCLK"
+radio_callsign="Ground"
+station_type="GND"
+
+[LCLK_TWR]
+frequency=121200000
+prefix="LCLK"
+radio_callsign="Larnaca Tower"
+station_type="TWR"
+
+[LCPH_APP]
+frequency=130620000
+prefix="LCPH"
+radio_callsign="Pafos Approach"
+station_type="APP"
+
+[LCPH_GND]
+frequency=120800000
+prefix="LCPH"
+radio_callsign="Ground"
+station_type="GND"
+
+[LCPH_TWR]
+frequency=119900000
+prefix="LCPH"
+radio_callsign="Pafos Tower"
+station_type="TWR"
+
+[LCRA_APP]
+frequency=123600000
+prefix="LCRA"
+radio_callsign="Akrotiri Approach"
+station_type="APP"
+
+[LCRA_GND]
+frequency=122100000
+prefix="LCRA"
+radio_callsign="Akrotiri Ground"
+station_type="GND"
+
+[LCRA_TWR]
+frequency=128000000
+prefix="LCRA"
+radio_callsign="Akrotiri Tower"
+station_type="TWR"
+

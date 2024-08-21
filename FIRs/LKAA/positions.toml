@@ -1,0 +1,240 @@
+[LKAA_APP]
+frequency=125380000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="APP"
+
+[LKAA_CTR]
+frequency=118375000
+prefix="LKMT"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKAA_I_CTR]
+frequency=126100000
+prefix="LKAA"
+radio_callsign="Prague Information (high traffic loads)"
+station_type="CTR"
+
+[LKAA_N_CTR]
+frequency=127825000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKAA_NU_CTR]
+frequency=128230000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKAA_S_CTR]
+frequency=127125000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKAA_SU_CTR]
+frequency=133410000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKAA_U_CTR]
+frequency=124775000
+prefix="LKAA"
+radio_callsign="Prague Control/Radar (Upper, high traffic loads)"
+station_type="CTR"
+
+[LKAA_W_CTR]
+frequency=120275000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKAA_WU_CTR]
+frequency=135135000
+prefix="LKAA"
+radio_callsign="Praha Radar"
+station_type="CTR"
+
+[LKBE_I_TWR]
+frequency=118005000
+prefix="LKBE"
+radio_callsign="Benesov Radio"
+station_type="TWR"
+
+[LKCS_I_TWR]
+frequency=135930000
+prefix="LKCS"
+radio_callsign="Budejovice Info"
+station_type="TWR"
+
+[LKCV_APP]
+frequency=130280000
+prefix="LKCV"
+radio_callsign="Caslav Radar"
+station_type="APP"
+
+[LKCV_TWR]
+frequency=134205000
+prefix="LKCV"
+radio_callsign="Caslav Tower"
+station_type="TWR"
+
+[LKKB_APP]
+frequency=124680000
+prefix="LKKB"
+radio_callsign="Kbely Radar"
+station_type="APP"
+
+[LKKB_TWR]
+frequency=120880000
+prefix="LKKB"
+radio_callsign="Kbely Tower"
+station_type="TWR"
+
+[LKKU_TWR]
+frequency=120105000
+prefix="LKKU"
+radio_callsign="Kunovice Tower"
+station_type="TWR"
+
+[LKKV_APP]
+frequency=118650000
+prefix="LKKV"
+radio_callsign="Praha Radar"
+station_type="APP"
+
+[LKKV_TWR]
+frequency=121230000
+prefix="LKKV"
+radio_callsign="Karlovy Vary Tower"
+station_type="TWR"
+
+[LKLT_I_TWR]
+frequency=120335000
+prefix="LKLT"
+radio_callsign="Letnany Info"
+station_type="TWR"
+
+[LKMH_I_TWR]
+frequency=120405000
+prefix="LKMH"
+radio_callsign="Hradiste Radio"
+station_type="TWR"
+
+[LKMT_APP]
+frequency=119375000
+prefix="LKMT"
+radio_callsign="Praha Radar"
+station_type="APP"
+
+[LKMT_DEL]
+frequency=128525000
+prefix="LKMT"
+radio_callsign="Mosnov Delivery"
+station_type="DEL"
+
+[LKMT_TWR]
+frequency=120805000
+prefix="LKMT"
+radio_callsign="Mosnov Tower"
+station_type="TWR"
+
+[LKNA_APP]
+frequency=118155000
+prefix="LKNA"
+radio_callsign="Namest Radar"
+station_type="APP"
+
+[LKNA_TWR]
+frequency=126505000
+prefix="LKNA"
+radio_callsign="Namest Tower"
+station_type="TWR"
+
+[LKPD_APP]
+frequency=128365000
+prefix="LKPD"
+radio_callsign="Pardubice Radar"
+station_type="APP"
+
+[LKPD_TWR]
+frequency=120155000
+prefix="LKPD"
+radio_callsign="Pardubice Tower"
+station_type="TWR"
+
+[LKPM_I_TWR]
+frequency=118755000
+prefix="LKPM"
+radio_callsign="Pribram Radio"
+station_type="TWR"
+
+[LKPR_APP]
+frequency=127580000
+prefix="LKPR"
+radio_callsign="Praha Radar"
+station_type="APP"
+
+[LKPR_D_APP]
+frequency=119010000
+prefix="LKPR"
+radio_callsign="Ruzyne Radar"
+station_type="APP"
+
+[LKPR_DEL]
+frequency=120060000
+prefix="LKPR"
+radio_callsign="Ruzyne Delivery"
+station_type="DEL"
+
+[LKPR_DEP]
+frequency=120530000
+prefix="LKPR"
+radio_callsign="Praha Radar"
+station_type="DEP"
+
+[LKPR_GND]
+frequency=121910000
+prefix="LKPR"
+radio_callsign="Ruzyne Ground"
+station_type="GND"
+
+[LKPR_TWR]
+frequency=134560000
+prefix="LKPR"
+radio_callsign="Ruzyne Tower"
+station_type="TWR"
+
+[LKTB_APP]
+frequency=127350000
+prefix="LKTB"
+radio_callsign="Praha Radar"
+station_type="APP"
+
+[LKTB_GND]
+frequency=125430000
+prefix="LKTB"
+radio_callsign="Turany Ground"
+station_type="GND"
+
+[LKTB_TWR]
+frequency=119605000
+prefix="LKTB"
+radio_callsign="Turany Tower"
+station_type="TWR"
+
+[LKVO_APP]
+frequency=127480000
+prefix="LKVO"
+radio_callsign="Vodochody Radar"
+station_type="APP"
+
+[LKVO_TWR]
+frequency=133080000
+prefix="LKVO"
+radio_callsign="Vodochody Tower"
+station_type="TWR"
+

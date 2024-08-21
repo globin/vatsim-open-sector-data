@@ -1,0 +1,287 @@
+[EKCH_K_DEP]
+frequency = 124980000
+prefix = ""
+radio_callsign = "Kastrup Departure"
+station_type = "DEP"
+
+[EKCH_O_APP]
+frequency = 118455000
+prefix = ""
+radio_callsign = "Copenhagen Approach"
+station_type = "APP"
+
+[EKCH_R_DEP]
+frequency = 120255000
+prefix = ""
+radio_callsign = "Kastrup Departure"
+station_type = "DEP"
+
+[EKCH_W_APP]
+frequency = 119805000
+prefix = ""
+radio_callsign = "Copenhagen Approach"
+station_type = "APP"
+
+[EKDK_A_CTR]
+frequency = 135290000
+prefix = ""
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_E_CTR]
+frequency = 123730000
+prefix = ""
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_L_CTR]
+frequency = 124555000
+prefix = ""
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKAH_APP]
+frequency = 119270000
+prefix = "EKAH"
+radio_callsign = "Aarhus Approach"
+station_type = "APP"
+
+[EKAH_TWR]
+frequency = 118530000
+prefix = "EKAH"
+radio_callsign = "Aarhus Tower"
+station_type = "TWR"
+
+[EKBI_APP]
+frequency = 127580000
+prefix = "EKBI"
+radio_callsign = "Bilund Approach"
+station_type = "APP"
+
+[EKBI_F_APP]
+frequency = 119250000
+prefix = "EKBI"
+radio_callsign = "Billund Arrival"
+station_type = "APP"
+
+[EKBI_TWR]
+frequency = 119005000
+prefix = "EKBI"
+radio_callsign = "Billund Tower"
+station_type = "TWR"
+
+[EKCH_A_GND]
+frequency = 121630000
+prefix = "EKCH"
+radio_callsign = "Kastrup Apron"
+station_type = "GND"
+
+[EKCH_A_TWR]
+frequency = 110105000
+prefix = "EKCH"
+radio_callsign = "Kastrup Arrival Tower (high traffic only)"
+station_type = "TWR"
+
+[EKCH_C_TWR]
+frequency = 118580000
+prefix = "EKCH"
+radio_callsign = "Kastrup Tower"
+station_type = "TWR"
+
+[EKCH_D_GND]
+frequency = 121730000
+prefix = "EKCH"
+radio_callsign = "Kastrup Apron (D)"
+station_type = "GND"
+
+[EKCH_D_TWR]
+frequency = 119355000
+prefix = "EKCH"
+radio_callsign = "Kastrup Tower"
+station_type = "TWR"
+
+[EKCH_DEL]
+frequency = 119905000
+prefix = "EKCH"
+radio_callsign = "Kastrup Delivery"
+station_type = "DEL"
+
+[EKCH_DEP]
+frequency = 124970000
+prefix = "EKCH"
+radio_callsign = "Kastrup Departure"
+station_type = "DEP"
+
+[EKCH_F_APP]
+frequency = 120205000
+prefix = "EKCH"
+radio_callsign = "Kastrup Final"
+station_type = "APP"
+
+[EKCH_GND]
+frequency = 121620000
+prefix = "EKCH"
+radio_callsign = "Kastrup Apron (main)"
+station_type = "GND"
+
+[EKCH_S_GND]
+frequency = 121905000
+prefix = "EKCH"
+radio_callsign = "Kastrup Apron (South)"
+station_type = "GND"
+
+[EKCH_TWR]
+frequency = 118100000
+prefix = "EKCH"
+radio_callsign = "Kastrup Tower (main frequency)"
+station_type = "TWR"
+
+[EKDK_B_CTR]
+frequency = 119555000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_C_CTR]
+frequency = 128215000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_CTR]
+frequency = 136485000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_D_CTR]
+frequency = 133155000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_I_CTR]
+frequency = 121380000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_N_CTR]
+frequency = 134680000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_S_CTR]
+frequency = 136555000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKDK_V_CTR]
+frequency = 135565000
+prefix = "EKDK"
+radio_callsign = "Copenhagen Control"
+station_type = "CTR"
+
+[EKEB_I_TWR]
+frequency = 120155000
+prefix = "EKEB"
+radio_callsign = "Esbjerg Information"
+station_type = "TWR"
+
+[EKKA_APP]
+frequency = 120420000
+prefix = "EKKA"
+radio_callsign = "Karup Approach"
+station_type = "APP"
+
+[EKKA_TWR]
+frequency = 119570000
+prefix = "EKKA"
+radio_callsign = "Karup Tower"
+station_type = "TWR"
+
+[EKOD_I_TWR]
+frequency = 119520000
+prefix = "EKOD"
+radio_callsign = "Odense AFIS"
+station_type = "TWR"
+
+[EKRK_APP]
+frequency = 125530000
+prefix = "EKRK"
+radio_callsign = "Roskilde Approach"
+station_type = "APP"
+
+[EKRK_TWR]
+frequency = 118905000
+prefix = "EKRK"
+radio_callsign = "Roskilde Tower"
+station_type = "TWR"
+
+[EKRN_TWR]
+frequency = 118320000
+prefix = "EKRN"
+radio_callsign = "Roenne Tower"
+station_type = "TWR"
+
+[EKSB_I_TWR]
+frequency = 126400000
+prefix = "EKSB"
+radio_callsign = "Sonderborg AFIS"
+station_type = "TWR"
+
+[EKSN_I_TWR]
+frequency = 118750000
+prefix = "EKSN"
+radio_callsign = "Sindal AFIS"
+station_type = "TWR"
+
+[EKSP_APP]
+frequency = 124100000
+prefix = "EKSP"
+radio_callsign = "Skrydstrup Approach"
+station_type = "APP"
+
+[EKSP_TWR]
+frequency = 128320000
+prefix = "EKSP"
+radio_callsign = "Skrydstrup Tower"
+station_type = "TWR"
+
+[EKVD_I_TWR]
+frequency = 120500000
+prefix = "EKVD"
+radio_callsign = "Kolding AFIS"
+station_type = "TWR"
+
+[EKVG_I_TWR]
+frequency = 124850000
+prefix = "EKVG"
+radio_callsign = "Vagar Information"
+station_type = "TWR"
+
+[EKVJ_I_TWR]
+frequency = 121400000
+prefix = "EKVJ"
+radio_callsign = "Stauning AFIS"
+station_type = "TWR"
+
+[EKYT_APP]
+frequency = 123980000
+prefix = "EKYT"
+radio_callsign = "Aalborg Approach"
+station_type = "APP"
+
+[EKYT_F_APP]
+frequency = 120700000
+prefix = "EKYT"
+radio_callsign = "Aalborg Arrival"
+station_type = "APP"
+
+[EKYT_TWR]
+frequency = 118305000
+prefix = "EKYT"
+radio_callsign = "Aalborg Tower"
+station_type = "TWR"

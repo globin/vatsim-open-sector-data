@@ -1,0 +1,431 @@
+[EICK_APP]
+frequency = 119900000
+prefix = "EICK"
+radio_callsign = ""
+station_type = "APP"
+
+[EICK_F_APP]
+frequency = 118800000
+prefix = "EICK"
+radio_callsign = ""
+station_type = "APP"
+
+[EICK_GND]
+frequency = 121850000
+prefix = "EICK"
+radio_callsign = ""
+station_type = "GND"
+
+[EICK_P_TWR]
+frequency = 121700000
+prefix = "EICK"
+radio_callsign = ""
+station_type = "TWR"
+
+[EICK_TWR]
+frequency = 119300000
+prefix = "EICK"
+radio_callsign = ""
+station_type = "TWR"
+
+[EICM_TWR]
+frequency = 122500000
+prefix = "EICM"
+radio_callsign = "Galway Tower"
+station_type = "TWR"
+
+[EIDL_TWR]
+frequency = 129800000
+prefix = "EIDL"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIDW_1_CTR]
+frequency = 129170000
+prefix = "EIDW"
+radio_callsign = "Dublin Control (Upper North)"
+station_type = "CTR"
+
+[EIDW_2_CTR]
+frequency = 132570000
+prefix = "EIDW"
+radio_callsign = "Dublin Control (Lower North)"
+station_type = "CTR"
+
+[EIDW_3_CTR]
+frequency = 135650000
+prefix = "EIDW"
+radio_callsign = "Dublin Control (Upper South)"
+station_type = "CTR"
+
+[EIDW_4_CTR]
+frequency = 120750000
+prefix = "EIDW"
+radio_callsign = "Dublin Control (Lower South)"
+station_type = "CTR"
+
+[EIDW_A_TWR]
+frequency = 119805000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIDW_APP]
+frequency = 121100000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "APP"
+
+[EIDW_DEL]
+frequency = 122985000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "DEL"
+
+[EIDW_F_APP]
+frequency = 119930000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "APP"
+
+[EIDW_I_CTR]
+frequency = 118500000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_LN_CTR]
+frequency = 132580000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_LS_CTR]
+frequency = 120755000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_N_APP]
+frequency = 133280000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "APP"
+
+[EIDW_N_CTR]
+frequency = 124650000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_N_DEP]
+frequency = 127865000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "DEP"
+
+[EIDW_N_GND]
+frequency = 125885000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "GND"
+
+[EIDW_N_TWR]
+frequency = 124680000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIDW_P_TWR]
+frequency = 128800000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIDW_S_APP]
+frequency = 119555000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "APP"
+
+[EIDW_S_CTR]
+frequency = 126250000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_S_DEP]
+frequency = 123990000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "DEP"
+
+[EIDW_S_GND]
+frequency = 121800000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "GND"
+
+[EIDW_S_TWR]
+frequency = 118600000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIDW_UN_CTR]
+frequency = 129180000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_US_CTR]
+frequency = 135655000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIDW_W_GND]
+frequency = 130790000
+prefix = "EIDW"
+radio_callsign = ""
+station_type = "GND"
+
+[EIKN_GND]
+frequency = 121900000
+prefix = "EIKN"
+radio_callsign = ""
+station_type = "GND"
+
+[EIKN_TWR]
+frequency = 130700000
+prefix = "EIKN"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIKY_GND]
+frequency = 121600000
+prefix = "EIKY"
+radio_callsign = ""
+station_type = "GND"
+
+[EIKY_TWR]
+frequency = 123325000
+prefix = "EIKY"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIME_APP]
+frequency = 122000000
+prefix = "EIME"
+radio_callsign = ""
+station_type = "APP"
+
+[EIME_GND]
+frequency = 121755000
+prefix = "EIME"
+radio_callsign = ""
+station_type = "GND"
+
+[EIME_TWR]
+frequency = 123500000
+prefix = "EIME"
+radio_callsign = ""
+station_type = "TWR"
+
+[EINN_APP]
+frequency = 121400000
+prefix = "EINN"
+radio_callsign = ""
+station_type = "APP"
+
+[EINN_F_APP]
+frequency = 120200000
+prefix = "EINN"
+radio_callsign = ""
+station_type = "APP"
+
+[EINN_GND]
+frequency = 121800000
+prefix = "EINN"
+radio_callsign = ""
+station_type = "GND"
+
+[EINN_TWR]
+frequency = 118700000
+prefix = "EINN"
+radio_callsign = ""
+station_type = "TWR"
+
+[EISG_TWR]
+frequency = 122100000
+prefix = "EISG"
+radio_callsign = ""
+station_type = "TWR"
+
+[EISN_0_CTR]
+frequency = 136250000
+prefix = "EISN"
+radio_callsign = "Shannon Control (EAST SUPER)"
+station_type = "CTR"
+
+[EISN_2_CTR]
+frequency = 125870000
+prefix = "EISN"
+radio_callsign = "Shannon Control (WEST SPER)"
+station_type = "CTR"
+
+[EISN_4_CTR]
+frequency = 127120000
+prefix = "EISN"
+radio_callsign = "Shannon Control (NOTA SUPER)"
+station_type = "CTR"
+
+[EISN_6_CTR]
+frequency = 134620000
+prefix = "EISN"
+radio_callsign = "Shannon Control (SOTA SUPER)"
+station_type = "CTR"
+
+[EISN_8_CTR]
+frequency = 135220000
+prefix = "EISN"
+radio_callsign = "Shannon Control (BANBA SUPER)"
+station_type = "CTR"
+
+[EISN_A_CTR]
+frequency = 125875000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_B_CTR]
+frequency = 127130000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_BS_CTR]
+frequency = 134630000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_C_CTR]
+frequency = 129675000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_CTR]
+frequency = 135985000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_D_CTR]
+frequency = 136255000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_E_CTR]
+frequency = 134260000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_ES_CTR]
+frequency = 135730000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_I_CTR]
+frequency = 127500000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_L_CTR]
+frequency = 124700000
+prefix = "EISN"
+radio_callsign = "Shannon Control (Low South)"
+station_type = "CTR"
+
+[EISN_LN_CTR]
+frequency = 119075000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_LS_CTR]
+frequency = 124700000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_N_CTR]
+frequency = 122980000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_NS_CTR]
+frequency = 120040000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_O_CTR]
+frequency = 135600000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_S_CTR]
+frequency = 135230000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_SS_CTR]
+frequency = 133360000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_W_CTR]
+frequency = 131150000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EISN_WS_CTR]
+frequency = 132150000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "CTR"
+
+[EIWF_GND]
+frequency = 121600000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "GND"
+
+[EIWF_TWR]
+frequency = 129850000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "TWR"
+
+[EIWT_GND]
+frequency = 119425000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "GND"
+
+[EIWT_TWR]
+frequency = 122400000
+prefix = "EISN"
+radio_callsign = ""
+station_type = "TWR"

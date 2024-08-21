@@ -1,0 +1,707 @@
+[EGBB_APP]
+frequency = 123975000
+prefix = "EGBB"
+radio_callsign = "Birmingham Radar (INT)"
+station_type = "APP"
+
+[EGBB_F_APP]
+frequency = 131000000
+prefix = "EGBB"
+radio_callsign = "Birmingham Director (FIN)"
+station_type = "APP"
+
+[EGBJ_APP]
+frequency = 128550000
+prefix = "EGBJ"
+radio_callsign = "Gloucester Radar"
+station_type = "APP"
+
+[EGCC_F_APP]
+frequency = 121350000
+prefix = "EGCC"
+radio_callsign = "Manchester Director (FIN)"
+station_type = "APP"
+
+[EGCC_N_APP]
+frequency = 135000000
+prefix = "EGCC"
+radio_callsign = "Manchester Radar (INT North)"
+station_type = "APP"
+
+[EGCC_S_APP]
+frequency = 118575000
+prefix = "EGCC"
+radio_callsign = "Manchester Radar (INT South)"
+station_type = "APP"
+
+[EGFF_APP]
+frequency = 125850000
+prefix = "EGFF"
+radio_callsign = "Cardiff Radar"
+station_type = "APP"
+
+[EGFF_L_APP]
+frequency = 119150000
+prefix = "EGFF"
+radio_callsign = "Cardiff Radar (LARS)"
+station_type = "APP"
+
+[EGGD_APP]
+frequency = 125650000
+prefix = "EGGD"
+radio_callsign = "Bristol Radar (INT)"
+station_type = "APP"
+
+[EGGD_F_APP]
+frequency = 136075000
+prefix = "EGGD"
+radio_callsign = "Bristol Director (FIN)"
+station_type = "APP"
+
+[EGGP_APP]
+frequency = 119850000
+prefix = "EGGP"
+radio_callsign = "Liverpool Radar (INT)"
+station_type = "APP"
+
+[EGGP_F_APP]
+frequency = 118450000
+prefix = "EGGP"
+radio_callsign = "Liverpool Director (FIN)"
+station_type = "APP"
+
+[EGGW_APP]
+frequency = 129550000
+prefix = "EGGW"
+radio_callsign = "Luton Radar (INT)"
+station_type = "APP"
+
+[EGGW_F_APP]
+frequency = 128750000
+prefix = "EGGW"
+radio_callsign = "Luton Director (FIN)"
+station_type = "APP"
+
+[EGHD_APP]
+frequency = 133550000
+prefix = "EGHD"
+radio_callsign = "Plymouth Approach/Radar"
+station_type = "APP"
+
+[EGHE_A_APP]
+frequency = 124875000
+prefix = "EGHE"
+radio_callsign = "Scillies Approach"
+station_type = "APP"
+
+[EGHH_APP]
+frequency = 119475000
+prefix = "EGHH"
+radio_callsign = "Bournemouth Radar"
+station_type = "APP"
+
+[EGHI_APP]
+frequency = 122725000
+prefix = "EGHI"
+radio_callsign = "Southampton Radar"
+station_type = "APP"
+
+[EGHQ_APP]
+frequency = 133400000
+prefix = "EGHQ"
+radio_callsign = "Newquay Approach"
+station_type = "APP"
+
+[EGHQ_L_APP]
+frequency = 127925000
+prefix = "EGHQ"
+radio_callsign = "Newquay Radar (LARS)"
+station_type = "APP"
+
+[EGJB_APP]
+frequency = 128650000
+prefix = "EGJB"
+radio_callsign = "Guernsey Radar"
+station_type = "APP"
+
+[EGJB_F_APP]
+frequency = 124500000
+prefix = "EGJB"
+radio_callsign = "Guernsey Approach"
+station_type = "APP"
+
+[EGJJ_APP]
+frequency = 120300000
+prefix = "EGJJ"
+radio_callsign = "Jersey Approach"
+station_type = "APP"
+
+[EGJJ_C_APP]
+frequency = 125200000
+prefix = "EGJJ"
+radio_callsign = "Jersey Control (ORTAC)"
+station_type = "APP"
+
+[EGJJ_F_APP]
+frequency = 118550000
+prefix = "EGJJ"
+radio_callsign = "Jersey Approach"
+station_type = "APP"
+
+[EGJJ_S_APP]
+frequency = 120450000
+prefix = "EGJJ"
+radio_callsign = "Jersey Control (SKERY)"
+station_type = "APP"
+
+[EGKA_APP]
+frequency = 123150000
+prefix = "EGKA"
+radio_callsign = "Shoreham Approach"
+station_type = "APP"
+
+[EGKB_APP]
+frequency = 129400000
+prefix = "EGKB"
+radio_callsign = "Biggin Approach"
+station_type = "APP"
+
+[EGKK_APP]
+frequency = 126825000
+prefix = "EGKK"
+radio_callsign = "Gatwick Director (INT)"
+station_type = "APP"
+
+[EGKK_F_APP]
+frequency = 118950000
+prefix = "EGKK"
+radio_callsign = "Gatwick Director (FIN)"
+station_type = "APP"
+
+[EGKK_S_APP]
+frequency = 129025000
+prefix = "EGKK"
+radio_callsign = "Gatwick Support (Standby)"
+station_type = "APP"
+
+[EGLC_APP]
+frequency = 128025000
+prefix = "EGLC"
+radio_callsign = "Thames Director (LC FIN)"
+station_type = "APP"
+
+[EGLF_APP]
+frequency = 134350000
+prefix = "EGLF"
+radio_callsign = "Farnborough Radar"
+station_type = "APP"
+
+[EGLF_L_APP]
+frequency = 125250000
+prefix = "EGLF"
+radio_callsign = "Farnborough Radar (LARS)"
+station_type = "APP"
+
+[EGLL_F_APP]
+frequency = 120400000
+prefix = "EGLL"
+radio_callsign = "Heathrow Director (FIN)"
+station_type = "APP"
+
+[EGLL_N_APP]
+frequency = 119725000
+prefix = "EGLL"
+radio_callsign = "Heathrow Director (INT North)"
+station_type = "APP"
+
+[EGLL_S_APP]
+frequency = 134975000
+prefix = "EGLL"
+radio_callsign = "Heathrow Director (INT South)"
+station_type = "APP"
+
+[EGMC_APP]
+frequency = 128950000
+prefix = "EGMC"
+radio_callsign = "Southend Radar"
+station_type = "APP"
+
+[EGMC_L_APP]
+frequency = 128950000
+prefix = "EGMC"
+radio_callsign = "Southend Radar (LARS)"
+station_type = "APP"
+
+[EGMD_A_APP]
+frequency = 120700000
+prefix = "EGMD"
+radio_callsign = "Lydd Approach"
+station_type = "APP"
+
+[EGNH_A_APP]
+frequency = 119950000
+prefix = "EGNH"
+radio_callsign = "Blackpool Approach"
+station_type = "APP"
+
+[EGNM_APP]
+frequency = 134575000
+prefix = "EGNM"
+radio_callsign = "Leeds Radar"
+station_type = "APP"
+
+[EGNO_APP]
+frequency = 129525000
+prefix = "EGNO"
+radio_callsign = "Warton Radar"
+station_type = "APP"
+
+[EGNR_APP]
+frequency = 120075000
+prefix = "EGNR"
+radio_callsign = "Harwarden Radar"
+station_type = "APP"
+
+[EGNR_F_APP]
+frequency = 130025000
+prefix = "EGNR"
+radio_callsign = "Harwarden Director"
+station_type = "APP"
+
+[EGNS_APP]
+frequency = 120850000
+prefix = "EGNS"
+radio_callsign = "Ronaldsway Radar"
+station_type = "APP"
+
+[EGNT_APP]
+frequency = 124375000
+prefix = "EGNT"
+radio_callsign = "Newcastle Radar (RAD)"
+station_type = "APP"
+
+[EGNT_F_APP]
+frequency = 125825000
+prefix = "EGNT"
+radio_callsign = "Newcastle Director (FIN)"
+station_type = "APP"
+
+[EGNV_APP]
+frequency = 118850000
+prefix = "EGNV"
+radio_callsign = "Teesside Radar"
+station_type = "APP"
+
+[EGNV_F_APP]
+frequency = 128850000
+prefix = "EGNV"
+radio_callsign = "Teesside Director (FIN)"
+station_type = "APP"
+
+[EGNX_APP]
+frequency = 134175000
+prefix = "EGNX"
+radio_callsign = "East Midlands Radar (RAD 1)"
+station_type = "APP"
+
+[EGNX_F_APP]
+frequency = 120125000
+prefix = "EGNX"
+radio_callsign = "East Midlands Director (RAD 2)"
+station_type = "APP"
+
+[EGSC_A_APP]
+frequency = 120975000
+prefix = "EGSC"
+radio_callsign = "Cambridge Approach"
+station_type = "APP"
+
+[EGSC_APP]
+frequency = 124975000
+prefix = "EGSC"
+radio_callsign = "Cambridge Radar"
+station_type = "APP"
+
+[EGSH_APP]
+frequency = 119350000
+prefix = "EGSH"
+radio_callsign = "Norwich Radar"
+station_type = "APP"
+
+[EGSS_APP]
+frequency = 120625000
+prefix = "EGSS"
+radio_callsign = "Stansted Radar (INT)"
+station_type = "APP"
+
+[EGSS_F_APP]
+frequency = 136200000
+prefix = "EGSS"
+radio_callsign = "Stansted Director (FIN)"
+station_type = "APP"
+
+[EGTE_N_APP]
+frequency = 128975000
+prefix = "EGTE"
+radio_callsign = "Exeter Radar (RAD N)"
+station_type = "APP"
+
+[EGTE_S_APP]
+frequency = 123575000
+prefix = "EGTE"
+radio_callsign = "Exeter Radar (RAD S)"
+station_type = "APP"
+
+[EGTK_APP]
+frequency = 125100000
+prefix = "EGTK"
+radio_callsign = "Oxford Radar (RAD)"
+station_type = "APP"
+
+[EGTK_F_APP]
+frequency = 119975000
+prefix = "EGTK"
+radio_callsign = "Oxford Director (DIR)"
+station_type = "APP"
+
+[EGTT_I_CTR]
+frequency = 124600000
+prefix = "EGTT"
+radio_callsign = "London Information"
+station_type = "CTR"
+
+[EGVV_CTR]
+frequency = 133900000
+prefix = "EGVV"
+radio_callsign = "Swanwick Mil"
+station_type = "CTR"
+
+[EGVV_N_CTR]
+frequency = 136375000
+prefix = "EGVV"
+radio_callsign = "Swanwick Mil (North)"
+station_type = "CTR"
+
+[EGVV_W_CTR]
+frequency = 127450000
+prefix = "EGVV"
+radio_callsign = "Swanwick Mil (West)"
+station_type = "CTR"
+
+[ESSEX_APP]
+frequency = 120625000
+prefix = "ESSEX"
+radio_callsign = "Stansted Radar (SS+GW INT)"
+station_type = "APP"
+
+[LON_11_CTR]
+frequency = 126775000
+prefix = "LON"
+radio_callsign = "London Control (Sector 11)"
+station_type = "CTR"
+
+[LON_23_CTR]
+frequency = 134750000
+prefix = "LON"
+radio_callsign = "London Control (Sector 23)"
+station_type = "CTR"
+
+[LON_8_CTR]
+frequency = 129375000
+prefix = "LON"
+radio_callsign = "London Control (Sector 8)"
+station_type = "CTR"
+
+[LON_9_CTR]
+frequency = 132950000
+prefix = "LON"
+radio_callsign = "London Control (Sector 9)"
+station_type = "CTR"
+
+[LON_C_CTR]
+frequency = 127100000
+prefix = "LON"
+radio_callsign = "London Control (AC Central)"
+station_type = "CTR"
+
+[LON_CTR]
+frequency = 127825000
+prefix = "LON"
+radio_callsign = "London Control"
+station_type = "CTR"
+
+[LON_D_CTR]
+frequency = 134900000
+prefix = "LON"
+radio_callsign = "London Control (Dover)"
+station_type = "CTR"
+
+[LON_DK_CTR]
+frequency = 128425000
+prefix = "LON"
+radio_callsign = "London Control (Sector 15)"
+station_type = "CTR"
+
+[LON_DL_CTR]
+frequency = 133475000
+prefix = "LON"
+radio_callsign = "London Control (Lydd)"
+station_type = "CTR"
+
+[LON_E_CTR]
+frequency = 118475000
+prefix = "LON"
+radio_callsign = "London Control (Clacton)"
+station_type = "CTR"
+
+[LON_EN_CTR]
+frequency = 133925000
+prefix = "LON"
+radio_callsign = "London Control (Sector 12)"
+station_type = "CTR"
+
+[LON_ES_CTR]
+frequency = 128150000
+prefix = "LON"
+radio_callsign = "London Control (Sector 13)"
+station_type = "CTR"
+
+[LON_M_CTR]
+frequency = 120025000
+prefix = "LON"
+radio_callsign = "London Control (Daventry)"
+station_type = "CTR"
+
+[LON_ME_CTR]
+frequency = 127875000
+prefix = "LON"
+radio_callsign = "London Control (Daventry East)"
+station_type = "CTR"
+
+[LON_ML_CTR]
+frequency = 133975000
+prefix = "LON"
+radio_callsign = "London Control (Daventry Low)"
+station_type = "CTR"
+
+[LON_MW_CTR]
+frequency = 134400000
+prefix = "LON"
+radio_callsign = "London Control (Daventry West)"
+station_type = "CTR"
+
+[LON_N_CTR]
+frequency = 133700000
+prefix = "LON"
+radio_callsign = "London Control (AC North)"
+station_type = "CTR"
+
+[LON_NE_CTR]
+frequency = 128125000
+prefix = "LON"
+radio_callsign = "London Control (North Sea)"
+station_type = "CTR"
+
+[LON_NU_CTR]
+frequency = 132875000
+prefix = "LON"
+radio_callsign = "London Control (Sector 4)"
+station_type = "CTR"
+
+[LON_NW_CTR]
+frequency = 135575000
+prefix = "LON"
+radio_callsign = "London Control (Lakes)"
+station_type = "CTR"
+
+[LON_S_CTR]
+frequency = 129425000
+prefix = "LON"
+radio_callsign = "London Control (Worthing)"
+station_type = "CTR"
+
+[LON_SC_CTR]
+frequency = 132600000
+prefix = "LON"
+radio_callsign = "London Control (SC Bandbox)"
+station_type = "CTR"
+
+[LON_SF_CTR]
+frequency = 135050000
+prefix = "LON"
+radio_callsign = "London Control (Sector 18)"
+station_type = "CTR"
+
+[LON_SH_CTR]
+frequency = 134450000
+prefix = "LON"
+radio_callsign = "London Control (Hurn)"
+station_type = "CTR"
+
+[LON_SN_CTR]
+frequency = 132175000
+prefix = "LON"
+radio_callsign = "London Control (LMS)"
+station_type = "CTR"
+
+[LON_SU_CTR]
+frequency = 132825000
+prefix = "LON"
+radio_callsign = "London Control (LUS)"
+station_type = "CTR"
+
+[LON_W_CTR]
+frequency = 126075000
+prefix = "LON"
+radio_callsign = "London Control (AC West)"
+station_type = "CTR"
+
+[LON_WB_CTR]
+frequency = 135250000
+prefix = "LON"
+radio_callsign = "London Control (Sector 35)"
+station_type = "CTR"
+
+[LON_WH_CTR]
+frequency = 128825000
+prefix = "LON"
+radio_callsign = "London Control (Berry Head)"
+station_type = "CTR"
+
+[LON_WL_CTR]
+frequency = 133600000
+prefix = "LON"
+radio_callsign = "London Control (Sector 5)"
+station_type = "CTR"
+
+[LON_WX_CTR]
+frequency = 127700000
+prefix = "LON"
+radio_callsign = "London Control (Sector 6+36)"
+station_type = "CTR"
+
+[LTC_CTR]
+frequency = 135800000
+prefix = "LTC"
+radio_callsign = "London Control (TC Bandbox)"
+station_type = "CTR"
+
+[LTC_E_CTR]
+frequency = 121225000
+prefix = "LTC"
+radio_callsign = "London Control (TC East)"
+station_type = "CTR"
+
+[LTC_ED_CTR]
+frequency = 124925000
+prefix = "LTC"
+radio_callsign = "London Control (TC DAGGA)"
+station_type = "CTR"
+
+[LTC_EJ_CTR]
+frequency = 135425000
+prefix = "LTC"
+radio_callsign = "London Control (TC JACKO)"
+station_type = "CTR"
+
+[LTC_ER_CTR]
+frequency = 133525000
+prefix = "LTC"
+radio_callsign = "London Control (TC REDFA)"
+station_type = "CTR"
+
+[LTC_ES_CTR]
+frequency = 129600000
+prefix = "LTC"
+radio_callsign = "London Control (TC SABER)"
+station_type = "CTR"
+
+[LTC_M_CTR]
+frequency = 121025000
+prefix = "LTC"
+radio_callsign = "London Control (TC Midlands)"
+station_type = "CTR"
+
+[LTC_MC_CTR]
+frequency = 133075000
+prefix = "LTC"
+radio_callsign = "London Control (TC COWLY)"
+station_type = "CTR"
+
+[LTC_MW_CTR]
+frequency = 130925000
+prefix = "LTC"
+radio_callsign = "London Control (TC WELIN)"
+station_type = "CTR"
+
+[LTC_N_CTR]
+frequency = 119775000
+prefix = "LTC"
+radio_callsign = "London Control (TC North)"
+station_type = "CTR"
+
+[LTC_N2_CTR]
+frequency = 129275000
+prefix = "LTC"
+radio_callsign = "London Control (TC LOREL)"
+station_type = "CTR"
+
+[LTC_NE_CTR]
+frequency = 118825000
+prefix = "LTC"
+radio_callsign = "London Control (TC North East)"
+station_type = "CTR"
+
+[LTC_NL_CTR]
+frequency = 123900000
+prefix = "LTC"
+radio_callsign = "London Control (TC Lambourne)"
+station_type = "CTR"
+
+[LTC_NW_CTR]
+frequency = 121275000
+prefix = "LTC"
+radio_callsign = "London Control (TC North West)"
+station_type = "CTR"
+
+[LTC_S_CTR]
+frequency = 134125000
+prefix = "LTC"
+radio_callsign = "London Control (TC South)"
+station_type = "CTR"
+
+[LTC_SE_CTR]
+frequency = 120525000
+prefix = "LTC"
+radio_callsign = "London Control (TC South East)"
+station_type = "CTR"
+
+[LTC_SG_CTR]
+frequency = 135325000
+prefix = "LTC"
+radio_callsign = "London Control (TC GODLU)"
+station_type = "CTR"
+
+[LTC_SL_CTR]
+frequency = 120175000
+prefix = "LTC"
+radio_callsign = "London Control (TC TIMBA)"
+station_type = "CTR"
+
+[LTC_SW_CTR]
+frequency = 133175000
+prefix = "LTC"
+radio_callsign = "London Control (TC South West)"
+station_type = "CTR"
+
+[SOLENT_APP]
+frequency = 120225000
+prefix = "SOLENT"
+radio_callsign = "Solent Radar"
+station_type = "APP"
+
+[THAMES_APP]
+frequency = 132700000
+prefix = "THAMES"
+radio_callsign = "Thames Director (TMS INT)"
+station_type = "APP"

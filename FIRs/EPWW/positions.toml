@@ -1,0 +1,671 @@
+[EPAR_R_TWR]
+frequency = 136505000
+prefix = "EPAR"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPBC_I_TWR]
+frequency = 119180000
+prefix = "EPBC"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPBY_TWR]
+frequency = 131005000
+prefix = "EPBY"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPCE_APP]
+frequency = 132425000
+prefix = "EPCE"
+radio_callsign = "Cewice_Approach"
+station_type = "APP"
+
+[EPCE_P_APP]
+frequency = 121175000
+prefix = "EPCE"
+radio_callsign = "Cewice Precision"
+station_type = "APP"
+
+[EPCE_TWR]
+frequency = 126750000
+prefix = "EPCE"
+radio_callsign = "Cewice Tower"
+station_type = "TWR"
+
+[EPDA_APP]
+frequency = 133000000
+prefix = "EPDA"
+radio_callsign = "Darlowo Approach"
+station_type = "APP"
+
+[EPDA_TWR]
+frequency = 129500000
+prefix = "EPDA"
+radio_callsign = "Darlowo Tower"
+station_type = "TWR"
+
+[EPDE_APP]
+frequency = 128250000
+prefix = "EPDE"
+radio_callsign = ""
+station_type = "APP"
+
+[EPDE_DEL]
+frequency = 121750000
+prefix = "EPDE"
+radio_callsign = "Deblin Delivery"
+station_type = "DEL"
+
+[EPDE_GND]
+frequency = 121750000
+prefix = "EPDE"
+radio_callsign = "Deblin Ground"
+station_type = "GND"
+
+[EPDE_TWR]
+frequency = 122750000
+prefix = "EPDE"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPGD_APP]
+frequency = 127280000
+prefix = "EPGD"
+radio_callsign = ""
+station_type = "APP"
+
+[EPGD_F_APP]
+frequency = 133660000
+prefix = "EPGD"
+radio_callsign = ""
+station_type = "APP"
+
+[EPGD_GND]
+frequency = 131330000
+prefix = "EPGD"
+radio_callsign = ""
+station_type = "GND"
+
+[EPGD_I_APP]
+frequency = 127150000
+prefix = ""
+radio_callsign = ""
+station_type = "APP"
+
+[EPGD_TWR]
+frequency = 118105000
+prefix = "EPGD"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPGY_R_TWR]
+frequency = 126855000
+prefix = "EPGY"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPIR_APP]
+frequency = 119250000
+prefix = "EPIR"
+radio_callsign = "Inowroclaw Approach"
+station_type = "APP"
+
+[EPIR_P_APP]
+frequency = 120025000
+prefix = "EPIR"
+radio_callsign = "Inowroclaw Precision"
+station_type = "APP"
+
+[EPIR_TWR]
+frequency = 120025000
+prefix = "EPIR"
+radio_callsign = "Inowroclaw Tower"
+station_type = "TWR"
+
+[EPJA_R_TWR]
+frequency = 122830000
+prefix = "EPJA"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKA_R_TWR]
+frequency = 118080000
+prefix = "EPKA"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKG_R_TWR]
+frequency = 118830000
+prefix = "EPKG"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKI_R_TWR]
+frequency = 119405000
+prefix = "EPKI"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKK_APP]
+frequency = 121075000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "APP"
+
+[EPKK_DEL]
+frequency = 121980000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPKK_E_APP]
+frequency = 126975000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "APP"
+
+[EPKK_GND]
+frequency = 118105000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "GND"
+
+[EPKK_I_APP]
+frequency = 119275000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "APP"
+
+[EPKK_KK_APP]
+frequency = 126530000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "APP"
+
+[EPKK_KT_APP]
+frequency = 135405000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "APP"
+
+[EPKK_TWR]
+frequency = 123255000
+prefix = "EPKK"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKR_R_TWR]
+frequency = 119555000
+prefix = "EPKR"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKS_P_APP]
+frequency = 120750000
+prefix = "EPKS"
+radio_callsign = ""
+station_type = "APP"
+
+[EPKS_TWR]
+frequency = 121025000
+prefix = "EPKS"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPKT_DEL]
+frequency = 121805000
+prefix = "EPKT"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPKT_TWR]
+frequency = 129255000
+prefix = "EPKT"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPLB_TWR]
+frequency = 136430000
+prefix = "EPLB"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPLK_APP]
+frequency = 125350000
+prefix = "EPLK"
+radio_callsign = "Lask Approach"
+station_type = "APP"
+
+[EPLK_TWR]
+frequency = 133075000
+prefix = "EPLK"
+radio_callsign = "Lask Tower"
+station_type = "TWR"
+
+[EPLL_DEL]
+frequency = 120005000
+prefix = "EPLL"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPLL_TWR]
+frequency = 124230000
+prefix = "EPLL"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPLY_APP]
+frequency = 119750000
+prefix = "EPLY"
+radio_callsign = "Leczyca Approach"
+station_type = "APP"
+
+[EPLY_P_APP]
+frequency = 123575000
+prefix = "EPLY"
+radio_callsign = "Leczyca Precision"
+station_type = "APP"
+
+[EPLY_TWR]
+frequency = 128025000
+prefix = "EPLY"
+radio_callsign = "Leczyca Tower"
+station_type = "TWR"
+
+[EPMB_APP]
+frequency = 125200000
+prefix = "EPMB"
+radio_callsign = "Malbork Approach"
+station_type = "APP"
+
+[EPMB_P_APP]
+frequency = 118175000
+prefix = "EPMB"
+radio_callsign = "Malbork Precision"
+station_type = "APP"
+
+[EPMB_TWR]
+frequency = 123000000
+prefix = "EPMB"
+radio_callsign = "Malbork Tower"
+station_type = "TWR"
+
+[EPMI_APP]
+frequency = 126575000
+prefix = "EPMI"
+radio_callsign = "Miroslawiec Approach"
+station_type = "APP"
+
+[EPMI_P_APP]
+frequency = 118575000
+prefix = "EPMI"
+radio_callsign = "Miroslawiec Precision"
+station_type = "APP"
+
+[EPMI_TWR]
+frequency = 128475000
+prefix = "EPMI"
+radio_callsign = "Miroslawiec Tower"
+station_type = "TWR"
+
+[EPML_I_TWR]
+frequency = 119105000
+prefix = "EPML"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPMM_APP]
+frequency = 120775000
+prefix = "EPMM"
+radio_callsign = "Minsk Approach"
+station_type = "APP"
+
+[EPMM_P_APP]
+frequency = 126925000
+prefix = "EPMM"
+radio_callsign = "Minsk Precision"
+station_type = "APP"
+
+[EPMM_TWR]
+frequency = 135425000
+prefix = "EPMM"
+radio_callsign = "Minsk Tower"
+station_type = "TWR"
+
+[EPMO_DEL]
+frequency = 119680000
+prefix = "EPMO"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPMO_TWR]
+frequency = 123930000
+prefix = "EPMO"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPNT_R_TWR]
+frequency = 122305000
+prefix = "EPNT"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPOD_R_TWR]
+frequency = 124480000
+prefix = "EPOD"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPOK_APP]
+frequency = 134000000
+prefix = "EPOK"
+radio_callsign = "Oksywie Approach"
+station_type = "APP"
+
+[EPOK_P_APP]
+frequency = 120750000
+prefix = "EPOK"
+radio_callsign = "Oksywie Precision"
+station_type = "APP"
+
+[EPOK_TWR]
+frequency = 119850000
+prefix = "EPOK"
+radio_callsign = "Oksywie Tower"
+station_type = "TWR"
+
+[EPPO_DEL]
+frequency = 121805000
+prefix = "EPPO"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPPO_GND]
+frequency = 124140000
+prefix = "EPPO"
+radio_callsign = "Poznan Ground"
+station_type = "GND"
+
+[EPPO_I_APP]
+frequency = 126300000
+prefix = "EPPO"
+radio_callsign = ""
+station_type = "APP"
+
+[EPPO_N_APP]
+frequency = 128925000
+prefix = "EPPO"
+radio_callsign = ""
+station_type = "APP"
+
+[EPPO_S_APP]
+frequency = 123040000
+prefix = "EPPO"
+radio_callsign = ""
+station_type = "APP"
+
+[EPPO_TWR]
+frequency = 119980000
+prefix = "EPPO"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPPR_TWR]
+frequency = 126500000
+prefix = "EPPR"
+radio_callsign = "Pruszcz Tower"
+station_type = "TWR"
+
+[EPPW_APP]
+frequency = 129675000
+prefix = "EPPW"
+radio_callsign = "Powidz Approach"
+station_type = "APP"
+
+[EPPW_P_APP]
+frequency = 132425000
+prefix = "EPPW"
+radio_callsign = "Powidz Precision"
+station_type = "APP"
+
+[EPPW_TWR]
+frequency = 119000000
+prefix = "EPPW"
+radio_callsign = "Powidz Tower"
+station_type = "TWR"
+
+[EPPZ_R_TWR]
+frequency = 122600000
+prefix = "EPPZ"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPRA_M_APP]
+frequency = 128675000
+prefix = "EPRA"
+radio_callsign = ""
+station_type = "APP"
+
+[EPRA_M_GND]
+frequency = 121750000
+prefix = "EPRA"
+radio_callsign = ""
+station_type = "GND"
+
+[EPRA_TWR]
+frequency = 118430000
+prefix = "EPRA"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPRZ_DEL]
+frequency = 121805000
+prefix = "EPRZ"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPRZ_TWR]
+frequency = 126805000
+prefix = "EPRZ"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPSC_TWR]
+frequency = 121255000
+prefix = "EPSC"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPSN_APP]
+frequency = 125175000
+prefix = "EPSN"
+radio_callsign = "Swidwin Approach"
+station_type = "APP"
+
+[EPSN_P_APP]
+frequency = 131175000
+prefix = "EPSN"
+radio_callsign = "Swidwin Precision"
+station_type = "APP"
+
+[EPSN_TWR]
+frequency = 127500000
+prefix = "EPSN"
+radio_callsign = "Swidwin Tower"
+station_type = "TWR"
+
+[EPSY_I_APP]
+frequency = 118775000
+prefix = "EPSY"
+radio_callsign = ""
+station_type = "APP"
+
+[EPSY_TWR]
+frequency = 118030000
+prefix = "EPSY"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPTM_APP]
+frequency = 130250000
+prefix = "EPTM"
+radio_callsign = "Tomaszow Approach"
+station_type = "APP"
+
+[EPTM_P_APP]
+frequency = 120750000
+prefix = "EPTM"
+radio_callsign = "Tomaszow Precision"
+station_type = "APP"
+
+[EPTM_TWR]
+frequency = 125000000
+prefix = "EPTM"
+radio_callsign = "Tomaszow Tower"
+station_type = "TWR"
+
+[EPWA_APP]
+frequency = 128805000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "APP"
+
+[EPWA_DEL]
+frequency = 121605000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPWA_F_APP]
+frequency = 129380000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "APP"
+
+[EPWA_GND]
+frequency = 121905000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "GND"
+
+[EPWA_I_APP]
+frequency = 119450000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "APP"
+
+[EPWA_N_APP]
+frequency = 125055000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "APP"
+
+[EPWA_S_APP]
+frequency = 135930000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "APP"
+
+[EPWA_TWR]
+frequency = 118305000
+prefix = "EPWA"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPWR_DEL]
+frequency = 121805000
+prefix = "EPWR"
+radio_callsign = ""
+station_type = "DEL"
+
+[EPWR_TWR]
+frequency = 120255000
+prefix = "EPWR"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPWW_B_CTR]
+frequency = 127025000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_C_CTR]
+frequency = 133475000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_CTR]
+frequency = 125450000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_D_CTR]
+frequency = 134225000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_E_CTR]
+frequency = 120950000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_F_CTR]
+frequency = 129075000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_G_CTR]
+frequency = 124925000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_I_CTR]
+frequency = 134875000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_J_CTR]
+frequency = 124625000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_N_CTR]
+frequency = 132700000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_R_CTR]
+frequency = 123625000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPWW_U_CTR]
+frequency = 130625000
+prefix = "EPWW"
+radio_callsign = ""
+station_type = "CTR"
+
+[EPZG_TWR]
+frequency = 118755000
+prefix = "EPZG"
+radio_callsign = ""
+station_type = "TWR"
+
+[EPZR_R_TWR]
+frequency = 122805000
+prefix = "EPZR"
+radio_callsign = ""
+station_type = "TWR"
