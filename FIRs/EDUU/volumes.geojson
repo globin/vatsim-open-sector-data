@@ -70,8 +70,8 @@
       },
       "id": "EDUUISA14_315_355",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 35500
+        "lower_level": 315,
+        "upper_level": 355
       },
       "type": "Feature"
     },
@@ -161,8 +161,8 @@
       },
       "id": "EDUUCHI24_355_365",
       "properties": {
-        "lower_level": 35500,
-        "upper_level": 36500
+        "lower_level": 355,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -256,8 +256,8 @@
       },
       "id": "EDUUDON14_315_355",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 35500
+        "lower_level": 315,
+        "upper_level": 355
       },
       "type": "Feature"
     },
@@ -455,8 +455,8 @@
       },
       "id": "EDUUSPE12_315_365",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 36500
+        "lower_level": 315,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -582,8 +582,8 @@
       },
       "id": "EDUUSAL12_315_365",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 36500
+        "lower_level": 315,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -657,8 +657,8 @@
       },
       "id": "EDUUISA44_375_660",
       "properties": {
-        "lower_level": 37500,
-        "upper_level": 66000
+        "lower_level": 375,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -768,8 +768,8 @@
       },
       "id": "EDUUERL12_315_365",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 36500
+        "lower_level": 315,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -863,8 +863,8 @@
       },
       "id": "EDUUDON24_355_365",
       "properties": {
-        "lower_level": 35500,
-        "upper_level": 36500
+        "lower_level": 355,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -958,8 +958,8 @@
       },
       "id": "EDUUDON34_365_375",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 37500
+        "lower_level": 365,
+        "upper_level": 375
       },
       "type": "Feature"
     },
@@ -1049,8 +1049,8 @@
       },
       "id": "EDUUCHI141_315_355",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 35500
+        "lower_level": 315,
+        "upper_level": 355
       },
       "type": "Feature"
     },
@@ -1176,8 +1176,8 @@
       },
       "id": "EDUUSAL22_365_660",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 66000
+        "lower_level": 365,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -1251,8 +1251,8 @@
       },
       "id": "EDUUISA34_365_375",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 37500
+        "lower_level": 365,
+        "upper_level": 375
       },
       "type": "Feature"
     },
@@ -1346,8 +1346,8 @@
       },
       "id": "EDUUDON44_375_660",
       "properties": {
-        "lower_level": 37500,
-        "upper_level": 66000
+        "lower_level": 375,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -1465,8 +1465,8 @@
       },
       "id": "EDUUALP34_365_375",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 37500
+        "lower_level": 365,
+        "upper_level": 375
       },
       "type": "Feature"
     },
@@ -1556,8 +1556,8 @@
       },
       "id": "EDUUCHI44_375_660",
       "properties": {
-        "lower_level": 37500,
-        "upper_level": 66000
+        "lower_level": 375,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -1675,8 +1675,8 @@
       },
       "id": "EDUUALP14_315_355",
       "properties": {
-        "lower_level": 31500,
-        "upper_level": 35500
+        "lower_level": 315,
+        "upper_level": 355
       },
       "type": "Feature"
     },
@@ -1874,8 +1874,8 @@
       },
       "id": "EDUUSPE22_365_660",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 66000
+        "lower_level": 365,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -1965,8 +1965,8 @@
       },
       "id": "EDUUCHI34_365_375",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 37500
+        "lower_level": 365,
+        "upper_level": 375
       },
       "type": "Feature"
     },
@@ -2040,8 +2040,8 @@
       },
       "id": "EDUUISA24_355_365",
       "properties": {
-        "lower_level": 35500,
-        "upper_level": 36500
+        "lower_level": 355,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -2151,8 +2151,8 @@
       },
       "id": "EDUUERL22_365_660",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 66000
+        "lower_level": 365,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -2270,8 +2270,8 @@
       },
       "id": "EDUUALP44_375_660",
       "properties": {
-        "lower_level": 37500,
-        "upper_level": 66000
+        "lower_level": 375,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -2389,8 +2389,8 @@
       },
       "id": "EDUUALP24_355_365",
       "properties": {
-        "lower_level": 35500,
-        "upper_level": 36500
+        "lower_level": 355,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -2648,8 +2648,8 @@
       },
       "id": "EDUUHVL12_285_365",
       "properties": {
-        "lower_level": 28500,
-        "upper_level": 36500
+        "lower_level": 285,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -3199,8 +3199,8 @@
       },
       "id": "EDUUOSE12_285_365",
       "properties": {
-        "lower_level": 28500,
-        "upper_level": 36500
+        "lower_level": 285,
+        "upper_level": 365
       },
       "type": "Feature"
     },
@@ -3458,8 +3458,8 @@
       },
       "id": "EDUUHVL22_365_660",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 66000
+        "lower_level": 365,
+        "upper_level": 660
       },
       "type": "Feature"
     },
@@ -4009,8 +4009,8 @@
       },
       "id": "EDUUOSE22_365_660",
       "properties": {
-        "lower_level": 36500,
-        "upper_level": 66000
+        "lower_level": 365,
+        "upper_level": 660
       },
       "type": "Feature"
     }

@@ -66,8 +66,8 @@
       },
       "id": "EDMMZUG_165_245",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 24500
+        "lower_level": 165,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -158,7 +158,7 @@
       "id": "EDMMSAS_000_165",
       "properties": {
         "lower_level": 0,
-        "upper_level": 16500
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -224,8 +224,8 @@
       },
       "id": "EDMMSTA_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -355,8 +355,8 @@
       },
       "id": "EDMMNDG_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -438,8 +438,8 @@
       },
       "id": "EDMMGER_285_315",
       "properties": {
-        "lower_level": 28500,
-        "upper_level": 31500
+        "lower_level": 285,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -645,8 +645,8 @@
       },
       "id": "EDMMMEI_285_315",
       "properties": {
-        "lower_level": 28500,
-        "upper_level": 31500
+        "lower_level": 285,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -701,7 +701,7 @@
       "id": "EDMMSTA_000_165",
       "properties": {
         "lower_level": 0,
-        "upper_level": 16500
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -743,8 +743,8 @@
       },
       "id": "EDMMILR2_095_105",
       "properties": {
-        "lower_level": 9500,
-        "upper_level": 10500
+        "lower_level": 95,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -838,8 +838,8 @@
       },
       "id": "EDMMTRN_165_195",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 19500
+        "lower_level": 165,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -889,8 +889,8 @@
       },
       "id": "EDMMWLD_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -988,8 +988,8 @@
       },
       "id": "EDMMHOF_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1048,7 +1048,7 @@
       "id": "EDMMILR1_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -1126,8 +1126,8 @@
       },
       "id": "EDMMHAL_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1229,8 +1229,8 @@
       },
       "id": "EDMMTRU_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -1328,8 +1328,8 @@
       },
       "id": "EDMMHOF_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -1419,8 +1419,8 @@
       },
       "id": "EDMMTEG_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -1486,8 +1486,8 @@
       },
       "id": "EDMMSTA_165_245",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 24500
+        "lower_level": 165,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1585,8 +1585,8 @@
       },
       "id": "EDMMFUE_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1656,8 +1656,8 @@
       },
       "id": "EDMMBBG_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1787,8 +1787,8 @@
       },
       "id": "EDMMNDG_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1898,8 +1898,8 @@
       },
       "id": "EDMMFUE_105_145",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 14500
+        "lower_level": 105,
+        "upper_level": 145
       },
       "type": "Feature"
     },
@@ -1981,8 +1981,8 @@
       },
       "id": "EDMMBBG_245_295",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 29500
+        "lower_level": 245,
+        "upper_level": 295
       },
       "type": "Feature"
     },
@@ -2049,7 +2049,7 @@
       "id": "EDMMRDG_000_135",
       "properties": {
         "lower_level": 0,
-        "upper_level": 13500
+        "upper_level": 135
       },
       "type": "Feature"
     },
@@ -2123,8 +2123,8 @@
       },
       "id": "EDMMEGG_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -2206,8 +2206,8 @@
       },
       "id": "EDMMHAL_285_315",
       "properties": {
-        "lower_level": 28500,
-        "upper_level": 31500
+        "lower_level": 285,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -2293,8 +2293,8 @@
       },
       "id": "EDMMMEI_245_285",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 28500
+        "lower_level": 245,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -2345,7 +2345,7 @@
       "id": "EDMMTRU_000_125",
       "properties": {
         "lower_level": 0,
-        "upper_level": 12500
+        "upper_level": 125
       },
       "type": "Feature"
     },
@@ -2404,7 +2404,7 @@
       "id": "EDMMTEG_000_165",
       "properties": {
         "lower_level": 0,
-        "upper_level": 16500
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -2474,8 +2474,8 @@
       },
       "id": "EDMMZUG_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -2546,7 +2546,7 @@
       "id": "EDMMFUE_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -2628,8 +2628,8 @@
       },
       "id": "EDMMBBG_295_315",
       "properties": {
-        "lower_level": 29500,
-        "upper_level": 31500
+        "lower_level": 295,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -2724,7 +2724,7 @@
       "id": "EDMMTRN_000_145",
       "properties": {
         "lower_level": 0,
-        "upper_level": 14500
+        "upper_level": 145
       },
       "type": "Feature"
     },
@@ -2766,8 +2766,8 @@
       },
       "id": "EDMMALB_245_305",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 30500
+        "lower_level": 245,
+        "upper_level": 305
       },
       "type": "Feature"
     },
@@ -2837,8 +2837,8 @@
       },
       "id": "EDMMTRU_125_195",
       "properties": {
-        "lower_level": 12500,
-        "upper_level": 19500
+        "lower_level": 125,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -2936,8 +2936,8 @@
       },
       "id": "EDMMFUE_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -2987,8 +2987,8 @@
       },
       "id": "EDMMALB_135_245",
       "properties": {
-        "lower_level": 13500,
-        "upper_level": 24500
+        "lower_level": 135,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3059,7 +3059,7 @@
       "id": "EDMMEGG_000_195",
       "properties": {
         "lower_level": 0,
-        "upper_level": 19500
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -3134,7 +3134,7 @@
       "id": "EDMMTRS_000_145",
       "properties": {
         "lower_level": 0,
-        "upper_level": 14500
+        "upper_level": 145
       },
       "type": "Feature"
     },
@@ -3208,8 +3208,8 @@
       },
       "id": "EDMMEGG_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3247,8 +3247,8 @@
       },
       "id": "EDMMTRN_055_145",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 14500
+        "lower_level": 55,
+        "upper_level": 145
       },
       "type": "Feature"
     },
@@ -3307,7 +3307,7 @@
       "id": "EDMMZUG_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -3381,8 +3381,8 @@
       },
       "id": "EDMMGER_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3460,8 +3460,8 @@
       },
       "id": "EDMMGER_245_285",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 28500
+        "lower_level": 245,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -3511,8 +3511,8 @@
       },
       "id": "EDMMALB_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -3594,8 +3594,8 @@
       },
       "id": "EDMMHAL_245_285",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 28500
+        "lower_level": 245,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -3673,8 +3673,8 @@
       },
       "id": "EDMMNDG_105_145",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 14500
+        "lower_level": 105,
+        "upper_level": 145
       },
       "type": "Feature"
     },
@@ -3776,8 +3776,8 @@
       },
       "id": "EDMMTRU_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3867,8 +3867,8 @@
       },
       "id": "EDMMTEG_165_195",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 19500
+        "lower_level": 165,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -3942,8 +3942,8 @@
       },
       "id": "EDMMRDG_245_315",
       "properties": {
-        "lower_level": 24500,
-        "upper_level": 31500
+        "lower_level": 245,
+        "upper_level": 315
       },
       "type": "Feature"
     },
@@ -4050,7 +4050,7 @@
       "id": "EDMMNDG_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -4184,8 +4184,8 @@
       },
       "id": "EDMMFRK_135_195",
       "properties": {
-        "lower_level": 13500,
-        "upper_level": 19500
+        "lower_level": 135,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -4348,7 +4348,7 @@
       "id": "EDMMFRK_000_135",
       "properties": {
         "lower_level": 0,
-        "upper_level": 13500
+        "upper_level": 135
       },
       "type": "Feature"
     },
@@ -4410,8 +4410,8 @@
       },
       "id": "EDMMZUG_105_165",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 16500
+        "lower_level": 105,
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -4517,8 +4517,8 @@
       },
       "id": "EDMMFUE_145_195",
       "properties": {
-        "lower_level": 14500,
-        "upper_level": 19500
+        "lower_level": 145,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -4584,8 +4584,8 @@
       },
       "id": "EDMMTRS_145_195",
       "properties": {
-        "lower_level": 14500,
-        "upper_level": 19500
+        "lower_level": 145,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -4635,8 +4635,8 @@
       },
       "id": "EDMMWLD_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -4730,8 +4730,8 @@
       },
       "id": "EDMMTRN_145_165",
       "properties": {
-        "lower_level": 14500,
-        "upper_level": 16500
+        "lower_level": 145,
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -4817,8 +4817,8 @@
       },
       "id": "EDMMNDG_145_195",
       "properties": {
-        "lower_level": 14500,
-        "upper_level": 19500
+        "lower_level": 145,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -4909,7 +4909,7 @@
       "id": "EDMMTMAS_000_195",
       "properties": {
         "lower_level": 0,
-        "upper_level": 19500
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -4999,8 +4999,8 @@
       },
       "id": "EDMMMEI_165_245",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 24500
+        "lower_level": 165,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5090,8 +5090,8 @@
       },
       "id": "EDMMTEG_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5134,7 +5134,7 @@
       "id": "EDMMALB_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -5208,8 +5208,8 @@
       },
       "id": "EDMMRDG_135_245",
       "properties": {
-        "lower_level": 13500,
-        "upper_level": 24500
+        "lower_level": 135,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5308,7 +5308,7 @@
       "id": "EDMMCA4_000_195",
       "properties": {
         "lower_level": 0,
-        "upper_level": 19500
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -5359,7 +5359,7 @@
       "id": "EDMMWLD_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -5401,8 +5401,8 @@
       },
       "id": "EDMMALB_105_135",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 13500
+        "lower_level": 105,
+        "upper_level": 135
       },
       "type": "Feature"
     }

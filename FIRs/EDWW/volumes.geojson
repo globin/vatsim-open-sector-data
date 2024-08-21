@@ -42,8 +42,8 @@
       },
       "id": "EDWWDST4_205_245",
       "properties": {
-        "lower_level": 20500,
-        "upper_level": 24500
+        "lower_level": 205,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -101,8 +101,8 @@
       },
       "id": "EDWWEMS5_105_195",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 19500
+        "lower_level": 105,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -157,7 +157,7 @@
       "id": "EDWWHRZ6_000_155",
       "properties": {
         "lower_level": 0,
-        "upper_level": 15500
+        "upper_level": 155
       },
       "type": "Feature"
     },
@@ -204,7 +204,7 @@
       "id": "EDWWBOR2_000_055",
       "properties": {
         "lower_level": 0,
-        "upper_level": 5500
+        "upper_level": 55
       },
       "type": "Feature"
     },
@@ -262,8 +262,8 @@
       },
       "id": "EDWWALR2_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -486,7 +486,7 @@
       "id": "EDWWDBAN1_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -544,8 +544,8 @@
       },
       "id": "EDWWDBAN3_055_105",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 10500
+        "lower_level": 55,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -587,8 +587,8 @@
       },
       "id": "EDWWHRZ3_055_245",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 24500
+        "lower_level": 55,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -810,8 +810,8 @@
       },
       "id": "EDWWMAR2_135_285",
       "properties": {
-        "lower_level": 13500,
-        "upper_level": 28500
+        "lower_level": 135,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -866,7 +866,7 @@
       "id": "EDWWHRZ5_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -912,8 +912,8 @@
       },
       "id": "EDWWDBDNA_165_235",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 23500
+        "lower_level": 165,
+        "upper_level": 235
       },
       "type": "Feature"
     },
@@ -967,8 +967,8 @@
       },
       "id": "EDWWHRZ2_105_195",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 19500
+        "lower_level": 105,
+        "upper_level": 195
       },
       "type": "Feature"
     },
@@ -1098,8 +1098,8 @@
       },
       "id": "EDWWFLG1_165_285",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 28500
+        "lower_level": 165,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -1133,8 +1133,8 @@
       },
       "id": "EDWWDST1_105_155",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 15500
+        "lower_level": 105,
+        "upper_level": 155
       },
       "type": "Feature"
     },
@@ -1356,8 +1356,8 @@
       },
       "id": "EDWWDBAN1_105_135",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 13500
+        "lower_level": 105,
+        "upper_level": 135
       },
       "type": "Feature"
     },
@@ -1411,8 +1411,8 @@
       },
       "id": "EDWWHEI2_195_245",
       "properties": {
-        "lower_level": 19500,
-        "upper_level": 24500
+        "lower_level": 195,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -1534,8 +1534,8 @@
       },
       "id": "EDWWDBDSA_165_235",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 23500
+        "lower_level": 165,
+        "upper_level": 235
       },
       "type": "Feature"
     },
@@ -1566,7 +1566,7 @@
       "id": "EDWWDBAS4_000_055",
       "properties": {
         "lower_level": 0,
-        "upper_level": 5500
+        "upper_level": 55
       },
       "type": "Feature"
     },
@@ -1604,8 +1604,8 @@
       },
       "id": "EDWWHRZ7_075_105",
       "properties": {
-        "lower_level": 7500,
-        "upper_level": 10500
+        "lower_level": 75,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -1655,8 +1655,8 @@
       },
       "id": "EDWWFLG3_165_285",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 28500
+        "lower_level": 165,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -1690,8 +1690,8 @@
       },
       "id": "EDWWHAMW2_065_105",
       "properties": {
-        "lower_level": 6500,
-        "upper_level": 10500
+        "lower_level": 65,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -1721,8 +1721,8 @@
       },
       "id": "EDWWDBDS4_055_105",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 10500
+        "lower_level": 55,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -1900,8 +1900,8 @@
       },
       "id": "EDWWFLG2_135_285",
       "properties": {
-        "lower_level": 13500,
-        "upper_level": 28500
+        "lower_level": 135,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -1992,7 +1992,7 @@
       "id": "EDWWBOR1_000_285",
       "properties": {
         "lower_level": 0,
-        "upper_level": 28500
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -2115,7 +2115,7 @@
       "id": "EDWWHAME_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -2150,7 +2150,7 @@
       "id": "EDWWHRZ10_000_235",
       "properties": {
         "lower_level": 0,
-        "upper_level": 23500
+        "upper_level": 235
       },
       "type": "Feature"
     },
@@ -2296,8 +2296,8 @@
       },
       "id": "EDWWDBDS_105_165",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 16500
+        "lower_level": 105,
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -2420,7 +2420,7 @@
       "id": "EDWWDBDSE_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -2522,8 +2522,8 @@
       },
       "id": "EDWWHEI1_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -2562,7 +2562,7 @@
       "id": "EDWWMRZ5_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -2596,8 +2596,8 @@
       },
       "id": "EDWWHRZ8_075_155",
       "properties": {
-        "lower_level": 7500,
-        "upper_level": 15500
+        "lower_level": 75,
+        "upper_level": 155
       },
       "type": "Feature"
     },
@@ -2643,8 +2643,8 @@
       },
       "id": "EDWWEMS4_065_245",
       "properties": {
-        "lower_level": 6500,
-        "upper_level": 24500
+        "lower_level": 65,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -2791,7 +2791,7 @@
       "id": "EDWWEIDE_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -2846,7 +2846,7 @@
       "id": "EDWWMRZ6_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -2921,7 +2921,7 @@
       "id": "EDWWHRZ9_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -2980,7 +2980,7 @@
       "id": "EDWWDBDNW_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -3026,8 +3026,8 @@
       },
       "id": "EDWWDBAS3_055_105",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 10500
+        "lower_level": 55,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -3085,8 +3085,8 @@
       },
       "id": "EDWWEMS2_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3152,8 +3152,8 @@
       },
       "id": "EDWWBOR3_165_285",
       "properties": {
-        "lower_level": 16500,
-        "upper_level": 28500
+        "lower_level": 165,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -3195,8 +3195,8 @@
       },
       "id": "EDWWMAR4_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3275,7 +3275,7 @@
       "id": "EDWWFRI2_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -3326,7 +3326,7 @@
       "id": "EDWWDBDSW_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -3361,7 +3361,7 @@
       "id": "EDWWFRI3_000_065",
       "properties": {
         "lower_level": 0,
-        "upper_level": 6500
+        "upper_level": 65
       },
       "type": "Feature"
     },
@@ -3420,7 +3420,7 @@
       "id": "EDWWDBAN3_000_055",
       "properties": {
         "lower_level": 0,
-        "upper_level": 5500
+        "upper_level": 55
       },
       "type": "Feature"
     },
@@ -3459,7 +3459,7 @@
       "id": "EDWWDBAN2_000_055",
       "properties": {
         "lower_level": 0,
-        "upper_level": 5500
+        "upper_level": 55
       },
       "type": "Feature"
     },
@@ -3526,7 +3526,7 @@
       "id": "EDWWEMS1_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3592,8 +3592,8 @@
       },
       "id": "EDWWDST2_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3636,7 +3636,7 @@
       "id": "EDWWMAR3_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3718,8 +3718,8 @@
       },
       "id": "EDWWHRZ1_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -3782,7 +3782,7 @@
       "id": "EDWWHAMW1_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -4137,7 +4137,7 @@
       "id": "EDWWMAR1_000_285",
       "properties": {
         "lower_level": 0,
-        "upper_level": 28500
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -4184,7 +4184,7 @@
       "id": "EDWWMRZ2_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -4363,7 +4363,7 @@
       "id": "EDWWDBAS1_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -4401,8 +4401,8 @@
       },
       "id": "EDWWDBAN2_055_105",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 10500
+        "lower_level": 55,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -4521,7 +4521,7 @@
       "id": "EDWWDBAS2_000_055",
       "properties": {
         "lower_level": 0,
-        "upper_level": 5500
+        "upper_level": 55
       },
       "type": "Feature"
     },
@@ -4699,8 +4699,8 @@
       },
       "id": "EDWWDBAS1_105_135",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 13500
+        "lower_level": 105,
+        "upper_level": 135
       },
       "type": "Feature"
     },
@@ -4747,7 +4747,7 @@
       "id": "EDWWDBDNE_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -4793,8 +4793,8 @@
       },
       "id": "EDWWMAR5_105_285",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 28500
+        "lower_level": 105,
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -4852,8 +4852,8 @@
       },
       "id": "EDWWHRZ11_065_105",
       "properties": {
-        "lower_level": 6500,
-        "upper_level": 10500
+        "lower_level": 65,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -4935,8 +4935,8 @@
       },
       "id": "EDWWDBDN_105_165",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 16500
+        "lower_level": 105,
+        "upper_level": 165
       },
       "type": "Feature"
     },
@@ -5015,7 +5015,7 @@
       "id": "EDWWFRI1_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5113,8 +5113,8 @@
       },
       "id": "EDWWALR1_105_245",
       "properties": {
-        "lower_level": 10500,
-        "upper_level": 24500
+        "lower_level": 105,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5148,8 +5148,8 @@
       },
       "id": "EDWWEMS3_155_245",
       "properties": {
-        "lower_level": 15500,
-        "upper_level": 24500
+        "lower_level": 155,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5212,7 +5212,7 @@
       "id": "EDWWHRZ4_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5274,8 +5274,8 @@
       },
       "id": "EDWWDST3_155_245",
       "properties": {
-        "lower_level": 15500,
-        "upper_level": 24500
+        "lower_level": 155,
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5306,7 +5306,7 @@
       "id": "EDWWMRZ4_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -5521,7 +5521,7 @@
       "id": "EDWWMRZ1_000_285",
       "properties": {
         "lower_level": 0,
-        "upper_level": 28500
+        "upper_level": 285
       },
       "type": "Feature"
     },
@@ -5656,7 +5656,7 @@
       "id": "EDWWEIDW_000_245",
       "properties": {
         "lower_level": 0,
-        "upper_level": 24500
+        "upper_level": 245
       },
       "type": "Feature"
     },
@@ -5774,8 +5774,8 @@
       },
       "id": "EDWWDBAS2_055_105",
       "properties": {
-        "lower_level": 5500,
-        "upper_level": 10500
+        "lower_level": 55,
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -5926,7 +5926,7 @@
       "id": "EDWWHAN_000_105",
       "properties": {
         "lower_level": 0,
-        "upper_level": 10500
+        "upper_level": 105
       },
       "type": "Feature"
     },
@@ -5973,7 +5973,7 @@
       "id": "EDWWDBAS3_000_055",
       "properties": {
         "lower_level": 0,
-        "upper_level": 5500
+        "upper_level": 55
       },
       "type": "Feature"
     }

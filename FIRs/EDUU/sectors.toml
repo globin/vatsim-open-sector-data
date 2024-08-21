@@ -1,5 +1,5 @@
 [EDUUCHI]
-description = "Chiem"
+name = "Chiem"
 volumes = ["EDUUCHI24_355_365", "EDUUCHI141_315_355", "EDUUCHI34_365_375", "EDUUCHI44_375_660"]
 position_priority = [
   [
@@ -33,10 +33,9 @@ position_priority = [
     { fir = "EDMM", id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUSAL]
-description = "Saale"
+name = "Saale"
 volumes = ["EDUUSAL22_365_660", "EDUUSAL12_315_365"]
 position_priority = [
   [
@@ -64,10 +63,9 @@ position_priority = [
     { fir = "EDMM", id = "HOF" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUERL]
-description = "Erlangen"
+name = "Erlangen"
 volumes = ["EDUUERL22_365_660", "EDUUERL12_315_365"]
 position_priority = [
   [
@@ -89,10 +87,9 @@ position_priority = [
     { fir = "EDMM", id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUISA]
-description = "Isar"
+name = "Isar"
 volumes = ["EDUUISA34_365_375", "EDUUISA14_315_355", "EDUUISA44_375_660", "EDUUISA24_355_365"]
 position_priority = [
   [
@@ -126,10 +123,9 @@ position_priority = [
     { fir = "EDMM", id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUALP]
-description = "Alpen"
+name = "Alpen"
 volumes = ["EDUUALP14_315_355", "EDUUALP34_365_375", "EDUUALP44_375_660", "EDUUALP24_355_365"]
 position_priority = [
   [
@@ -154,10 +150,9 @@ position_priority = [
     { fir = "EDMM", id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUSPE]
-description = "Spree"
+name = "Spree"
 volumes = ["EDUUSPE12_315_365", "EDUUSPE22_365_660"]
 position_priority = [
   [
@@ -185,10 +180,9 @@ position_priority = [
     { fir = "EDMM", id = "HOF" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUDON]
-description = "Donau"
+name = "Donau"
 volumes = ["EDUUDON34_365_375", "EDUUDON44_375_660", "EDUUDON24_355_365", "EDUUDON14_315_355"]
 position_priority = [
   [
@@ -216,56 +210,99 @@ position_priority = [
     { fir = "EDMM", id = "ZUG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDUUHVL2]
-description = "Havel 2"
+name = "Havel 2"
 volumes = ["EDUUHVL22_365_660"]
 position_priority = [
-  { id = "OH2" },
-  { id = "HVL" },
-  { id = "OSE" },
-  { fir = "EDWW", id = "BOR" },
-  { fir = "EDWW", id = "FLG" },
-  { fir = "EDWW", id = "MAR" },
-  { fir = "EDWW", id = "MRZ" },
+  [
+    { id = "OH2" },
+  ],
+  [
+    { id = "HVL" },
+  ],
+  [
+    { id = "OSE" },
+  ],
+  [
+    { fir = "EDWW", id = "BOR" },
+  ],
+  [
+    { fir = "EDWW", id = "FLG" },
+  ],
+  [
+    { fir = "EDWW", id = "MAR" },
+  ],
+  [
+    { fir = "EDWW", id = "MRZ" },
+  ],
 ]
-runway_filter = [[]]
 
 [EDUUHVL1]
-description = "Havel 1"
+name = "Havel 1"
 volumes = ["EDUUHVL12_285_365"]
 position_priority = [
-  { id = "HVL" },
-  { id = "OSE" },
-  { fir = "EDWW", id = "BOR" },
-  { fir = "EDWW", id = "FLG" },
-  { fir = "EDWW", id = "MAR" },
-  { fir = "EDWW", id = "MRZ" },
+  [
+    { id = "HVL" },
+  ],
+  [
+    { id = "OSE" },
+  ],
+  [
+    { fir = "EDWW", id = "BOR" },
+  ],
+  [
+    { fir = "EDWW", id = "FLG" },
+  ],
+  [
+    { fir = "EDWW", id = "MAR" },
+  ],
+  [
+    { fir = "EDWW", id = "MRZ" },
+  ],
 ]
-runway_filter = [[]]
 
 [EDUUOSE1]
-description = "Ostsee 1"
+name = "Ostsee 1"
 volumes = ["EDUUOSE12_285_365"]
 position_priority = [
-  { id = "OSE" },
-  { id = "HVL" },
-  { fir = "EDWW", id = "MRZ" },
-  { fir = "EDWW", id = "MAR" },
-  { fir = "EDWW", id = "BOR" },
+  [
+    { id = "OSE" },
+  ],
+  [
+    { id = "HVL" },
+  ],
+  [
+    { fir = "EDWW", id = "MRZ" },
+  ],
+  [
+    { fir = "EDWW", id = "MAR" },
+  ],
+  [
+    { fir = "EDWW", id = "BOR" },
+  ],
 ]
-runway_filter = [[]]
 
 [EDUUOSE2]
-description = "Ostsee 2"
-volumes = ["EDUUOSE22_365_660"]
 position_priority = [
-  { id = "OH2" },
-  { id = "OSE" },
-  { id = "HVL" },
-  { fir = "EDWW", id = "MRZ" },
-  { fir = "EDWW", id = "MAR" },
-  { fir = "EDWW", id = "BOR" },
+  [
+    { id = "OH2" },
+  ],
+  [
+    { id = "OSE" },
+  ],
+  [
+    { id = "HVL" },
+  ],
+  [
+    { fir = "EDWW", id = "MRZ" },
+  ],
+  [
+    { fir = "EDWW", id = "MAR" },
+  ],
+  [
+    { fir = "EDWW", id = "BOR" },
+  ],
 ]
-runway_filter = [[]]
+name = "Ostsee 2"
+volumes = ["EDUUOSE22_365_660"]

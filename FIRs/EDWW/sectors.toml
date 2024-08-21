@@ -1,5 +1,5 @@
 [EDWWDBAN]
-description = ""
+name = ""
 volumes = ["EDWWDBAN1_000_105", "EDWWDBAN1_105_135"]
 position_priority = [
   [
@@ -21,10 +21,9 @@ position_priority = [
     { id = "MRZ" },
   ],
 ]
-runway_filter = [[]]
 
 [EDWWDBAN25]
-description = ""
+name = ""
 volumes = ["EDWWDBAN2_055_105"]
 position_priority = [
   [
@@ -49,7 +48,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "25R" }, { icao = "EDDB", designator = "25L" }]]
 
 [EDWWDBAN07]
-description = ""
+name = ""
 volumes = ["EDWWDBAN3_055_105"]
 position_priority = [
   [
@@ -74,7 +73,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "07L" }, { icao = "EDDB", designator = "07R" }]]
 
 [EDWWDBAS]
-description = ""
+name = ""
 volumes = ["EDWWDBAS1_000_105", "EDWWDBAS1_105_135"]
 position_priority = [
   [
@@ -96,10 +95,9 @@ position_priority = [
     { id = "MRZ" },
   ],
 ]
-runway_filter = [[]]
 
 [EDWWDBAS25]
-description = ""
+name = ""
 volumes = ["EDWWDBAS2_055_105"]
 position_priority = [
   [
@@ -124,7 +122,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "25R" }, { icao = "EDDB", designator = "25L" }]]
 
 [EDWWDBAS07]
-description = ""
+name = ""
 volumes = ["EDWWDBAS3_055_105", "EDWWDBAS4_000_055", "EDWWDBAS3_000_055"]
 position_priority = [
   [
@@ -149,7 +147,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "07L" }, { icao = "EDDB", designator = "07R" }]]
 
 [EDWWDBDN]
-description = ""
+name = ""
 volumes = ["EDWWDBDN_105_165"]
 position_priority = [
   [
@@ -177,10 +175,9 @@ position_priority = [
     { id = "MRZ" },
   ],
 ]
-runway_filter = [[]]
 
 [EDWWDBDN07]
-description = ""
+name = ""
 volumes = ["EDWWDBDNE_000_105"]
 position_priority = [
   [
@@ -211,7 +208,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "07L" }]]
 
 [EDWWDBDN25]
-description = ""
+name = ""
 volumes = ["EDWWDBDNW_000_105"]
 position_priority = [
   [
@@ -242,7 +239,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "25R" }]]
 
 [EDWWDBDNA]
-description = ""
+name = ""
 volumes = ["EDWWDBDNA_165_235"]
 position_priority = [
   [
@@ -270,7 +267,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDAE", designator = "11" }], [{ icao = "EDAE", designator = "29" }]]
 
 [EDWWDBDS]
-description = ""
+name = ""
 volumes = ["EDWWDBDS_105_165"]
 position_priority = [
   [
@@ -298,10 +295,9 @@ position_priority = [
     { id = "MRZ" },
   ],
 ]
-runway_filter = [[]]
 
 [EDWWDBDS25]
-description = ""
+name = ""
 volumes = ["EDWWDBDSW_000_105"]
 position_priority = [
   [
@@ -332,7 +328,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "25R" }]]
 
 [EDWWDBDS07]
-description = ""
+name = ""
 volumes = ["EDWWDBDS4_055_105"]
 position_priority = [
   [
@@ -360,7 +356,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "07L" }, { icao = "EDDB", designator = "07R" }]]
 
 [EDWWDBDS07L]
-description = ""
+name = ""
 volumes = ["EDWWDBDSE_000_105"]
 position_priority = [
   [
@@ -391,7 +387,7 @@ position_priority = [
 runway_filter = [[{ icao = "EDDB", designator = "07L" }]]
 
 [EDWWDBDSA]
-description = ""
+name = ""
 volumes = ["EDWWDBDSA_165_235"]
 position_priority = [
   [
@@ -419,37 +415,32 @@ position_priority = [
 runway_filter = [[{ icao = "EDAE", designator = "11" }], [{ icao = "EDAE", designator = "29" }]]
 
 [EDWWBOR]
-description = ""
+name = ""
 volumes = ["EDWWBOR2_000_055", "EDWWBOR3_165_285", "EDWWBOR1_000_285"]
 position_priority = [[{ id = "BOR" }], [{ id = "MAR" }], [{ id = "FLG" }], [{ id = "MRZ" }]]
-runway_filter = [[]]
 
 [EDWWHAN]
-description = ""
+name = ""
 volumes = ["EDWWHAN_000_105"]
 position_priority = [[{ id = "HAN" }], [{ id = "HRZ" }], [{ id = "DST" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWFLG]
-description = ""
+name = ""
 volumes = ["EDWWFLG3_165_285", "EDWWFLG1_165_285", "EDWWFLG2_135_285"]
 position_priority = [[{ id = "FLG" }], [{ id = "BOR" }], [{ id = "MAR" }], [{ id = "MRZ" }]]
-runway_filter = [[]]
 
 [EDWWDST]
-description = ""
+name = ""
 volumes = ["EDWWDST2_105_245", "EDWWDST1_105_155", "EDWWDST3_155_245", "EDWWDST4_205_245"]
 position_priority = [[{ id = "DST" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWHAME]
-description = ""
+name = ""
 volumes = ["EDWWHAME_000_105"]
 position_priority = [[{ id = "HAME" }], [{ id = "HAMW" }], [{ id = "HEI" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWHRZ]
-description = ""
+name = ""
 volumes = [
   "EDWWHRZ9_000_105",
   "EDWWHRZ4_000_245",
@@ -464,46 +455,38 @@ volumes = [
   "EDWWHRZ6_000_155",
 ]
 position_priority = [[{ id = "HRZ" }], [{ id = "DST" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWEIDW]
-description = ""
+name = ""
 volumes = ["EDWWEIDW_000_245", "EDWWEIDE_000_245"]
 position_priority = [[{ id = "EIDE" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWALR]
-description = ""
+name = ""
 volumes = ["EDWWALR2_195_245", "EDWWALR1_105_245"]
 position_priority = [[{ id = "ALR" }], [{ id = "HEI" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWFRI]
-description = ""
+name = ""
 volumes = ["EDWWFRI2_000_105", "EDWWFRI3_000_065", "EDWWFRI1_000_245"]
 position_priority = [[{ id = "FRI" }], [{ id = "EIDE" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWMAR]
-description = ""
+name = ""
 volumes = ["EDWWMAR4_105_245", "EDWWMAR3_000_245", "EDWWMAR2_135_285", "EDWWMAR5_105_285", "EDWWMAR1_000_285"]
 position_priority = [[{ id = "MAR" }], [{ id = "MRZ" }], [{ id = "BOR" }]]
-runway_filter = [[]]
 
 [EDWWHEI]
-description = ""
+name = ""
 volumes = ["EDWWHEI1_105_245", "EDWWHEI2_195_245"]
 position_priority = [[{ id = "HEI" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
-runway_filter = [[]]
 
 [EDWWMRZ]
-description = ""
+name = ""
 volumes = ["EDWWMRZ6_000_105", "EDWWMRZ2_000_245", "EDWWMRZ1_000_285", "EDWWMRZ5_000_105", "EDWWMRZ4_000_105"]
 position_priority = [[{ id = "MRZ" }], [{ id = "MAR" }], [{ id = "BOR" }]]
-runway_filter = [[]]
 
 [EDWWHAMW]
-description = ""
+name = ""
 volumes = ["EDWWHAMW2_065_105", "EDWWHAMW1_000_105"]
 position_priority = [[{ id = "HAMW" }], [{ id = "HAME" }], [{ id = "HEI" }], [{ id = "ALR" }], [{ id = "EIDW" }]]
-runway_filter = [[]]

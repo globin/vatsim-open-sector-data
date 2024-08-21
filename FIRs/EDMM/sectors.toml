@@ -1,23 +1,20 @@
 [EDMMGER]
-description = "Gera"
+name = "Gera"
 volumes = ["EDMMGER_195_245", "EDMMGER_245_285", "EDMMGER_285_315"]
 position_priority = [[{ id = "GER" }], [{ id = "HAL" }], [{ id = "MEI" }], [{ id = "HOF" }]]
-runway_filter = [[]]
 
 [EDMMHAL]
-description = "Halle"
+name = "Halle"
 volumes = ["EDMMHAL_245_285", "EDMMHAL_195_245", "EDMMHAL_285_315"]
 position_priority = [[{ id = "HAL" }], [{ id = "GER" }], [{ id = "MEI" }], [{ id = "HOF" }]]
-runway_filter = [[]]
 
 [EDMMMEI]
-description = "Meißen"
+name = "Meißen"
 volumes = ["EDMMMEI_165_245", "EDMMMEI_245_285", "EDMMMEI_285_315"]
 position_priority = [[{ id = "MEI" }], [{ id = "GER" }], [{ id = "HAL" }], [{ id = "HOF" }]]
-runway_filter = [[]]
 
 [EDMMTRN]
-description = "Thüringen Low Nord"
+name = "Thüringen Low Nord"
 volumes = ["EDMMTRN_000_145", "EDMMTRN_055_145", "EDMMTRN_145_165", "EDMMTRN_165_195"]
 position_priority = [
   [
@@ -27,6 +24,12 @@ position_priority = [
     { id = "TRS" },
   ],
   [
+    { id = "DPND" },
+  ],
+  [
+    { id = "DPSD" },
+  ],
+  [
     { id = "GER" },
   ],
   [
@@ -39,10 +42,9 @@ position_priority = [
     { id = "HOF" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMTRS]
-description = "Thüringen Low Süd"
+name = "Thüringen Low Süd"
 volumes = ["EDMMTRS_000_145", "EDMMTRS_145_195"]
 position_priority = [
   [
@@ -52,6 +54,12 @@ position_priority = [
     { id = "TRN" },
   ],
   [
+    { id = "DPSD" },
+  ],
+  [
+    { id = "DPND" },
+  ],
+  [
     { id = "GER" },
   ],
   [
@@ -64,10 +72,9 @@ position_priority = [
     { id = "HOF" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMSAS]
-description = "Sachsen Low"
+name = "Sachsen Low"
 volumes = ["EDMMSAS_000_165"]
 position_priority = [
   [
@@ -89,34 +96,29 @@ position_priority = [
     { id = "HOF" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMBBG]
-description = "Bamberg"
+name = "Bamberg"
 volumes = ["EDMMBBG_295_315", "EDMMBBG_245_295", "EDMMBBG_195_245"]
 position_priority = [[{ id = "BBG" }], [{ id = "HOF" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMHOF]
-description = "Hof"
+name = "Hof"
 volumes = ["EDMMHOF_195_245", "EDMMHOF_245_315"]
 position_priority = [[{ id = "HOF" }], [{ id = "BBG" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMFRK]
-description = "Franken Low"
+name = "Franken Low"
 volumes = ["EDMMFRK_135_195", "EDMMFRK_000_135"]
 position_priority = [[{ id = "FRK" }], [{ id = "BBG" }], [{ id = "HOF" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMALB]
-description = "Allersberg"
+name = "Allersberg"
 volumes = ["EDMMALB_105_135", "EDMMALB_245_315", "EDMMALB_135_245"]
 position_priority = [[{ id = "ALB" }], [{ id = "WLD" }], [{ id = "RDG" }], [{ id = "EGG" }], [{ id = "ZUG" }]]
-runway_filter = [[]]
 
 [EDMMALB3]
-description = "Allersberg (Ansbach Area)"
+name = "Allersberg (Ansbach Area)"
 volumes = ["EDMMALB_245_305"]
 position_priority = [
   [{ id = "ALB" }],
@@ -141,64 +143,54 @@ position_priority = [
   #   { fir = "EDGG", id = "BAD" },
   # ],
 ]
-runway_filter = [[]]
 
 [EDMMRDG]
-description = "Roding"
+name = "Roding"
 volumes = ["EDMMRDG_000_135", "EDMMRDG_135_245", "EDMMRDG_245_315"]
 position_priority = [[{ id = "RDG" }], [{ id = "EGG" }], [{ id = "ALB" }], [{ id = "WLD" }], [{ id = "ZUG" }]]
-runway_filter = [[]]
 
 [EDMMEGG]
-description = "Eggenfelden"
+name = "Eggenfelden"
 volumes = ["EDMMEGG_000_195", "EDMMEGG_195_245", "EDMMEGG_245_315"]
 position_priority = [[{ id = "EGG" }], [{ id = "RDG" }], [{ id = "ALB" }], [{ id = "WLD" }], [{ id = "ZUG" }]]
-runway_filter = [[]]
 
 [EDMMNDG]
-description = "Nördlingen"
+name = "Nördlingen"
 volumes = ["EDMMNDG_245_315", "EDMMNDG_195_245", "EDMMNDG_145_195", "EDMMNDG_105_145"]
 position_priority = [[{ id = "NDG" }], [{ id = "TRU" }], [{ id = "WLD" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMWLD]
-description = "Walda"
+name = "Walda"
 volumes = ["EDMMWLD_105_245", "EDMMWLD_245_315"]
 position_priority = [[{ id = "WLD" }], [{ id = "NDG" }], [{ id = "TRU" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMFUE]
-description = "Füssen"
+name = "Füssen"
 volumes = ["EDMMFUE_000_105", "EDMMFUE_195_245", "EDMMFUE_105_145", "EDMMFUE_145_195", "EDMMFUE_245_315"]
 position_priority = [[{ id = "FUE" }], [{ id = "ZUG" }], [{ id = "TRU" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMSTA]
-description = "Starnberg"
+name = "Starnberg"
 volumes = ["EDMMSTA_165_245", "EDMMSTA_000_165", "EDMMSTA_245_315"]
 position_priority = [[{ id = "STA" }], [{ id = "TEG" }], [{ id = "TRU" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMZUG]
-description = "Zugspitze"
+name = "Zugspitze"
 volumes = ["EDMMZUG_245_315", "EDMMZUG_165_245", "EDMMZUG_000_105", "EDMMZUG_105_165"]
 position_priority = [[{ id = "ZUG" }], [{ id = "TRU" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMTEG]
-description = "Tegernsee"
+name = "Tegernsee"
 volumes = ["EDMMTEG_000_165", "EDMMTEG_165_195", "EDMMTEG_195_245", "EDMMTEG_245_315"]
 position_priority = [[{ id = "TEG" }], [{ id = "TRU" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMTRU]
-description = "Traun"
+name = "Traun"
 volumes = ["EDMMTRU_000_125", "EDMMTRU_195_245", "EDMMTRU_125_195", "EDMMTRU_245_315"]
 position_priority = [[{ id = "TRU" }], [{ id = "NDG" }], [{ id = "TEG" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
-runway_filter = [[]]
 
 [EDMMCA4]
-description = "Freising High/Low"
+name = "Freising High/Low"
 volumes = ["EDMMTMANH_095_195", "EDMMTMANL_000_095"]
 position_priority = [
   [
@@ -225,10 +217,9 @@ position_priority = [
     { id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMTMAS]
-description = "Erding High/Low"
+name = "Erding High/Low"
 volumes = ["EDMMTMASH_095_195", "EDMMTMASL_000_095"]
 position_priority = [
   [
@@ -255,10 +246,9 @@ position_priority = [
     { id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMILR]
-description = "Iller"
+name = "Iller"
 volumes = ["EDMMILR2_095_105", "EDMMILR1_000_105"]
 position_priority = [
   [
@@ -280,10 +270,9 @@ position_priority = [
     { id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMSWA1]
-description = ""
+name = "Schwaben"
 volumes = ["EDMMNDG_000_105"]
 position_priority = [
   [
@@ -305,10 +294,9 @@ position_priority = [
     { id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMSWA2]
-description = ""
+name = "Schwaben"
 volumes = ["EDMMWLD_000_105"]
 position_priority = [
   [
@@ -330,10 +318,9 @@ position_priority = [
     { id = "RDG" },
   ],
 ]
-runway_filter = [[]]
 
 [EDMMSWA3]
-description = ""
+name = "Schwaben"
 volumes = ["EDMMALB_000_105"]
 position_priority = [
   [
@@ -355,4 +342,3 @@ position_priority = [
     { id = "ZUG" },
   ],
 ]
-runway_filter = [[]]
