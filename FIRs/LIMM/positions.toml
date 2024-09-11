@@ -117,145 +117,145 @@ station_type = "APP"
 
 [LIDA_I_TWR]
 frequency = 122600000
-prefix = ""
+prefix = "LIDA"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIDB_I_TWR]
 frequency = 119655000
-prefix = ""
+prefix = "LIDB"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIDE_I_TWR]
 frequency = 127150000
-prefix = ""
+prefix = "LIDE"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIDR_I_TWR]
 frequency = 123505000
-prefix = ""
+prefix = "LIDR"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIDT_I_TWR]
 frequency = 119650000
-prefix = ""
+prefix = "LIDT"
 radio_callsign = ""
 station_type = "TWR"
 
 [LILE_I_TWR]
 frequency = 123050000
-prefix = ""
+prefix = "LILE"
 radio_callsign = ""
 station_type = "TWR"
 
 [LILN_I_TWR]
 frequency = 128555000
-prefix = ""
+prefix = "LILN"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMA_I_TWR]
 frequency = 119800000
-prefix = ""
+prefix = "LIMA"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMB_I_TWR]
 frequency = 122005000
-prefix = ""
+prefix = "LIMB"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMC_DEL]
 frequency = 120900000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "DEL"
 
 [LIMC_E_TWR]
 frequency = 123600000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMC_F_APP]
 frequency = 132705000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "APP"
 
 [LIMC_N_GND]
 frequency = 121825000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "GND"
 
 [LIMC_P_DEL]
 frequency = 120325000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "DEL"
 
 [LIMC_TWR]
 frequency = 128350000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMC_W_GND]
 frequency = 121900000
-prefix = ""
+prefix = "LIMC"
 radio_callsign = ""
 station_type = "GND"
 
 [LIME_GND]
 frequency = 120505000
-prefix = ""
+prefix = "LIME"
 radio_callsign = ""
 station_type = "GND"
 
 [LIME_TWR]
 frequency = 125875000
-prefix = ""
+prefix = "LIME"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMF_APP]
 frequency = 129275000
-prefix = ""
+prefix = "LIMF"
 radio_callsign = ""
 station_type = "APP"
 
 [LIMF_GND]
 frequency = 121705000
-prefix = ""
+prefix = "LIMF"
 radio_callsign = ""
 station_type = "GND"
 
 [LIMF_TWR]
 frequency = 118500000
-prefix = ""
+prefix = "LIMF"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMG_I_TWR]
 frequency = 123850000
-prefix = ""
+prefix = "LIMG"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMJ_APP]
 frequency = 119600000
-prefix = ""
+prefix = "LIMJ"
 radio_callsign = ""
 station_type = "APP"
 
 [LIMJ_TWR]
 frequency = 118600000
-prefix = ""
+prefix = "LIMJ"
 radio_callsign = ""
 station_type = "TWR"
 
@@ -267,55 +267,55 @@ station_type = "DEL"
 
 [LIML_F_APP]
 frequency = 133180000
-prefix = ""
+prefix = "LIML"
 radio_callsign = ""
 station_type = "APP"
 
 [LIML_GND]
 frequency = 121800000
-prefix = ""
+prefix = "LIML"
 radio_callsign = ""
 station_type = "GND"
 
 [LIML_TWR]
 frequency = 118400000
-prefix = ""
+prefix = "LIML"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMP_APP]
 frequency = 127575000
-prefix = ""
+prefix = "LIMP"
 radio_callsign = ""
 station_type = "APP"
 
 [LIMP_TWR]
 frequency = 118450000
-prefix = ""
+prefix = "LIMP"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMS_APP]
 frequency = 121250000
-prefix = ""
+prefix = "LIMS"
 radio_callsign = ""
 station_type = "APP"
 
 [LIMS_TWR]
 frequency = 123925000
-prefix = ""
+prefix = "LIMS"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMW_I_TWR]
 frequency = 119955000
-prefix = ""
+prefix = "LIMW"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIMZ_TWR]
 frequency = 119550000
-prefix = ""
+prefix = "LIMZ"
 radio_callsign = ""
 station_type = "TWR"
 
@@ -483,12 +483,12 @@ station_type = "TWR"
 
 [LIQL_I_TWR]
 frequency = 122500000
-prefix = ""
+prefix = "LIQL"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIQW_TWR]
 frequency = 119650000
-prefix = ""
+prefix = "LIQW"
 radio_callsign = ""
 station_type = "TWR"

@@ -90,7 +90,7 @@ station_type = "GND"
 
 [EPGD_I_APP]
 frequency = 127150000
-prefix = ""
+prefix = "EPGD"
 radio_callsign = ""
 station_type = "APP"
 

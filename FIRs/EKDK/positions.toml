@@ -1,42 +1,42 @@
 [EKCH_K_DEP]
 frequency = 124980000
-prefix = ""
+prefix = "EKCH"
 radio_callsign = "Kastrup Departure"
 station_type = "DEP"
 
 [EKCH_O_APP]
 frequency = 118455000
-prefix = ""
+prefix = "EKCH"
 radio_callsign = "Copenhagen Approach"
 station_type = "APP"
 
 [EKCH_R_DEP]
 frequency = 120255000
-prefix = ""
+prefix = "EKCH"
 radio_callsign = "Kastrup Departure"
 station_type = "DEP"
 
 [EKCH_W_APP]
 frequency = 119805000
-prefix = ""
+prefix = "EKCH"
 radio_callsign = "Copenhagen Approach"
 station_type = "APP"
 
 [EKDK_A_CTR]
 frequency = 135290000
-prefix = ""
+prefix = "EKDK"
 radio_callsign = "Copenhagen Control"
 station_type = "CTR"
 
 [EKDK_E_CTR]
 frequency = 123730000
-prefix = ""
+prefix = "EKDK"
 radio_callsign = "Copenhagen Control"
 station_type = "CTR"
 
 [EKDK_L_CTR]
 frequency = 124555000
-prefix = ""
+prefix = "EKDK"
 radio_callsign = "Copenhagen Control"
 station_type = "CTR"
 

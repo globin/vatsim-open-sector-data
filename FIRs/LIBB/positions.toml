@@ -16,22 +16,21 @@ prefix = "LIBB"
 radio_callsign = ""
 station_type = "CTR"
 
-
 [LIBA_APP]
 frequency = 118855000
-prefix = ""
+prefix = "LIBA"
 radio_callsign = ""
 station_type = "APP"
 
 [LIBA_TWR]
 frequency = 118205000
-prefix = ""
+prefix = "LIBA"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIBB_APP]
 frequency = 118750000
-prefix = ""
+prefix = "LIBB"
 radio_callsign = ""
 station_type = "APP"
 
@@ -43,7 +42,7 @@ station_type = "APP"
 
 [LIBC_I_TWR]
 frequency = 119105000
-prefix = ""
+prefix = "LIBC"
 radio_callsign = ""
 station_type = "TWR"
 
@@ -55,54 +54,54 @@ station_type = "APP"
 
 [LIBD_TWR]
 frequency = 118300000
-prefix = ""
+prefix = "LIBD"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIBF_I_TWR]
 frequency = 120100000
-prefix = ""
+prefix = "LIBF"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIBG_APP]
 frequency = 118700000
-prefix = ""
+prefix = "LIBG"
 radio_callsign = ""
 station_type = "APP"
 
 [LIBG_TWR]
 frequency = 118700000
-prefix = ""
+prefix = "LIBG"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIBN_APP]
 frequency = 118955000
-prefix = ""
+prefix = "LIBN"
 radio_callsign = ""
 station_type = "APP"
 
 [LIBN_TWR]
 frequency = 119555000
-prefix = ""
+prefix = "LIBN"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIBP_APP]
 frequency = 120050000
-prefix = ""
+prefix = "LIBP"
 radio_callsign = ""
 station_type = "APP"
 
 [LIBP_TWR]
 frequency = 118450000
-prefix = ""
+prefix = "LIBP"
 radio_callsign = ""
 station_type = "TWR"
 
 [LIBR_TWR]
 frequency = 118100000
-prefix = ""
+prefix = "LIBR"
 radio_callsign = ""
 station_type = "TWR"
