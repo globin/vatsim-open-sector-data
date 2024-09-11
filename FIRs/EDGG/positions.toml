@@ -832,6 +832,12 @@ prefix = "EDGM"
 radio_callsign = "Mosbach Radio"
 station_type = "TWR"
 
+[EDGO_I_TWR]
+frequency = 118410000
+prefix = "EDGO"
+radio_callsign = "Oedheim Radio"
+station_type = "TWR"
+
 [EDGP_I_TWR]
 frequency = 130640000
 prefix = "EDPY"
@@ -1364,6 +1370,12 @@ station_type = "TWR"
 frequency = 127155000
 prefix = "EDSW"
 radio_callsign = "Altdorf Radio"
+station_type = "TWR"
+
+[EDSX_I_TWR]
+frequency = 119610000
+prefix = "EDSX"
+radio_callsign = "Lichtenberg Radio"
 station_type = "TWR"
 
 [EDSZ_I_TWR]
