@@ -60,14 +60,14 @@ name = "Thüringen Low Süd"
 radio_callsign = "München Radar"
 
 [DPND]
-frequency = 126065000
+frequency = 120840000
 prefix = "EDDP"
 station_type = "APP"
 name = "Leipzig Director Nord"
 radio_callsign = "Leipzig Director"
 
 [DPSD]
-frequency = 126175000
+frequency = 129765000
 prefix = "EDDP"
 station_type = "APP"
 name = "Leipzig Director Süd"
@@ -124,7 +124,7 @@ cpdlc_logon = "EDME"
 airspace_groups = ["ALB"]
 
 [NDG]
-frequency = 129140000
+frequency = 125140000
 prefix = "EDMM"
 station_type = "CTR"
 name = "Nördlingen"
@@ -234,6 +234,20 @@ name = "München Director South"
 radio_callsign = "München Director"
 gcap_tier = { type = "one" }
 
+[DMAG]
+frequency = 128255000
+prefix = "EDMA"
+station_type = "APP"
+name = "Augsburg"
+radio_callsign = "München Radar"
+
+[FBA]
+frequency = 131230000
+prefix = "EDDM"
+station_type = "APP"
+name = "Backup frequency"
+radio_callsign = "München Radar"
+
 [SWA]
 frequency = 136525000
 prefix = "EDMM"
@@ -242,7 +256,7 @@ name = "Schwaben"
 radio_callsign = "München Radar"
 
 [ILR]
-frequency = 129440000
+frequency = 129450000
 prefix = "EDJA"
 station_type = "APP"
 name = "Iller"
@@ -276,21 +290,21 @@ station_type = "CTR"
 
 # TWR/GND/DEL
 [CP]
-frequency = 129440000
+frequency = 121755000
 prefix = "EDDC"
 station_type = "GND"
 name = "Dresden Apron"
 radio_callsign = "Dresden Apron"
 
 [CG]
-frequency = 129440000
+frequency = 121980000
 prefix = "EDDC"
 station_type = "GND"
 name = "Dresden Ground"
 radio_callsign = "Dresden Ground"
 
 [CT]
-frequency = 129440000
+frequency = 122930000
 prefix = "EDDC"
 station_type = "TWR"
 name = "Dresden Tower"
@@ -298,21 +312,21 @@ radio_callsign = "Dresden Tower"
 
 
 [EP]
-frequency = 129440000
+frequency = 121905000
 prefix = "EDDE"
 station_type = "GND"
 name = "Erfurt Apron"
 radio_callsign = "Erfurt Apron"
 
 [EG]
-frequency = 129440000
+frequency = 121755000
 prefix = "EDDE"
 station_type = "GND"
 name = "Erfurt Ground"
 radio_callsign = "Erfurt Ground"
 
 [ET]
-frequency = 129440000
+frequency = 121155000
 prefix = "EDDE"
 station_type = "TWR"
 name = "Erfurt Tower"
@@ -320,134 +334,134 @@ radio_callsign = "Erfurt Tower"
 
 
 [ML]
-frequency = 129440000
+frequency = 121730000
 prefix = "EDDM"
 station_type = "DEL"
 name = "München Delivery"
 radio_callsign = "München Delivery"
 [MDIC]
-frequency = 129440000
+frequency = 121990000
 prefix = "EDDM"
 station_type = "GND"
 name = "München De-Icing Coordinator"
 radio_callsign = "München De-Icing"
 [MP1]
-frequency = 129440000
+frequency = 121780000
 prefix = "EDDM"
 station_type = "GND"
 name = "München Apron 1"
 radio_callsign = "München Apron"
 [MP2]
-frequency = 129440000
+frequency = 121710000
 prefix = "EDDM"
 station_type = "GND"
 name = "München Apron 2"
 radio_callsign = "München Apron"
 [MP3]
-frequency = 129440000
+frequency = 121930000
 prefix = "EDDM"
 station_type = "GND"
 name = "München Apron 3"
 radio_callsign = "München Apron"
 [MGN]
-frequency = 129440000
+frequency = 121980000
 prefix = "EDDM"
 station_type = "GND"
 name = "München Ground North"
 radio_callsign = "München Ground"
 [MGS]
-frequency = 129440000
+frequency = 121830000
 prefix = "EDDM"
 station_type = "GND"
 name = "München Ground South"
 radio_callsign = "München Ground"
 [MTN]
-frequency = 129440000
+frequency = 118705000
 prefix = "EDDM"
 station_type = "TWR"
 name = "München Tower North"
 radio_callsign = "München Tower"
 [MTS]
-frequency = 129440000
+frequency = 120505000
 prefix = "EDDM"
 station_type = "TWR"
 name = "München Tower South"
 radio_callsign = "München Tower"
 
 [NG]
-frequency = 129440000
+frequency = 121760000
 prefix = "EDDN"
 station_type = "GND"
 name = "Nürnberg Ground"
 radio_callsign = "Nürnberg Ground"
 [NT]
-frequency = 129440000
+frequency = 118305000
 prefix = "EDDN"
 station_type = "TWR"
 name = "Nürnberg Tower"
 radio_callsign = "Nürnberg Tower"
 
 [PL]
-frequency = 129440000
+frequency = 121680000
 prefix = "EDDP"
 station_type = "DEL"
 name = "Leipzig Delivery"
 radio_callsign = "Leipzig Delivery"
 [PG]
-frequency = 129440000
+frequency = 121805000
 prefix = "EDDP"
 station_type = "GND"
 name = "Leipzig Ground"
 radio_callsign = "Leipzig Ground"
 [PTN]
-frequency = 129440000
+frequency = 125955000
 prefix = "EDDP"
 station_type = "TWR"
 name = "Leipzig Tower North"
 radio_callsign = "Leipzig Tower"
 [PTS]
-frequency = 129440000
+frequency = 121105000
 prefix = "EDDP"
 station_type = "TWR"
 name = "Leipzig Tower South"
 radio_callsign = "Leipzig Tower"
 
 [JAG]
-frequency = 129440000
+frequency = 121680000
 prefix = "EDJA"
 station_type = "GND"
 name = "Memmingen Ground"
 radio_callsign = "Memmingen Ground"
 [JAT]
-frequency = 129440000
+frequency = 126855000
 prefix = "EDJA"
 station_type = "TWR"
 name = "Memmingen Tower"
 radio_callsign = "Memmingen Tower"
 
 [MAT]
-frequency = 129440000
+frequency = 124980000
 prefix = "EDMA"
 station_type = "TWR"
 name = "Augsburg Tower"
 radio_callsign = "Augsburg Tower"
 
 [MOT]
-frequency = 129440000
+frequency = 119555000
 prefix = "EDMO"
 station_type = "TWR"
 name = "Oberpfaffenhofen Tower"
 radio_callsign = "Oberpfaffenhofen Tower"
 
 [NYT]
-frequency = 129440000
+frequency = 120080000
 prefix = "EDNY"
 station_type = "TWR"
 name = "Friedrichshafen Tower"
 radio_callsign = "Friedrichshafen Tower"
 
 [QMT]
-frequency = 129440000
+frequency = 124355000
 prefix = "EDQM"
 station_type = "TWR"
 name = "Hof Tower"
