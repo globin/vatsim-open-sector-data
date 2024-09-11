@@ -1,0 +1,141 @@
+[vateud8]
+# not really VATEUD regions
+ignore_regions = [0, 22, 25, 32, 40, 41, 42]
+ignore_extra = [
+  # legacy
+  "EDMM_CTR",
+  "EDMM_V_CTR",
+  "EDGS_SIG_CTR",
+  "EDGG_HMM_CTR",
+  "EDDL_N_APP",
+  "EDDP_APP",
+  # incorrect in vateud8
+  "EDDM_1_GND",
+  "EDUU_ALP_CTR",
+  "EDUU_SAL_CTR",
+  "EDMO_TWR",
+  # wrong region in vateud8
+  "EKCH_W_APP",
+  "EKCH_K_DEP",
+  "EKCH_O_APP",
+  "EKDK_E_CTR",
+  "EKCH_R_DEP",
+  "EKDK_L_CTR",
+  "EKDK_A_CTR",
+]
+
+[firs.BGGL]
+vateud8_region = 4
+
+[firs.BIRD]
+vateud8_region = 15
+
+[firs.BKPR]
+vateud8_region = 31
+
+[firs.EBBU]
+vateud8_region = 6
+
+[firs.EDGG]
+vateud8_region = 2
+
+[firs.EDMM]
+vateud8_region = 2
+# wrong frequencies
+vateud8_ignore = ["MDIC", "MGS", "MP1", "EP"]
+
+[firs.EDUU]
+vateud8_region = 2
+# wrong frequencies
+vateud8_ignore = ["SAL", "ALP"]
+
+[firs.EDWW]
+vateud8_region = 2
+
+[firs.EDYY]
+vateud8_region = 2
+
+[firs.EETT]
+vateud8_region = 34
+[firs.EFIN]
+vateud8_region = 12
+[firs.EHAA]
+vateud8_region = 18
+[firs.EKDK]
+vateud8_region = 11
+# wrong region in list
+vateud8_ignore = ["EKCH_W_APP", "EKCH_K_DEP", "EKCH_O_APP", "EKDK_E_CTR", "EKCH_R_DEP", "EKDK_L_CTR", "EKDK_A_CTR"]
+[firs.ENOR]
+vateud8_region = 19
+[firs.EPWW]
+vateud8_region = 7
+[firs.ESAA]
+vateud8_region = 23
+[firs.EVRR]
+vateud8_region = 37
+[firs.EYVL]
+vateud8_region = 38
+[firs.GCCC]
+vateud8_region = 22
+[firs.LAAA]
+vateud8_region = 39
+[firs.LBSR]
+vateud8_region = 33
+[firs.LCCC]
+vateud8_region = 8
+[firs.LDZO]
+vateud8_region = 28
+[firs.LECB]
+vateud8_region = 22
+[firs.LECM]
+vateud8_region = 22
+[firs.LFBB]
+vateud8_region = 13
+[firs.LFEE]
+vateud8_region = 13
+[firs.LFFF]
+vateud8_region = 13
+[firs.LFMM]
+vateud8_region = 13
+[firs.LFRR]
+vateud8_region = 13
+[firs.LGGG]
+vateud8_region = 1
+[firs.LHCC]
+vateud8_region = 14
+[firs.LIBB]
+vateud8_region = 17
+[firs.LIMM]
+vateud8_region = 17
+[firs.LIRR]
+vateud8_region = 17
+[firs.LJLA]
+vateud8_region = 36
+[firs.LKAA]
+vateud8_region = 9
+[firs.LMMM]
+vateud8_region = 27
+[firs.LOVV]
+vateud8_region = 3
+[firs.LPPC]
+vateud8_region = 21
+[firs.LQSB]
+vateud8_region = 29
+[firs.LRBB]
+vateud8_region = 32
+[firs.LSAS]
+vateud8_region = 5
+[firs.LTAA]
+vateud8_region = 24
+# wrong region in list
+vateud8_ignore = ["LTDB_TWR", "LTDB_GND"]
+[firs.LTBB]
+vateud8_region = 24
+[firs.LUUU]
+vateud8_region = 43
+[firs.LWSS]
+vateud8_region = 30
+[firs.LYBA]
+vateud8_region = 31
+[firs.LZBB]
+vateud8_region = 10
