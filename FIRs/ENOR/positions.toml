@@ -196,6 +196,12 @@ prefix = "ENEV"
 radio_callsign = "Evenes Tower"
 station_type = "TWR"
 
+[ENEV_GND]
+frequency = 121850000
+prefix = "ENEV"
+radio_callsign = "Evenes Ground"
+station_type = "GND"
+
 [ENFL_I_TWR]
 frequency = 119200000
 prefix = "ENFL"
