@@ -305,8 +305,6 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 
 #### simaware
 
-#### vatglasses
-
 #### FIR boundaries
 
 geojson boundaries?
@@ -338,8 +336,6 @@ Due to licensing automatic migration of data from `vatspy-data-project` is possi
 
 #### simaware-tracon-project
 
-No licence exists so all data is copyrighted by the respective author, approval to relicense is required!
-
 Essentially the same process as vatspy-data-project
 
 - "tracons" cutting "holes" into the outerlying sectors, if necessary splitting volume that would contain holes. FL000-999
@@ -350,9 +346,7 @@ Essentially the same process as vatspy-data-project
 
 #### vatglasses-data
 
-Licence incompatible. Ask lenny colton for relicensing into this project.
-
-**TODO**: mainly "valid" subset of this data definition, so easier to migrate
+Licence incompatible.
 
 #### AIXM data
 
@@ -392,25 +386,19 @@ adherence to the specification. This may be achieved by running tools in a GitHu
 
 #### Rust + serde
 
+prototype with some of the above checks [https://github.com/globin/vatsim-open-data-rs]
+
 #### TypeScript
 
 ## Open Questions
 
 **TODO** mainly braindump right now, of things still to check:
 
-- airport.coordinate: Should be ARP?
-- replace elemental_volume.toml by just elemental_volumes.geojson?
-- allow inline coordinate/polygon definitions?
-- combine geojsons into one file per fir?
-- elemental_volume.lateral_border, DME arc support or quantised to polygon? the former would require geojson extension (topojson?). check support in gis tooling
+- volume.lateral_border, DME arc support or quantised to polygon? the former would require geojson extension (topojson?). check support in gis tooling
 - FIS definition/display (this obviously overlaps but is only relevant to VFR in controlled airspace)
   probably extra files, since the sectors are not necessarily the same geographically (at least not the case in germany), and positions serve other purposes than ATCOs
 - CTAF frequency added to airport (initially optional, US only, if rolled out generally, mandatory)
-- FIR vs UIR
-- allow *null*able keys to be omitted?
 - allow other keys?
-- allow polygon holes?
-- globally unique `fallback_prefixes` vs TWR/GND/DEL as **Position**s
 - runway_filter to airports in other filter?
 - Position prefix in vatglasses is list of string, is that useful?
 
