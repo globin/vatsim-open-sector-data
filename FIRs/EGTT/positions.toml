@@ -227,7 +227,7 @@ radio_callsign = "Southend Radar"
 station_type = "APP"
 
 [EGMC_L_APP]
-frequency = 128950000
+frequency = 130780000
 prefix = "EGMC"
 radio_callsign = "Southend Radar (LARS)"
 station_type = "APP"
