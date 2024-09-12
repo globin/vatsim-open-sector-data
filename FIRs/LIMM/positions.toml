@@ -90,12 +90,6 @@ prefix = "LIMM"
 radio_callsign = "Milano Radar"
 station_type = "APP"
 
-[LIMM_E_APP]
-frequency = 126300000
-prefix = "LIMM"
-radio_callsign = ""
-station_type = "APP"
-
 [LIMM_I_APP]
 frequency = 124925000
 prefix = "LIMM"

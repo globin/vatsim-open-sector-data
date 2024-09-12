@@ -450,12 +450,6 @@ prefix = "LIRQ"
 radio_callsign = ""
 station_type = "TWR"
 
-[LIRR_D_APP]
-frequency = 131250000
-prefix = "LIRR"
-radio_callsign = "Roma Director"
-station_type = "APP"
-
 [LIRR_DE_APP]
 frequency = 131250000
 prefix = "LIRR"
@@ -472,12 +466,6 @@ station_type = "APP"
 frequency = 127950000
 prefix = "LIRR"
 radio_callsign = ""
-station_type = "APP"
-
-[LIRR_L_APP]
-frequency = 119200000
-prefix = "LIRR"
-radio_callsign = "Roma Radar"
 station_type = "APP"
 
 [LIRR_N_APP]
