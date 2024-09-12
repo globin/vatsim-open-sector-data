@@ -408,24 +408,24 @@ station_type = "CTR"
 
 [EIWF_GND]
 frequency = 121600000
-prefix = "EISN"
+prefix = "EIWF"
 radio_callsign = ""
 station_type = "GND"
 
 [EIWF_TWR]
 frequency = 129850000
-prefix = "EISN"
+prefix = "EIWF"
 radio_callsign = ""
 station_type = "TWR"
 
 [EIWT_GND]
 frequency = 119425000
-prefix = "EISN"
+prefix = "EIWT"
 radio_callsign = ""
 station_type = "GND"
 
 [EIWT_TWR]
 frequency = 122400000
-prefix = "EISN"
+prefix = "EIWT"
 radio_callsign = ""
 station_type = "TWR"

@@ -57,85 +57,127 @@ vateud8_region = 2
 
 [firs.EETT]
 vateud8_region = 34
+
 [firs.EFIN]
 vateud8_region = 12
+
 [firs.EHAA]
 vateud8_region = 18
+
+[firs.EISN]
+vateud8_region = 16
+
 [firs.EKDK]
 vateud8_region = 11
 # wrong region in list
 vateud8_ignore = ["EKCH_W_APP", "EKCH_K_DEP", "EKCH_O_APP", "EKDK_E_CTR", "EKCH_R_DEP", "EKDK_L_CTR", "EKDK_A_CTR"]
+
 [firs.ENOR]
 vateud8_region = 19
+
 [firs.EPWW]
 vateud8_region = 7
+
 [firs.ESAA]
 vateud8_region = 23
+
 [firs.EVRR]
 vateud8_region = 37
+
 [firs.EYVL]
 vateud8_region = 38
+
 [firs.GCCC]
 vateud8_region = 22
+
 [firs.LAAA]
 vateud8_region = 39
+
 [firs.LBSR]
 vateud8_region = 33
+
 [firs.LCCC]
 vateud8_region = 8
+
 [firs.LDZO]
 vateud8_region = 28
+
 [firs.LECB]
 vateud8_region = 22
+
 [firs.LECM]
 vateud8_region = 22
+
 [firs.LFBB]
 vateud8_region = 13
+
 [firs.LFEE]
 vateud8_region = 13
+
 [firs.LFFF]
 vateud8_region = 13
+
 [firs.LFMM]
 vateud8_region = 13
+
 [firs.LFRR]
 vateud8_region = 13
+
 [firs.LGGG]
 vateud8_region = 1
+
 [firs.LHCC]
 vateud8_region = 14
+
 [firs.LIBB]
 vateud8_region = 17
+
 [firs.LIMM]
 vateud8_region = 17
+
 [firs.LIRR]
 vateud8_region = 17
+
 [firs.LJLA]
 vateud8_region = 36
+
 [firs.LKAA]
 vateud8_region = 9
+
 [firs.LMMM]
 vateud8_region = 27
+
 [firs.LOVV]
 vateud8_region = 3
+
 [firs.LPPC]
 vateud8_region = 21
+
 [firs.LQSB]
 vateud8_region = 29
+
 [firs.LRBB]
 vateud8_region = 32
+
 [firs.LSAS]
 vateud8_region = 5
+
 [firs.LTAA]
 vateud8_region = 24
 # wrong region in list
 vateud8_ignore = ["LTDB_TWR", "LTDB_GND"]
+
 [firs.LTBB]
 vateud8_region = 24
+
 [firs.LUUU]
 vateud8_region = 43
+
 [firs.LWSS]
 vateud8_region = 30
+
 [firs.LYBA]
 vateud8_region = 31
+
 [firs.LZBB]
 vateud8_region = 10
