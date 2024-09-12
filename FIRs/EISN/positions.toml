@@ -346,12 +346,6 @@ prefix = "EISN"
 radio_callsign = ""
 station_type = "CTR"
 
-[EISN_L_CTR]
-frequency = 124700000
-prefix = "EISN"
-radio_callsign = "Shannon Control (Low South)"
-station_type = "CTR"
-
 [EISN_LN_CTR]
 frequency = 119075000
 prefix = "EISN"
