@@ -9,11 +9,13 @@ ignore_extra = [
   "EDGG_HMM_CTR",
   "EDDL_N_APP",
   "EDDP_APP",
+  "EDYY_A_CTR",
   # incorrect in vateud8
   "EDDM_1_GND",
   "EDUU_ALP_CTR",
   "EDUU_SAL_CTR",
   "EDMO_TWR",
+  "EDYY_NH_CTR",
   # wrong region in vateud8
   "EKCH_W_APP",
   "EKCH_K_DEP",
@@ -54,6 +56,7 @@ vateud8_region = 2
 
 [firs.EDYY]
 vateud8_region = 2
+vateud8_ignore = ["NIKH"]
 
 [firs.EETT]
 vateud8_region = 34
