@@ -129,10 +129,6 @@ Shall contain all Positions in the format defined below as a TOML object defined
 
 Shall contain all Airports in the format defined below as a TOML object defined by `key` as key and the other attributes as value.
 
-#### `airports.geojson`
-
-Shall contain geographic data for Airports as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Point_ geometry and contain at least a property `id` that allows mapping to the `key` in `airports.json5`.
-
 ### Data Types
 
 #### Coordinate
@@ -236,7 +232,7 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 ##### `name`
 
 - Name of position
-- type: _string_
+- type: _null or string_
 - example: `"Roding"`
 
 ##### `radio_callsign`
@@ -274,6 +270,12 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 - Name of airport
 - type: _string_
 
+##### `iata_designator`
+
+- IATA designator
+- type: _null or string_
+- example: `BZO`
+
 ##### `fallback_prefixes`
 
 - Other prefixes used for matching staffing of TWR or below, should generally not be necessary. They shall be globally unique.
@@ -290,6 +292,12 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 
 - Possible runway configurations. This data shall be provided if a Sector has a `runway_filter` depending on this airport, it may be still provided otherwise.
 - type: _null or list of list of runways_
+
+##### `location`
+
+- Geo coordinate of ARP (airport reference point)
+- type: GeoJSON coordinate, tuple of Longitude (X) and Latitude (Y)
+- example `[13.767998806, 51.134345194]`
 
 ### Generation of derived data
 
