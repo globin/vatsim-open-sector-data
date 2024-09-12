@@ -172,12 +172,6 @@ prefix = "EFIN"
 radio_callsign = "Helsinki Control"
 station_type = "CTR"
 
-[EFIV_I_TWR]
-frequency = 118000000
-prefix = "EFIV"
-radio_callsign = "Ivalo AFIS"
-station_type = "TWR"
-
 [EFIV_TWR]
 frequency = 118000000
 prefix = "EFIV"
@@ -238,12 +232,6 @@ prefix = "EFKK"
 radio_callsign = "Kruunu Tower"
 station_type = "TWR"
 
-[EFKS_I_TWR]
-frequency = 118650000
-prefix = "EFKS"
-radio_callsign = "Kuusamo AFIS"
-station_type = "TWR"
-
 [EFKS_TWR]
 frequency = 118650000
 prefix = "EFKS"
@@ -255,12 +243,6 @@ frequency = 118950000
 prefix = "EFIN"
 radio_callsign = "Kittilä Radar"
 station_type = "APP"
-
-[EFKT_I_TWR]
-frequency = 118950000
-prefix = "EFKT"
-radio_callsign = "Kittilä AFIS"
-station_type = "TWR"
 
 [EFKT_TWR]
 frequency = 118950000
