@@ -2,11 +2,11 @@
 
 ## Terminology
 
-- **Elemental Volume**
+- **Volume**
   - lateral border: polygon specified by list of WGS84 latitude, longitude pairs
   - vertical border: lower and upper flight level
 - **Sector**
-  - one or more **Elemental Volume**s
+  - one or more **Volume**s
   - contiguous
   - not overlapping with other sectors
   - smallest possible block of airspace a controller can staff
@@ -53,7 +53,7 @@ These following are examples of uses of the data provided by this specification.
 
 - No vertical borders, sectors can overlap
   - impossible to accurately identify a sector an aircraft is/will be inside
-- Missing unique IDs for sectors & elemental volumes
+- Missing unique IDs for sectors & volumes
   - cannot be referred to from other data uniquely
     (e.g.: agreement ades: EDDF, cop: DEBHI, level: 240, from: **EDMMALB1** to: **EDGGDKB2**)
 - Missing FIR/UIR relation
@@ -99,31 +99,23 @@ Generated files (pipeline artifacts) may use other file formats.
 ```
 ├──data/
 │  ├──EDMM
-│  │  ├── elemental_volumes.toml
-│  │  ├── elemental_volumes.geojson
+│  │  ├── volumes.geojson
 │  │  ├── sectors.toml
 │  │  ├── positions.toml
 │  │  └── airports.toml
-│  │  └── airports.geojson
 │  ├──LOVV
-│  │  ├── elemental_volumes.toml
-│  │  ├── elemental_volumes.geojson
+│  │  ├── volumes.geojson
 │  │  ├── sectors.toml
 │  │  ├── positions.toml
 │  │  ├── airports.toml
-│  │  └── airports.geojson
 │  └──...*all FIRs*
 ├──README.md
 └──SPECIFICATION.md (this document)
 ```
 
-#### `elemental_volumes.toml`
+#### `volumes.geojson`
 
-Shall toml all Elemental Volumes in the format defined below as a TOML object defined by `key` as key and the other attributes as value.
-
-#### `elemental_volumes.geojson`
-
-Shall contain geographic data for Elemental Volumes as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Polygon_ geometry and contain at least a property `id` that allows mapping to the `key` in `elemental_volumes.toml`.
+Shall contain geographic data for Volumes as a GeoJSON _FeatureCollection_. Each _Feature_ shall be defined by a _Polygon_ geometry and its properties.
 
 #### `sectors.toml`
 
@@ -150,7 +142,7 @@ _Note: this is the reversed order of most data currently used in VATSIM contexts
 
 Example: location near Munich, Germany: `[11.5, 48.5]`, in ICAO waypoint format this would be `N4830E01130`.
 
-#### Elemental Volume
+#### Volume
 
 ##### Constraints
 
@@ -160,19 +152,19 @@ lower_level >= 0
 upper_level <= 999
 ```
 
-##### `key`
+##### GeoJSON `id`
 
 - unique identifier within FIR
 - type: _string_
 - example: identifier from AIP `"EDMMNDG1"`
 
-##### `lower_level`
+##### GeoJSON property `lower_level`
 
 - the flight level of the lower vertical border (inclusive)
 - type: _int_
 - example: `195`
 
-##### `upper_level`
+##### GeoJSON property `upper_level`
 
 - the flight level of the upper vertical border (exclusive)
 - type: _int_
@@ -198,14 +190,14 @@ Sectors "existing" at the same point in time shall be contiguous and not overlap
 
 ##### `volumes`
 
-- **Sector** consists of these **Elemental Volumes**
-- type: _list of elemental_volume.id_
+- **Sector** consists of these **Volume**s
+- type: _list of volume.id_
 - example: `"EDMMNDG1", "EDMMNDG2"`
 
 ##### `position_priority`
 
 - List of positions specifying the descending priority for sector staffing.
-- In case the Position belongs to another FIR, it shall be specfied, otherwise it may be omitted.
+- In case the Position belongs to another FIR, it shall be specified, otherwise it may be omitted.
 - unit _list of references to Positions of the form `{ fir: null or fir_id, id: position_id }`_
 - example: `[{ fir: null, id: "DON" }, { fir: "EDMM", id: "ALB" }]`
 
@@ -327,12 +319,12 @@ Due to licensing automatic migration of data from `vatspy-data-project` is possi
 
 #### vatspy-data-project
 
-- split `Boundaries.geojson` polygons into non-overlapping polygons retaining mapping. These polygons are the **Elemental Volume**s enriched with `lower_level: 0` and `upper_level: 999`.
+- split `Boundaries.geojson` polygons into non-overlapping polygons retaining mapping. These polygons are the **Volume**s enriched with `lower_level: 0` and `upper_level: 999`.
   Congruent polygons are deduplicated in the process
 - **Airport**s are mapped from the `Airports` section to the format defined herein, whereby IATA codes, FAA LIDs and pseudo airports are combined using `fallback_prefixes`
 - `FIRs` and `UIRs` are combined into **Position**s and **Sector**s
   - a CTR **Position** with frequency `null` and prefix `CALLSIGN PREFIX` is created for each entry
-  - **Sector**s are created from the relevant combinations of **Element Volume**s and `position_priority` generated (smaller original polygon -> higher priority)
+  - **Sector**s are created from the relevant combinations of **Volume**s and `position_priority` generated (smaller original polygon -> higher priority)
 
 **TODO**: better wording of the above, check for edge cases
 
@@ -344,7 +336,7 @@ Essentially the same process as vatspy-data-project
 
 - "tracons" cutting "holes" into the outerlying sectors, if necessary splitting volume that would contain holes. FL000-999
 - create APP **Position**s without frequency and airport prefix
-- create **Sector**s with the new "tracon" elemental volumes and priority with the new **Position** and the priority of the outerlying sector
+- create **Sector**s with the new "tracon" volumes and priority with the new **Position** and the priority of the outerlying sector
 
 **TODO**: better wording of the above, check for edge cases
 
@@ -368,11 +360,12 @@ adherence to the specification. This may be achieved by running tools in a GitHu
 - all coordinates in the GeoJSON files are lists of two items, the first specifying longitude, the second latitude:
   - longitude: -180.0 <= longitude <= 180.0
   - latitude: -90.0 <= latitude <= 90.0
-- all polygons defining Elemental Volumes shall not include holes
-- Elemental Volume `lower_level` and `upper_level` shall be in the range 0 and 999 inclusive and `lower_level < upper_level`
-- Sector `volumes` shall not overlap with `volumes` of other **Sector**s and be continuous (no holes).
+- all polygons defining Volumes shall not include holes or overlaps/itersect with itself
+- Volume `lower_level` and `upper_level` shall be in the range 0 and 999 inclusive and `lower_level < upper_level`
+- Sector `volumes` shall not overlap with `volumes` of other **Sector**s and be contiguous (no holes).
+- Sector `volumes` shall be contiguous
 - all data references to other data specified herein, shall unambiguously point to valid data:
-  - Sector `volumes` shall point to valid Elemental Volumes defined in the same FIR
+  - Sector `volumes` shall point to valid Volumes defined in the same FIR
   - Sector `position_priority` shall point to either a valid Position in the same FIR if none is explicitly specified, otherwise to a valid Position in the specified FIR
   - Sector `runway_filter` shall point to airports defined in the same FIR
   - Sector `runway_filter` runway combinations shall only consist of valid `runway_configuration`s for each Airport
