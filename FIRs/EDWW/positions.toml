@@ -11,13 +11,13 @@ prefix = "EDDB"
 radio_callsign = "Bremen Radar"
 station_type = "APP"
 
-[DBSD]
+[DBDS]
 frequency = 120630000
 prefix = "EDDB"
-radio_callsign = "Bremen Radar (Berlin departure)"
+radio_callsign = "Bremen Radar"
 station_type = "DEP"
 
-[DBAD]
+[DBDN]
 frequency = 120340000
 prefix = "EDDB"
 radio_callsign = "Bremen Radar"
@@ -26,7 +26,7 @@ station_type = "DEP"
 [DBAST]
 frequency = 121130000
 prefix = "EDDB"
-radio_callsign = "Bremen Radar"
+radio_callsign = "Berlin Director"
 station_type = "APP"
 
 [DBANT]
