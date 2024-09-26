@@ -1,0 +1,66 @@
+[LJCE_TWR]
+frequency=127230000
+prefix="LJCE"
+radio_callsign="Cerklje Tower"
+station_type="TWR"
+
+[LJLA_CTR]
+frequency=128880000
+prefix="LJLA"
+radio_callsign="Ljubljana Center (main frequency)"
+station_type="CTR"
+
+[LJLA_I_CTR]
+frequency=118480000
+prefix="LJLJ"
+radio_callsign="Ljubljana Information"
+station_type="CTR"
+
+[LJLA_U_CTR]
+frequency=128870000
+prefix="LJLA"
+radio_callsign="Ljubljana Center (upper airspace)"
+station_type="CTR"
+
+[LJLJ_APP]
+frequency=135280000
+prefix="LJLJ"
+radio_callsign="Ljubljana Approach Radar"
+station_type="APP"
+
+[LJLJ_GND]
+frequency=121930000
+prefix="LJLJ"
+radio_callsign="Ljubljana Ground"
+station_type="GND"
+
+[LJLJ_TWR]
+frequency=118005000
+prefix="LJLJ"
+radio_callsign="Ljubljana Tower"
+station_type="TWR"
+
+[LJMB_APP]
+frequency=119205000
+prefix="LJMB"
+radio_callsign="Maribor Approach"
+station_type="APP"
+
+[LJMB_TWR]
+frequency=134305000
+prefix="LJMB"
+radio_callsign="Maribor Tower"
+station_type="TWR"
+
+[LJPZ_APP]
+frequency=124880000
+prefix="LJPZ"
+radio_callsign="Portoroz Approach"
+station_type="APP"
+
+[LJPZ_TWR]
+frequency=129805000
+prefix="LJPZ"
+radio_callsign="Portoroz Tower"
+station_type="TWR"
+

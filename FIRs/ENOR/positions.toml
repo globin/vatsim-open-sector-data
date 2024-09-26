@@ -1,0 +1,701 @@
+[ENAL_APP]
+frequency = 129325000
+prefix = "ENAL"
+radio_callsign = "Møre Approach"
+station_type = "APP"
+
+[ENAL_TWR]
+frequency = 118100000
+prefix = "ENAL"
+radio_callsign = "Vigra Tower"
+station_type = "TWR"
+
+[ENAN_APP]
+frequency = 118700000
+prefix = "ENAN"
+radio_callsign = "Andøya Tower"
+station_type = "APP"
+
+[ENAN_TWR]
+frequency = 118200000
+prefix = "ENAN"
+radio_callsign = "Andoya Tower"
+station_type = "TWR"
+
+[ENAS_I_TWR]
+frequency = 123900000
+prefix = "ENAS"
+radio_callsign = "Ny Ålesund Information"
+station_type = "TWR"
+
+[ENAT_APP]
+frequency = 120400000
+prefix = "ENAT"
+radio_callsign = "Alta Approach"
+station_type = "APP"
+
+[ENBD_19_CTR]
+frequency = 131100000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENBD_C_CTR]
+frequency = 118550000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENBD_CTR]
+frequency = 126450000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENBD_E_CTR]
+frequency = 126700000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENBD_O_CTR]
+frequency = 124300000
+prefix = "ENBD"
+radio_callsign = "Polaris Control (Offshore)"
+station_type = "CTR"
+
+[ENBD_S_CTR]
+frequency = 125700000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENBL_I_TWR]
+frequency = 118450000
+prefix = "ENBL"
+radio_callsign = "Bringeland Information"
+station_type = "TWR"
+
+[ENBN_APP]
+frequency = 127900000
+prefix = "ENBN"
+radio_callsign = "Polaris Control (Helgeland)"
+station_type = "APP"
+
+[ENBN_I_TWR]
+frequency = 119600000
+prefix = "ENBN"
+radio_callsign = "Brønnøy Information"
+station_type = "TWR"
+
+[ENBO_APP]
+frequency = 124000000
+prefix = "ENBO"
+radio_callsign = "Bodø Approach"
+station_type = "APP"
+
+[ENBO_GND]
+frequency = 121750000
+prefix = "ENBO"
+radio_callsign = "Bodø Ground"
+station_type = "GND"
+
+[ENBO_TWR]
+frequency = 118100000
+prefix = "ENBO"
+radio_callsign = "Bodo Tower"
+station_type = "TWR"
+
+[ENBR_D_APP]
+frequency = 118850000
+prefix = "ENBR"
+radio_callsign = "Flesland Director"
+station_type = "APP"
+
+[ENBR_DEL]
+frequency = 123400000
+prefix = "ENBR"
+radio_callsign = "Flesland Delivery"
+station_type = "DEL"
+
+[ENBR_E_APP]
+frequency = 126100000
+prefix = "ENBR"
+radio_callsign = "Flesland Approach East"
+station_type = "APP"
+
+[ENBR_GND]
+frequency = 121900000
+prefix = "ENBR"
+radio_callsign = "Flesland Ground"
+station_type = "GND"
+
+[ENBR_TWR]
+frequency = 119100000
+prefix = "ENBR"
+radio_callsign = "Flesland Tower"
+station_type = "TWR"
+
+[ENBR_W_APP]
+frequency = 121000000
+prefix = "ENBR"
+radio_callsign = "Flesland Approach"
+station_type = "APP"
+
+[ENBS_I_TWR]
+frequency = 123400000
+prefix = "ENBS"
+radio_callsign = "Båtsfjord Information"
+station_type = "TWR"
+
+[ENBV_I_TWR]
+frequency = 120100000
+prefix = "ENBV"
+radio_callsign = "Berlevåg Information"
+station_type = "TWR"
+
+[ENCN_APP]
+frequency = 119950000
+prefix = "ENCN"
+radio_callsign = "Kjevik Approach"
+station_type = "APP"
+
+[ENCN_TWR]
+frequency = 118100000
+prefix = "ENCN"
+radio_callsign = "Kjevik Tower"
+station_type = "TWR"
+
+[ENDU_APP]
+frequency = 118800000
+prefix = "ENDU"
+radio_callsign = "Bardufoss Approach"
+station_type = "APP"
+
+[ENDU_DEL]
+frequency = 122100000
+prefix = "ENDU"
+radio_callsign = "Bardufoss Delivery"
+station_type = "DEL"
+
+[ENDU_TWR]
+frequency = 118100000
+prefix = "ENDU"
+radio_callsign = "Bardufoss Tower"
+station_type = "TWR"
+
+[ENEV_APP]
+frequency = 120100000
+prefix = "ENEV"
+radio_callsign = "Evenes Approach"
+station_type = "APP"
+
+[ENEV_TWR]
+frequency = 118000000
+prefix = "ENEV"
+radio_callsign = "Evenes Tower"
+station_type = "TWR"
+
+[ENEV_GND]
+frequency = 121850000
+prefix = "ENEV"
+radio_callsign = "Evenes Ground"
+station_type = "GND"
+
+[ENFL_I_TWR]
+frequency = 119200000
+prefix = "ENFL"
+radio_callsign = "Florø Information"
+station_type = "TWR"
+
+[ENGC_H_TWR]
+frequency = 129675000
+prefix = "ENGC"
+radio_callsign = "Tampen Information"
+station_type = "TWR"
+
+[ENGM_D_APP]
+frequency = 136400000
+prefix = "ENGM"
+radio_callsign = "Oslo Director"
+station_type = "APP"
+
+[ENGM_E_APP]
+frequency = 118475000
+prefix = "ENGM"
+radio_callsign = "Oslo Approach"
+station_type = "APP"
+
+[ENGM_E_DEL]
+frequency = 121930000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Delivery"
+station_type = "DEL"
+
+[ENGM_E_GND]
+frequency = 121905000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Ground East"
+station_type = "GND"
+
+[ENGM_E_TWR]
+frequency = 120100000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Tower East"
+station_type = "TWR"
+
+[ENGM_F_APP]
+frequency = 128900000
+prefix = "ENGM"
+radio_callsign = "Oslo Final"
+station_type = "APP"
+
+[ENGM_ICE_GND]
+frequency = 121855000
+prefix = "ENGM"
+radio_callsign = "Gardemoen De-Ice Coordinator"
+station_type = "GND"
+
+[ENGM_Q_GND]
+frequency = 121730000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Ground"
+station_type = "GND"
+
+[ENGM_W_APP]
+frequency = 120450000
+prefix = "ENGM"
+radio_callsign = "Oslo Approach West"
+station_type = "APP"
+
+[ENGM_W_DEL]
+frequency = 121680000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Delivery"
+station_type = "DEL"
+
+[ENGM_W_GND]
+frequency = 121605000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Ground West"
+station_type = "GND"
+
+[ENGM_W_TWR]
+frequency = 118300000
+prefix = "ENGM"
+radio_callsign = "Gardermoen Tower West"
+station_type = "TWR"
+
+[ENHD_TWR]
+frequency = 120500000
+prefix = "ENHD"
+radio_callsign = "Haugesund Tower"
+station_type = "TWR"
+
+[ENHF_I_TWR]
+frequency = 121000000
+prefix = "ENHF"
+radio_callsign = "Hammerfest Information"
+station_type = "TWR"
+
+[ENHK_I_TWR]
+frequency = 119900000
+prefix = "ENHK"
+radio_callsign = "Hasvik Information"
+station_type = "TWR"
+
+[ENHV_I_TWR]
+frequency = 119800000
+prefix = "ENHV"
+radio_callsign = "Valan Information"
+station_type = "TWR"
+
+[ENKB_APP]
+frequency = 119350000
+prefix = "ENAL"
+radio_callsign = "Møre Approach"
+station_type = "APP"
+
+[ENKB_TWR]
+frequency = 118300000
+prefix = "ENKB"
+radio_callsign = "Kvernberget Tower"
+station_type = "TWR"
+
+[ENKR_APP]
+frequency = 120350000
+prefix = "ENKR"
+radio_callsign = "Kirkenes Tower"
+station_type = "APP"
+
+[ENKR_TWR]
+frequency = 118100000
+prefix = "ENKR"
+radio_callsign = "Kirkenes Tower"
+station_type = "TWR"
+
+[ENLE_H_TWR]
+frequency = 130550000
+prefix = "ENLE"
+radio_callsign = "Ekofisk Information"
+station_type = "TWR"
+
+[ENLK_TWR]
+frequency = 120500000
+prefix = "ENLK"
+radio_callsign = "Leknes AFIS"
+station_type = "TWR"
+
+[ENMH_I_TWR]
+frequency = 121200000
+prefix = "ENHM"
+radio_callsign = "Mehamn Information"
+station_type = "TWR"
+
+[ENML_I_TWR]
+frequency = 119950000
+prefix = "ENML"
+radio_callsign = "Molde Information"
+station_type = "TWR"
+
+[ENMS_I_TWR]
+frequency = 123400000
+prefix = "ENMS"
+radio_callsign = "Mosjøen Information"
+station_type = "TWR"
+
+[ENNA_APP]
+frequency = 118900000
+prefix = "ENNA"
+radio_callsign = "Banak Tower"
+station_type = "APP"
+
+[ENNA_TWR]
+frequency = 118050000
+prefix = "ENNA"
+radio_callsign = "Banak Tower"
+station_type = "TWR"
+
+[ENNM_I_TWR]
+frequency = 119900000
+prefix = "ENNM"
+radio_callsign = "Namsos Information"
+station_type = "TWR"
+
+[ENNO_I_TWR]
+frequency = 118800000
+prefix = "ENNO"
+radio_callsign = "Notodden Information"
+station_type = "TWR"
+
+[ENOB_CTR]
+frequency = 123175000
+prefix = "ENOB"
+radio_callsign = "Bodø Oceanic Control"
+station_type = "CTR"
+
+[ENOL_A_APP]
+frequency = 126200000
+prefix = "ENOL"
+radio_callsign = "Ørland Approach"
+station_type = "APP"
+
+[ENOL_APP]
+frequency = 118250000
+prefix = "ENOL"
+radio_callsign = "Ørland Approach"
+station_type = "APP"
+
+[ENOL_TWR]
+frequency = 118700000
+prefix = "ENOL"
+radio_callsign = "Ørland Tower"
+station_type = "TWR"
+
+[ENOR_CTR]
+frequency = 125500000
+prefix = "ENOR"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOR_S_CTR]
+frequency = 121550000
+prefix = "ENOR"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOR_SC_CTR]
+frequency = 134515000
+prefix = "ENOR"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOS_1_CTR]
+frequency = 118825000
+prefix = "ENOS"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOS_3_CTR]
+frequency = 125050000
+prefix = "ENOS"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOS_7_CTR]
+frequency = 124775000
+prefix = "ENOS"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOS_8_CTR]
+frequency = 134350000
+prefix = "ENOS"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOS_CTR]
+frequency = 118875000
+prefix = "ENOS"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOS_N_CTR]
+frequency = 120375000
+prefix = "ENOS"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENOV_I_TWR]
+frequency = 118900000
+prefix = "ENOV"
+radio_callsign = "Hovden Information"
+station_type = "TWR"
+
+[ENRA_I_TWR]
+frequency = 119950000
+prefix = "ENRA"
+radio_callsign = "Røssvoll Information"
+station_type = "TWR"
+
+[ENRC_N_CTR]
+frequency = 118325000
+prefix = "ENRC"
+radio_callsign = "Bodø RTC"
+station_type = "CTR"
+
+[ENRC_S_CTR]
+frequency = 118425000
+prefix = "ENRC"
+radio_callsign = "Bodø South RTC"
+station_type = "CTR"
+
+[ENRM_I_TWR]
+frequency = 119800000
+prefix = "ENRM"
+radio_callsign = "Rørvik Information"
+station_type = "TWR"
+
+[ENRO_I_TWR]
+frequency = 120400000
+prefix = "ENRO"
+radio_callsign = "Røros Information"
+station_type = "TWR"
+
+[ENRS_I_TWR]
+frequency = 119250000
+prefix = "ENRS"
+radio_callsign = "Røst Information"
+station_type = "TWR"
+
+[ENRY_GND]
+frequency = 121700000
+prefix = "ENRY"
+radio_callsign = "Rygge Ground"
+station_type = "GND"
+
+[ENRY_TWR]
+frequency = 119500000
+prefix = "ENRY"
+radio_callsign = "Rygge Tower"
+station_type = "TWR"
+
+[ENSB_I_TWR]
+frequency = 118100000
+prefix = "ENSB"
+radio_callsign = "Longyear Information"
+station_type = "TWR"
+
+[ENSD_I_TWR]
+frequency = 119800000
+prefix = "ENSD"
+radio_callsign = "Anda Information"
+station_type = "TWR"
+
+[ENSG_I_TWR]
+frequency = 119300000
+prefix = "ENSG"
+radio_callsign = "Sogndal Information"
+station_type = "TWR"
+
+[ENSH_I_TWR]
+frequency = 120200000
+prefix = "ENSH"
+radio_callsign = "Helle Information"
+station_type = "TWR"
+
+[ENSK_I_TWR]
+frequency = 120450000
+prefix = "ENSK"
+radio_callsign = "Skagen Information"
+station_type = "TWR"
+
+[ENSO_I_TWR]
+frequency = 120200000
+prefix = "ENSO"
+radio_callsign = "Sørstokken Information"
+station_type = "TWR"
+
+[ENSR_I_TWR]
+frequency = 119600000
+prefix = "ENSR"
+radio_callsign = "Sørkjosen Information"
+station_type = "TWR"
+
+[ENSS_I_TWR]
+frequency = 122150000
+prefix = "ENSS"
+radio_callsign = "Vardø Information"
+station_type = "TWR"
+
+[ENST_I_TWR]
+frequency = 120300000
+prefix = "ENST"
+radio_callsign = "Stokka Information"
+station_type = "TWR"
+
+[ENSV_14_CTR]
+frequency = 124575000
+prefix = "ENSV"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENSV_16_CTR]
+frequency = 135675000
+prefix = "ENSV"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENSV_CTR]
+frequency = 120650000
+prefix = "ENSV"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENSV_E_CTR]
+frequency = 134925000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENSV_N_CTR]
+frequency = 124700000
+prefix = "ENBD"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENSV_W_CTR]
+frequency = 136275000
+prefix = "ENSV"
+radio_callsign = "Polaris Control"
+station_type = "CTR"
+
+[ENTC_APP]
+frequency = 123750000
+prefix = "ENTC"
+radio_callsign = "Tromso Approach"
+station_type = "APP"
+
+[ENTC_TWR]
+frequency = 118300000
+prefix = "ENTC"
+radio_callsign = "Tromso Tower"
+station_type = "TWR"
+
+[ENTO_APP]
+frequency = 134050000
+prefix = "ENTO"
+radio_callsign = "Farris Approach"
+station_type = "APP"
+
+[ENTO_D_APP]
+frequency = 124350000
+prefix = "ENRY"
+radio_callsign = "Farris Approach"
+station_type = "APP"
+
+[ENTO_GND]
+frequency = 126175000
+prefix = "ENTO"
+radio_callsign = "Torp Ground"
+station_type = "GND"
+
+[ENTO_TWR]
+frequency = 118650000
+prefix = "ENTO"
+radio_callsign = "Torp Tower"
+station_type = "TWR"
+
+[ENVA_APP]
+frequency = 118600000
+prefix = "ENVA"
+radio_callsign = "Vaernes Approach"
+station_type = "APP"
+
+[ENVA_D_APP]
+frequency = 119150000
+prefix = "ENVA"
+radio_callsign = "Vaernes Director"
+station_type = "APP"
+
+[ENVA_GND]
+frequency = 121600000
+prefix = "ENVA"
+radio_callsign = "Vaernes Ground"
+station_type = "GND"
+
+[ENVA_TWR]
+frequency = 119400000
+prefix = "ENVA"
+radio_callsign = "Vaernes Tower"
+station_type = "TWR"
+
+[ENVD_I_TWR]
+frequency = 118400000
+prefix = "ENVD"
+radio_callsign = "Vadsø Information"
+station_type = "TWR"
+
+[ENZV_A_APP]
+frequency = 119400000
+prefix = "ENZV"
+radio_callsign = "Sola Arrival"
+station_type = "APP"
+
+[ENZV_APP]
+frequency = 119600000
+prefix = "ENZV"
+radio_callsign = "Sola Radar"
+station_type = "APP"
+
+[ENZV_GND]
+frequency = 121750000
+prefix = "ENZV"
+radio_callsign = "Sola Ground"
+station_type = "GND"
+
+[ENZV_TWR]
+frequency = 118350000
+prefix = "ENZV"
+radio_callsign = "Sola Tower"
+station_type = "TWR"

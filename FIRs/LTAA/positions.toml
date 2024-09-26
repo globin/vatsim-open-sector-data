@@ -1,0 +1,77 @@
+[LTAA_1_CTR]
+frequency = 128650000
+prefix = "LTAA"
+radio_callsign = "Ankara East 1 Control"
+station_type = "CTR"
+
+[LTAA_2_CTR]
+frequency = 129450000
+prefix = "LTAA"
+radio_callsign = "Ankara East 2 Control"
+station_type = "CTR"
+
+[LTAA_CTR]
+frequency = 128750000
+prefix = "LTAA"
+radio_callsign = "Ankara Control"
+station_type = "CTR"
+
+[LTAA_S_CTR]
+frequency = 127850000
+prefix = "LTAA"
+radio_callsign = "Ankara South Control"
+station_type = "CTR"
+
+[LTAA_W_CTR]
+frequency = 128450000
+prefix = "LTAA"
+radio_callsign = "Ankara West Control"
+station_type = "CTR"
+
+[LTAC_APP]
+frequency = 119100000
+prefix = "LTAC"
+radio_callsign = "Ankara Approach"
+station_type = "APP"
+
+[LTAC_GND]
+frequency = 121900000
+prefix = "LTAC"
+radio_callsign = "Ankara Ground"
+station_type = "GND"
+
+[LTAC_TWR]
+frequency = 118100000
+prefix = "LTAC"
+radio_callsign = "Ankara Tower"
+station_type = "TWR"
+
+[LTAI_APP]
+frequency = 122050000
+prefix = "LTAI"
+radio_callsign = "Antalya Approach"
+station_type = "APP"
+
+[LTAI_GND]
+frequency = 121900000
+prefix = "LTAI"
+radio_callsign = "Antalya Ground"
+station_type = "GND"
+
+[LTAI_TWR]
+frequency = 126100000
+prefix = "LTAI"
+radio_callsign = "Antalya Tower"
+station_type = "TWR"
+
+[LTDB_GND]
+frequency = 121750000
+prefix = "LTDB"
+radio_callsign = "Cukurova Ground"
+station_type = "GND"
+
+[LTDB_TWR]
+frequency = 120800000
+prefix = "LTDB"
+radio_callsign = "Cukurova Tower"
+station_type = "TWR"

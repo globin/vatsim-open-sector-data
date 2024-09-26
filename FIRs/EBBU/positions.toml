@@ -1,0 +1,210 @@
+[EBAW_GND]
+frequency=121905000
+prefix="EBAW"
+radio_callsign="Antwerpen Ground"
+station_type="GND"
+
+[EBAW_TWR]
+frequency=135205000
+prefix="EBAW"
+radio_callsign="Antwerpen Tower"
+station_type="TWR"
+
+[EBBR_APP]
+frequency=118255000
+prefix="EBBR"
+radio_callsign="Brussels Arrival"
+station_type="APP"
+
+[EBBR_DEL]
+frequency=121955000
+prefix="EBBR"
+radio_callsign="Brussels Delivery"
+station_type="DEL"
+
+[EBBR_DEP]
+frequency=126630000
+prefix="EBBR"
+radio_callsign="Brussels Departure"
+station_type="DEP"
+
+[EBBR_F_APP]
+frequency=120105000
+prefix="EBBR"
+radio_callsign="Brussels Approach"
+station_type="APP"
+
+[EBBR_GND]
+frequency=118055000
+prefix="EBBR"
+radio_callsign="Brussels Ground"
+station_type="GND"
+
+[EBBR_H_APP]
+frequency=129730000
+prefix="EBBR"
+radio_callsign="Brussels Approach (Holding)"
+station_type="APP"
+
+[EBBR_N_TWR]
+frequency=120780000
+prefix="EBBR"
+radio_callsign="Brussels Tower North"
+station_type="TWR"
+
+[EBBR_S_GND]
+frequency=121880000
+prefix="EBBR"
+radio_callsign="Brussels Ground South"
+station_type="GND"
+
+[EBBR_TWR]
+frequency=118605000
+prefix="EBBR"
+radio_callsign="Brussels Tower"
+station_type="TWR"
+
+[EBBU_C_CTR]
+frequency=127230000
+prefix="EBBU"
+radio_callsign="Brussels Control WHS"
+station_type="CTR"
+
+[EBBU_E_CTR]
+frequency=129575000
+prefix="EBBU"
+radio_callsign="Brussels Control ELS"
+station_type="CTR"
+
+[EBBU_EH_CTR]
+frequency=128450000
+prefix="EBBU"
+radio_callsign="Brussels Control EHS"
+station_type="CTR"
+
+[EBBU_H_CTR]
+frequency=128200000
+prefix="EBBU"
+radio_callsign="Brussels Control HUL Sector"
+station_type="CTR"
+
+[EBBU_I_CTR]
+frequency=126900000
+prefix="EBBU"
+radio_callsign="Brussels Information"
+station_type="CTR"
+
+[EBBU_L_CTR]
+frequency=125000000
+prefix="EBBU"
+radio_callsign="Brussels Control LUX Sector"
+station_type="CTR"
+
+[EBBU_N_CTR]
+frequency=128805000
+prefix="EBBU"
+radio_callsign="Brussels Control NLS"
+station_type="CTR"
+
+[EBBU_U_CTR]
+frequency=125980000
+prefix="EBBU"
+radio_callsign="Maastricht Radar"
+station_type="CTR"
+
+[EBBU_W_CTR]
+frequency=131100000
+prefix="EBBU"
+radio_callsign="Brussels Control WLS"
+station_type="CTR"
+
+[EBCI_APP]
+frequency=133130000
+prefix="EBCI"
+radio_callsign="Charleroi Approach"
+station_type="APP"
+
+[EBCI_GND]
+frequency=121805000
+prefix="EBCI"
+radio_callsign="Charleroi Ground"
+station_type="GND"
+
+[EBCI_TWR]
+frequency=121305000
+prefix="EBCI"
+radio_callsign="Charleroi Tower"
+station_type="TWR"
+
+[EBCV_TWR]
+frequency=128855000
+prefix="EBCV"
+radio_callsign="Chievres Tower"
+station_type="TWR"
+
+[EBKT_I_TWR]
+frequency=120250000
+prefix="EBKT"
+radio_callsign="Kortrijk Radio"
+station_type="TWR"
+
+[EBLG_APP]
+frequency=119280000
+prefix="EBLG"
+radio_callsign="Liege Approach"
+station_type="APP"
+
+[EBLG_GND]
+frequency=121915000
+prefix="EBLG"
+radio_callsign="Liege Ground"
+station_type="GND"
+
+[EBLG_TWR]
+frequency=118130000
+prefix="EBLG"
+radio_callsign="Liege Tower"
+station_type="TWR"
+
+[EBOS_APP]
+frequency=120600000
+prefix="EBOS"
+radio_callsign="Oostende Approach"
+station_type="APP"
+
+[EBOS_GND]
+frequency=121980000
+prefix="EBOS"
+radio_callsign="Oostende Ground"
+station_type="GND"
+
+[EBOS_TWR]
+frequency=118180000
+prefix="EBOS"
+radio_callsign="Oostende Tower"
+station_type="TWR"
+
+[ELLX_APP]
+frequency=120885000
+prefix="ELLX"
+radio_callsign="Luxembourg Approach"
+station_type="APP"
+
+[ELLX_DEL]
+frequency=121855000
+prefix="ELLX"
+radio_callsign="Luxembourg Delivery"
+station_type="DEL"
+
+[ELLX_F_APP]
+frequency=118905000
+prefix="ELLX"
+radio_callsign="Luxembourg Finals Approach"
+station_type="APP"
+
+[ELLX_TWR]
+frequency=118105000
+prefix="ELLX"
+radio_callsign="Luxembourg Tower"
+station_type="TWR"
+

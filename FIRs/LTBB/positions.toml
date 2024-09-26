@@ -1,0 +1,47 @@
+[LTBA_APP]
+frequency = 126400000
+prefix = "LTBA"
+radio_callsign = "Istanbul Approach"
+station_type = "APP"
+
+[LTBA_GND]
+frequency = 121900000
+prefix = "LTBA"
+radio_callsign = "Istanbul Ground"
+station_type = "GND"
+
+[LTBA_TWR]
+frequency = 118100000
+prefix = "LTBA"
+radio_callsign = "Istanbul Tower"
+station_type = "TWR"
+
+[LTBB_CTR]
+frequency = 119300000
+prefix = "LTBB"
+radio_callsign = "Istanbul Center"
+station_type = "CTR"
+
+[LTBJ_APP]
+frequency = 120100000
+prefix = "LTBJ"
+radio_callsign = "Izmir Approach"
+station_type = "APP"
+
+[LTBJ_GND]
+frequency = 121900000
+prefix = "LTBJ"
+radio_callsign = "Izmir Ground"
+station_type = "GND"
+
+[LTBJ_TWR]
+frequency = 118100000
+prefix = "LTBJ"
+radio_callsign = "Izmir Tower"
+station_type = "TWR"
+
+[LTBS_APP]
+frequency = 129500000
+prefix = "LTBS"
+radio_callsign = "Dalaman Approach"
+station_type = "APP"

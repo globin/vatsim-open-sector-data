@@ -1,0 +1,17 @@
+[BKPR_APP]
+frequency = 125980000
+prefix = "BKPR"
+radio_callsign = "Pristina Approach"
+station_type = "APP"
+
+[BKPR_GND]
+frequency = 128830000
+prefix = "BKPR"
+radio_callsign = "Pristina Ground"
+station_type = "GND"
+
+[BKPR_TWR]
+frequency = 126550000
+prefix = "BKPR"
+radio_callsign = "Pristina Tower"
+station_type = "TWR"

@@ -1,0 +1,204 @@
+[LFBB_CTR]
+frequency = 125105000
+prefix = "LFBB"
+radio_callsign = "Bordeaux Control"
+station_type = "CTR"
+
+[LFBB_UN_CTR]
+frequency = 118430000
+prefix = "LFBB"
+radio_callsign = "Bordeaux Control"
+station_type = "CTR"
+
+[LFBB_US_CTR]
+frequency = 136040000
+prefix = "LFBB"
+radio_callsign = "Bordeaux Control"
+station_type = "CTR"
+
+
+[LFBA_TWR]
+frequency = 121300000
+prefix = "LFBA"
+radio_callsign = "Agen Tower"
+station_type = "TWR"
+
+[LFBD_APP]
+frequency = 126730000
+prefix = "LFBD"
+radio_callsign = "Aquitaine Approach"
+station_type = "APP"
+
+[LFBD_E_APP]
+frequency = 129875000
+prefix = "LFBD"
+radio_callsign = "Aquitaine East Approach"
+station_type = "APP"
+
+[LFBD_GND]
+frequency = 121900000
+prefix = "LFBD"
+radio_callsign = "Merignac Ground"
+station_type = "GND"
+
+[LFBD_TWR]
+frequency = 118300000
+prefix = "LFBD"
+radio_callsign = "Merignac Tower"
+station_type = "TWR"
+
+[LFBE_TWR]
+frequency = 119800000
+prefix = "LFBE"
+radio_callsign = "Bergerac Tower"
+station_type = "TWR"
+
+[LFBG_TWR]
+frequency = 120075000
+prefix = "LFBG"
+radio_callsign = "Cognac Tower"
+station_type = "TWR"
+
+[LFBH_APP]
+frequency = 124200000
+prefix = "LFBH"
+radio_callsign = "La Rochelle Approach"
+station_type = "APP"
+
+[LFBH_TWR]
+frequency = 118000000
+prefix = "LFBH"
+radio_callsign = "La Rochelle Tower"
+station_type = "TWR"
+
+[LFBI_APP]
+frequency = 134100000
+prefix = "LFBI"
+radio_callsign = "Poitiers Approach"
+station_type = "APP"
+
+[LFBI_TWR]
+frequency = 118500000
+prefix = "LFBI"
+radio_callsign = "Poitiers Tower"
+station_type = "TWR"
+
+[LFBL_APP]
+frequency = 118080000
+prefix = "LFBL"
+radio_callsign = "Limoge Approach"
+station_type = "APP"
+
+[LFBL_TWR]
+frequency = 119550000
+prefix = "LFBL"
+radio_callsign = "Limoges Tower"
+station_type = "TWR"
+
+[LFBO_APP]
+frequency = 129305000
+prefix = "LFBO"
+radio_callsign = "Toulouse Approach (main frequency)"
+station_type = "APP"
+
+[LFBO_DEL]
+frequency = 121705000
+prefix = "LFBO"
+radio_callsign = "Blagnac Delivery"
+station_type = "DEL"
+
+[LFBO_E_APP]
+frequency = 125180000
+prefix = "LFBO"
+radio_callsign = "Toulouse East Approach"
+station_type = "APP"
+
+[LFBO_GND]
+frequency = 121900000
+prefix = "LFBO"
+radio_callsign = "Blagnac Ground"
+station_type = "GND"
+
+[LFBO_TWR]
+frequency = 118100000
+prefix = "LFBO"
+radio_callsign = "Blagnac Tower"
+station_type = "TWR"
+
+[LFBO_W_APP]
+frequency = 121105000
+prefix = "LFBO"
+radio_callsign = "Toulouse West Approach"
+station_type = "APP"
+
+[LFBP_APP]
+frequency = 128800000
+prefix = "LFBP"
+radio_callsign = "Pyrenées Approach"
+station_type = "APP"
+
+[LFBP_GND]
+frequency = 121755000
+prefix = "LFBP"
+radio_callsign = "Pau Ground"
+station_type = "GND"
+
+[LFBP_TWR]
+frequency = 124150000
+prefix = "LFBP"
+radio_callsign = "Pau Tower"
+station_type = "TWR"
+
+[LFBT_GND]
+frequency = 121800000
+prefix = "LFBT"
+radio_callsign = "Lourdes Ground"
+station_type = "GND"
+
+[LFBT_TWR]
+frequency = 120305000
+prefix = "LFBT"
+radio_callsign = "Lourdes Tower"
+station_type = "TWR"
+
+[LFBZ_APP]
+frequency = 125600000
+prefix = "LFBZ"
+radio_callsign = "Biarritz Approach"
+station_type = "APP"
+
+[LFBZ_GND]
+frequency = 121950000
+prefix = "LFBZ"
+radio_callsign = "Biarritz Ground"
+station_type = "GND"
+
+[LFBZ_TWR]
+frequency = 118700000
+prefix = "LFBZ"
+radio_callsign = "Biarritz Tower"
+station_type = "TWR"
+
+[LFCL_TWR]
+frequency = 122700000
+prefix = "LFCL"
+radio_callsign = "Lasbordes Tower"
+station_type = "TWR"
+
+[LFCR_TWR]
+frequency = 118125000
+prefix = "LFCR"
+radio_callsign = "Rodez Tower"
+station_type = "TWR"
+
+[LFLX_TWR]
+frequency = 125875000
+prefix = "LFLX"
+radio_callsign = "Chateauroux Tower"
+station_type = "TWR"
+
+[LFMK_TWR]
+frequency = 134500000
+prefix = "LFMK"
+radio_callsign = "Carcassonne Tower"
+station_type = "TWR"

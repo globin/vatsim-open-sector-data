@@ -1,0 +1,137 @@
+# EBG South
+[ALP]
+frequency = 133755000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Alpen"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUL"
+airspace_groups = ["ALB", "TRU"]
+
+[CHI]
+frequency = 123390000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Chiem"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUC"
+airspace_groups = ["TRU"]
+
+[DON]
+frequency = 127290000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Donau"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUD"
+airspace_groups = ["ALB", "HOF", "TRU"]
+
+[ISA]
+frequency = 136335000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Isar"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUI"
+airspace_groups = ["TRU"]
+
+# EBG Ost
+[ERL]
+frequency = 136405000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Erlangen"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUR"
+airspace_groups = ["ALB", "HOF", "TRU"]
+
+[HVL]
+frequency = 128235000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Havel"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUH"
+airspace_groups = ["HOF"]
+
+[OSE]
+frequency = 133035000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Ostsee"
+radio_callsign = "Rhein Radar"
+cpdlc_logon = "EDUO"
+
+[OH2]
+frequency = 126785000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Ostsee High"
+radio_callsign = "Rhein Radar"
+
+[SAL]
+frequency = 133860000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Saale"
+cpdlc_logon = "EDUA"
+radio_callsign = "Rhein Radar"
+airspace_groups = ["HOF"]
+
+[SPE]
+frequency = 133285000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Spree"
+cpdlc_logon = "EDUP"
+radio_callsign = "Rhein Radar"
+airspace_groups = ["HOF"]
+
+# EBG West/Central
+[FFM]
+frequency = 132330000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Frankfurt"
+cpdlc_logon = "EDUF"
+radio_callsign = "Rhein Radar"
+
+[FUL]
+frequency = 133655000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Fulda"
+cpdlc_logon = "EDUU"
+radio_callsign = "Rhein Radar"
+
+[NTM]
+frequency = 132080000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Nattenheim"
+cpdlc_logon = "EDUN"
+radio_callsign = "Rhein Radar"
+
+[SLN]
+frequency = 120930000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Söllingen"
+cpdlc_logon = "EDUS"
+radio_callsign = "Rhein Radar"
+
+[TGO]
+frequency = 132405000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Tango"
+cpdlc_logon = "EDUT"
+radio_callsign = "Rhein Radar"
+
+[WUR]
+frequency = 134085000
+prefix = "EDUU"
+station_type = "CTR"
+name = "Würzburg"
+cpdlc_logon = "EDUW"
+radio_callsign = "Rhein Radar"

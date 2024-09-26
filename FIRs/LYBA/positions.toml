@@ -1,0 +1,125 @@
+[LYBA_A_CTR]
+frequency = 129220000
+prefix = "LYBA"
+radio_callsign = "Beograd Adriatic Center"
+station_type = "CTR"
+
+[LYBA_CTR]
+frequency = 123770000
+prefix = "LYBA"
+radio_callsign = "Beograd Center (main frequency)"
+station_type = "CTR"
+
+[LYBA_LN_CTR]
+frequency = 134025000
+prefix = "LYBA"
+radio_callsign = "Beograd North Lower sector"
+station_type = "CTR"
+
+[LYBA_LW_CTR]
+frequency = 128475000
+prefix = "LYBA"
+radio_callsign = "Beograd West Lower sector"
+station_type = "CTR"
+
+[LYBA_N_CTR]
+frequency = 120420000
+prefix = "LYBA"
+radio_callsign = "Beograd North Center"
+station_type = "CTR"
+
+[LYBA_UE_CTR]
+frequency = 125925000
+prefix = "LYBA"
+radio_callsign = "Beograd East Upper sector"
+station_type = "CTR"
+
+[LYBA_UN_CTR]
+frequency = 135355000
+prefix = "LYBA"
+radio_callsign = "Beograd North Upper sector"
+station_type = "CTR"
+
+[LYBA_UW_CTR]
+frequency = 129025000
+prefix = "LYBA"
+radio_callsign = "Beograd West Upper sector"
+station_type = "CTR"
+
+[LYBE_APP]
+frequency = 133100000
+prefix = "LYBE"
+radio_callsign = "Beograd Radar"
+station_type = "APP"
+
+[LYBE_DEL]
+frequency = 121975000
+prefix = "LYBE"
+radio_callsign = "Belgrade Delivery"
+station_type = "DEL"
+
+[LYBE_GND]
+frequency = 118300000
+prefix = "LYBE"
+radio_callsign = "Beograd Ground"
+station_type = "GND"
+
+[LYBE_TWR]
+frequency = 118100000
+prefix = "LYBE"
+radio_callsign = "Beograd Tower"
+station_type = "TWR"
+
+[LYBT_APP]
+frequency = 126050000
+prefix = "LYBT"
+radio_callsign = "Batajnica Approach"
+station_type = "APP"
+
+[LYBT_TWR]
+frequency = 118200000
+prefix = "LYBT"
+radio_callsign = "Batajnica Tower"
+station_type = "TWR"
+
+[LYNI_APP]
+frequency = 119520000
+prefix = "LYNI"
+radio_callsign = "Nis Approach"
+station_type = "APP"
+
+[LYNI_TWR]
+frequency = 118950000
+prefix = "LYNI"
+radio_callsign = "Nis Tower"
+station_type = "TWR"
+
+[LYPG_APP]
+frequency = 135150000
+prefix = "LYPG"
+radio_callsign = "Podgorica Radar"
+station_type = "APP"
+
+[LYPG_TWR]
+frequency = 118200000
+prefix = "LYPG"
+radio_callsign = "Podgorica Tower"
+station_type = "TWR"
+
+[LYTV_TWR]
+frequency = 118000000
+prefix = "LYTV"
+radio_callsign = "Tivat Tower"
+station_type = "TWR"
+
+[LYVR_APP]
+frequency = 127050000
+prefix = "LYVR"
+radio_callsign = "Vrsac Approach"
+station_type = "APP"
+
+[LYVR_TWR]
+frequency = 128070000
+prefix = "LYVR"
+radio_callsign = "Vrsac Tower"
+station_type = "TWR"

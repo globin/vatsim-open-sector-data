@@ -1,0 +1,107 @@
+[LIBB_N_CTR]
+frequency = 132450000
+prefix = "LIBB"
+radio_callsign = ""
+station_type = "CTR"
+
+[LIBB_S_CTR]
+frequency = 124750000
+prefix = "LIBB"
+radio_callsign = ""
+station_type = "CTR"
+
+[LIBB_I_CTR]
+frequency = 131200000
+prefix = "LIBB"
+radio_callsign = ""
+station_type = "CTR"
+
+[LIBA_APP]
+frequency = 118855000
+prefix = "LIBA"
+radio_callsign = ""
+station_type = "APP"
+
+[LIBA_TWR]
+frequency = 118205000
+prefix = "LIBA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBB_APP]
+frequency = 118750000
+prefix = "LIBB"
+radio_callsign = ""
+station_type = "APP"
+
+[LIBC_I_APP]
+frequency = 119100000
+prefix = "LIBC"
+radio_callsign = "Crotone Aerodrome INFO"
+station_type = "APP"
+
+[LIBC_I_TWR]
+frequency = 119105000
+prefix = "LIBC"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBD_APP]
+frequency = 119500000
+prefix = "LIBD"
+radio_callsign = "Bari Approach"
+station_type = "APP"
+
+[LIBD_TWR]
+frequency = 118300000
+prefix = "LIBD"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBF_I_TWR]
+frequency = 120100000
+prefix = "LIBF"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBG_APP]
+frequency = 118700000
+prefix = "LIBG"
+radio_callsign = ""
+station_type = "APP"
+
+[LIBG_TWR]
+frequency = 118700000
+prefix = "LIBG"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBN_APP]
+frequency = 118955000
+prefix = "LIBN"
+radio_callsign = ""
+station_type = "APP"
+
+[LIBN_TWR]
+frequency = 119555000
+prefix = "LIBN"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBP_APP]
+frequency = 120050000
+prefix = "LIBP"
+radio_callsign = ""
+station_type = "APP"
+
+[LIBP_TWR]
+frequency = 118450000
+prefix = "LIBP"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIBR_TWR]
+frequency = 118100000
+prefix = "LIBR"
+radio_callsign = ""
+station_type = "TWR"

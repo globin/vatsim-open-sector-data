@@ -1,0 +1,204 @@
+[LFRR_CTR]
+frequency = 125500000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_E_CTR]
+frequency = 136000000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_J_CTR]
+frequency = 132510000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_N_CTR]
+frequency = 127200000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_S_CTR]
+frequency = 124675000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_UE_CTR]
+frequency = 130235000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_US_CTR]
+frequency = 131280000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_VK_CTR]
+frequency = 124775000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+[LFRR_W_CTR]
+frequency = 127860000
+prefix = "LFRR"
+radio_callsign = "Brest Control"
+station_type = "CTR"
+
+
+[LFOH_I_TWR]
+frequency = 135205000
+prefix = "LFOH"
+radio_callsign = "Le Havre AFIS"
+station_type = "TWR"
+
+[LFOU_I_TWR]
+frequency = 120405000
+prefix = "LFOU"
+radio_callsign = "Cholet AFIS"
+station_type = "TWR"
+
+[LFRB_APP]
+frequency = 125860000
+prefix = "LFRB"
+radio_callsign = "Iroise Approach"
+station_type = "APP"
+
+[LFRB_I_APP]
+frequency = 119575000
+prefix = "LFRB"
+radio_callsign = "Brest Info"
+station_type = "APP"
+
+[LFRB_TWR]
+frequency = 120100000
+prefix = "LFRB"
+radio_callsign = "Bretagne Tower"
+station_type = "TWR"
+
+[LFRC_I_TWR]
+frequency = 119625000
+prefix = "LFRC"
+radio_callsign = "Cherbourg AFIS"
+station_type = "TWR"
+
+[LFRD_TWR]
+frequency = 120150000
+prefix = "LFRD"
+radio_callsign = "Dinard Tower"
+station_type = "TWR"
+
+[LFRG_APP]
+frequency = 120350000
+prefix = "LFRG"
+radio_callsign = "Deauville Approach"
+station_type = "APP"
+
+[LFRG_TWR]
+frequency = 118300000
+prefix = "LFRG"
+radio_callsign = "Deauville Tower"
+station_type = "TWR"
+
+[LFRH_APP]
+frequency = 123000000
+prefix = "LFRH"
+radio_callsign = "Lorient Approach"
+station_type = "APP"
+
+[LFRH_TWR]
+frequency = 119700000
+prefix = "LFRH"
+radio_callsign = "Lorient Tower"
+station_type = "TWR"
+
+[LFRJ_APP]
+frequency = 122400000
+prefix = "LFRJ"
+radio_callsign = "Landivisiau Approach"
+station_type = "APP"
+
+[LFRJ_TWR]
+frequency = 119200000
+prefix = "LFRJ"
+radio_callsign = "Landivisiau Tower"
+station_type = "TWR"
+
+[LFRK_TWR]
+frequency = 134525000
+prefix = "LFRK"
+radio_callsign = "Caen Tower"
+station_type = "TWR"
+
+[LFRN_APP]
+frequency = 134000000
+prefix = "LFRN"
+radio_callsign = "Rennes Approach"
+station_type = "APP"
+
+[LFRN_C_APP]
+frequency = 134200000
+prefix = "LFRN"
+radio_callsign = "Contentin Info"
+station_type = "APP"
+
+[LFRN_GND]
+frequency = 121725000
+prefix = "LFRN"
+radio_callsign = "Rennes Ground"
+station_type = "GND"
+
+[LFRN_N_APP]
+frequency = 126950000
+prefix = "LFRN"
+radio_callsign = "Rennes North Approach"
+station_type = "APP"
+
+[LFRN_TWR]
+frequency = 120500000
+prefix = "LFRN"
+radio_callsign = "Rennes Tower"
+station_type = "TWR"
+
+[LFRQ_TWR]
+frequency = 118625000
+prefix = "LFRQ"
+radio_callsign = "Quimper Approach"
+station_type = "TWR"
+
+[LFRS_APP]
+frequency = 124430000
+prefix = "LFRS"
+radio_callsign = "Nantes Approach"
+station_type = "APP"
+
+[LFRS_GND]
+frequency = 121655000
+prefix = "LFRS"
+radio_callsign = "Nantes Ground"
+station_type = "GND"
+
+[LFRS_N_APP]
+frequency = 124250000
+prefix = "LFRS"
+radio_callsign = "Nantes Information"
+station_type = "APP"
+
+[LFRS_TWR]
+frequency = 118650000
+prefix = "LFRS"
+radio_callsign = "Nantes Tower"
+station_type = "TWR"
+
+[LFRZ_TWR]
+frequency = 118950000
+prefix = "LFRZ"
+radio_callsign = "Saint Nazaire Tower"
+station_type = "TWR"

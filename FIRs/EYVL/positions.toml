@@ -1,0 +1,227 @@
+[EYAL_I_TWR]
+frequency = 122450000
+prefix = "EYAL"
+radio_callsign = "NEMUNAS RADIO"
+station_type = "TWR"
+
+[EYBI_I_TWR]
+frequency = 122300000
+prefix = "EYBI"
+radio_callsign = "BIRZAI RADIO"
+station_type = "TWR"
+
+[EYDR_I_TWR]
+frequency = 119650000
+prefix = "EYDR"
+radio_callsign = "DRUSKININKAI RADIO"
+station_type = "TWR"
+
+[EYIG_I_TWR]
+frequency = 119600000
+prefix = "EYIG"
+radio_callsign = "IGNALINA RADIO"
+station_type = "TWR"
+
+[EYKA_APP]
+frequency = 124205000
+prefix = "EYKA"
+radio_callsign = "KAUNAS TOWER"
+station_type = "APP"
+
+[EYKA_I_APP]
+frequency = 124605000
+prefix = "EYKA"
+radio_callsign = "KAUNAS INFORMATION"
+station_type = "APP"
+
+[EYKL_I_TWR]
+frequency = 119600000
+prefix = "EYKL"
+radio_callsign = "KLAIPEDA RADIO"
+station_type = "TWR"
+
+[EYKS_I_TWR]
+frequency = 135500000
+prefix = "EYKS"
+radio_callsign = "ALEKSOTAS RADIO"
+station_type = "TWR"
+
+[EYKT_I_TWR]
+frequency = 123250000
+prefix = "EYKT"
+radio_callsign = "KARTENA RADIO"
+station_type = "TWR"
+
+[EYMA_I_TWR]
+frequency = 120350000
+prefix = "EYMA"
+radio_callsign = "TIRKSLIAI RADIO"
+station_type = "TWR"
+
+[EYMM_I_TWR]
+frequency = 120350000
+prefix = "EYMM"
+radio_callsign = "SASNAVA RADIO"
+station_type = "TWR"
+
+[EYMO_I_TWR]
+frequency = 122050000
+prefix = "EYMO"
+radio_callsign = "MOLETAI RADIO"
+station_type = "TWR"
+
+[EYNI_I_TWR]
+frequency = 128705000
+prefix = "EYNI"
+radio_callsign = "NIDA RADIO"
+station_type = "TWR"
+
+[EYPA_APP]
+frequency = 124305000
+prefix = "EYPA"
+radio_callsign = "PALANGA TOWER"
+station_type = "APP"
+
+[EYPA_I_APP]
+frequency = 125730000
+prefix = "EYPA"
+radio_callsign = "PALANGA INFORMATION"
+station_type = "APP"
+
+[EYPH_I_TWR]
+frequency = 119100000
+prefix = "EYPH"
+radio_callsign = "PALUKNYS RADIO"
+station_type = "TWR"
+
+[EYPI_I_TWR]
+frequency = 123200000
+prefix = "EYPI"
+radio_callsign = "ISTRA RADIO"
+station_type = "TWR"
+
+[EYPN_I_TWR]
+frequency = 128200000
+prefix = "EYPN"
+radio_callsign = "PANEVEZYS RADIO"
+station_type = "TWR"
+
+[EYPR_I_TWR]
+frequency = 119000000
+prefix = "EYPR"
+radio_callsign = "POCIUNAI RADIO"
+station_type = "TWR"
+
+[EYRD_I_TWR]
+frequency = 122350000
+prefix = "EYRD"
+radio_callsign = "RUDISKES RADIO"
+station_type = "TWR"
+
+[EYRO_I_TWR]
+frequency = 130355000
+prefix = "EYRO"
+radio_callsign = "ROJUNAI RADIO"
+station_type = "TWR"
+
+[EYSA_APP]
+frequency = 120405000
+prefix = "EYSA"
+radio_callsign = "SIAULIAI TOWER"
+station_type = "APP"
+
+[EYSA_I_APP]
+frequency = 124455000
+prefix = "EYSA"
+radio_callsign = "SIAULIAI INFORMATION"
+station_type = "APP"
+
+[EYSB_I_TWR]
+frequency = 122050000
+prefix = "EYSB"
+radio_callsign = "BARYSIAI RADIO"
+station_type = "TWR"
+
+[EYSE_I_TWR]
+frequency = 120025000
+prefix = "EYSE"
+radio_callsign = "SEDUVA RADIO"
+station_type = "TWR"
+
+[EYTL_I_TWR]
+frequency = 122350000
+prefix = "EYTL"
+radio_callsign = "TELSIAI RADIO"
+station_type = "TWR"
+
+[EYTR_I_TWR]
+frequency = 122225000
+prefix = "EYTR"
+radio_callsign = "TAURAGE RADIO"
+station_type = "TWR"
+
+[EYUT_I_TWR]
+frequency = 122225000
+prefix = "EYUT"
+radio_callsign = "UTENA RADIO"
+station_type = "TWR"
+
+[EYVI_APP]
+frequency = 120705000
+prefix = "EYVI"
+radio_callsign = "VILNIUS APPROACH"
+station_type = "APP"
+
+[EYVI_I_APP]
+frequency = 123855000
+prefix = "EYVI"
+radio_callsign = "VILNIUS INFORMATION"
+station_type = "APP"
+
+[EYVI_TWR]
+frequency = 118205000
+prefix = "EYVI"
+radio_callsign = "VILNIUS TOWER"
+station_type = "TWR"
+
+[EYVK_I_TWR]
+frequency = 122850000
+prefix = "EYVK"
+radio_callsign = "KYVISKES RADIO"
+station_type = "TWR"
+
+[EYVL_CTR]
+frequency = 133305000
+prefix = "EYVL"
+radio_callsign = "VILNIUS CONTROL"
+station_type = "CTR"
+
+[EYVL_E_CTR]
+frequency = 135380000
+prefix = "EYVL"
+radio_callsign = "VILNIUS CONTROL"
+station_type = "CTR"
+
+[EYVL_M_CTR]
+frequency = 133430000
+prefix = "EYVL"
+radio_callsign = "VILNIUS CONTROL"
+station_type = "CTR"
+
+[EYVL_U_CTR]
+frequency = 132280000
+prefix = "EYVL"
+radio_callsign = "VILNIUS CONTROL"
+station_type = "CTR"
+
+[EYVP_I_TWR]
+frequency = 119105000
+prefix = "EYVP"
+radio_callsign = "PALUKNYS RADIO"
+station_type = "TWR"
+
+[EYZA_I_TWR]
+frequency = 123250000
+prefix = "EYZA"
+radio_callsign = "ZARASAI RADIO"
+station_type = "TWR"

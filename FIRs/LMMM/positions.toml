@@ -1,0 +1,36 @@
+[LMML_APP]
+frequency=128150000
+prefix="LMML"
+radio_callsign="Luqa Approach"
+station_type="APP"
+
+[LMML_DEL]
+frequency=121820000
+prefix="LMML"
+radio_callsign="Luqa Delivery"
+station_type="DEL"
+
+[LMML_GND]
+frequency=121600000
+prefix="LMML"
+radio_callsign="Luqa Ground"
+station_type="GND"
+
+[LMML_TWR]
+frequency=135100000
+prefix="LMML"
+radio_callsign="Luqa Tower"
+station_type="TWR"
+
+[LMMM_CTR]
+frequency=130970000
+prefix="LMMM"
+radio_callsign="Malta Radar"
+station_type="CTR"
+
+[LMMM_E_CTR]
+frequency=133620000
+prefix="LMMM"
+radio_callsign="Malta East Radar"
+station_type="CTR"
+

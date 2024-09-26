@@ -1,0 +1,712 @@
+[LECM_ALL_CTR]
+frequency = 133755000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_BDP_CTR]
+frequency = 126550000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_CTR]
+frequency = 132980000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_CZI_CTR]
+frequency = 133850000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_R1_CTR]
+frequency = 125755000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_R2_CTR]
+frequency = 133205000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_SAI_CTR]
+frequency = 135955000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_TLI_CTR]
+frequency = 136405000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_U_CTR]
+frequency = 136355000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+[LECM_ZMI_CTR]
+frequency = 136525000
+prefix = "LECM"
+radio_callsign = "Madrid Control"
+station_type = "CTR"
+
+
+[LECS_CTR]
+frequency = 133350000
+prefix = "LECS"
+radio_callsign = "Sevilla Control"
+station_type = "CTR"
+
+[LECS_NCS_CTR]
+frequency = 132675000
+prefix = "LECS"
+radio_callsign = "Sevilla Control"
+station_type = "CTR"
+
+[LECS_SM2_CTR]
+frequency = 135025000
+prefix = "LECS"
+radio_callsign = "Sevilla Control"
+station_type = "CTR"
+
+
+[GECE_H_TWR]
+frequency = 123325000
+prefix = "GECE"
+radio_callsign = "Ceuta Heliport"
+station_type = "TWR"
+
+[GEML_GND]
+frequency = 121775000
+prefix = "GEML"
+radio_callsign = "Melilla Ground"
+station_type = "GND"
+
+[GEML_TWR]
+frequency = 119525000
+prefix = "GEML"
+radio_callsign = "Melilla Tower"
+station_type = "TWR"
+
+
+[LEMD_AE_APP]
+frequency = 127505000
+prefix = "LEMD"
+radio_callsign = "Madrid Final Approach"
+station_type = "APP"
+
+[LEMD_AW_APP]
+frequency = 127100000
+prefix = "LEMD"
+radio_callsign = "Madrid Final Approach"
+station_type = "APP"
+
+[LEMD_C_GND]
+frequency = 123155000
+prefix = "LEMD"
+radio_callsign = "Barajas Ground"
+station_type = "GND"
+
+[LEMD_CS_GND]
+frequency = 121980000
+prefix = "LEMD"
+radio_callsign = "Barajas Ground"
+station_type = "GND"
+
+[LEMD_DE_APP]
+frequency = 131175000
+prefix = "LEMD"
+radio_callsign = "Madrid Departures"
+station_type = "APP"
+
+[LEMD_DEL]
+frequency = 130080000
+prefix = "LEMD"
+radio_callsign = "Barajas Clearance"
+station_type = "DEL"
+
+[LEMD_DW_APP]
+frequency = 124230000
+prefix = "LEMD"
+radio_callsign = "Madrid Departures"
+station_type = "APP"
+
+[LEMD_E_GND]
+frequency = 121755000
+prefix = "LEMD"
+radio_callsign = "Barajas Ground"
+station_type = "GND"
+
+[LEMD_E_TWR]
+frequency = 118980000
+prefix = "LEMD"
+radio_callsign = "Barajas Tower"
+station_type = "TWR"
+
+[LEMD_EN_APP]
+frequency = 118755000
+prefix = "LEMD"
+radio_callsign = "Madrid Approach"
+station_type = "APP"
+
+[LEMD_ES_APP]
+frequency = 124030000
+prefix = "LEMD"
+radio_callsign = "Madrid Approach"
+station_type = "APP"
+
+[LEMD_GND]
+frequency = 121630000
+prefix = "LEMD"
+radio_callsign = "Barajas Ground"
+station_type = "GND"
+
+[LEMD_N_TWR]
+frequency = 118680000
+prefix = "LEMD"
+radio_callsign = "Barajas Tower"
+station_type = "TWR"
+
+[LEMD_RE_APP]
+frequency = 134955000
+prefix = "LEMD"
+radio_callsign = "Madrid Director"
+station_type = "APP"
+
+[LEMD_RW_APP]
+frequency = 128700000
+prefix = "LEMD"
+radio_callsign = "Madrid Director"
+station_type = "APP"
+
+[LEMD_S_GND]
+frequency = 121705000
+prefix = "LEMD"
+radio_callsign = "Barajas Apron"
+station_type = "GND"
+
+[LEMD_S_TWR]
+frequency = 118080000
+prefix = "LEMD"
+radio_callsign = "Barajas Tower"
+station_type = "TWR"
+
+[LEMD_SN_GND]
+frequency = 121855000
+prefix = "LEMD"
+radio_callsign = "Barajas Apron"
+station_type = "GND"
+
+[LEMD_TWR]
+frequency = 118155000
+prefix = "LEMD"
+radio_callsign = "Barajas Tower"
+station_type = "TWR"
+
+[LEMD_W_DEL]
+frequency = 130355000
+prefix = "LEMD"
+radio_callsign = "Barajas Clearence"
+station_type = "DEL"
+
+[LEMD_W_GND]
+frequency = 123255000
+prefix = "LEMD"
+radio_callsign = "Barajas Apron"
+station_type = "GND"
+
+[LEMD_WN_APP]
+frequency = 118400000
+prefix = "LEMD"
+radio_callsign = "Madrid Approach"
+station_type = "APP"
+
+[LEMD_WS_APP]
+frequency = 136105000
+prefix = "LEMD"
+radio_callsign = "Madrid Approach"
+station_type = "APP"
+
+[LEMD_WS_GND]
+frequency = 130005000
+prefix = "LEMD"
+radio_callsign = "Barajas Apron"
+station_type = "GND"
+
+
+[LEMG_APP]
+frequency = 118455000
+prefix = "LEMG"
+radio_callsign = "Málaga Approach"
+station_type = "APP"
+
+[LEMG_DEL]
+frequency = 121880000
+prefix = "LEMG"
+radio_callsign = "Málaga Clearence"
+station_type = "DEL"
+
+[LEMG_E_GND]
+frequency = 121955000
+prefix = "LEMG"
+radio_callsign = "Málaga Ground"
+station_type = "GND"
+
+[LEMG_E_TWR]
+frequency = 118780000
+prefix = "LEMG"
+radio_callsign = "Málaga Tower"
+station_type = "TWR"
+
+[LEMG_F_APP]
+frequency = 125955000
+prefix = "LEMG"
+radio_callsign = "Málaga Approach"
+station_type = "APP"
+
+[LEMG_GND]
+frequency = 121705000
+prefix = "LEMG"
+radio_callsign = "Málaga Ground"
+station_type = "GND"
+
+[LEMG_TWR]
+frequency = 118155000
+prefix = "LEMG"
+radio_callsign = "Malaga Tower"
+station_type = "TWR"
+
+[LEMG_W_APP]
+frequency = 123855000
+prefix = "LEMG"
+radio_callsign = "Málaga Approach"
+station_type = "APP"
+
+
+[LEAB_APP]
+frequency = 118725000
+prefix = "LEAB"
+radio_callsign = "Albacete Approach"
+station_type = "APP"
+
+[LEAB_GND]
+frequency = 121800000
+prefix = "LEAB"
+radio_callsign = "Albacete Ground"
+station_type = "GND"
+
+[LEAB_TWR]
+frequency = 122100000
+prefix = "LEAB"
+radio_callsign = "Albacete Tower"
+station_type = "TWR"
+
+[LEAG_H_TWR]
+frequency = 123325000
+prefix = "LEAG"
+radio_callsign = "Algeciras Heliport"
+station_type = "TWR"
+
+[LEAM_GND]
+frequency = 121700000
+prefix = "LEAM"
+radio_callsign = "Almeria Ground"
+station_type = "GND"
+
+[LEAM_TWR]
+frequency = 118350000
+prefix = "LEAM"
+radio_callsign = "Almeria Tower"
+station_type = "TWR"
+
+[LEAO_H_TWR]
+frequency = 126100000
+prefix = "LEAO"
+radio_callsign = "Almagro Heliport"
+station_type = "TWR"
+
+[LEAS_GND]
+frequency = 121705000
+prefix = "LEAS"
+radio_callsign = "Asturias Ground"
+station_type = "GND"
+
+[LEAS_TWR]
+frequency = 118150000
+prefix = "LEAS"
+radio_callsign = "Asturias Tower"
+station_type = "TWR"
+
+[LEBA_TWR]
+frequency = 118300000
+prefix = "LEBA"
+radio_callsign = "Cordoba Tower"
+station_type = "TWR"
+
+[LEBB_APP]
+frequency = 127450000
+prefix = "LEBB"
+radio_callsign = "Bilbao Approach"
+station_type = "APP"
+
+[LEBB_GND]
+frequency = 121705000
+prefix = "LEBB"
+radio_callsign = "Bilbao Ground"
+station_type = "GND"
+
+[LEBB_TWR]
+frequency = 118500000
+prefix = "LEBB"
+radio_callsign = "Bilbao Tower"
+station_type = "TWR"
+
+[LEBG_I_TWR]
+frequency = 125430000
+prefix = "LEBG"
+radio_callsign = "Burgos Information"
+station_type = "TWR"
+
+[LEBZ_APP]
+frequency = 120550000
+prefix = "LEBZ"
+radio_callsign = "Talavera Approach"
+station_type = "APP"
+
+[LEBZ_GND]
+frequency = 130150000
+prefix = "LEBZ"
+radio_callsign = "Badajoz Ground"
+station_type = "GND"
+
+[LEBZ_TWR]
+frequency = 122100000
+prefix = "LEBZ"
+radio_callsign = "Badajoz Tower"
+station_type = "TWR"
+
+[LECH_TWR]
+frequency = 120680000
+prefix = "LECH"
+radio_callsign = "Castellon Tower"
+station_type = "TWR"
+
+[LECO_GND]
+frequency = 121705000
+prefix = "LECO"
+radio_callsign = "A Coruña Ground"
+station_type = "GND"
+
+[LECO_TWR]
+frequency = 118305000
+prefix = "LECO"
+radio_callsign = "A Coruña Tower"
+station_type = "TWR"
+
+[LECU_GND]
+frequency = 121805000
+prefix = "LECU"
+radio_callsign = "Cuatro Vientos Ground"
+station_type = "GND"
+
+[LECU_TWR]
+frequency = 118705000
+prefix = "LECU"
+radio_callsign = "Cuatro Vientos Tower"
+station_type = "TWR"
+
+[LECV_H_TWR]
+frequency = 123225000
+prefix = "LECV"
+radio_callsign = "Colmenar Heliport"
+station_type = "TWR"
+
+[LEEC_H_TWR]
+frequency = 126750000
+prefix = "LEEC"
+radio_callsign = "El Copero Heliport"
+station_type = "TWR"
+
+[LEGA_GND]
+frequency = 121825000
+prefix = "LEGA"
+radio_callsign = "Armilla Ground"
+station_type = "GND"
+
+[LEGA_TWR]
+frequency = 118700000
+prefix = "LEGA"
+radio_callsign = "Armilla Tower"
+station_type = "TWR"
+
+[LEGR_A_TWR]
+frequency = 118850000
+prefix = "LEGR"
+radio_callsign = "Granada Tower"
+station_type = "TWR"
+
+[LEGR_GND]
+frequency = 121930000
+prefix = "LEGR"
+radio_callsign = "Granada Ground"
+station_type = "GND"
+
+[LEGR_TWR]
+frequency = 118555000
+prefix = "LEGR"
+radio_callsign = "Granada Tower"
+station_type = "TWR"
+
+[LEGT_GND]
+frequency = 121600000
+prefix = "LEGT"
+radio_callsign = "Getafe Ground"
+station_type = "GND"
+
+[LEGT_TWR]
+frequency = 129925000
+prefix = "LEGT"
+radio_callsign = "Getafe Tower"
+station_type = "TWR"
+
+[LEHC_I_TWR]
+frequency = 128955000
+prefix = "LEHC"
+radio_callsign = "Huesca Information"
+station_type = "TWR"
+
+[LEJR_GND]
+frequency = 133280000
+prefix = "LEJR"
+radio_callsign = "Jerez Ground"
+station_type = "GND"
+
+[LEJR_TWR]
+frequency = 118555000
+prefix = "LEJR"
+radio_callsign = "Jerez Tower"
+station_type = "TWR"
+
+[LELN_TWR]
+frequency = 122100000
+prefix = "LELN"
+radio_callsign = "Leon Tower"
+station_type = "TWR"
+
+[LELO_H_TWR]
+frequency = 123225000
+prefix = "LELO"
+radio_callsign = "Agoncillo Heliport"
+station_type = "TWR"
+
+[LEMO_TWR]
+frequency = 122100000
+prefix = "LEMO"
+radio_callsign = "Morón Tower"
+station_type = "TWR"
+
+[LEPP_GND]
+frequency = 121705000
+prefix = "LEPP"
+radio_callsign = "Pamplona Ground"
+station_type = "GND"
+
+[LEPP_TWR]
+frequency = 118200000
+prefix = "LEPP"
+radio_callsign = "Pamplona Tower"
+station_type = "TWR"
+
+[LERJ_GND]
+frequency = 121705000
+prefix = "LERJ"
+radio_callsign = "Rioja Ground"
+station_type = "GND"
+
+[LERJ_TWR]
+frequency = 118580000
+prefix = "LERJ"
+radio_callsign = "Rioja Tower"
+station_type = "TWR"
+
+[LERL_I_TWR]
+frequency = 118055000
+prefix = "LERL"
+radio_callsign = "Ciudad Real Information"
+station_type = "TWR"
+
+[LERT_GND]
+frequency = 130700000
+prefix = "LERT"
+radio_callsign = "Rota Ground"
+station_type = "GND"
+
+[LERT_TWR]
+frequency = 119750000
+prefix = "LERT"
+radio_callsign = "Rota Tower"
+station_type = "TWR"
+
+[LESA_APP]
+frequency = 124400000
+prefix = "LESA"
+radio_callsign = "Salamanca Approach"
+station_type = "APP"
+
+[LESA_GND]
+frequency = 121850000
+prefix = "LESA"
+radio_callsign = "Salamanca Ground"
+station_type = "GND"
+
+[LESA_TWR]
+frequency = 118100000
+prefix = "LESA"
+radio_callsign = "Salamanca Tower"
+station_type = "TWR"
+
+[LESO_GND]
+frequency = 121705000
+prefix = "LESO"
+radio_callsign = "San Sebastián Ground"
+station_type = "GND"
+
+[LESO_TWR]
+frequency = 119855000
+prefix = "LESO"
+radio_callsign = "San Sebastián Tower"
+station_type = "TWR"
+
+[LEST_APP]
+frequency = 120200000
+prefix = "LEST"
+radio_callsign = "Santiago Approach"
+station_type = "APP"
+
+[LEST_GND]
+frequency = 121705000
+prefix = "LEST"
+radio_callsign = "Santiago Ground"
+station_type = "GND"
+
+[LEST_TWR]
+frequency = 118755000
+prefix = "LEST"
+radio_callsign = "Santiago Tower"
+station_type = "TWR"
+
+[LETL_TWR]
+frequency = 122675000
+prefix = "LETL"
+radio_callsign = "Teruel Tower"
+station_type = "TWR"
+
+[LETO_APP]
+frequency = 119950000
+prefix = "LETO"
+radio_callsign = "Torrejón Approach"
+station_type = "APP"
+
+[LETO_GND]
+frequency = 118300000
+prefix = "LETO"
+radio_callsign = "Torrejón Ground"
+station_type = "GND"
+
+[LETO_TWR]
+frequency = 122100000
+prefix = "LETO"
+radio_callsign = "Torrejón Tower"
+station_type = "TWR"
+
+[LEVD_TWR]
+frequency = 122200000
+prefix = "LEVD"
+radio_callsign = "Valladolid Tower"
+station_type = "TWR"
+
+[LEVT_GND]
+frequency = 121805000
+prefix = "LEVT"
+radio_callsign = "Vitoria Ground"
+station_type = "GND"
+
+[LEVT_TWR]
+frequency = 118450000
+prefix = "LEVT"
+radio_callsign = "Vitoria Tower"
+station_type = "TWR"
+
+[LEVX_GND]
+frequency = 121705000
+prefix = "LEVX"
+radio_callsign = "Vigo Ground"
+station_type = "GND"
+
+[LEVX_TWR]
+frequency = 118455000
+prefix = "LEVX"
+radio_callsign = "Vigo Tower"
+station_type = "TWR"
+
+[LEXJ_A_TWR]
+frequency = 118375000
+prefix = "LEXJ"
+radio_callsign = "Santander Approach"
+station_type = "TWR"
+
+[LEXJ_GND]
+frequency = 121705000
+prefix = "LEXJ"
+radio_callsign = "Santander Ground"
+station_type = "GND"
+
+[LEXJ_TWR]
+frequency = 118105000
+prefix = "LEXJ"
+radio_callsign = "Santander Tower"
+station_type = "TWR"
+
+[LEZG_APP]
+frequency = 119305000
+prefix = "LEZG"
+radio_callsign = "Zaragoza Approach"
+station_type = "APP"
+
+[LEZG_GND]
+frequency = 118100000
+prefix = "LEZG"
+radio_callsign = "Zaragoza Ground"
+station_type = "GND"
+
+[LEZG_TWR]
+frequency = 122100000
+prefix = "LEZG"
+radio_callsign = "Zaragoza Tower"
+station_type = "TWR"
+
+[LEZL_APT_APP]
+frequency = 120800000
+prefix = "LEZL"
+radio_callsign = "Sevilla Approach"
+station_type = "APP"
+
+[LEZL_GND]
+frequency = 121705000
+prefix = "LEZL"
+radio_callsign = "Sevilla Ground"
+station_type = "GND"
+
+[LEZL_TWR]
+frequency = 118105000
+prefix = "LEZL"
+radio_callsign = "Sevilla Tower"
+station_type = "TWR"

@@ -1,0 +1,488 @@
+[LIMM_EN_CTR]
+frequency = 127450000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIMM_ES_CTR]
+frequency = 130730000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIMM_EU_CTR]
+frequency = 136035000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIMM_M_CTR]
+frequency = 129825000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIMM_WN_CTR]
+frequency = 125275000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIMM_WS_CTR]
+frequency = 135455000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIMM_WU_CTR]
+frequency = 133740000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "CTR"
+
+[LIPP_CE_CTR]
+frequency = 120725000
+prefix = "LIPP"
+radio_callsign = "Padova Radar"
+station_type = "CTR"
+
+[LIPP_M_CTR]
+frequency = 136475000
+prefix = "LIPP"
+radio_callsign = "Padova Radar"
+station_type = "CTR"
+
+[LIPP_NE_CTR]
+frequency = 125900000
+prefix = "LIPP"
+radio_callsign = "Padova Radar"
+station_type = "CTR"
+
+[LIPP_NU_CTR]
+frequency = 133705000
+prefix = "LIPP"
+radio_callsign = "Padova Radar"
+station_type = "CTR"
+
+[LIPP_SD_CTR]
+frequency = 134750000
+prefix = "LIPP"
+radio_callsign = "Padova Radar"
+station_type = "CTR"
+
+[LIPP_SU_CTR]
+frequency = 136465000
+prefix = "LIPP"
+radio_callsign = "Padova Radar"
+station_type = "CTR"
+
+
+[LIPP_I_APP]
+frequency = 124150000
+prefix = "LIPP"
+radio_callsign = ""
+station_type = "APP"
+
+
+[LIMM_D_APP]
+frequency = 126300000
+prefix = "LIMM"
+radio_callsign = "Milano Radar"
+station_type = "APP"
+
+[LIMM_I_APP]
+frequency = 124925000
+prefix = "LIMM"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMM_N_APP]
+frequency = 126750000
+prefix = "LIMM"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMM_W_APP]
+frequency = 125630000
+prefix = "LIMM"
+radio_callsign = ""
+station_type = "APP"
+
+
+[LIDA_I_TWR]
+frequency = 122600000
+prefix = "LIDA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIDB_I_TWR]
+frequency = 119655000
+prefix = "LIDB"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIDE_I_TWR]
+frequency = 127150000
+prefix = "LIDE"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIDR_I_TWR]
+frequency = 123505000
+prefix = "LIDR"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIDT_I_TWR]
+frequency = 119650000
+prefix = "LIDT"
+radio_callsign = ""
+station_type = "TWR"
+
+[LILE_I_TWR]
+frequency = 123050000
+prefix = "LILE"
+radio_callsign = ""
+station_type = "TWR"
+
+[LILN_I_TWR]
+frequency = 128555000
+prefix = "LILN"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMA_I_TWR]
+frequency = 119800000
+prefix = "LIMA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMB_I_TWR]
+frequency = 122005000
+prefix = "LIMB"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMC_DEL]
+frequency = 120900000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIMC_E_TWR]
+frequency = 123600000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMC_F_APP]
+frequency = 132705000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMC_N_GND]
+frequency = 121825000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "GND"
+
+[LIMC_P_DEL]
+frequency = 120325000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIMC_TWR]
+frequency = 128350000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMC_W_GND]
+frequency = 121900000
+prefix = "LIMC"
+radio_callsign = ""
+station_type = "GND"
+
+[LIME_GND]
+frequency = 120505000
+prefix = "LIME"
+radio_callsign = ""
+station_type = "GND"
+
+[LIME_TWR]
+frequency = 125875000
+prefix = "LIME"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMF_APP]
+frequency = 129275000
+prefix = "LIMF"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMF_GND]
+frequency = 121705000
+prefix = "LIMF"
+radio_callsign = ""
+station_type = "GND"
+
+[LIMF_TWR]
+frequency = 118500000
+prefix = "LIMF"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMG_I_TWR]
+frequency = 123850000
+prefix = "LIMG"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMJ_APP]
+frequency = 119600000
+prefix = "LIMJ"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMJ_TWR]
+frequency = 118600000
+prefix = "LIMJ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIML_DEL]
+frequency = 119250000
+prefix = "LIML"
+radio_callsign = "Linate Planning"
+station_type = "DEL"
+
+[LIML_F_APP]
+frequency = 133180000
+prefix = "LIML"
+radio_callsign = ""
+station_type = "APP"
+
+[LIML_GND]
+frequency = 121800000
+prefix = "LIML"
+radio_callsign = ""
+station_type = "GND"
+
+[LIML_TWR]
+frequency = 118400000
+prefix = "LIML"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMP_APP]
+frequency = 127575000
+prefix = "LIMP"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMP_TWR]
+frequency = 118450000
+prefix = "LIMP"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMS_APP]
+frequency = 121250000
+prefix = "LIMS"
+radio_callsign = ""
+station_type = "APP"
+
+[LIMS_TWR]
+frequency = 123925000
+prefix = "LIMS"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMW_I_TWR]
+frequency = 119955000
+prefix = "LIMW"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIMZ_TWR]
+frequency = 119550000
+prefix = "LIMZ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPA_APP]
+frequency = 120965000
+prefix = "LIPA"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPA_GND]
+frequency = 122100000
+prefix = "LIPA"
+radio_callsign = ""
+station_type = "GND"
+
+[LIPA_TWR]
+frequency = 134100000
+prefix = "LIPA"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPB_I_TWR]
+frequency = 120600000
+prefix = "LIPB"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPE_APP]
+frequency = 133775000
+prefix = "LIPE"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPE_GND]
+frequency = 121925000
+prefix = "LIPE"
+radio_callsign = ""
+station_type = "GND"
+
+[LIPE_TWR]
+frequency = 120800000
+prefix = "LIPE"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPH_APP]
+frequency = 120405000
+prefix = "LIPH"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPH_TWR]
+frequency = 118700000
+prefix = "LIPH"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPK_TWR]
+frequency = 119750000
+prefix = "LIPK"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPO_TWR]
+frequency = 119405000
+prefix = "LIPO"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPQ_APP]
+frequency = 119175000
+prefix = "LIPQ"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPQ_TWR]
+frequency = 130205000
+prefix = "LIPQ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPR_GND]
+frequency = 121600000
+prefix = "LIPR"
+radio_callsign = "Rimini Ground"
+station_type = "GND"
+
+[LIPR_TWR]
+frequency = 131225000
+prefix = "LIPR"
+radio_callsign = "Rimini Tower"
+station_type = "TWR"
+
+[LIPS_APP]
+frequency = 120400000
+prefix = "LIPS"
+radio_callsign = "Treviso Approach"
+station_type = "APP"
+
+[LIPU_I_TWR]
+frequency = 123250000
+prefix = "LIPU"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPV_I_TWR]
+frequency = 118525000
+prefix = "LIPV"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPX_APP]
+frequency = 135900000
+prefix = "LIPX"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPX_GND]
+frequency = 121755000
+prefix = "LIPX"
+radio_callsign = ""
+station_type = "GND"
+
+[LIPX_TWR]
+frequency = 118650000
+prefix = "LIPX"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPY_APP]
+frequency = 125325000
+prefix = "LIPY"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPY_TWR]
+frequency = 119805000
+prefix = "LIPY"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIPZ_APP]
+frequency = 118900000
+prefix = "LIPZ"
+radio_callsign = ""
+station_type = "APP"
+
+[LIPZ_DEL]
+frequency = 118255000
+prefix = "LIPZ"
+radio_callsign = ""
+station_type = "DEL"
+
+[LIPZ_GND]
+frequency = 121705000
+prefix = "LIPZ"
+radio_callsign = ""
+station_type = "GND"
+
+[LIPZ_TWR]
+frequency = 120200000
+prefix = "LIPZ"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIQL_I_TWR]
+frequency = 122500000
+prefix = "LIQL"
+radio_callsign = ""
+station_type = "TWR"
+
+[LIQW_TWR]
+frequency = 119650000
+prefix = "LIQW"
+radio_callsign = ""
+station_type = "TWR"

@@ -1,0 +1,338 @@
+[EDDC]
+name = "Dresden"
+iata_designator = "DRS"
+location = [13.767998806, 51.134345194]
+elevation = 754
+position_priority = [
+  [
+    { id = "CP" },
+    { id = "CG" },
+    { id = "CT" },
+  ],
+  [
+    { id = "SAS" },
+  ],
+  [
+    { id = "MEI" },
+  ],
+  [
+    { id = "TRS" },
+  ],
+  [
+    { id = "GER" },
+  ],
+  [
+    { id = "HAL" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+]
+
+[EDDE]
+name = "Erfurt-Weimar"
+iata_designator = "ERF"
+location = [10.958104333, 50.979811611]
+elevation = 1034
+position_priority = [
+  [
+    { id = "EP" },
+    { id = "EG" },
+    { id = "ET" },
+  ],
+  [
+    { id = "TRS" },
+  ],
+  [
+    { id = "TRN" },
+  ],
+  [
+    { id = "DPSD" },
+  ],
+  [
+    { id = "DPND" },
+  ],
+  [
+    { id = "GER" },
+  ],
+  [
+    { id = "MEI" },
+  ],
+  [
+    { id = "HAL" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+]
+
+[EDDM]
+name = "München"
+iata_designator = "MUC"
+location = [11.786084889, 48.353783944]
+elevation = 1487
+position_priority = [
+  [
+    { id = "ML" },
+    { id = "MDIC" },
+    { id = "MP3" },
+    { id = "MP2" },
+    { id = "MP1" },
+    { id = "MGN" },
+    { id = "MGS" },
+    { id = "MTN" },
+    { id = "MTS" },
+  ],
+  [
+    { id = "DMNL" },
+  ],
+  [
+    { id = "DMNH" },
+  ],
+  [
+    { id = "DMSL" },
+  ],
+  [
+    { id = "DMSH" },
+  ],
+  [
+    { id = "DMND" },
+  ],
+  [
+    { id = "DMSD" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDDN]
+name = "Nürnberg"
+iata_designator = "NUE"
+location = [11.078008056, 49.498698889]
+elevation = 1044
+position_priority = [
+  [
+    { id = "NG" },
+    { id = "NT" },
+  ],
+  [
+    { id = "FRK" },
+  ],
+  [
+    { id = "DND" },
+  ],
+  [
+    { id = "BBG" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDDP]
+name = "Leipzig"
+iata_designator = "LEJ"
+location = [12.236382222, 51.423990556]
+elevation = 470
+position_priority = [
+  [
+    { id = "PL" },
+    { id = "PG" },
+    { id = "PTS" },
+    { id = "PTN" },
+  ],
+  [
+    { id = "TRS" },
+  ],
+  [
+    { id = "TRN" },
+  ],
+  [
+    { id = "DPSD" },
+  ],
+  [
+    { id = "DPND" },
+  ],
+  [
+    { id = "GER" },
+  ],
+  [
+    { id = "MEI" },
+  ],
+  [
+    { id = "HAL" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+]
+
+[EDJA]
+name = "Memmingen"
+iata_designator = "FMM"
+location = [10.239483333, 47.988822222]
+elevation = 2079
+position_priority = [
+  [
+    { id = "JAG" },
+    { id = "JAT" },
+  ],
+  [
+    { id = "ILR" },
+  ],
+  [
+    { id = "SWA" },
+  ],
+  [
+    { id = "FUE" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "TRU" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMA]
+name = "Augsburg"
+iata_designator = "AGB"
+location = [10.931763336, 48.42515703]
+elevation = 1515
+position_priority = [
+  [
+    { id = "MAT" },
+  ],
+  [
+    { id = "DMNL" },
+  ],
+  [
+    { id = "DMNH" },
+  ],
+  [
+    { id = "DMSL" },
+  ],
+  [
+    { id = "DMSH" },
+  ],
+  [
+    { id = "DMND" },
+  ],
+  [
+    { id = "DMSD" },
+  ],
+  [
+    { id = "SWA" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMO]
+name = "Oberpfaffenhofen"
+iata_designator = "OBF"
+location = [11.2830675, 48.081363889]
+elevation = 1947
+position_priority = [
+  [
+    { id = "MOT" },
+  ],
+  [
+    { id = "DMSL" },
+  ],
+  [
+    { id = "DMSH" },
+  ],
+  [
+    { id = "DMNL" },
+  ],
+  [
+    { id = "DMNH" },
+  ],
+  [
+    { id = "DMSD" },
+  ],
+  [
+    { id = "DMND" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDNY]
+name = "Friedrichshafen"
+iata_designator = "FDH"
+location = [9.511485833, 47.671316389]
+elevation = 1368
+position_priority = [
+  [
+    { id = "NYT" },
+  ],
+  [
+    { fir = "LSAS", id = "ARFA" },
+  ],
+  [
+    { fir = "LSAS", id = "ZHA" },
+  ],
+  [
+    { fir = "LSAS", id = "LSZE" },
+  ],
+  [
+    { fir = "LSAS", id = "LSZS" },
+  ],
+  [
+    { fir = "LSAS", id = "LSZC" },
+  ],
+  [
+    { fir = "LSAS", id = "LSC" },
+  ],
+  [
+    { id = "ILR" },
+  ],
+  [
+    { id = "FUE" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "TRU" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDQM]
+name = "Hof-Plauen"
+iata_designator = "HOQ"
+location = [11.854920196, 50.288837398]
+elevation = 1961
+position_priority = [[{ id = "QMT" }], [{ id = "FRK" }], [{ id = "BBG" }], [{ id = "HOF" }], [{ id = "RDG" }]]

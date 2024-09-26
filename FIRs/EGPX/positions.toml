@@ -1,0 +1,311 @@
+[EGAA_APP]
+frequency = 133125000
+prefix = "EGAA"
+radio_callsign = "Aldergrove Radar (INT)"
+station_type = "APP"
+
+[EGAA_F_APP]
+frequency = 120900000
+prefix = "EGAA"
+radio_callsign = "Aldergrove Director (FIN)"
+station_type = "APP"
+
+[EGAC_A_APP]
+frequency = 134800000
+prefix = "EGAC"
+radio_callsign = "Belfast Approach"
+station_type = "APP"
+
+[EGAC_APP]
+frequency = 130850000
+prefix = "EGAC"
+radio_callsign = "Belfast Radar"
+station_type = "APP"
+
+[EGAE_A_APP]
+frequency = 123625000
+prefix = "EGAE"
+radio_callsign = "Eglinton Approach"
+station_type = "APP"
+
+[MAN_CTR]
+frequency = 133200000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC Bandbox)"
+station_type = "CTR"
+
+[MAN_E_CTR]
+frequency = 133800000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC East)"
+station_type = "CTR"
+
+[MAN_NE_CTR]
+frequency = 135700000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC Northeast)"
+station_type = "CTR"
+
+[MAN_SE_CTR]
+frequency = 134425000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC Southeast)"
+station_type = "CTR"
+
+[MAN_ST_CTR]
+frequency = 119525000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC Trent)"
+station_type = "CTR"
+
+[MAN_W_CTR]
+frequency = 128050000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC West)"
+station_type = "CTR"
+
+[MAN_WI_CTR]
+frequency = 133050000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC Isle of Man)"
+station_type = "CTR"
+
+[MAN_WL_CTR]
+frequency = 125950000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC Wallasey)"
+station_type = "CTR"
+
+[MAN_WP_CTR]
+frequency = 126875000
+prefix = "MAN"
+radio_callsign = "Scottish Control (PC PENIL)"
+station_type = "CTR"
+
+[MAN_WU_CTR]
+frequency = 118775000
+prefix = "MAN"
+radio_callsign = "Scottish Control (Sector 29)"
+station_type = "CTR"
+
+[SCO_C_CTR]
+frequency = 127275000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Central)"
+station_type = "CTR"
+
+[SCO_CTR]
+frequency = 135525000
+prefix = "SCO"
+radio_callsign = "Scottish Control"
+station_type = "CTR"
+
+[SCO_D_CTR]
+frequency = 135850000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Deancross)"
+station_type = "CTR"
+
+[SCO_E_CTR]
+frequency = 121325000
+prefix = "SCO"
+radio_callsign = "Scottish Control (East)"
+station_type = "CTR"
+
+[SCO_H_CTR]
+frequency = 129925000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Humber)"
+station_type = "CTR"
+
+[SCO_ML_CTR]
+frequency = 134850000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Moray Low)"
+station_type = "CTR"
+
+[SCO_MS_CTR]
+frequency = 126925000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Montrose South)"
+station_type = "CTR"
+
+[SCO_N_CTR]
+frequency = 129225000
+prefix = "SCO"
+radio_callsign = "Scottish Control (North)"
+station_type = "CTR"
+
+[SCO_NW_CTR]
+frequency = 133675000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Hebrides)"
+station_type = "CTR"
+
+[SCO_R_CTR]
+frequency = 129100000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Rathlin)"
+station_type = "CTR"
+
+[SCO_RE_CTR]
+frequency = 125675000
+prefix = "SCO"
+radio_callsign = "Scottish Control (Rathlin East)"
+station_type = "CTR"
+
+[SCO_S_CTR]
+frequency = 134775000
+prefix = "SCO"
+radio_callsign = "Scottish Control (South)"
+station_type = "CTR"
+
+[SCO_W_CTR]
+frequency = 132725000
+prefix = "SCO"
+radio_callsign = "Scottish Control (West)"
+station_type = "CTR"
+
+[SCO_WD_CTR]
+frequency = 133875000
+prefix = "SCO"
+radio_callsign = "Scottish Control (West & Deancross)"
+station_type = "CTR"
+
+[STC_A_CTR]
+frequency = 123775000
+prefix = "STC"
+radio_callsign = "Scottish Control (Antrim)"
+station_type = "CTR"
+
+[STC_CTR]
+frequency = 126300000
+prefix = "STC"
+radio_callsign = "Scottish Control (TMA)"
+station_type = "CTR"
+
+[STC_E_CTR]
+frequency = 130975000
+prefix = "STC"
+radio_callsign = "Scottish Control (Talla)"
+station_type = "CTR"
+
+[STC_W_CTR]
+frequency = 124825000
+prefix = "STC"
+radio_callsign = "Scottish Control (Galloway)"
+station_type = "CTR"
+
+[STC_WN_CTR]
+frequency = 121375000
+prefix = "STC"
+radio_callsign = "Scottish Control (Galloway North)"
+station_type = "CTR"
+
+[EGPA_A_APP]
+frequency = 118300000
+prefix = "EGPA"
+radio_callsign = "Kirkwall Approach"
+station_type = "APP"
+
+[EGPB_APP]
+frequency = 131300000
+prefix = "EGPB"
+radio_callsign = "Sumburgh Radar"
+station_type = "APP"
+
+[EGPB_F_APP]
+frequency = 123150000
+prefix = "EGPB"
+radio_callsign = "Sumburgh Radar"
+station_type = "APP"
+
+[EGPC_A_APP]
+frequency = 119700000
+prefix = "EGPC"
+radio_callsign = "Wick Approach"
+station_type = "APP"
+
+[EGPD_APP]
+frequency = 119050000
+prefix = "EGPD"
+radio_callsign = "Aberdeen Radar (INT)"
+station_type = "APP"
+
+[EGPD_F_APP]
+frequency = 128300000
+prefix = "EGPD"
+radio_callsign = "Aberdeen Director (FIN)"
+station_type = "APP"
+
+[EGPD_H_APP]
+frequency = 134100000
+prefix = "EGPD"
+radio_callsign = "Aberdeen Radar (HELS)"
+station_type = "APP"
+
+[EGPE_APP]
+frequency = 122600000
+prefix = "EGPE"
+radio_callsign = "Inverness Radar"
+station_type = "APP"
+
+[EGPF_APP]
+frequency = 119100000
+prefix = "EGPF"
+radio_callsign = "Glasgow Radar (INT)"
+station_type = "APP"
+
+[EGPF_F_APP]
+frequency = 128750000
+prefix = "EGPF"
+radio_callsign = "Glasgow Radar (FIN)"
+station_type = "APP"
+
+[EGPH_APP]
+frequency = 121200000
+prefix = "EGPH"
+radio_callsign = "Edinburgh Radar (INT)"
+station_type = "APP"
+
+[EGPH_F_APP]
+frequency = 128975000
+prefix = "EGPH"
+radio_callsign = "Edinburgh Radar (FIN)"
+station_type = "APP"
+
+[EGPK_APP]
+frequency = 129450000
+prefix = "EGPK"
+radio_callsign = "Prestwick Radar (INT)"
+station_type = "APP"
+
+[EGPK_F_APP]
+frequency = 124625000
+prefix = "EGPK"
+radio_callsign = "Prestwick Director (FIN)"
+station_type = "APP"
+
+[EGPL_A_APP]
+frequency = 119200000
+prefix = "EGPL"
+radio_callsign = "Benbecula Approach"
+station_type = "APP"
+
+[EGPN_A_APP]
+frequency = 122900000
+prefix = "EGPN"
+radio_callsign = "Dundee Approach"
+station_type = "APP"
+
+[EGPO_A_APP]
+frequency = 123500000
+prefix = "EGPO"
+radio_callsign = "Stornoway Approach"
+station_type = "APP"
+
+[EGPX_I_CTR]
+frequency = 119875000
+prefix = "EGPX"
+radio_callsign = "Scottish Information"
+station_type = "CTR"

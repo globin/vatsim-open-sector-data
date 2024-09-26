@@ -1,0 +1,599 @@
+[LOAA_TWR]
+frequency = 122305000
+prefix = "LOAA"
+radio_callsign = "Ottenschlag Radio"
+station_type = "TWR"
+
+[LOAB_TWR]
+frequency = 122505000
+prefix = "LOAB"
+radio_callsign = "Dobersberg Radio"
+station_type = "TWR"
+
+[LOAD_TWR]
+frequency = 125605000
+prefix = "LOAD"
+radio_callsign = "Völtendorf Radio"
+station_type = "TWR"
+
+[LOAG_TWR]
+frequency = 125110000
+prefix = "LOAG"
+radio_callsign = "Krems Radio"
+station_type = "TWR"
+
+[LOAN_TWR]
+frequency = 122655000
+prefix = "LOAN"
+radio_callsign = "Wiener Neustadt Radio"
+station_type = "TWR"
+
+[LOAR_TWR]
+frequency = 125255000
+prefix = "LOAR"
+radio_callsign = "Altlichtenwarth Radio"
+station_type = "TWR"
+
+[LOAS_TWR]
+frequency = 122080000
+prefix = "LOAS"
+radio_callsign = "Spitzerberg Radio"
+station_type = "TWR"
+
+[LOAU_TWR]
+frequency = 122855000
+prefix = "LOAU"
+radio_callsign = "Stockerau Radio"
+station_type = "TWR"
+
+[LOAV_TWR]
+frequency = 118605000
+prefix = "LOAV"
+radio_callsign = "Vöslau Radio"
+station_type = "TWR"
+
+[LOGF_TWR]
+frequency = 122705000
+prefix = "LOGF"
+radio_callsign = "Fürstenfeld Radio"
+station_type = "TWR"
+
+[LOGG_TWR]
+frequency = 123205000
+prefix = "LOGG"
+radio_callsign = "Punitz Radio"
+station_type = "TWR"
+
+[LOGI_TWR]
+frequency = 122505000
+prefix = "LOGI"
+radio_callsign = "Trieben Tower"
+station_type = "TWR"
+
+[LOGK_TWR]
+frequency = 119705000
+prefix = "LOGK"
+radio_callsign = "Kapfenberg Radio"
+station_type = "TWR"
+
+[LOGL_TWR]
+frequency = 122505000
+prefix = "LOGL"
+radio_callsign = "Lanzen Radio"
+station_type = "TWR"
+
+[LOGM_TWR]
+frequency = 122105000
+prefix = "LOGM"
+radio_callsign = "Mariazell Radio"
+station_type = "TWR"
+
+[LOGO_TWR]
+frequency = 122705000
+prefix = "LOGO"
+radio_callsign = "Niederöblarn Radio"
+station_type = "TWR"
+
+[LOGP_TWR]
+frequency = 118030000
+prefix = "LOGP"
+radio_callsign = "Pinkafeld Radio"
+station_type = "TWR"
+
+[LOGW_TWR]
+frequency = 122180000
+prefix = "LOGW"
+radio_callsign = "Weiz Radio"
+station_type = "TWR"
+
+[LOIH_TWR]
+frequency = 121205000
+prefix = "LOIH"
+radio_callsign = "Hohenems Radio"
+station_type = "TWR"
+
+[LOIJ_TWR]
+frequency = 120355000
+prefix = "LOIJ"
+radio_callsign = "St. Johann Radio"
+station_type = "TWR"
+
+[LOIK_TWR]
+frequency = 122380000
+prefix = "LOIK"
+radio_callsign = "Kufstein Radio"
+station_type = "TWR"
+
+[LOIR_TWR]
+frequency = 122405000
+prefix = "LOIR"
+radio_callsign = "Reutte Radio"
+station_type = "TWR"
+
+[LOKF_TWR]
+frequency = 122705000
+prefix = "LOKF"
+radio_callsign = "Feldkirchen Radio"
+station_type = "TWR"
+
+[LOKG_TWR]
+frequency = 123605000
+prefix = "LOKG"
+radio_callsign = "Ferlach Radio"
+station_type = "TWR"
+
+[LOKH_TWR]
+frequency = 122080000
+prefix = "LOKH"
+radio_callsign = "Friesach/Hirt Radio"
+station_type = "TWR"
+
+[LOKL_TWR]
+frequency = 122505000
+prefix = "LOKL"
+radio_callsign = "Lienz Radio"
+station_type = "TWR"
+
+[LOKM_TWR]
+frequency = 122855000
+prefix = "LOKM"
+radio_callsign = "Mayerhofen bei Friesach Radio"
+station_type = "TWR"
+
+[LOKN_TWR]
+frequency = 122405000
+prefix = "LOKN"
+radio_callsign = "Nötsch Radio"
+station_type = "TWR"
+
+[LOKR_TWR]
+frequency = 122180000
+prefix = "LOKR"
+radio_callsign = "St. Donat-Mairist Radio"
+station_type = "TWR"
+
+[LOKW_TWR]
+frequency = 122505000
+prefix = "LOKW"
+radio_callsign = "Wolfsberg Radio"
+station_type = "TWR"
+
+[LOLC_TWR]
+frequency = 122505000
+prefix = "LOLC"
+radio_callsign = "Scharnstein Radio"
+station_type = "TWR"
+
+[LOLE_TWR]
+frequency = 122405000
+prefix = "LOLE"
+radio_callsign = "Eferding Radio"
+station_type = "TWR"
+
+[LOLF_TWR]
+frequency = 122330000
+prefix = "LOLF"
+radio_callsign = "Freistadt Radio"
+station_type = "TWR"
+
+[LOLG_TWR]
+frequency = 120455000
+prefix = "LOLG"
+radio_callsign = "St. Georgen am Ybbsfeld Radio"
+station_type = "TWR"
+
+[LOLH_TWR]
+frequency = 134540000
+prefix = "LOLH"
+radio_callsign = "Hofkirchen Radio"
+station_type = "TWR"
+
+[LOLK_TWR]
+frequency = 122655000
+prefix = "LOLK"
+radio_callsign = "Kirchheim Radio"
+station_type = "TWR"
+
+[LOLM_TWR]
+frequency = 123205000
+prefix = "LOLM"
+radio_callsign = "Micheldorf Radio"
+station_type = "TWR"
+
+[LOLO_TWR]
+frequency = 122380000
+prefix = "LOLO"
+radio_callsign = "Linz-Ost Radio"
+station_type = "TWR"
+
+[LOLS_TWR]
+frequency = 122705000
+prefix = "LOLS"
+radio_callsign = "Schärding Radio"
+station_type = "TWR"
+
+[LOLT_TWR]
+frequency = 123605000
+prefix = "LOLT"
+radio_callsign = "Seitenstätten Radio"
+station_type = "TWR"
+
+[LOLU_TWR]
+frequency = 122080000
+prefix = "LOLU"
+radio_callsign = "Gmunden Radio"
+station_type = "TWR"
+
+[LOLW_TWR]
+frequency = 119705000
+prefix = "LOLW"
+radio_callsign = "Wels Radio"
+station_type = "TWR"
+
+[LOSM_TWR]
+frequency = 122855000
+prefix = "LOSM"
+radio_callsign = "Mauterndorf Radio"
+station_type = "TWR"
+
+[LOVV_B_CTR]
+frequency = 132190000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_BU_CTR]
+frequency = 136390000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_C_CTR]
+frequency = 132160000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_CTR]
+frequency = 132600000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_E_CTR]
+frequency = 134440000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_EU_CTR]
+frequency = 135635000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_F_CTR]
+frequency = 128700000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_I_CTR]
+frequency = 124400000
+prefix = "LOVV"
+radio_callsign = "Wien Information"
+station_type = "CTR"
+
+[LOVV_L_CTR]
+frequency = 129200000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_M_CTR]
+frequency = 131025000
+prefix = "LOVV"
+radio_callsign = "Military Radar"
+station_type = "CTR"
+
+[LOVV_N_APP]
+frequency = 123725000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "APP"
+
+[LOVV_N_CTR]
+frequency = 134350000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_NU_CTR]
+frequency = 119880000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_R_CTR]
+frequency = 132950000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_S_APP]
+frequency = 119300000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "APP"
+
+[LOVV_S_CTR]
+frequency = 133800000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_SU_CTR]
+frequency = 133965000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_U_CTR]
+frequency = 131350000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_W_CTR]
+frequency = 129125000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOVV_WU_CTR]
+frequency = 129965000
+prefix = "LOVV"
+radio_callsign = "Wien Radar"
+station_type = "CTR"
+
+[LOWG_APP]
+frequency = 119300000
+prefix = "LOWG"
+radio_callsign = "Graz Radar"
+station_type = "APP"
+
+[LOWG_TWR]
+frequency = 118200000
+prefix = "LOWG"
+radio_callsign = "Graz Tower"
+station_type = "TWR"
+
+[LOWI_APP]
+frequency = 128975000
+prefix = "LOWI"
+radio_callsign = "Innsbruck Radar"
+station_type = "APP"
+
+[LOWI_DEL]
+frequency = 131655000
+prefix = "LOWI"
+radio_callsign = "Innsbruck Delivery"
+station_type = "DEL"
+
+[LOWI_E_APP]
+frequency = 119275000
+prefix = "LOWI_E"
+radio_callsign = "Innsbruck Radar"
+station_type = "APP"
+
+[LOWI_F_APP]
+frequency = 121390000
+prefix = "LOWI"
+radio_callsign = "Innsbruck Arrival"
+station_type = "APP"
+
+[LOWI_S_APP]
+frequency = 119275000
+prefix = "LOWI_S"
+radio_callsign = "Innsbruck Radar"
+station_type = "APP"
+
+[LOWI_TWR]
+frequency = 120100000
+prefix = "LOWI"
+radio_callsign = "Innsbruck Tower"
+station_type = "TWR"
+
+[LOWK_APP]
+frequency = 123325000
+prefix = "LOWK"
+radio_callsign = "Klagenfurt Radar"
+station_type = "APP"
+
+[LOWK_TWR]
+frequency = 118125000
+prefix = "LOWK"
+radio_callsign = "Klagenfurt Tower"
+station_type = "TWR"
+
+[LOWL_APP]
+frequency = 125685000
+prefix = "LOWL"
+radio_callsign = "Linz Radar"
+station_type = "APP"
+
+[LOWL_TWR]
+frequency = 118800000
+prefix = "LOWL"
+radio_callsign = "Linz Tower"
+station_type = "TWR"
+
+[LOWS_APP]
+frequency = 123725000
+prefix = "LOWS"
+radio_callsign = "Salzburg Radar"
+station_type = "APP"
+
+[LOWS_DEL]
+frequency = 121750000
+prefix = "LOWS"
+radio_callsign = "Salzburg Delivery"
+station_type = "DEL"
+
+[LOWS_TWR]
+frequency = 118100000
+prefix = "LOWS"
+radio_callsign = "Salzburg Tower"
+station_type = "TWR"
+
+[LOWW_APP]
+frequency = 134675000
+prefix = "LOWW"
+radio_callsign = "Wien Radar"
+station_type = "APP"
+
+[LOWW_D_APP]
+frequency = 134125000
+prefix = "LOWW"
+radio_callsign = "Wien Arrival"
+station_type = "APP"
+
+[LOWW_DEL]
+frequency = 122125000
+prefix = "LOWW"
+radio_callsign = "Wien Delivery"
+station_type = "DEL"
+
+[LOWW_E_TWR]
+frequency = 123800000
+prefix = "LOWW"
+radio_callsign = "Wien Tower"
+station_type = "TWR"
+
+[LOWW_F_APP]
+frequency = 119800000
+prefix = "LOWW"
+radio_callsign = "Wien Arrival"
+station_type = "APP"
+
+[LOWW_GND]
+frequency = 121600000
+prefix = "LOWW"
+radio_callsign = "Wien Ground"
+station_type = "GND"
+
+[LOWW_I_APP]
+frequency = 118520000
+prefix = "LOWW"
+radio_callsign = "Wien Information"
+station_type = "APP"
+
+[LOWW_I_GND]
+frequency = 121680000
+prefix = "LOWW"
+radio_callsign = "Wien Ground"
+station_type = "GND"
+
+[LOWW_M_APP]
+frequency = 125175000
+prefix = "LOWW"
+radio_callsign = "Wien Radar"
+station_type = "APP"
+
+[LOWW_N_APP]
+frequency = 118775000
+prefix = "LOWW"
+radio_callsign = "Wien Radar"
+station_type = "APP"
+
+[LOWW_P_APP]
+frequency = 129050000
+prefix = "LOWW"
+radio_callsign = "Wien Radar"
+station_type = "APP"
+
+[LOWW_TWR]
+frequency = 119400000
+prefix = "LOWW"
+radio_callsign = "Wien Tower"
+station_type = "TWR"
+
+[LOWW_W_GND]
+frequency = 121775000
+prefix = "LOWW"
+radio_callsign = "Wien Ground"
+station_type = "GND"
+
+[LOWZ_TWR]
+frequency = 119705000
+prefix = "LOWZ"
+radio_callsign = "Zell Radio"
+station_type = "TWR"
+
+[LOXA_TWR]
+frequency = 118000000
+prefix = "LOXA"
+radio_callsign = "AIGEN TOWER"
+station_type = "TWR"
+
+[LOXN_TWR]
+frequency = 123250000
+prefix = "LOXN"
+radio_callsign = "WR. NEUSTADT WEST TOWER"
+station_type = "TWR"
+
+[LOXT_APP]
+frequency = 136125000
+prefix = "LOXT"
+radio_callsign = "Tulln Radar"
+station_type = "APP"
+
+[LOXT_P_APP]
+frequency = 136425000
+prefix = "LOXT"
+radio_callsign = "Tulln PAR"
+station_type = "APP"
+
+[LOXT_TWR]
+frequency = 118900000
+prefix = "LOXT"
+radio_callsign = "Tulln Tower"
+station_type = "TWR"
+
+[LOXZ_APP]
+frequency = 129475000
+prefix = "LOXZ"
+radio_callsign = "Zeltweg Radar"
+station_type = "APP"
+
+[LOXZ_P_APP]
+frequency = 136000000
+prefix = "LOXZ"
+radio_callsign = "Zeltweg PAR"
+station_type = "APP"
+
+[LOXZ_TWR]
+frequency = 135375000
+prefix = "LOXZ"
+radio_callsign = "Zeltweg Tower"
+station_type = "TWR"

@@ -1,0 +1,344 @@
+[EDMMGER]
+name = "Gera"
+volumes = ["EDMMGER_195_245", "EDMMGER_245_285", "EDMMGER_285_315"]
+position_priority = [[{ id = "GER" }], [{ id = "HAL" }], [{ id = "MEI" }], [{ id = "HOF" }]]
+
+[EDMMHAL]
+name = "Halle"
+volumes = ["EDMMHAL_245_285", "EDMMHAL_195_245", "EDMMHAL_285_315"]
+position_priority = [[{ id = "HAL" }], [{ id = "GER" }], [{ id = "MEI" }], [{ id = "HOF" }]]
+
+[EDMMMEI]
+name = "Meißen"
+volumes = ["EDMMMEI_165_245", "EDMMMEI_245_285", "EDMMMEI_285_315"]
+position_priority = [[{ id = "MEI" }], [{ id = "GER" }], [{ id = "HAL" }], [{ id = "HOF" }]]
+
+[EDMMTRN]
+name = "Thüringen Low Nord"
+volumes = ["EDMMTRN_000_145", "EDMMTRN_055_145", "EDMMTRN_145_165", "EDMMTRN_165_195"]
+position_priority = [
+  [
+    { id = "TRN" },
+  ],
+  [
+    { id = "TRS" },
+  ],
+  [
+    { id = "DPND" },
+  ],
+  [
+    { id = "DPSD" },
+  ],
+  [
+    { id = "GER" },
+  ],
+  [
+    { id = "MEI" },
+  ],
+  [
+    { id = "HAL" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+]
+
+[EDMMTRS]
+name = "Thüringen Low Süd"
+volumes = ["EDMMTRS_000_145", "EDMMTRS_145_195"]
+position_priority = [
+  [
+    { id = "TRS" },
+  ],
+  [
+    { id = "TRN" },
+  ],
+  [
+    { id = "DPSD" },
+  ],
+  [
+    { id = "DPND" },
+  ],
+  [
+    { id = "GER" },
+  ],
+  [
+    { id = "MEI" },
+  ],
+  [
+    { id = "HAL" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+]
+
+[EDMMSAS]
+name = "Sachsen Low"
+volumes = ["EDMMSAS_000_165"]
+position_priority = [
+  [
+    { id = "SAS" },
+  ],
+  [
+    { id = "MEI" },
+  ],
+  [
+    { id = "TRS" },
+  ],
+  [
+    { id = "GER" },
+  ],
+  [
+    { id = "HAL" },
+  ],
+  [
+    { id = "HOF" },
+  ],
+]
+
+[EDMMBBG]
+name = "Bamberg"
+volumes = ["EDMMBBG_295_315", "EDMMBBG_245_295", "EDMMBBG_195_245"]
+position_priority = [[{ id = "BBG" }], [{ id = "HOF" }], [{ id = "RDG" }]]
+
+[EDMMHOF]
+name = "Hof"
+volumes = ["EDMMHOF_195_245", "EDMMHOF_245_315"]
+position_priority = [[{ id = "HOF" }], [{ id = "BBG" }], [{ id = "RDG" }]]
+
+[EDMMFRK]
+name = "Franken Low"
+volumes = ["EDMMFRK_135_195", "EDMMFRK_000_135"]
+position_priority = [[{ id = "FRK" }], [{ id = "BBG" }], [{ id = "HOF" }], [{ id = "RDG" }]]
+
+[EDMMALB]
+name = "Allersberg"
+volumes = ["EDMMALB_105_135", "EDMMALB_245_315", "EDMMALB_135_245"]
+position_priority = [[{ id = "ALB" }], [{ id = "WLD" }], [{ id = "RDG" }], [{ id = "EGG" }], [{ id = "ZUG" }]]
+
+[EDMMALB3]
+name = "Allersberg (Ansbach Area)"
+volumes = ["EDMMALB_245_305"]
+position_priority = [
+  [{ id = "ALB" }],
+  [{ id = "WLD" }],
+  [{ id = "RDG" }],
+  [{ id = "EGG" }],
+  [{ id = "ZUG" }],
+  # TODO EDGG
+  # [
+  #   { fir = "EDGG", id = "WUR" },
+  # ],
+  # [
+  #   { fir = "EDGG", id = "SLN" },
+  # ],
+  # [
+  #   { fir = "EDGG", id = "DKB" },
+  # ],
+  # [
+  #   { fir = "EDGG", id = "KTG" },
+  # ],
+  # [
+  #   { fir = "EDGG", id = "BAD" },
+  # ],
+]
+
+[EDMMRDG]
+name = "Roding"
+volumes = ["EDMMRDG_000_135", "EDMMRDG_135_245", "EDMMRDG_245_315"]
+position_priority = [[{ id = "RDG" }], [{ id = "EGG" }], [{ id = "ALB" }], [{ id = "WLD" }], [{ id = "ZUG" }]]
+
+[EDMMEGG]
+name = "Eggenfelden"
+volumes = ["EDMMEGG_000_195", "EDMMEGG_195_245", "EDMMEGG_245_315"]
+position_priority = [[{ id = "EGG" }], [{ id = "RDG" }], [{ id = "ALB" }], [{ id = "WLD" }], [{ id = "ZUG" }]]
+
+[EDMMNDG]
+name = "Nördlingen"
+volumes = ["EDMMNDG_245_315", "EDMMNDG_195_245", "EDMMNDG_145_195", "EDMMNDG_105_145"]
+position_priority = [[{ id = "NDG" }], [{ id = "TRU" }], [{ id = "WLD" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
+
+[EDMMWLD]
+name = "Walda"
+volumes = ["EDMMWLD_105_245", "EDMMWLD_245_315"]
+position_priority = [[{ id = "WLD" }], [{ id = "NDG" }], [{ id = "TRU" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
+
+[EDMMFUE]
+name = "Füssen"
+volumes = ["EDMMFUE_000_105", "EDMMFUE_195_245", "EDMMFUE_105_145", "EDMMFUE_145_195", "EDMMFUE_245_315"]
+position_priority = [[{ id = "FUE" }], [{ id = "ZUG" }], [{ id = "TRU" }], [{ id = "RDG" }]]
+
+[EDMMSTA]
+name = "Starnberg"
+volumes = ["EDMMSTA_165_245", "EDMMSTA_000_165", "EDMMSTA_245_315"]
+position_priority = [[{ id = "STA" }], [{ id = "TEG" }], [{ id = "TRU" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
+
+[EDMMZUG]
+name = "Zugspitze"
+volumes = ["EDMMZUG_245_315", "EDMMZUG_165_245", "EDMMZUG_000_105", "EDMMZUG_105_165"]
+position_priority = [[{ id = "ZUG" }], [{ id = "TRU" }], [{ id = "RDG" }]]
+
+[EDMMTEG]
+name = "Tegernsee"
+volumes = ["EDMMTEG_000_165", "EDMMTEG_165_195", "EDMMTEG_195_245", "EDMMTEG_245_315"]
+position_priority = [[{ id = "TEG" }], [{ id = "TRU" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
+
+[EDMMTRU]
+name = "Traun"
+volumes = ["EDMMTRU_000_125", "EDMMTRU_195_245", "EDMMTRU_125_195", "EDMMTRU_245_315"]
+position_priority = [[{ id = "TRU" }], [{ id = "NDG" }], [{ id = "TEG" }], [{ id = "ZUG" }], [{ id = "RDG" }]]
+
+[EDMMCA4]
+name = "Freising High/Low"
+volumes = ["EDMMTMANH_095_195", "EDMMTMANL_000_095"]
+position_priority = [
+  [
+    { id = "DMNH" },
+    { id = "DMNL" },
+  ],
+  [
+    { id = "DMSH" },
+    { id = "DMSL" },
+  ],
+  [
+    { id = "DMND" },
+  ],
+  [
+    { id = "DMSD" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMMTMAS]
+name = "Erding High/Low"
+volumes = ["EDMMTMASH_095_195", "EDMMTMASL_000_095"]
+position_priority = [
+  [
+    { id = "DMSH" },
+    { id = "DMSL" },
+  ],
+  [
+    { id = "DMNH" },
+    { id = "DMNL" },
+  ],
+  [
+    { id = "DMSD" },
+  ],
+  [
+    { id = "DMND" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMMILR]
+name = "Iller"
+volumes = ["EDMMILR2_095_105", "EDMMILR1_000_105"]
+position_priority = [
+  [
+    { id = "ILR" },
+  ],
+  [
+    { id = "SWA" },
+  ],
+  [
+    { id = "FUE" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "TRU" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMMSWA1]
+name = "Schwaben"
+volumes = ["EDMMNDG_000_105"]
+position_priority = [
+  [
+    { id = "SWA" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "TRU" },
+  ],
+  [
+    { id = "WLD" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMMSWA2]
+name = "Schwaben"
+volumes = ["EDMMWLD_000_105"]
+position_priority = [
+  [
+    { id = "SWA" },
+  ],
+  [
+    { id = "WLD" },
+  ],
+  [
+    { id = "NDG" },
+  ],
+  [
+    { id = "TRU" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+]
+
+[EDMMSWA3]
+name = "Schwaben"
+volumes = ["EDMMALB_000_105"]
+position_priority = [
+  [
+    { id = "SWA" },
+  ],
+  [
+    { id = "ALB" },
+  ],
+  [
+    { id = "WLD" },
+  ],
+  [
+    { id = "RDG" },
+  ],
+  [
+    { id = "EGG" },
+  ],
+  [
+    { id = "ZUG" },
+  ],
+]

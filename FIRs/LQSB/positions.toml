@@ -1,0 +1,66 @@
+[LQBK_APP]
+frequency=118950000
+prefix="LQBK"
+radio_callsign="Banja Luka Approach"
+station_type="APP"
+
+[LQBK_TWR]
+frequency=133070000
+prefix="LQBK"
+radio_callsign="Banja Luka Tower"
+station_type="TWR"
+
+[LQMO_APP]
+frequency=120220000
+prefix="LQMO"
+radio_callsign="Mostar Approach"
+station_type="APP"
+
+[LQMO_TWR]
+frequency=125550000
+prefix="LQMO"
+radio_callsign="Mostar Tower"
+station_type="TWR"
+
+[LQSA_APP]
+frequency=119770000
+prefix="LDSA"
+radio_callsign="Sarajevo Radar"
+station_type="APP"
+
+[LQSA_GND]
+frequency=121900000
+prefix="LQSA"
+radio_callsign="Sarajevo Ground"
+station_type="GND"
+
+[LQSA_TWR]
+frequency=118250000
+prefix="LQSA"
+radio_callsign="Sarajevo Tower"
+station_type="TWR"
+
+[LQSB_CTR]
+frequency=128850000
+prefix="LQSB"
+radio_callsign="Sarajevo Radar"
+station_type="CTR"
+
+[LQSB_I_CTR]
+frequency=135570000
+prefix="LQSB"
+radio_callsign="Banja Luka Information (FIS)"
+station_type="CTR"
+
+[LQTZ_APP]
+frequency=120350000
+prefix="LQTZ"
+radio_callsign="Tuzla Approach"
+station_type="APP"
+
+[LQTZ_TWR]
+frequency=132920000
+prefix="LQTZ"
+radio_callsign="Tuzla Tower"
+station_type="TWR"
+

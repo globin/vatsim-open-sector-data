@@ -1,0 +1,1626 @@
+# EBG 1
+[BOT]
+frequency = 119110000
+prefix = "EDDL"
+name = "Bottrop"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[DLD]
+frequency = 121355000
+prefix = "EDDL"
+name = "Düsseldorf Departure"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[DLA]
+frequency = 128555000
+prefix = "EDDL"
+name = "Düsseldorf Arrival"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[DLAT]
+frequency = 128655000
+prefix = "EDDL"
+radio_callsign = "Düsseldorf Director"
+station_type = "APP"
+
+
+# EBG 2
+[BAD]
+frequency = 131300000
+prefix = "EDGG"
+name = "Baden"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[LBU]
+frequency = 127050000
+prefix = "EDGG"
+name = "Luburg"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[MAN]
+frequency = 132155000
+prefix = "EDGG"
+name = "Main"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[NKRH]
+frequency = 127500000
+prefix = "EDGG"
+name = "Neckar High"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[NKRL]
+frequency = 129355000
+prefix = "EDFM"
+name = "Neckar Low"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+
+# EBG 3
+[GED]
+frequency = 124430000
+prefix = "EDGG"
+name = "Gedern"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[GIN]
+frequency = 124730000
+prefix = "EDGG"
+name = "Gießen"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[HEF]
+frequency = 127725000
+prefix = "EDGG"
+name = "Hersfeld"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[SIG]
+frequency = 124900000
+prefix = "EDGG"
+name = "Siegen"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[TAU]
+frequency = 127625000
+prefix = "EDGG"
+name = "Taunus"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+
+# EBG 4
+[DKB]
+frequency = 125200000
+prefix = "EDGG"
+name = "Dinkelsbühl"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[HAB]
+frequency = 134800000
+prefix = "EDGG"
+name = "Hammelburg"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[KNG]
+frequency = 125680000
+prefix = "EDGG"
+name = "König"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[KTG]
+frequency = 123280000
+prefix = "EDGG"
+name = "Kitzingen"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[PSA]
+frequency = 125405000
+prefix = "EDGG"
+name = "Spessart"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+
+# EBG 5
+[EIF]
+frequency = 125600000
+prefix = "EDFH"
+name = "Eifel"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[KIR]
+frequency = 133460000
+prefix = "EDGG"
+name = "Kirn"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[PFA]
+frequency = 129675000
+prefix = "EDDR"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[RUD]
+frequency = 133435000
+prefix = "EDGG"
+name = "Rüdesheim"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+
+# EBG 6
+[HMM]
+frequency = 129300000
+prefix = "EDDG"
+name = "Hamm"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+# TODO does it exist?
+[EDDG_F_APP]
+frequency = 129180000
+prefix = "EDDG"
+radio_callsign = "Münster/Osnabrueck Director"
+station_type = "APP"
+
+[PADH]
+frequency = 135650000
+prefix = "EDGG"
+name = "Paderborn High"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+[PADL]
+frequency = 125225000
+prefix = "EDLP"
+name = "Paderborn Low"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+
+# EBG 7
+[DKA]
+frequency = 135350000
+prefix = "EDDK"
+name = "Köln Approach"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[DKAT]
+frequency = 121055000
+prefix = "EDDK"
+radio_callsign = "Köln/Bonn Director"
+station_type = "APP"
+
+[NOR]
+frequency = 127365000
+prefix = "EDDK"
+name = "Nörvenich"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+
+# EBG 8
+[DSAT]
+frequency = 119850000
+prefix = "EDDS"
+radio_callsign = "Stuttgart Director"
+station_type = "APP"
+
+[REU]
+frequency = 119200000
+prefix = "EDDS"
+name = "Reutlingen"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[STG]
+frequency = 125050000
+prefix = "EDDS"
+name = "Stuttgart"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+
+# EBG 10
+[DFAN]
+frequency = 120805000
+prefix = "EDDF"
+name = "Frankfurt North Approach"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[DFAS]
+frequency = 125355000
+prefix = "EDDF"
+name = "Frankfurt South Approach"
+radio_callsign = "Langen Radar"
+station_type = "APP"
+
+[DFDN]
+frequency = 120155000
+prefix = "EDDF"
+name = "Frankfurt North Departure"
+radio_callsign = "Langen Radar"
+station_type = "DEP"
+
+[DFDS]
+frequency = 136130000
+prefix = "EDDF"
+name = "Frankfurt South Departure"
+radio_callsign = "Langen Radar"
+station_type = "DEP"
+
+[DFANT]
+frequency = 127280000
+prefix = "EDDF"
+name = "Frankfurt North Director"
+radio_callsign = "Frankfurt Director"
+station_type = "APP"
+
+[DFAST]
+frequency = 118505000
+prefix = "EDDF"
+name = "Frankfurt South Director"
+radio_callsign = "Frankfurt Director"
+station_type = "APP"
+
+
+# FIS
+[EDXX_FIS_CTR]
+frequency = 128950000
+prefix = "EDXX_F"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_GG_CTR]
+frequency = 123525000
+prefix = "EDXX_G"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_IDF_CTR]
+frequency = 119150000
+prefix = "EDXX"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_IDL_CTR]
+frequency = 129875000
+prefix = "EDXX"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_IDR_CTR]
+frequency = 123525000
+prefix = "EDXX_I"
+radio_callsign = "Langen Information"
+station_type = "CTR"
+
+[EDXX_IDS_CTR]
+frequency = 128950000
+prefix = "EDXX_I"
+radio_callsign = "FIS"
+station_type = "CTR"
+
+
+# special frequencies TODO?
+[EDGG_V_CTR]
+frequency = 122555000
+prefix = "EDGG"
+radio_callsign = "FIR Langen General AFIS frequency"
+station_type = "CTR"
+
+[EDGG_CO_CTR]
+frequency = 130975000
+prefix = "EDGG"
+radio_callsign = "Langen Radar"
+station_type = "CTR"
+
+
+[EDDF_DEL]
+frequency = 122035000
+prefix = "EDDF"
+radio_callsign = "Frankfurt Delivery"
+station_type = "DEL"
+
+[EDDF_C_GND]
+frequency = 121855000
+prefix = "EDDF"
+radio_callsign = "Frankfurt Apron"
+station_type = "GND"
+
+[EDDF_E_GND]
+frequency = 121955000
+prefix = "EDDF"
+name = "Frankfurt East Apron"
+radio_callsign = "Frankfurt Apron"
+station_type = "GND"
+
+[EDDF_S_GND]
+frequency = 121655000
+prefix = "EDDF"
+radio_callsign = "Frankfurt Apron"
+station_type = "GND"
+
+[EDDF_W_GND]
+frequency = 121755000
+prefix = "EDDF"
+name = "Frankfurt West Apron"
+radio_callsign = "Frankfurt Apron"
+station_type = "GND"
+
+[EDDF_ICE_GND]
+frequency = 121985000
+prefix = "EDDF"
+radio_callsign = "Frankfurt De-Icing"
+station_type = "GND"
+
+[EDDF_GND]
+frequency = 121805000
+prefix = "EDDF"
+radio_callsign = "Frankfurt Ground"
+station_type = "GND"
+
+[EDDF_C_TWR]
+frequency = 118780000
+prefix = "EDDF"
+radio_callsign = "Frankfurt Tower"
+station_type = "TWR"
+
+[EDDF_N_TWR]
+frequency = 136500000
+prefix = "EDDF"
+radio_callsign = "Frankfurt Tower"
+station_type = "TWR"
+
+[EDDF_S_TWR]
+frequency = 119905000
+prefix = "EDDF"
+name = "Frankfurt Main Tower"
+radio_callsign = "Frankfurt Tower"
+station_type = "TWR"
+
+[EDDF_W_TWR]
+frequency = 124855000
+prefix = "EDDF"
+name = "Frankfurt West Tower"
+radio_callsign = "Frankfurt Tower"
+station_type = "TWR"
+
+
+[EDDG_GND]
+frequency = 121880000
+prefix = "EDDG"
+radio_callsign = "Münster Ground"
+station_type = "GND"
+
+[EDDG_TWR]
+frequency = 129805000
+prefix = "EDDG"
+radio_callsign = "Münster Tower"
+station_type = "TWR"
+
+
+[EDDK_DEL]
+frequency = 121855000
+prefix = "EDDK"
+radio_callsign = "Köln/Bonn Delivery"
+station_type = "DEL"
+
+[EDDK_P_GND]
+frequency = 121955000
+prefix = "EDDK"
+radio_callsign = "Koeln/Bonn Apron"
+station_type = "GND"
+
+[EDDK_GND]
+frequency = 121730000
+prefix = "EDDK"
+radio_callsign = "Koeln/Bonn Ground"
+station_type = "GND"
+
+[EDDK_TWR]
+frequency = 124980000
+prefix = "EDDK"
+radio_callsign = "Koeln/Bonn Tower"
+station_type = "TWR"
+
+
+[EDDL_DEL]
+frequency = 121780000
+prefix = "EDDL"
+radio_callsign = "Duesseldorf Delivery"
+station_type = "DEL"
+
+[EDDL_E_GND]
+frequency = 121605000
+prefix = "EDDL"
+name = "Düsseldorf Ground (East)"
+radio_callsign = "Düsseldorf Ground"
+station_type = "GND"
+
+[EDDL_W_GND]
+frequency = 121905000
+prefix = "EDDL"
+name = "Düsseldorf Ground (West)"
+radio_callsign = "Düsseldorf Ground"
+station_type = "GND"
+
+[EDDL_TWR]
+frequency = 118305000
+prefix = "EDDL"
+radio_callsign = "Düsseldorf Tower"
+station_type = "TWR"
+
+
+[EDDR_GND]
+frequency = 118555000
+prefix = "EDDR"
+radio_callsign = "Saarbruecken Ground"
+station_type = "GND"
+
+[EDDR_TWR]
+frequency = 118355000
+prefix = "EDDR"
+radio_callsign = "Saarbrücken Tower"
+station_type = "TWR"
+
+
+[EDDS_DEL]
+frequency = 121915000
+prefix = "EDDS"
+radio_callsign = "Stuttgart Delivery"
+station_type = "DEL"
+
+[EDDS_GND]
+frequency = 118605000
+prefix = "EDDS"
+radio_callsign = "Stuttgart Ground"
+station_type = "GND"
+
+[EDDS_TWR]
+frequency = 118805000
+prefix = "EDDS"
+radio_callsign = "Stuttgart Tower"
+station_type = "TWR"
+
+[EDDS_VFR_TWR]
+frequency = 119055000
+prefix = "EDDS"
+name = "Stuttgart Tower (VFR)"
+radio_callsign = "Stuttgart Tower"
+station_type = "TWR"
+
+
+[EDFH_GND]
+frequency = 121980000
+prefix = "EDFH"
+radio_callsign = "Hahn Ground"
+station_type = "GND"
+
+[EDFH_TWR]
+frequency = 119655000
+prefix = "EDFH"
+radio_callsign = "Hahn Tower"
+station_type = "TWR"
+
+
+[EDFM_TWR]
+frequency = 129780000
+prefix = "EDFM"
+radio_callsign = "Mannheim Tower"
+station_type = "TWR"
+
+
+[EDLN_GND]
+frequency = 121930000
+prefix = "EDLN"
+radio_callsign = "Moenchengladbach Ground"
+station_type = "GND"
+
+[EDLN_TWR]
+frequency = 120455000
+prefix = "EDLN"
+radio_callsign = "Mönchengladbach Tower"
+station_type = "TWR"
+
+
+[EDLP_GND]
+frequency = 121930000
+prefix = "EDLP"
+radio_callsign = "Paderborn Ground"
+station_type = "GND"
+
+[EDLP_TWR]
+frequency = 133380000
+prefix = "EDLP"
+radio_callsign = "Paderborn Tower"
+station_type = "TWR"
+
+
+[EDLV_TWR]
+frequency = 129405000
+prefix = "EDLV"
+radio_callsign = "Niederrhein Tower"
+station_type = "TWR"
+
+
+[EDLW_GND]
+frequency = 121830000
+prefix = "EDLW"
+radio_callsign = "Dortmund Ground"
+station_type = "GND"
+
+[EDLW_TWR]
+frequency = 134180000
+prefix = "EDLW"
+radio_callsign = "Dortmund Tower"
+station_type = "TWR"
+
+
+[EDSB_GND]
+frequency = 121830000
+prefix = "EDSB"
+radio_callsign = "Baden Ground"
+station_type = "GND"
+
+[EDSB_TWR]
+frequency = 134105000
+prefix = "EDSB"
+radio_callsign = "Baden Tower"
+station_type = "TWR"
+
+
+[EDTL_TWR]
+frequency = 125180000
+prefix = "EDTL"
+radio_callsign = "Lahr Tower"
+station_type = "TWR"
+
+
+[EDEH_I_TWR]
+frequency = 132055000
+prefix = "EDEH"
+radio_callsign = "Herrenteich Info"
+station_type = "TWR"
+
+[EDEL_I_TWR]
+frequency = 124030000
+prefix = "EDEL"
+radio_callsign = "Langenlonsheim Info"
+station_type = "TWR"
+
+[EDEM_I_TWR]
+frequency = 130660000
+prefix = "EDEM"
+radio_callsign = "Mosenberg Radio"
+station_type = "TWR"
+
+[EDEN_I_TWR]
+frequency = 119005000
+prefix = "EDEN"
+radio_callsign = "Hersfeld Radio"
+station_type = "TWR"
+
+[EDEP_I_TWR]
+frequency = 122480000
+prefix = "EDEP"
+radio_callsign = "Heppenheim Radio"
+station_type = "TWR"
+
+[EDER_I_TWR]
+frequency = 124030000
+prefix = "EDER"
+radio_callsign = "Wasserkuppe Info"
+station_type = "TWR"
+
+[EDEW_I_TWR]
+frequency = 131010000
+prefix = "EDEW"
+radio_callsign = "Wallduern Radio"
+station_type = "TWR"
+
+[EDFA_I_TWR]
+frequency = 121030000
+prefix = "EDFA"
+radio_callsign = "Anspach Info"
+station_type = "TWR"
+
+[EDFB_I_TWR]
+frequency = 120430000
+prefix = "EDFB"
+radio_callsign = "Reichelsheim Info"
+station_type = "TWR"
+
+[EDFC_I_TWR]
+frequency = 132430000
+prefix = "EDFC"
+radio_callsign = "Aschaffenburg Info"
+station_type = "TWR"
+
+[EDFD_I_TWR]
+frequency = 121215000
+prefix = "EDFD"
+radio_callsign = "Neustadt Saale Radio"
+station_type = "TWR"
+
+[EDFE_GND]
+frequency = 121730000
+prefix = "EDFE"
+radio_callsign = "Egelsbach Apron"
+station_type = "GND"
+
+[EDFE_I_TWR]
+frequency = 118405000
+prefix = "EDFE"
+radio_callsign = "Egelsbach Info"
+station_type = "TWR"
+
+[EDFG_I_TWR]
+frequency = 123055000
+prefix = "EDFG"
+radio_callsign = "Gelnhausen Info"
+station_type = "TWR"
+
+[EDFI_I_TWR]
+frequency = 118330000
+prefix = "EDFI"
+radio_callsign = "Hirzenhain Radio"
+station_type = "TWR"
+
+[EDFJ_I_TWR]
+frequency = 118430000
+prefix = "EDFJ"
+radio_callsign = "Hammelburg Radio"
+station_type = "TWR"
+
+[EDFK_I_TWR]
+frequency = 124755000
+prefix = "EDFK"
+radio_callsign = "Bad Kissingen Radio"
+station_type = "TWR"
+
+[EDFL_I_TWR]
+frequency = 122505000
+prefix = "EDFL"
+radio_callsign = "Luetzellinden Radio"
+station_type = "TWR"
+
+[EDFN_I_TWR]
+frequency = 134915000
+prefix = "EDFN"
+radio_callsign = "Marburg Radio"
+station_type = "TWR"
+
+[EDFP_I_TWR]
+frequency = 122340000
+prefix = "EDFP"
+radio_callsign = "Ober-Moerlen Radio"
+station_type = "TWR"
+
+[EDFQ_I_TWR]
+frequency = 135165000
+prefix = "EDFQ"
+radio_callsign = "Allendorf Info"
+station_type = "TWR"
+
+[EDFR_I_TWR]
+frequency = 128360000
+prefix = "EDFR"
+radio_callsign = "Rothenburg Radio"
+station_type = "TWR"
+
+[EDFS_I_TWR]
+frequency = 119980000
+prefix = "EDFS"
+radio_callsign = "Schweinfurt Radio"
+station_type = "TWR"
+
+[EDFT_I_TWR]
+frequency = 122180000
+prefix = "EDFT"
+radio_callsign = "Lauterbach Radio"
+station_type = "TWR"
+
+[EDFU_I_TWR]
+frequency = 121035000
+prefix = "EDFU"
+radio_callsign = "Mainbullau Info"
+station_type = "TWR"
+
+[EDFV_I_TWR]
+frequency = 124605000
+prefix = "EDFV"
+radio_callsign = "Worms Info"
+station_type = "TWR"
+
+[EDFW_I_TWR]
+frequency = 132990000
+prefix = "EDFW"
+radio_callsign = "Wuerzburg Radio"
+station_type = "TWR"
+
+[EDFX_I_TWR]
+frequency = 121190000
+prefix = "EDFX"
+radio_callsign = "Hockenheim Radio"
+station_type = "TWR"
+
+[EDFY_I_TWR]
+frequency = 128775000
+prefix = "EDFY"
+radio_callsign = "Elz Info"
+station_type = "TWR"
+
+[EDFZ_I_TWR]
+frequency = 122930000
+prefix = "EDFZ"
+radio_callsign = "Mainz Info"
+station_type = "TWR"
+
+[EDGA_I_TWR]
+frequency = 126410000
+prefix = "EDGA"
+radio_callsign = "Ailertchen Radio"
+station_type = "TWR"
+
+[EDGB_I_TWR]
+frequency = 122530000
+prefix = "EDGB"
+radio_callsign = "Breitscheid Radio"
+station_type = "TWR"
+
+[EDGE_I_TWR]
+frequency = 119755000
+prefix = "EDGE"
+radio_callsign = "Eisenach Radio"
+station_type = "TWR"
+
+[EDGF_I_TWR]
+frequency = 118985000
+prefix = "EDGF"
+radio_callsign = "Jossa Radio"
+station_type = "TWR"
+
+[EDGH_I_TWR]
+frequency = 122430000
+prefix = "EDGH"
+radio_callsign = "Hettstadt Radio"
+station_type = "TWR"
+
+[EDGI_I_TWR]
+frequency = 120835000
+prefix = "EDGI"
+radio_callsign = "Ingelfingen Radio"
+station_type = "TWR"
+
+[EDGJ_I_TWR]
+frequency = 119990000
+prefix = "EDGJ"
+radio_callsign = "Ochsenfurt Radio"
+station_type = "TWR"
+
+[EDGK_I_TWR]
+frequency = 125815000
+prefix = "EDGK"
+radio_callsign = "Korbach Radio"
+station_type = "TWR"
+
+[EDGM_I_TWR]
+frequency = 128340000
+prefix = "EDGM"
+radio_callsign = "Mosbach Radio"
+station_type = "TWR"
+
+[EDGO_I_TWR]
+frequency = 118410000
+prefix = "EDGO"
+radio_callsign = "Oedheim Radio"
+station_type = "TWR"
+
+[EDGP_I_TWR]
+frequency = 130640000
+prefix = "EDPY"
+radio_callsign = "Oppenheim Information"
+station_type = "TWR"
+
+[EDGQ_I_TWR]
+frequency = 133585000
+prefix = "EDGQ"
+radio_callsign = "Schameder Radio"
+station_type = "TWR"
+
+[EDGR_I_TWR]
+frequency = 127860000
+prefix = "EDGR"
+radio_callsign = "Reiskirchen Radio"
+station_type = "TWR"
+
+[EDGS_I_TWR]
+frequency = 120380000
+prefix = "EDGS"
+radio_callsign = "Siegerland Info"
+station_type = "TWR"
+
+[EDGT_I_TWR]
+frequency = 132810000
+prefix = "EDGT"
+radio_callsign = "Bottenhorn Radio"
+station_type = "TWR"
+
+[EDGU_I_TWR]
+frequency = 132015000
+prefix = "EDGU"
+radio_callsign = "Unterschuepf Radio"
+station_type = "TWR"
+
+[EDGW_I_TWR]
+frequency = 127455000
+prefix = "EDGW"
+radio_callsign = "Wolfhagen Radio"
+station_type = "TWR"
+
+[EDGX_I_TWR]
+frequency = 118265000
+prefix = "EDGX"
+radio_callsign = "Walldorf Radio"
+station_type = "TWR"
+
+[EDGY_I_TWR]
+frequency = 118255000
+prefix = "EDGY"
+radio_callsign = "Kitzingen Radio"
+station_type = "TWR"
+
+[EDGZ_I_TWR]
+frequency = 123605000
+prefix = "EDGZ"
+radio_callsign = "Weinheim Radio"
+station_type = "TWR"
+
+[EDKA_I_TWR]
+frequency = 122880000
+prefix = "EDKA"
+radio_callsign = "Aachen Info"
+station_type = "TWR"
+
+[EDKB_I_TWR]
+frequency = 135155000
+prefix = "EDKZ"
+radio_callsign = "Bonn-Hangelar Info"
+station_type = "TWR"
+
+[EDKD_I_TWR]
+frequency = 121190000
+prefix = "EDKD"
+radio_callsign = "Altena Radio"
+station_type = "TWR"
+
+[EDKF_I_TWR]
+frequency = 125840000
+prefix = "EDKF"
+radio_callsign = "Bergneustadt Info"
+station_type = "TWR"
+
+[EDKH_I_TWR]
+frequency = 123685000
+prefix = "EDKH"
+radio_callsign = "Huensborn Radio"
+station_type = "TWR"
+
+[EDKI_I_TWR]
+frequency = 122230000
+prefix = "EDKI"
+radio_callsign = "Betzdorf Radio"
+station_type = "TWR"
+
+[EDKL_I_TWR]
+frequency = 122430000
+prefix = "EDKL"
+radio_callsign = "Leverkusen Info"
+station_type = "TWR"
+
+[EDKM_I_TWR]
+frequency = 126015000
+prefix = "EDKM"
+radio_callsign = "Meschede Info"
+station_type = "TWR"
+
+[EDKN_I_TWR]
+frequency = 133580000
+prefix = "EDKN"
+radio_callsign = "Wipperfürth Info"
+station_type = "TWR"
+
+[EDKO_I_TWR]
+frequency = 129380000
+prefix = "EDKO"
+radio_callsign = "Brilon Radio"
+station_type = "TWR"
+
+[EDKP_I_TWR]
+frequency = 127110000
+prefix = "EDKP"
+radio_callsign = "Plettenberg Radio"
+station_type = "TWR"
+
+[EDKR_I_TWR]
+frequency = 127090000
+prefix = "EDKR"
+radio_callsign = "Schmallenberg Radio"
+station_type = "TWR"
+
+[EDKU_I_TWR]
+frequency = 121405000
+prefix = "EDKU"
+radio_callsign = "Attendorf Radio"
+station_type = "TWR"
+
+[EDKV_I_TWR]
+frequency = 130085000
+prefix = "EDKV"
+radio_callsign = "Dahlemer Binz Radio"
+station_type = "TWR"
+
+[EDKW_I_TWR]
+frequency = 118005000
+prefix = "EDKW"
+radio_callsign = "Werdohl Radio"
+station_type = "TWR"
+
+[EDKZ_I_TWR]
+frequency = 130605000
+prefix = "EDKZ"
+radio_callsign = "Meinerzhagen Radio"
+station_type = "TWR"
+
+[EDLA_I_TWR]
+frequency = 121210000
+prefix = "EDLA"
+radio_callsign = "Arnsberg Radio"
+station_type = "TWR"
+
+[EDLB_I_TWR]
+frequency = 135005000
+prefix = "EDLB"
+radio_callsign = "Borkenberge Radio"
+station_type = "TWR"
+
+[EDLC_I_TWR]
+frequency = 121315000
+prefix = "EDLC"
+radio_callsign = "Kamp-Lintfort Radio"
+station_type = "TWR"
+
+[EDLD_I_TWR]
+frequency = 122705000
+prefix = "EDLD"
+radio_callsign = "Dinslaken Info"
+station_type = "TWR"
+
+[EDLE_I_TWR]
+frequency = 119755000
+prefix = "EDLE"
+radio_callsign = "Essen/Mülheim Info"
+station_type = "TWR"
+
+[EDLF_I_TWR]
+frequency = 126705000
+prefix = "EDLF"
+radio_callsign = "Grefrath Radio"
+station_type = "TWR"
+
+[EDLG_I_TWR]
+frequency = 118455000
+prefix = "EDLG"
+radio_callsign = "Goch Radio"
+station_type = "TWR"
+
+[EDLH_I_TWR]
+frequency = 134055000
+prefix = "EDLH"
+radio_callsign = "Hamm Info"
+station_type = "TWR"
+
+[EDLI_I_TWR]
+frequency = 118355000
+prefix = "EDLI"
+radio_callsign = "Bielefeld Info"
+station_type = "TWR"
+
+[EDLJ_I_TWR]
+frequency = 135060000
+prefix = "EDLJ"
+radio_callsign = "Detmold Radio"
+station_type = "TWR"
+
+[EDLK_I_TWR]
+frequency = 120680000
+prefix = "EDLK"
+radio_callsign = "Krefeld Radio"
+station_type = "TWR"
+
+[EDLM_I_TWR]
+frequency = 134610000
+prefix = "EDLM"
+radio_callsign = "Marl Info"
+station_type = "TWR"
+
+[EDLO_I_TWR]
+frequency = 136410000
+prefix = "EDLO"
+radio_callsign = "Oerlinghausen Info"
+station_type = "TWR"
+
+[EDLQ_I_TWR]
+frequency = 120740000
+prefix = "EDLQ"
+radio_callsign = "Beelen Radio"
+station_type = "TWR"
+
+[EDLR_I_TWR]
+frequency = 121035000
+prefix = "EDLR"
+radio_callsign = "Haxterberg Radio"
+station_type = "TWR"
+
+[EDLS_I_TWR]
+frequency = 119205000
+prefix = "EDLS"
+radio_callsign = "Stadtlohn Radio"
+station_type = "TWR"
+
+[EDLT_I_TWR]
+frequency = 122855000
+prefix = "EDLT"
+radio_callsign = "Telgte Info"
+station_type = "TWR"
+
+[EDLX_I_TWR]
+frequency = 122030000
+prefix = "EDLX"
+radio_callsign = "Wesel Radio"
+station_type = "TWR"
+
+[EDLY_I_TWR]
+frequency = 122930000
+prefix = "EDLY"
+radio_callsign = "Hoxfeld Radio"
+station_type = "TWR"
+
+[EDLZ_I_TWR]
+frequency = 133465000
+prefix = "EDLZ"
+radio_callsign = "Soest Info"
+station_type = "TWR"
+
+[EDQB_I_TWR]
+frequency = 118260000
+prefix = "EDQB"
+radio_callsign = "Windsheim Radio"
+station_type = "TWR"
+
+[EDQF_I_TWR]
+frequency = 123790000
+prefix = "EDQF"
+radio_callsign = "Ansbach Radio"
+station_type = "TWR"
+
+[EDQG_I_TWR]
+frequency = 125505000
+prefix = "EDQG"
+radio_callsign = "Giebelstadt Information"
+station_type = "TWR"
+
+[EDQN_I_TWR]
+frequency = 118930000
+prefix = "EDQN"
+radio_callsign = "Neustadt/Aisch Info"
+station_type = "TWR"
+
+[EDQT_I_TWR]
+frequency = 119805000
+prefix = "EDQT"
+radio_callsign = "Hassfurt Info"
+station_type = "TWR"
+
+[EDRA_I_TWR]
+frequency = 122355000
+prefix = "EDRA"
+radio_callsign = "Neuenahr Info"
+station_type = "TWR"
+
+[EDRB_I_TWR]
+frequency = 118705000
+prefix = "EDRB"
+radio_callsign = "Bitburg Radio"
+station_type = "TWR"
+
+[EDRC_I_TWR]
+frequency = 120185000
+prefix = "EDRC"
+radio_callsign = "Marpingen Radio"
+station_type = "TWR"
+
+[EDRD_I_TWR]
+frequency = 129285000
+prefix = "EDRD"
+radio_callsign = "Neumagen Radio"
+station_type = "TWR"
+
+[EDRE_I_TWR]
+frequency = 135060000
+prefix = "EDRE"
+radio_callsign = "Mendig Radio"
+station_type = "TWR"
+
+[EDRF_I_TWR]
+frequency = 122405000
+prefix = "EDRF"
+radio_callsign = "Dürkheim Info"
+station_type = "TWR"
+
+[EDRG_I_TWR]
+frequency = 128360000
+prefix = "EDRG"
+radio_callsign = "Idar-Oberstein Radio"
+station_type = "TWR"
+
+[EDRH_I_TWR]
+frequency = 130655000
+prefix = "EDRH"
+radio_callsign = "Hoppstaedten Radio"
+station_type = "TWR"
+
+[EDRI_I_TWR]
+frequency = 124010000
+prefix = "EDRI"
+radio_callsign = "Linkenheim Radio"
+station_type = "TWR"
+
+[EDRJ_I_TWR]
+frequency = 121210000
+prefix = "EDRJ"
+radio_callsign = "Saarlouis Info"
+station_type = "TWR"
+
+[EDRK_I_TWR]
+frequency = 122655000
+prefix = "EDRK"
+radio_callsign = "Koblenz Info"
+station_type = "TWR"
+
+[EDRL_I_TWR]
+frequency = 128585000
+prefix = "EDRL"
+radio_callsign = "Lachen Radio"
+station_type = "TWR"
+
+[EDRM_I_TWR]
+frequency = 129035000
+prefix = "EDRM"
+radio_callsign = "Traben-Trarbach Info"
+station_type = "TWR"
+
+[EDRN_I_TWR]
+frequency = 131285000
+prefix = "EDRN"
+radio_callsign = "Nannhausen Radio"
+station_type = "TWR"
+
+[EDRO_I_TWR]
+frequency = 123005000
+prefix = "EDRO"
+radio_callsign = "Schweighofen Radio"
+station_type = "TWR"
+
+[EDRP_I_TWR]
+frequency = 122355000
+prefix = "EDRP"
+radio_callsign = "Pirmasens Radio"
+station_type = "TWR"
+
+[EDRS_I_TWR]
+frequency = 118930000
+prefix = "EDRS"
+radio_callsign = "Sobernheim Radio"
+station_type = "TWR"
+
+[EDRT_I_TWR]
+frequency = 118390000
+prefix = "EDRT"
+radio_callsign = "Trier Radio"
+station_type = "TWR"
+
+[EDRV_I_TWR]
+frequency = 121390000
+prefix = "EDRV"
+radio_callsign = "Wershofen Radio"
+station_type = "TWR"
+
+[EDRW_I_TWR]
+frequency = 128390000
+prefix = "EDRW"
+radio_callsign = "Dierdorf Radio"
+station_type = "TWR"
+
+[EDRX_I_TWR]
+frequency = 135185000
+prefix = "EDRX"
+radio_callsign = "Bexbach Radio"
+station_type = "TWR"
+
+[EDRY_I_TWR]
+frequency = 118080000
+prefix = "EDRY"
+radio_callsign = "Speyer Info"
+station_type = "TWR"
+
+[EDRZ_I_TWR]
+frequency = 123830000
+prefix = "EDRZ"
+radio_callsign = "Zweibrücken Information"
+station_type = "TWR"
+
+[EDSA_I_TWR]
+frequency = 125835000
+prefix = "EDSA"
+radio_callsign = "Degerfeld Radio"
+station_type = "TWR"
+
+[EDSD_I_TWR]
+frequency = 128755000
+prefix = "EDSD"
+radio_callsign = "Egelsee Radio"
+station_type = "TWR"
+
+[EDSF_I_TWR]
+frequency = 125815000
+prefix = "EDSF"
+radio_callsign = "Huetten-Hotzenwald Radio"
+station_type = "TWR"
+
+[EDSG_I_TWR]
+frequency = 118190000
+prefix = "EDSG"
+radio_callsign = "Grabenstetten Radio"
+station_type = "TWR"
+
+[EDSH_I_TWR]
+frequency = 123710000
+prefix = "EDSH"
+radio_callsign = "Backnang Info"
+station_type = "TWR"
+
+[EDSI_I_TWR]
+frequency = 125635000
+prefix = "EDSI"
+radio_callsign = "Binningen Radio"
+station_type = "TWR"
+
+[EDSK_I_TWR]
+frequency = 122755000
+prefix = "EDSK"
+radio_callsign = "Kehl Radio"
+station_type = "TWR"
+
+[EDSL_I_TWR]
+frequency = 135005000
+prefix = "EDSL"
+radio_callsign = "Blumberg Radio"
+station_type = "TWR"
+
+[EDSM_I_TWR]
+frequency = 122430000
+prefix = "EDSM"
+radio_callsign = "Muellheim Radio"
+station_type = "TWR"
+
+[EDSN_I_TWR]
+frequency = 119605000
+prefix = "EDSN"
+radio_callsign = "Neuhausen ob Eck Radio"
+station_type = "TWR"
+
+[EDSP_I_TWR]
+frequency = 123385000
+prefix = "EDSP"
+radio_callsign = "Poltringen Radio"
+station_type = "TWR"
+
+[EDSR_I_TWR]
+frequency = 127530000
+prefix = "EDSR"
+radio_callsign = "Stahringen Radio"
+station_type = "TWR"
+
+[EDST_I_TWR]
+frequency = 125615000
+prefix = "EDST"
+radio_callsign = "Hahnweide Info"
+station_type = "TWR"
+
+[EDSV_I_TWR]
+frequency = 119415000
+prefix = "EDSV"
+radio_callsign = "Waechtersberg Radio"
+station_type = "TWR"
+
+[EDSW_I_TWR]
+frequency = 127155000
+prefix = "EDSW"
+radio_callsign = "Altdorf Radio"
+station_type = "TWR"
+
+[EDSX_I_TWR]
+frequency = 119610000
+prefix = "EDSX"
+radio_callsign = "Lichtenberg Radio"
+station_type = "TWR"
+
+[EDSZ_I_TWR]
+frequency = 129505000
+prefix = "EDSZ"
+radio_callsign = "Rottweil Radio"
+station_type = "TWR"
+
+[EDTA_I_TWR]
+frequency = 118435000
+prefix = "EDTA"
+radio_callsign = "Bohlhof Radio"
+station_type = "TWR"
+
+[EDTB_I_TWR]
+frequency = 125915000
+prefix = "EDTB"
+radio_callsign = "Oos Radio"
+station_type = "TWR"
+
+[EDTC_I_TWR]
+frequency = 123990000
+prefix = "EDTC"
+radio_callsign = "Bruchsal Info"
+station_type = "TWR"
+
+[EDTD_I_TWR]
+frequency = 126690000
+prefix = "EDTD"
+radio_callsign = "Donaueschingen Info"
+station_type = "TWR"
+
+[EDTE_I_TWR]
+frequency = 133385000
+prefix = "EDTE"
+radio_callsign = "Eutingen Radio"
+station_type = "TWR"
+
+[EDTF_I_TWR]
+frequency = 118255000
+prefix = "EDTF"
+radio_callsign = "Freiburg Info"
+station_type = "TWR"
+
+[EDTG_I_TWR]
+frequency = 124030000
+prefix = "EDTG"
+radio_callsign = "Bremgarten Radio"
+station_type = "TWR"
+
+[EDTH_I_TWR]
+frequency = 134115000
+prefix = "EDTH"
+radio_callsign = "Heubach Info"
+station_type = "TWR"
+
+[EDTK_I_TWR]
+frequency = 119985000
+prefix = "EDTK"
+radio_callsign = "Sinsheim Radio"
+station_type = "TWR"
+
+[EDTM_I_TWR]
+frequency = 135180000
+prefix = "EDTM"
+radio_callsign = "Mengen Info"
+station_type = "TWR"
+
+[EDTN_I_TWR]
+frequency = 118330000
+prefix = "EDTN"
+radio_callsign = "Nabern Radio"
+station_type = "TWR"
+
+[EDTO_I_TWR]
+frequency = 132040000
+prefix = "EDTO"
+radio_callsign = "Offenburg Info"
+station_type = "TWR"
+
+[EDTP_I_TWR]
+frequency = 122435000
+prefix = "EDTP"
+radio_callsign = "Pfullendorf Radio"
+station_type = "TWR"
+
+[EDTQ_I_TWR]
+frequency = 124610000
+prefix = "EDTQ"
+radio_callsign = "Pattonville Info"
+station_type = "TWR"
+
+[EDTR_I_TWR]
+frequency = 134530000
+prefix = "EDTR"
+radio_callsign = "Rheinfelden Radio"
+station_type = "TWR"
+
+[EDTS_I_TWR]
+frequency = 127535000
+prefix = "EDTS"
+radio_callsign = "Schwenningen Info"
+station_type = "TWR"
+
+[EDTU_I_TWR]
+frequency = 123605000
+prefix = "EDTU"
+radio_callsign = "Saulgau Info"
+station_type = "TWR"
+
+[EDTW_I_TWR]
+frequency = 118390000
+prefix = "EDTW"
+radio_callsign = "Winzeln Info"
+station_type = "TWR"
+
+[EDTY_I_TWR]
+frequency = 129230000
+prefix = "EDTY"
+radio_callsign = "Schwaebisch Hall Information"
+station_type = "TWR"
+
+[EDTZ_I_TWR]
+frequency = 124355000
+prefix = "EDTZ"
+radio_callsign = "Konstanz Info"
+station_type = "TWR"
+
+
+[ETAD_APP]
+frequency = 129475000
+prefix = "ETAD"
+radio_callsign = "Spangdahlem GCA"
+station_type = "APP"
+
+[ETAD_DEL]
+frequency = 124280000
+prefix = "ETAD"
+radio_callsign = "Spangdahlem Clearance"
+station_type = "DEL"
+
+[ETAD_GND]
+frequency = 121865000
+prefix = "ETAD"
+radio_callsign = "Spangdahlem Ground"
+station_type = "GND"
+
+[ETAD_TWR]
+frequency = 122200000
+prefix = "ETAD"
+radio_callsign = "Spangdahlem Tower"
+station_type = "TWR"
+
+[ETAR_APP]
+frequency = 124280000
+prefix = "ETAR"
+radio_callsign = "Ramstein GCA"
+station_type = "APP"
+
+[ETAR_GND]
+frequency = 121775000
+prefix = "ETAR"
+radio_callsign = "Ramstein Ground"
+station_type = "GND"
+
+[ETAR_TWR]
+frequency = 133205000
+prefix = "ETAR"
+radio_callsign = "Ramstein Tower"
+station_type = "TWR"
+
+[ETHF_APP]
+frequency = 120865000
+prefix = "ETHF"
+radio_callsign = "Fritzlar Radar"
+station_type = "APP"
+
+[ETHF_GND]
+frequency = 131450000
+prefix = "ETHF"
+radio_callsign = "Fritzlar Ground"
+station_type = "GND"
+
+[ETHF_TWR]
+frequency = 128830000
+prefix = "ETHF"
+radio_callsign = "Fritzlar Tower"
+station_type = "TWR"
+
+[ETHN_APP]
+frequency = 127190000
+prefix = "ETHN"
+radio_callsign = "Stetten Radar"
+station_type = "APP"
+
+[ETIC_TWR]
+frequency = 122100000
+prefix = "ETIC"
+radio_callsign = "Grafenwoehr Tower"
+station_type = "TWR"
+
+[ETNG_APP]
+frequency = 123730000
+prefix = "ETNG"
+radio_callsign = "Frisbee Radar"
+station_type = "APP"
+
+[ETNG_TWR]
+frequency = 120055000
+prefix = "ETNG"
+radio_callsign = "Frisbee Tower"
+station_type = "TWR"
+
+[ETNN_APP]
+frequency = 129055000
+prefix = "ETNN"
+radio_callsign = "Noervenich Radar"
+station_type = "APP"
+
+[ETNN_TWR]
+frequency = 136205000
+prefix = "ETNN"
+radio_callsign = "Noervenich Tower"
+station_type = "TWR"
+
+[ETOU_GND]
+frequency = 126555000
+prefix = "ETOU"
+radio_callsign = "Wiesbaden Ground"
+station_type = "GND"
+
+[ETOU_TWR]
+frequency = 122100000
+prefix = "ETOU"
+radio_callsign = "Wiesbaden Tower"
+station_type = "TWR"
+
+[ETSB_APP]
+frequency = 130155000
+prefix = "ETSB"
+radio_callsign = "Buechel Radar"
+station_type = "APP"
+
+[ETSB_TWR]
+frequency = 131460000
+prefix = "ETSB"
+radio_callsign = "Büchel Tower"
+station_type = "TWR"

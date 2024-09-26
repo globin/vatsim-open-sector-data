@@ -1,0 +1,24 @@
+[LWOH_TWR]
+frequency=119200000
+prefix="LWOH"
+radio_callsign="Ohrid Tower"
+station_type="TWR"
+
+[LWSK_APP]
+frequency=120300000
+prefix="LWSK"
+radio_callsign="Skopje?Approach"
+station_type="APP"
+
+[LWSK_TWR]
+frequency=118500000
+prefix="LWSK"
+radio_callsign="Skopje Tower"
+station_type="TWR"
+
+[LWSS_CTR]
+frequency=119370000
+prefix="LWSS"
+radio_callsign="Skopje Center"
+station_type="CTR"
+

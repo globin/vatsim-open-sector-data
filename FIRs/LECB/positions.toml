@@ -1,0 +1,416 @@
+[LECB_CCC_CTR]
+frequency = 125730000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_CTR]
+frequency = 132355000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_DDI_CTR]
+frequency = 135355000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_LLI_CTR]
+frequency = 129530000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_MVS_CTR]
+frequency = 134985000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_PPI_CTR]
+frequency = 119655000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_RE_CTR]
+frequency = 133030000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_RN_CTR]
+frequency = 132580000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_RS_CTR]
+frequency = 126650000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_RW_CTR]
+frequency = 134455000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_VNI_CTR]
+frequency = 133080000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+[LECB_XAL_CTR]
+frequency = 135805000
+prefix = "LECB"
+radio_callsign = "Barcelona Control"
+station_type = "CTR"
+
+
+[LECL_CTR]
+frequency = 124750000
+prefix = "LECM"
+radio_callsign = "Valencia Approach"
+station_type = "CTR"
+
+
+[LECP_CTR]
+frequency = 121300000
+prefix = "LECM"
+radio_callsign = "Palma Control"
+station_type = "CTR"
+
+
+[LEAL_APP]
+frequency = 120400000
+prefix = "LEAL"
+radio_callsign = "Alicante Approach"
+station_type = "APP"
+
+[LEAL_DEL]
+frequency = 119855000
+prefix = "LEAL"
+radio_callsign = "Alicante Clearance"
+station_type = "DEL"
+
+[LEAL_DEP]
+frequency = 118800000
+prefix = "LEAL"
+radio_callsign = "Valencia Control"
+station_type = "DEP"
+
+[LEAL_GND]
+frequency = 130655000
+prefix = "LEAL"
+radio_callsign = "Alicante Ground"
+station_type = "GND"
+
+[LEAL_TWR]
+frequency = 118155000
+prefix = "LEAL"
+radio_callsign = "Alicante Tower"
+station_type = "TWR"
+
+
+[LEBL_2_APP]
+frequency = 121155000
+prefix = "LEBL"
+radio_callsign = "Barcelona Approach"
+station_type = "APP"
+
+[LEBL_3_APP]
+frequency = 126505000
+prefix = "LEBL"
+radio_callsign = "Barcelona Approach"
+station_type = "APP"
+
+[LEBL_4_APP]
+frequency = 127700000
+prefix = "LEBL"
+radio_callsign = "Barcelona Approach"
+station_type = "APP"
+
+[LEBL_APP]
+frequency = 131125000
+prefix = "LEBL"
+radio_callsign = "Barcelona Approach"
+station_type = "APP"
+
+[LEBL_C_GND]
+frequency = 121655000
+prefix = "LEBL"
+radio_callsign = "Barcelona Ground"
+station_type = "GND"
+
+[LEBL_DEL]
+frequency = 121805000
+prefix = "LEBL"
+radio_callsign = "Barcelona Clearence"
+station_type = "DEL"
+
+[LEBL_F_APP]
+frequency = 119105000
+prefix = "LEBL"
+radio_callsign = "Barcelona Approach"
+station_type = "APP"
+
+[LEBL_GND]
+frequency = 121705000
+prefix = "LEBL"
+radio_callsign = "Barcelona Ground"
+station_type = "GND"
+
+[LEBL_N_APP]
+frequency = 125250000
+prefix = "LEBL"
+radio_callsign = "Barcelona Approach"
+station_type = "APP"
+
+[LEBL_S_GND]
+frequency = 122230000
+prefix = "LEBL"
+radio_callsign = "Barcelona Ground"
+station_type = "GND"
+
+[LEBL_S_TWR]
+frequency = 118330000
+prefix = "LEBL"
+radio_callsign = "Barcelona Tower"
+station_type = "TWR"
+
+[LEBL_TWR]
+frequency = 118105000
+prefix = "LEBL"
+radio_callsign = "Barcelona Tower"
+station_type = "TWR"
+
+
+[LEIB_APP]
+frequency = 134825000
+prefix = "LEIB"
+radio_callsign = "Palma Control"
+station_type = "APP"
+
+[LEIB_DEL]
+frequency = 121380000
+prefix = "LEIB"
+radio_callsign = "Ibiza Clearance"
+station_type = "DEL"
+
+[LEIB_GND]
+frequency = 121930000
+prefix = "LEIB"
+radio_callsign = "Ibiza Ground"
+station_type = "GND"
+
+[LEIB_IXN_APP]
+frequency = 123100000
+prefix = "LEIB"
+radio_callsign = "Palma Control"
+station_type = "APP"
+
+[LEIB_IXX_APP]
+frequency = 118125000
+prefix = "LEIB"
+radio_callsign = "Palma Control"
+station_type = "APP"
+
+[LEIB_TWR]
+frequency = 118505000
+prefix = "LEIB"
+radio_callsign = "Ibiza Tower"
+station_type = "TWR"
+
+
+[LELC_APP]
+frequency = 130300000
+prefix = "LELC"
+radio_callsign = "San Javier Approach"
+station_type = "APP"
+
+[LELC_GND]
+frequency = 121600000
+prefix = "LELC"
+radio_callsign = "San Javier Ground"
+station_type = "GND"
+
+[LELC_TWR]
+frequency = 124425000
+prefix = "LELC"
+radio_callsign = "San Javier Tower"
+station_type = "TWR"
+
+
+[LEPA_APP]
+frequency = 119405000
+prefix = "LEPA"
+radio_callsign = "Palma Approach"
+station_type = "APP"
+
+[LEPA_D_TWR]
+frequency = 118455000
+prefix = "LEPA"
+radio_callsign = "Palma Tower"
+station_type = "TWR"
+
+[LEPA_DEL]
+frequency = 123880000
+prefix = "LEPA"
+radio_callsign = "Palma Clearance"
+station_type = "DEL"
+
+[LEPA_DEP]
+frequency = 118005000
+prefix = "LEPA"
+radio_callsign = "Palma Control"
+station_type = "DEP"
+
+[LEPA_F_APP]
+frequency = 118955000
+prefix = "LEPA"
+radio_callsign = "Palma Approach"
+station_type = "APP"
+
+[LEPA_GND]
+frequency = 121705000
+prefix = "LEPA"
+radio_callsign = "Palma Ground"
+station_type = "GND"
+
+[LEPA_L2_APP]
+frequency = 119155000
+prefix = "LEPA"
+radio_callsign = "Palma Approach"
+station_type = "APP"
+
+[LEPA_N_GND]
+frequency = 121905000
+prefix = "LEPA"
+radio_callsign = "Palma Ground"
+station_type = "GND"
+
+[LEPA_TWR]
+frequency = 118305000
+prefix = "LEPA"
+radio_callsign = "Palma Tower"
+station_type = "TWR"
+
+
+[LEVC_APP]
+frequency = 120100000
+prefix = "LEVC"
+radio_callsign = "Valencia Approach"
+station_type = "APP"
+
+[LEVC_DEL]
+frequency = 123580000
+prefix = "LEVC"
+radio_callsign = "Valencia Clearance"
+station_type = "DEL"
+
+[LEVC_GND]
+frequency = 121880000
+prefix = "LEVC"
+radio_callsign = "Valencia Ground"
+station_type = "GND"
+
+[LEVC_TWR]
+frequency = 118555000
+prefix = "LEVC"
+radio_callsign = "Valencia Tower"
+station_type = "TWR"
+
+
+[LEBT_H_TWR]
+frequency = 126750000
+prefix = "LEBT"
+radio_callsign = "Betera Heliport"
+station_type = "TWR"
+
+[LEDA_GND]
+frequency = 121625000
+prefix = "LEDA"
+radio_callsign = "Lleida Ground"
+station_type = "GND"
+
+[LEDA_TWR]
+frequency = 121325000
+prefix = "LEDA"
+radio_callsign = "Lleida Tower"
+station_type = "TWR"
+
+[LEGE_GND]
+frequency = 121705000
+prefix = "LEGE"
+radio_callsign = "Girona Ground"
+station_type = "GND"
+
+[LEGE_TWR]
+frequency = 118505000
+prefix = "LEGE"
+radio_callsign = "Girona Tower"
+station_type = "TWR"
+
+[LELL_GND]
+frequency = 121605000
+prefix = "LELL"
+radio_callsign = "Sabadell Ground"
+station_type = "GND"
+
+[LELL_TWR]
+frequency = 120805000
+prefix = "LELL"
+radio_callsign = "Sabadell Tower"
+station_type = "TWR"
+
+[LELN_APP]
+frequency = 121275000
+prefix = "LELN"
+radio_callsign = "Leon Approach"
+station_type = "APP"
+
+[LEMH_GND]
+frequency = 121755000
+prefix = "LEMH"
+radio_callsign = "Menorca Ground"
+station_type = "GND"
+
+[LEMH_MXX_APP]
+frequency = 120700000
+prefix = "LEMH"
+radio_callsign = "Palma Control"
+station_type = "APP"
+
+[LEMH_TWR]
+frequency = 118205000
+prefix = "LEMH"
+radio_callsign = "Menorca Tower"
+station_type = "TWR"
+
+[LEMI_TWR]
+frequency = 121330000
+prefix = "LEMI"
+radio_callsign = "Murcia Tower"
+station_type = "TWR"
+
+[LERI_TWR]
+frequency = 118100000
+prefix = "LERI"
+radio_callsign = "Alcantarilla Tower"
+station_type = "TWR"
+
+[LERS_TWR]
+frequency = 128875000
+prefix = "LERS"
+radio_callsign = "Reus Tower"
+station_type = "TWR"
+
+[LESU_I_TWR]
+frequency = 122205000
+prefix = "LESU"
+radio_callsign = "La Seu Information"
+station_type = "TWR"

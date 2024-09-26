@@ -1,0 +1,164 @@
+[GCCC_R6_CTR]
+frequency = 123650000
+prefix = "GCCC"
+radio_callsign = "Canarias Control"
+station_type = "CTR"
+
+[GCCC_RES_CTR]
+frequency = 129100000
+prefix = "GCCC"
+radio_callsign = "Canarias Control"
+station_type = "CTR"
+
+[GCCC_RW3_CTR]
+frequency = 126500000
+prefix = "GCCC"
+radio_callsign = "Canarias Control"
+station_type = "CTR"
+
+
+[GCCO_CTR]
+frequency = 130950000
+prefix = "GCCO"
+radio_callsign = "Canarias Radio"
+station_type = "CTR"
+
+
+[GCCA_AAC_APP]
+frequency = 129300000
+prefix = "GCCA"
+radio_callsign = "Canarias Approach"
+station_type = "APP"
+
+[GCCA_INB_APP]
+frequency = 126100000
+prefix = "GCCC"
+radio_callsign = "Canarias Approach"
+station_type = "APP"
+
+[GCLP_F_APP]
+frequency = 121300000
+prefix = "GCLP"
+radio_callsign = "Gran Canaria Approach"
+station_type = "APP"
+
+[GCLP_GCA_APP]
+frequency = 124300000
+prefix = "GCLP"
+radio_callsign = "Gran Canaria Approach"
+station_type = "APP"
+
+[GCXO_APP]
+frequency = 124800000
+prefix = "GCXD"
+radio_callsign = "Tenerife Norte Approach"
+station_type = "APP"
+
+[GCTS_APP]
+frequency = 127700000
+prefix = "GCTS"
+radio_callsign = "Tenerife Sur Approach"
+station_type = "APP"
+
+
+[GCFV_GND]
+frequency = 121700000
+prefix = "GCFV"
+radio_callsign = "Fuerteventura Ground"
+station_type = "GND"
+
+[GCFV_TWR]
+frequency = 118475000
+prefix = "GCFV"
+radio_callsign = "Fuerteventura Tower"
+station_type = "TWR"
+
+[GCGM_I_TWR]
+frequency = 118375000
+prefix = "GCGM"
+radio_callsign = "La Gomera Information"
+station_type = "TWR"
+
+[GCHI_TWR]
+frequency = 118100000
+prefix = "GCHI"
+radio_callsign = "Hierro Tower"
+station_type = "TWR"
+
+[GCLA_GND]
+frequency = 121800000
+prefix = "GCLA"
+radio_callsign = "La Palma Ground"
+station_type = "GND"
+
+[GCLA_TWR]
+frequency = 118900000
+prefix = "GCLA"
+radio_callsign = "La Palma Tower"
+station_type = "TWR"
+
+[GCLP_DEL]
+frequency = 125000000
+prefix = "GCLP"
+radio_callsign = "Gran Canaria Clearance"
+station_type = "DEL"
+
+[GCLP_GND]
+frequency = 121700000
+prefix = "GCLP"
+radio_callsign = "Gran Canaria Ground"
+station_type = "GND"
+
+[GCLP_TWR]
+frequency = 118300000
+prefix = "GCLP"
+radio_callsign = "Gran Canaria Tower"
+station_type = "TWR"
+
+[GCRR_GND]
+frequency = 121800000
+prefix = "GCRR"
+radio_callsign = "Lanzarote Ground"
+station_type = "GND"
+
+[GCRR_TWR]
+frequency = 120700000
+prefix = "GCRR"
+radio_callsign = "Lanzarote Tower"
+station_type = "TWR"
+
+[GCTS_DEL]
+frequency = 121750000
+prefix = "GCTS"
+radio_callsign = "Tenerife Sur Clearance"
+station_type = "DEL"
+
+[GCTS_GND]
+frequency = 121900000
+prefix = "GCTS"
+radio_callsign = "Tenerife Sur Ground"
+station_type = "GND"
+
+[GCTS_TWR]
+frequency = 119000000
+prefix = "GCTS"
+radio_callsign = "Tenerife Sur Tower"
+station_type = "TWR"
+
+[GCXO_DEL]
+frequency = 121850000
+prefix = "GCXO"
+radio_callsign = "Tenerife Norte Clearence"
+station_type = "DEL"
+
+[GCXO_GND]
+frequency = 121700000
+prefix = "GCXD"
+radio_callsign = "Tenerife Norte Ground"
+station_type = "GND"
+
+[GCXO_TWR]
+frequency = 118700000
+prefix = "GCXD"
+radio_callsign = "Tenerife Norte Tower"
+station_type = "TWR"

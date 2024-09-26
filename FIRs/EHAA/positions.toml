@@ -1,0 +1,372 @@
+[EHAA_E_CTR]
+frequency=124880000
+prefix="EHAA"
+radio_callsign="Amsterdam Radar (east)"
+station_type="CTR"
+
+[EHAA_H_CTR]
+frequency=118805000
+prefix="EHAA"
+radio_callsign="Amsterdam Radar (stack control)"
+station_type="CTR"
+
+[EHAA_I_CTR]
+frequency=124300000
+prefix="EHAA"
+radio_callsign="Amsterdam Information"
+station_type="CTR"
+
+[EHAA_S_CTR]
+frequency=123850000
+prefix="EHAA"
+radio_callsign="Amsterdam Radar (south)"
+station_type="CTR"
+
+[EHAA_W_CTR]
+frequency=125750000
+prefix="EHAA"
+radio_callsign="Amsterdam Radar (main)"
+station_type="CTR"
+
+[EHAL_TWR]
+frequency=118355000
+prefix="EHAL"
+radio_callsign="Ameland Radio"
+station_type="TWR"
+
+[EHAM_A_APP]
+frequency=118405000
+prefix="EHAM"
+radio_callsign="Schiphol Arrival (main)"
+station_type="APP"
+
+[EHAM_B_APP]
+frequency=131155000
+prefix="EHAM"
+radio_callsign="Schiphol Arrival (backup)"
+station_type="APP"
+
+[EHAM_B_DEL]
+frequency=121590000
+prefix="EHAM"
+radio_callsign="Schiphol Planner (backup)"
+station_type="DEL"
+
+[EHAM_C_GND]
+frequency=121905000
+prefix="EHAM"
+radio_callsign="Schiphol Ground (centre)"
+station_type="GND"
+
+[EHAM_DEL]
+frequency=121980000
+prefix="EHAM"
+radio_callsign="Schiphol Delivery"
+station_type="DEL"
+
+[EHAM_E_APP]
+frequency=119055000
+prefix="EHAM"
+radio_callsign="Schiphol Approach (east)"
+station_type="APP"
+
+[EHAM_M_TWR]
+frequency=119230000
+prefix="EHAM"
+radio_callsign="Schiphol Tower (main)"
+station_type="TWR"
+
+[EHAM_N_GND]
+frequency=121805000
+prefix="EHAM"
+radio_callsign="Schiphol Ground (north)"
+station_type="GND"
+
+[EHAM_P_DEL]
+frequency=121655000
+prefix="EHAM"
+radio_callsign="Schiphol Planner (main)"
+station_type="DEL"
+
+[EHAM_P_TWR]
+frequency=118280000
+prefix="EHAM"
+radio_callsign="Schiphol Tower (west)"
+station_type="TWR"
+
+[EHAM_S_APP]
+frequency=126680000
+prefix="EHAM"
+radio_callsign="Schiphol Arrival (secondary)"
+station_type="APP"
+
+[EHAM_S_GND]
+frequency=121705000
+prefix="EHAM"
+radio_callsign="Schiphol Ground (south)"
+station_type="GND"
+
+[EHAM_S_TWR]
+frequency=118105000
+prefix="EHAM"
+radio_callsign="Schiphol Tower (secondary)"
+station_type="TWR"
+
+[EHAM_W_APP]
+frequency=121205000
+prefix="EHAM"
+radio_callsign="Schiphol Approach (main)"
+station_type="APP"
+
+[EHAM_W_GND]
+frequency=121560000
+prefix="EHAM"
+radio_callsign="Schiphol Ground (west)"
+station_type="GND"
+
+[EHBD_TWR]
+frequency=122155000
+prefix="EHBD"
+radio_callsign="Budel Radio"
+station_type="TWR"
+
+[EHBK_APP]
+frequency=123980000
+prefix="EHBK"
+radio_callsign="Beek Approach"
+station_type="APP"
+
+[EHBK_DEL]
+frequency=121830000
+prefix="EHBK"
+radio_callsign="Beek Delivery"
+station_type="DEL"
+
+[EHBK_TWR]
+frequency=119480000
+prefix="EHBK"
+radio_callsign="Beek Tower"
+station_type="TWR"
+
+[EHDL_TWR]
+frequency=129930000
+prefix="EHDL"
+radio_callsign="Deelen Tower"
+station_type="TWR"
+
+[EHDR_TWR]
+frequency=119655000
+prefix="EHDR"
+radio_callsign="Drachten Radio"
+station_type="TWR"
+
+[EHEH_APP]
+frequency=124530000
+prefix="EHEH"
+radio_callsign="Eindhoven Arrival"
+station_type="APP"
+
+[EHEH_GND]
+frequency=121930000
+prefix="EHEH"
+radio_callsign="Eindhoven Ground"
+station_type="GND"
+
+[EHEH_TWR]
+frequency=131005000
+prefix="EHEH"
+radio_callsign="Eindhoven Tower"
+station_type="TWR"
+
+[EHGG_APP]
+frequency=120305000
+prefix="EHGG"
+radio_callsign="Eelde Approach"
+station_type="APP"
+
+[EHGG_DEL]
+frequency=121705000
+prefix="EHGG"
+radio_callsign="Eelde Delivery"
+station_type="DEL"
+
+[EHGG_TWR]
+frequency=118705000
+prefix="EHGG"
+radio_callsign="Eelde Tower"
+station_type="TWR"
+
+[EHGR_APP]
+frequency=123580000
+prefix="EHGR"
+radio_callsign="RAPCON West"
+station_type="APP"
+
+[EHGR_TWR]
+frequency=125330000
+prefix="EHGR"
+radio_callsign="Gilze Rije Tower"
+station_type="TWR"
+
+[EHHO_TWR]
+frequency=127355000
+prefix="EHHO"
+radio_callsign="Hoogeveen Radio"
+station_type="TWR"
+
+[EHHV_TWR]
+frequency=131030000
+prefix="EHHV"
+radio_callsign="Hilversum Radio"
+station_type="TWR"
+
+[EHKD_APP]
+frequency=124230000
+prefix="EHKD"
+radio_callsign="De Kooy Arrival"
+station_type="APP"
+
+[EHKD_TWR]
+frequency=120130000
+prefix="EHKD"
+radio_callsign="De Kooy Tower"
+station_type="TWR"
+
+[EHLE_APP]
+frequency=134530000
+prefix="EHLE"
+radio_callsign="Lelystad Arrival"
+station_type="APP"
+
+[EHLE_DEL]
+frequency=123680000
+prefix="EHLE"
+radio_callsign="Lelystad Delivery"
+station_type="DEL"
+
+[EHLE_TWR]
+frequency=135180000
+prefix="EHLE"
+radio_callsign="Lelystad Tower"
+station_type="TWR"
+
+[EHLW_APP]
+frequency=132030000
+prefix="EHLW"
+radio_callsign="RAPCON North"
+station_type="APP"
+
+[EHLW_TWR]
+frequency=120705000
+prefix="EHLW"
+radio_callsign="Leeuwarden Tower"
+station_type="TWR"
+
+[EHMC_CTR]
+frequency=128355000
+prefix="EHMC"
+radio_callsign="Dutch Mil Radar"
+station_type="CTR"
+
+[EHML_P_CTR]
+frequency=126265000
+prefix="EHAA"
+radio_callsign="Bandbox Primary"
+station_type="CTR"
+
+[EHML_S_CTR]
+frequency=124485000
+prefix="EHML"
+radio_callsign="Bandbox Secondary"
+station_type="CTR"
+
+[EHMZ_TWR]
+frequency=119255000
+prefix="EHMZ"
+radio_callsign="Midden-Zeeland Radio"
+station_type="TWR"
+
+[EHOW_TWR]
+frequency=118330000
+prefix="EHOW"
+radio_callsign="Oostwold Radio"
+station_type="TWR"
+
+[EHRD_APP]
+frequency=122990000
+prefix="EHRD"
+radio_callsign="Rotterdam Approach"
+station_type="APP"
+
+[EHRD_DEL]
+frequency=122180000
+prefix="EHRD"
+radio_callsign="Rotterdam Delivery"
+station_type="DEL"
+
+[EHRD_TWR]
+frequency=118205000
+prefix="EHRD"
+radio_callsign="Rotterdam Tower"
+station_type="TWR"
+
+[EHSE_TWR]
+frequency=120655000
+prefix="EHSE"
+radio_callsign="Seppe Radio"
+station_type="TWR"
+
+[EHST_TWR]
+frequency=128960000
+prefix="EHST"
+radio_callsign="Stadskanaal Radio"
+station_type="TWR"
+
+[EHTE_TWR]
+frequency=121005000
+prefix="EHTE"
+radio_callsign="Teuge Radio"
+station_type="TWR"
+
+[EHTL_TWR]
+frequency=130130000
+prefix="EHTL"
+radio_callsign="Terlet Radio"
+station_type="TWR"
+
+[EHTW_TWR]
+frequency=119955000
+prefix="EHTW"
+radio_callsign="Twente Radio"
+station_type="TWR"
+
+[EHTX_TWR]
+frequency=119305000
+prefix="EHTX"
+radio_callsign="Texel Radio"
+station_type="TWR"
+
+[EHVK_APP]
+frequency=123180000
+prefix="EHVK"
+radio_callsign="RAPCON South"
+station_type="APP"
+
+[EHVK_TWR]
+frequency=136080000
+prefix="EHVK"
+radio_callsign="Volkel Tower"
+station_type="TWR"
+
+[EHVL_TWR]
+frequency=129165000
+prefix="EHVL"
+radio_callsign="Cornfield"
+station_type="TWR"
+
+[EHWO_TWR]
+frequency=120430000
+prefix="EHWO"
+radio_callsign="Woensdrecht Tower"
+station_type="TWR"
+

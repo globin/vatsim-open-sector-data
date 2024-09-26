@@ -1,0 +1,113 @@
+[LFEE_CTR]
+frequency = 128305000
+prefix = "LFEE"
+radio_callsign = "Reims Control"
+station_type = "CTR"
+
+[LFEE_N_CTR]
+frequency = 127555000
+prefix = "LFEE"
+radio_callsign = "Reims Control"
+station_type = "CTR"
+
+[LFEE_S_CTR]
+frequency = 135105000
+prefix = "LFEE"
+radio_callsign = "Reims Control"
+station_type = "CTR"
+
+[LFGA_TWR]
+frequency = 119000000
+prefix = "LFGA"
+radio_callsign = "Houssen Tower"
+station_type = "TWR"
+
+[LFGJ_TWR]
+frequency = 130775000
+prefix = "LFGJ"
+radio_callsign = "Dole Tower"
+station_type = "TWR"
+
+[LFJL_APP]
+frequency = 119125000
+prefix = "LFJL"
+radio_callsign = "Lorraine Approach"
+station_type = "APP"
+
+[LFJL_GND]
+frequency = 121705000
+prefix = "LFJL"
+radio_callsign = "Lorraine Ground"
+station_type = "GND"
+
+[LFJL_TWR]
+frequency = 122075000
+prefix = "LFJL"
+radio_callsign = "Lorraine Tower"
+station_type = "TWR"
+
+[LFSB_APP]
+frequency = 119355000
+prefix = "LFSB"
+radio_callsign = "Bale-Mulhouse Arrival"
+station_type = "APP"
+
+[LFSB_C_APP]
+frequency = 135850000
+prefix = "LFSB"
+radio_callsign = "Bale Control"
+station_type = "APP"
+
+[LFSB_DEL]
+frequency = 121955000
+prefix = "LFSB"
+radio_callsign = "Bale-Mulhouse Delivery"
+station_type = "DEL"
+
+[LFSB_GND]
+frequency = 121605000
+prefix = "LFSB"
+radio_callsign = "Bale-Mulhouse Ground"
+station_type = "GND"
+
+[LFSB_TWR]
+frequency = 118300000
+prefix = "LFSB"
+radio_callsign = "Bale-Mulhouse Tower"
+station_type = "TWR"
+
+[LFSI_TWR]
+frequency = 134775000
+prefix = "LFSI"
+radio_callsign = "Saint Dizier Tower"
+station_type = "TWR"
+
+[LFSO_TWR]
+frequency = 122100000
+prefix = "LFSO"
+radio_callsign = "Nancy Tower"
+station_type = "TWR"
+
+[LFST_APP]
+frequency = 120700000
+prefix = "LFST"
+radio_callsign = "Strasbourg Approach"
+station_type = "APP"
+
+[LFST_GND]
+frequency = 121805000
+prefix = "LFST"
+radio_callsign = "Strasbourg Ground"
+station_type = "GND"
+
+[LFST_TWR]
+frequency = 119250000
+prefix = "LFST"
+radio_callsign = "Strasbourg Tower"
+station_type = "TWR"
+
+[LFSX_TWR]
+frequency = 122100000
+prefix = "LFSX"
+radio_callsign = "Luxeuil ower"
+station_type = "TWR"

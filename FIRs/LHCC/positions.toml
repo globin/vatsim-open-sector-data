@@ -1,0 +1,144 @@
+[LHBP_APP]
+frequency=122975000
+prefix="LHBP"
+radio_callsign="Budapest Approach"
+station_type="APP"
+
+[LHBP_D_APP]
+frequency=119510000
+prefix="LHBP"
+radio_callsign="Budapest Approach (Director)"
+station_type="APP"
+
+[LHBP_DEL]
+frequency=134540000
+prefix="LHBP"
+radio_callsign="Budapest Delivery"
+station_type="DEL"
+
+[LHBP_GND]
+frequency=121910000
+prefix="LHBP"
+radio_callsign="Budapest Ground"
+station_type="GND"
+
+[LHBP_TWR]
+frequency=118100000
+prefix="LHBP"
+radio_callsign="Budapest Tower"
+station_type="TWR"
+
+[LHBP_U_APP]
+frequency=123860000
+prefix="LHBP"
+radio_callsign="Budapest Approach (Upper)"
+station_type="APP"
+
+[LHBS_I_TWR]
+frequency=124510000
+prefix="LHBS"
+radio_callsign="Budaors Info"
+station_type="TWR"
+
+[LHCC_1_CTR]
+frequency=132790000
+prefix="LHCC"
+radio_callsign="Budapest Radar (East Top)"
+station_type="CTR"
+
+[LHCC_2_CTR]
+frequency=135205000
+prefix="LHCC"
+radio_callsign="Budapest Radar (West Top)"
+station_type="CTR"
+
+[LHCC_CTR]
+frequency=120375000
+prefix="LHCC"
+radio_callsign="Budapest Center (main frequency)"
+station_type="CTR"
+
+[LHCC_I_CTR]
+frequency=119350000
+prefix="LHBP"
+radio_callsign="Budapest Information (FIC)"
+station_type="CTR"
+
+[LHCC_K_CTR]
+frequency=127860000
+prefix="LHBP"
+radio_callsign="Budapest Radar (East upper)"
+station_type="CTR"
+
+[LHCC_N_CTR]
+frequency=135555000
+prefix="LHCC"
+radio_callsign="Budapest Radar (North)"
+station_type="CTR"
+
+[LHCC_Q_CTR]
+frequency=125500000
+prefix="LHCC"
+radio_callsign="West Information (FIC)"
+station_type="CTR"
+
+[LHCC_U_CTR]
+frequency=133535000
+prefix="LHCC"
+radio_callsign="Budapest Radar (West Upper)"
+station_type="CTR"
+
+[LHCC_W_CTR]
+frequency=133200000
+prefix="LHCC"
+radio_callsign="Budapest Radar (West upper)"
+station_type="CTR"
+
+[LHCC_Z_CTR]
+frequency=133000000
+prefix="LHCC"
+radio_callsign="East Information (FIC)"
+station_type="CTR"
+
+[LHDC_I_TWR]
+frequency=125910000
+prefix="LHDC"
+radio_callsign="Debrecen Info"
+station_type="TWR"
+
+[LHDK_I_TWR]
+frequency=129790000
+prefix="LHDK"
+radio_callsign="Dunakeszi Info"
+station_type="TWR"
+
+[LHGD_I_TWR]
+frequency=119060000
+prefix="LHGD"
+radio_callsign="Godollo Info"
+station_type="TWR"
+
+[LHPP_I_TWR]
+frequency=126915000
+prefix="LHPP"
+radio_callsign="Pécs Info"
+station_type="TWR"
+
+[LHPR_I_TWR]
+frequency=129910000
+prefix="LHPR"
+radio_callsign="Pér Info"
+station_type="TWR"
+
+[LHSM_I_TWR]
+frequency=134585000
+prefix="LHSM"
+radio_callsign="Balaton Info"
+station_type="TWR"
+
+[LHTL_I_TWR]
+frequency=127560000
+prefix="LHTL"
+radio_callsign="Tokol Info"
+station_type="TWR"
+

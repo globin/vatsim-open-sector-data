@@ -1,0 +1,107 @@
+[YYD]
+frequency = 135960000
+prefix = "EDYY"
+name = "Delta"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[KOK]
+frequency = 132205000
+prefix = "EDYY"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[LUX]
+frequency = 133355000
+prefix = "EDYY"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[LUXH]
+frequency = 132315000
+prefix = "EDYY"
+name = "LUX High"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[NIK]
+frequency = 135980000
+prefix = "EDYY"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[NIKH]
+frequency = 132755000
+prefix = "EDYY"
+name = "NIK High"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[LNO]
+frequency = 132855000
+prefix = "EDYY"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[CEL]
+frequency = 133955000
+prefix = "EDYY"
+name = "Celle"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[CELH]
+frequency = 128810000
+prefix = "EDYY"
+name = "Celle High"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[HOL]
+frequency = 120860000
+prefix = "EDYY"
+name = "Holstein"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[JEV]
+frequency = 136465000
+prefix = "EDYY"
+name = "Jever"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[JEVH]
+frequency = 129735000
+prefix = "EDYY"
+name = "Jever High"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[MNS]
+frequency = 122185000
+prefix = "EDYY"
+name = "Münster"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[RHR]
+frequency = 124435000
+prefix = "EDYY"
+name = "Ruhr"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[SOL]
+frequency = 134710000
+prefix = "EDYY"
+name = "Solling"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
+
+[SOLH]
+frequency = 131380000
+prefix = "EDYY"
+name = "Solling High"
+radio_callsign = "Maastricht Radar"
+station_type = "CTR"
